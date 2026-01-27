@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code / OS noise
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Optional: local outputs (uncomment if you don't want to commit generated files)
+# itemInfo_true.generated.lua
+# itemInfo_true.strings.txt
