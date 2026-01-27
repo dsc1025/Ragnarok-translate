@@ -12,40 +12,40 @@ popuptbl = {
 		uitype = SPUI_IDS.SPU_CHAT,
 		textcolor = 16763904,
 		Description = {
-			"跋続ノ霉吹ńㄈю驹盡ノPVP砏玥",
-			"场だм籔笵ㄣ盢穦秸俱┪ㄤ\籔ㄏノ"
+			"此地区适用希罗斯里亚攻城战专用PVP规则。",
+			"部分技能与道具的能力将会调整，或限制其功\能与使用。"
 		}
 	},
 	[2] = {
 		uitype = SPUI_IDS.SPU_FLOATING_CHAT,
 		textcolor = 16763904,
 		Description = {
-			"跋続ノ霉吹ńㄈю驹盡ノPVP砏玥",
-			"场だм籔笵ㄣ盢穦秸俱┪ㄤ\籔ㄏノ"
+			"此地区适用希罗斯里亚攻城战专用PVP规则。",
+			"部分技能与道具的能力将会调整，或限制其功\能与使用。"
 		}
 	},
 	[7] = {
 		uitype = SPUI_IDS.SPU_FLOATING_CHAT,
 		textcolor = 16763904,
 		Description = {
-			"秈ネ伴瞏糷",
-			"窽ゎㄏノ俐丁簿笆╰мの笵ㄣ",
-			"窽ゎㄏノ场だ簿笆闽м"
+			"已进入生物圈深层。",
+			"禁止使用瞬间移动系技能及道具。",
+			"禁止使用一部分移动相关技能。"
 		}
 	},
 	[8] = {
 		uitype = SPUI_IDS.SPU_FLOATING_CHAT,
 		textcolor = 16763904,
 		Description = {
-			"秈砆框а丁跋办",
-			"窽ゎㄏノ俐丁簿笆╰м笵ㄣ",
-			"窽ゎ场だ簿笆闽м"
+			"已进入被遗忘的时间区域。",
+			"禁止使用瞬间移动系列技能、道具。",
+			"禁止部分移动相关技能。"
 		}
 	},
 	[9] = {
 		uitype = SPUI_IDS.SPU_FLOATING_CHAT,
 		textcolor = 16763904,
-		Description = { "秈ネ伴瞏糷瞏瞁", "窽ゎㄏノ俐丁簿笆╰м┪笵ㄣ" }
+		Description = { "已进入生物圈深层深渊。", "禁止使用瞬间移动系列技能或道具。" }
 	}
 }
 
