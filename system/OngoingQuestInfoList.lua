@@ -1222,12 +1222,12 @@ QuestInfoList = {
 		Summary = "收集指定物品后交给甘纳许"
 	},
 	[1336] = {
-		Title = ""偷偷填满的糖果篮子",
-		Description = { "为了避免被甘纳许\的儿子发现，早上4点过后再去帮忙吧!" },
+		Title = "偷偷填满的糖果篮子",
+		Description = { "为了避免被甘纳许的儿子发现，早上4点过后再去帮忙吧!" },
 		Summary = "早上4点过后再去找甘纳许"
 	},
 	[1337] = {
-		Title = ""好运糖果",
+		Title = "好运糖果",
 		Description = { "收集红色吉祥糖果1个、幸运的拐杖糖1个、幸运的姜饼1个后交给福图娜吧! " },
 		Summary = "收集指定物品后交给福图娜"
 	},
@@ -3293,13 +3293,12 @@ QuestInfoList = {
 	[3107] = {
 		Title = "偿还巨额债务 - 修理魔力优雅加热器成功",
 		Description = {
-			"{
 			"修理似乎顺利完成了。向<NAVI>[杜立安]<INFO>izlude_in,57,92,0,101,1</INFO></NAVI>报告吧。"
 		},
 		Summary = "向杜立安告知修理成功"
 	},
 	[3108] = {
-		Title = ""偿还巨额债务 – 用看看魔力优雅加热器吧",
+		Title = "偿还巨额债务 – 用看看魔力优雅加热器吧",
 		Description = {
 			"使用<NAVI>[魔力优雅加热器]<INFO>izlude_in,57,89,0,101,1</INFO></NAVI>将穆夫的借据复原吧。"
 		},
@@ -3308,7 +3307,6 @@ QuestInfoList = {
 	[3109] = {
 		Title = "偿还巨额债务 - 借据复原成功",
 		Description = {
-			"{
 			"借据完全复原了。回到克魔岛告诉<NAVI>[穆夫]<INFO>comodo,224,187,0,101,1</INFO></NAVI>吧。"
 		},
 		Summary = "将借据交给穆夫"
@@ -4941,7 +4939,7 @@ QuestInfoList = {
 	},
 	[5074] = {
 		Title = "猫咪用餐",
-		Description = { "{ "输掉练习赛后收到一张委托纸条，上面写著'^0000FF美味的剑鱼30、鱼尾10^000000'。" },
+		Description = { "输掉练习赛后收到一张委托纸条，上面写著'^0000FF美味的剑鱼30、鱼尾10^000000'。" },
 		Summary = "完成委托的任务后请向队长猫咪回报。"
 	},
 	[5075] = {
@@ -6728,7 +6726,7 @@ QuestInfoList = {
 	},
 	[7005] = {
 		Title = "舞娘转职!终于走到舞台了!",
-		Description = { { "終于是實戰了!要在規定的時間內用指定的舞步跳出舞來，很緊張但一定要成功\" },
+		Description = { "終于是實戰了!要在規定的時間內用指定的舞步跳出舞來，很緊張但一定要成功" },
 		Summary = "尽情得跳舞跳舞!"
 	},
 	[7006] = {
@@ -13511,7 +13509,7 @@ QuestInfoList = {
 	},
 	[8304] = {
 		Title = "在拉赫住著我的老么",
-		Description = { "{ "李立宇委托的冷藏宅配箱收件人写的是'拉赫-李律和伊雷德'。" },
+		Description = { "李立宇委托的冷藏宅配箱收件人写的是'拉赫-李律和伊雷德'。" },
 		Summary = "送冷藏宅配箱"
 	},
 	[8305] = {
@@ -17326,7 +17324,7 @@ QuestInfoList = {
 		Summary = "寻找老么"
 	},
 	[11260] = {
-		Title = ""母亲的心愿",
+		Title = "母亲的心愿",
 		Description = { "见到了四个孩子后回去告诉老母吧!" },
 		Summary = "回去找母亲"
 	},
@@ -20746,7 +20744,6 @@ QuestInfoList = {
 	[12311] = {
 		Title = "消灭鬼水手骷髅",
 		Description = {
-			"{
 			"哈米德好像要修理艾尔贝塔附近的沉之船后拿来用，为了修理船，去消灭那里的鬼水手骷髅\10只后再回来!"
 		},
 		Summary = "鬼水手骷髅\10只"
@@ -26133,7 +26130,6 @@ QuestInfoList = {
 	[16241] = {
 		Title = "为猎人准备的晚餐",
 		Description = {
-			"{
 			"<NAVI>[炼金术师]<INFO>prt_fild01.gat,87,198,0,101,0</INFO></NAVI>给了6小时内可提升番薯和肉效果的秘药，一天限免费送一次。"
 		},
 		Summary = "凌晨四点重置"
@@ -32059,8 +32055,8 @@ QuestInfoList = {
 		Description = { "现在不会出现，过一天后再来吧!" },
 		Summary = "宝箱巨鳄隐身中"
 	},
-	[4266] = { Title = "技能重置成功\", Description = { "{ "" }, Summary = "" },
-	[4267] = { Title = "素质重置成功\", Description = { "{ "" }, Summary = "" },
+	[4266] = { Title = "技能重置成功", Description = { "" }, Summary = "" },
+	[4267] = { Title = "素质重置成功", Description = { "" }, Summary = "" },
 	[9155] = {
 		Title = "寻找制作贾提王冠的材料",
 		Description = {
@@ -32143,8 +32139,8 @@ QuestInfoList = {
 		Description = { "带著矿石去跟矿山入口的艾伯特 福特重新谈判。" },
 		Summary = "收集紫罗兰矿石20个以上后去找艾伯特 福特"
 	},
-	[12415] = { Title = "与幻影附魔师签约", Description = { { "簽約成功\" }, Summary = "签约成功\" },
-	[1141] = { Title = ""新年活动", Description = { "该活动任务已结束" }, Summary = "该活动任务已结束" },
+	[12415] = { Title = "与幻影附魔师签约", Description = { "簽約成功" }, Summary = "签约成功" },
+	[1141] = { Title = "新年活动", Description = { "该活动任务已结束" }, Summary = "该活动任务已结束" },
 	[1142] = { Title = "新年活动", Description = { "该活动任务已结束" }, Summary = "该活动任务已结束" },
 	[1143] = { Title = "新年活动", Description = { "该活动任务已结束" }, Summary = "该活动任务已结束" },
 	[1144] = { Title = "新年活动", Description = { "该活动任务已结束" }, Summary = "该活动任务已结束" },
@@ -37513,7 +37509,7 @@ QuestInfoList = {
 		Summary = "大宅管理员α"
 	},
 	[17334] = {
-		Title = ""转播器确认: 餐\厅",
+		Title = "转播器确认: 餐\厅",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"往最近的<NAVI>[餐\厅]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>方向走比较好。告诉故障的转播器附近的机器人坏掉的项目，他们会自行处理。"
@@ -47956,7 +47952,7 @@ QuestInfoList = {
 		Summary = "初次阅\读生研餐"
 	},
 	[16668] = {
-		Title = ""生研餐\–等待",
+		Title = "生研餐\–等待",
 		IconName = "ico_vr.bmp",
 		Description = {
 			"<NAVI>[幻想丛书]<INFO>prt_elib,59,45,0,101,0</INFO></NAVI>的『生研餐\』一天仅可阅\读一次，请再稍等一下。"
@@ -55522,7 +55518,6 @@ QuestInfoList = {
 	[8783] = {
 		Title = "卡乐喀坦的允许",
 		Description = {
-			"{
 			"卡乐喀坦欣然允许\使用萨满的力量。去见<NAVI>[普初恰乐坦]<INFO>um_in.gat,44,71,0,101,0</INFO></NAVI>吧。"
 		},
 		Summary = "普初恰乐坦对话"
