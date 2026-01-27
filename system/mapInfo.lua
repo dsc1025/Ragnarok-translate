@@ -1246,9 +1246,9 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["gld2_ald.rsw"] = {
-		displayName = "深渊回廊 : 英雄之泪\",
+		displayName = "深渊回廊 : 英雄之泪",
 		notifyEnter = true,
-		signName = { subTitle = "{ subTitle = "露依纳深渊回廊", mainTitle = "英雄之淚\" },
+		signName = { subTitle = "{ subTitle = "露依纳深渊回廊", mainTitle = "英雄之淚" },
 		backgroundBmp = "dungeon"
 	},
 	["gld2_gef.rsw"] = {

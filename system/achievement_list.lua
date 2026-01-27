@@ -3163,8 +3163,8 @@ achievement_tbl = {
 		major = 3,
 		minor = 1,
 		title = "波利-驯服",
-		content = { summary = "波利认养成功\", details = "把波利變成寵物吧!可用'青涩苹果'來引誘。" },
-		resource = { [1] = { text = "波利認養寵物成功\" } },
+		content = { summary = "波利认养成功", details = "把波利變成寵物吧!可用'青涩苹果'來引誘。" },
+		resource = { [1] = { text = "波利認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3175,10 +3175,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "土波利-驯服",
 		content = {
-			summary = "土波利认养宠物成功\",
+			summary = "土波利认养宠物成功",
 			details = "把土波利變成寵物吧!可用'浓缩柳橙汁'來引誘。"
 		},
-		resource = { [1] = { text = "土波利認養寵物成功\" } },
+		resource = { [1] = { text = "土波利認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3188,8 +3188,8 @@ achievement_tbl = {
 		major = 3,
 		minor = 1,
 		title = "波波利-驯服",
-		content = { summary = "波波利认养成功\", details = "把波波利變成寵物吧!可用'苦味草'來引誘。" },
-		resource = { [1] = { text = "波波利認養寵物成功\" } },
+		content = { summary = "波波利认养成功", details = "把波波利變成寵物吧!可用'苦味草'來引誘。" },
+		resource = { [1] = { text = "波波利認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3200,10 +3200,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "宝贝波利-驯服",
 		content = {
-			summary = "宝贝波利认养成功\",
+			summary = "宝贝波利认养成功",
 			details = "把寶貝波利變成寵物吧!可用'青苹果'來引誘。"
 		},
-		resource = { [1] = { text = "寶貝波利認養寵物成功\" } },
+		resource = { [1] = { text = "寶貝波利認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3213,8 +3213,8 @@ achievement_tbl = {
 		major = 3,
 		minor = 1,
 		title = "苍蝇-驯服",
-		content = { summary = "苍蝇认养成功\", details = "把蒼蠅變成寵物吧!可用'腐臭之鱼'來引誘。" },
-		resource = { [1] = { text = "蒼蠅認養寵物成功\" } },
+		content = { summary = "苍蝇认养成功", details = "把蒼蠅變成寵物吧!可用'腐臭之鱼'來引誘。" },
+		resource = { [1] = { text = "蒼蠅認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3224,8 +3224,8 @@ achievement_tbl = {
 		major = 3,
 		minor = 1,
 		title = "绿苍蝇-驯服",
-		content = { summary = "绿苍蝇认养成功\", details = "把綠蒼蠅變成寵物吧!可用'锈铁'來引誘。" },
-		resource = { [1] = { text = "綠蒼蠅認養寵物成功\" } },
+		content = { summary = "绿苍蝇认养成功", details = "把綠蒼蠅變成寵物吧!可用'锈铁'來引誘。" },
+		resource = { [1] = { text = "綠蒼蠅認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3236,10 +3236,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "赤苍蝇-驯服",
 		content = {
-			summary = "赤苍蝇认养宠物成功\",
+			summary = "赤苍蝇认养宠物成功",
 			details = "把赤蒼蠅變成寵物吧!可用'魔物饮料'來引誘。"
 		},
-		resource = { [1] = { text = "赤蒼蠅認養寵物成功\" } },
+		resource = { [1] = { text = "赤蒼蠅認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3250,10 +3250,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "摇滚蝗虫-驯服",
 		content = {
-			summary = "摇滚蝗虫认养宠物成功\",
+			summary = "摇滚蝗虫认养宠物成功",
 			details = "把搖滾蝗蟲變成寵物吧!可用'呢喃花'來引誘。"
 		},
-		resource = { [1] = { text = "搖滾蝗蟲認養寵物成功\" } },
+		resource = { [1] = { text = "搖滾蝗蟲認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3263,8 +3263,8 @@ achievement_tbl = {
 		major = 3,
 		minor = 1,
 		title = "魔菇-驯服",
-		content = { summary = "魔菇认养宠物成功\", details = "把魔菇變成寵物吧!可用'青苔'來引誘。" },
-		resource = { [1] = { text = "魔菇認養寵物成功\" } },
+		content = { summary = "魔菇认养宠物成功", details = "把魔菇變成寵物吧!可用'青苔'來引誘。" },
+		resource = { [1] = { text = "魔菇認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3275,10 +3275,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "毒魔菇-驯服",
 		content = {
-			summary = "毒魔菇认养宠物成功\",
+			summary = "毒魔菇认养宠物成功",
 			details = "把毒魔菇變成寵物吧!可用'青嫩毒草'來引誘。"
 		},
-		resource = { [1] = { text = "毒魔菇認養寵物成功\" } },
+		resource = { [1] = { text = "毒魔菇認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3288,8 +3288,8 @@ achievement_tbl = {
 		major = 3,
 		minor = 1,
 		title = "疯兔-驯服",
-		content = { summary = "疯兔认养成功\", details = "把瘋兔變成寵物吧!可用'彩色红萝卜'來引誘。" },
-		resource = { [1] = { text = "瘋兔認養寵物成功\" } },
+		content = { summary = "疯兔认养成功", details = "把瘋兔變成寵物吧!可用'彩色红萝卜'來引誘。" },
+		resource = { [1] = { text = "瘋兔認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3300,10 +3300,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "小鸡-驯服",
 		content = {
-			summary = "小鸡认养宠物成功\",
+			summary = "小鸡认养宠物成功",
 			details = "把小雞變成寵物吧!可用'变态蚯蚓'來引誘。"
 		},
-		resource = { [1] = { text = "小雞認養寵物成功\" } },
+		resource = { [1] = { text = "小雞認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3314,10 +3314,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "小野猪-驯服",
 		content = {
-			summary = "小野猪认养成功\",
+			summary = "小野猪认养成功",
 			details = "把小野豬變成寵物吧!可用'魔物牛奶'來引誘。"
 		},
-		resource = { [1] = { text = "小野豬認養寵物成功\" } },
+		resource = { [1] = { text = "小野豬認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3328,10 +3328,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "沙漠幼狼-驯服",
 		content = {
-			summary = "沙漠幼狼认养宠物成功\",
+			summary = "沙漠幼狼认养宠物成功",
 			details = "把沙漠幼狼變成寵物吧!可用'营养大骨'來引誘。"
 		},
-		resource = { [1] = { text = "沙漠幼狼認養寵物成功\" } },
+		resource = { [1] = { text = "沙漠幼狼認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3342,10 +3342,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "狸猫-驯服",
 		content = {
-			summary = "狸猫认养宠物成功\",
+			summary = "狸猫认养宠物成功",
 			details = "把狸貓變成寵物吧!可用'魔物番薯'來引誘。"
 		},
-		resource = { [1] = { text = "狸貓認養寵物成功\" } },
+		resource = { [1] = { text = "狸貓認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3356,10 +3356,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "溜溜猴-驯服",
 		content = {
-			summary = "溜溜猴认养宠物成功\",
+			summary = "溜溜猴认养宠物成功",
 			details = "把溜溜猴變成寵物吧!可用'魔物香蕉'來引誘。"
 		},
-		resource = { [1] = { text = "溜溜猴認養寵物成功\" } },
+		resource = { [1] = { text = "溜溜猴認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3370,10 +3370,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "大嘴鸟-驯服",
 		content = {
-			summary = "大嘴鸟认养宠物成功\",
+			summary = "大嘴鸟认养宠物成功",
 			details = "把大嘴鳥變成寵物吧!可用'营养蚯蚓'來引誘。"
 		},
-		resource = { [1] = { text = "大嘴鳥認養寵物成功\" } },
+		resource = { [1] = { text = "大嘴鳥認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3384,10 +3384,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "毕帝特地龙-驯服",
 		content = {
-			summary = "毕帝特地龙认养宠物成功\",
+			summary = "毕帝特地龙认养宠物成功",
 			details = "把畢帝特地龍變成寵物吧!可用'闪烁之石'來引誘。"
 		},
-		resource = { [1] = { text = "畢帝特地龍認養寵物成功\" } },
+		resource = { [1] = { text = "畢帝特地龍認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3398,10 +3398,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "僵尸-驯服",
 		content = {
-			summary = "僵尸认养宠物成功\",
+			summary = "僵尸认养宠物成功",
 			details = "把殭屍變成寵物吧!可用'魔物信件'來引誘。"
 		},
-		resource = { [1] = { text = "殭屍認養寵物成功\" } },
+		resource = { [1] = { text = "殭屍認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3412,10 +3412,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "蛇女伊丝-驯服",
 		content = {
-			summary = "蛇女伊丝认养宠物成功\",
+			summary = "蛇女伊丝认养宠物成功",
 			details = "把蛇女伊絲變成寵物吧!可用'驯服手镯'來引誘。"
 		},
-		resource = { [1] = { text = "蛇女伊絲認養寵物成功\" } },
+		resource = { [1] = { text = "蛇女伊絲認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3426,10 +3426,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "鬼女-驯服",
 		content = {
-			summary = "鬼女认养宠物成功\",
+			summary = "鬼女认养宠物成功",
 			details = "把鬼女變成寵物吧!可用'纯洁银刃'來引誘。"
 		},
-		resource = { [1] = { text = "鬼女認養寵物成功\" } },
+		resource = { [1] = { text = "鬼女認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3440,10 +3440,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "艾斯恩魔女-驯服",
 		content = {
-			summary = "艾斯恩魔女认养宠物成功\",
+			summary = "艾斯恩魔女认养宠物成功",
 			details = "把艾斯恩魔女變成寵物吧!可用'红色蜡烛'來引誘。"
 		},
-		resource = { [1] = { text = "艾斯恩魔女認養寵物成功\" } },
+		resource = { [1] = { text = "艾斯恩魔女認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3454,10 +3454,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "爱丽丝女仆-驯服",
 		content = {
-			summary = "爱丽丝女仆认养宠物成功\",
+			summary = "爱丽丝女仆认养宠物成功",
 			details = "把愛麗絲女僕變成寵物吧!可用'摇曳的围裙'來引誘。"
 		},
-		resource = { [1] = { text = "愛麗絲女僕認養寵物成功\" } },
+		resource = { [1] = { text = "愛麗絲女僕認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3468,10 +3468,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "恶魔女仆-驯服",
 		content = {
-			summary = "恶魔女仆认养宠物成功\",
+			summary = "恶魔女仆认养宠物成功",
 			details = "把惡魔女僕變成寵物吧!可用'少年的情书'來引誘。"
 		},
-		resource = { [1] = { text = "惡魔女僕認養寵物成功\" } },
+		resource = { [1] = { text = "惡魔女僕認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -3482,10 +3482,10 @@ achievement_tbl = {
 		minor = 1,
 		title = "银月魔女-驯服",
 		content = {
-			summary = "银月魔女认养宠物成功\",
+			summary = "银月魔女认养宠物成功",
 			details = "把銀月魔女變成寵物吧!可用'红色果汁'來引誘。"
 		},
-		resource = { [1] = { text = "銀月魔女認養寵物成功\" } },
+		resource = { [1] = { text = "銀月魔女認養寵物成功" } },
 		reward = {},
 		score = 10
 	},
@@ -4048,8 +4048,8 @@ achievement_tbl = {
 		major = 6,
 		minor = 0,
 		title = "成就系统更新后首次登入",
-		content = { summary = "成就系统更新后首次登入成功\", details = "紀念成就系統更新後首次登入。" },
-		resource = { [1] = { text = "成就系統更新後首次登入成功\" } },
+		content = { summary = "成就系统更新后首次登入成功", details = "紀念成就系統更新後首次登入。" },
+		resource = { [1] = { text = "成就系統更新後首次登入成功" } },
 		reward = {},
 		score = 10
 	},

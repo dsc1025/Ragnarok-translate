@@ -1219,12 +1219,12 @@ QuestInfoList = {
 	[1335] = {
 		Title = "爱心满满糖果篮子",
 		Description = { "收集糖果 5个, 拐杖糖 5个, 喉糖 3个后交给甘纳许\吧!" },
-		Summary = "收集指定物品后交给甘纳许\"
+		Summary = "收集指定物品后交给甘纳许"
 	},
 	[1336] = {
 		Title = ""偷偷填满的糖果篮子",
 		Description = { "为了避免被甘纳许\的儿子发现，早上4点过后再去帮忙吧!" },
-		Summary = "早上4点过后再去找甘纳许\"
+		Summary = "早上4点过后再去找甘纳许"
 	},
 	[1337] = {
 		Title = ""好运糖果",
@@ -3291,12 +3291,12 @@ QuestInfoList = {
 		Summary = "向杜立安告知修理失败"
 	},
 	[3107] = {
-		Title = "偿还巨额债务 - 修理魔力优雅加热器成功\",
+		Title = "偿还巨额债务 - 修理魔力优雅加热器成功",
 		Description = {
 			"{
 			"修理似乎顺利完成了。向<NAVI>[杜立安]<INFO>izlude_in,57,92,0,101,1</INFO></NAVI>报告吧。"
 		},
-		Summary = "向杜立安告知修理成功\"
+		Summary = "向杜立安告知修理成功"
 	},
 	[3108] = {
 		Title = ""偿还巨额债务 – 用看看魔力优雅加热器吧",
@@ -3306,7 +3306,7 @@ QuestInfoList = {
 		Summary = "使用魔力优雅加热器"
 	},
 	[3109] = {
-		Title = "偿还巨额债务 - 借据复原成功\",
+		Title = "偿还巨额债务 - 借据复原成功",
 		Description = {
 			"{
 			"借据完全复原了。回到克魔岛告诉<NAVI>[穆夫]<INFO>comodo,224,187,0,101,1</INFO></NAVI>吧。"
@@ -4940,7 +4940,7 @@ QuestInfoList = {
 		Summary = "下一次挑战为24小时后"
 	},
 	[5074] = {
-		Title = "猫咪用餐\",
+		Title = "猫咪用餐",
 		Description = { "{ "输掉练习赛后收到一张委托纸条，上面写著'^0000FF美味的剑鱼30、鱼尾10^000000'。" },
 		Summary = "完成委托的任务后请向队长猫咪回报。"
 	},
@@ -13510,7 +13510,7 @@ QuestInfoList = {
 		Summary = "回报李立宇"
 	},
 	[8304] = {
-		Title = "在拉赫住著我的老么\",
+		Title = "在拉赫住著我的老么",
 		Description = { "{ "李立宇委托的冷藏宅配箱收件人写的是'拉赫-李律和伊雷德'。" },
 		Summary = "送冷藏宅配箱"
 	},
@@ -17323,7 +17323,7 @@ QuestInfoList = {
 	[11259] = {
 		Title = "母亲的心愿",
 		Description = { "老么\在梦罗克进行沙漠绿化的工作。" },
-		Summary = "寻找老么\"
+		Summary = "寻找老么"
 	},
 	[11260] = {
 		Title = ""母亲的心愿",
@@ -20744,7 +20744,7 @@ QuestInfoList = {
 		Summary = "魔菇20只"
 	},
 	[12311] = {
-		Title = "消灭鬼水手骷髅\",
+		Title = "消灭鬼水手骷髅",
 		Description = {
 			"{
 			"哈米德好像要修理艾尔贝塔附近的沉之船后拿来用，为了修理船，去消灭那里的鬼水手骷髅\10只后再回来!"
@@ -26131,7 +26131,7 @@ QuestInfoList = {
 		Summary = "凌晨四点重置"
 	},
 	[16241] = {
-		Title = "为猎人准备的晚餐\",
+		Title = "为猎人准备的晚餐",
 		Description = {
 			"{
 			"<NAVI>[炼金术师]<INFO>prt_fild01.gat,87,198,0,101,0</INFO></NAVI>给了6小时内可提升番薯和肉效果的秘药，一天限免费送一次。"
@@ -37510,7 +37510,7 @@ QuestInfoList = {
 		Description = {
 			"同步客人名单时好像因为大宅内网路而发生问题，向<NAVI>[大宅管理员α\]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>确认。"
 		},
-		Summary = "大宅管理员α\"
+		Summary = "大宅管理员α"
 	},
 	[17334] = {
 		Title = ""转播器确认: 餐\厅",
@@ -47179,7 +47179,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[5962] = {
-		Title = "恶魔的早餐\",
+		Title = "恶魔的早餐",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[钟塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>100只魔物的灵魂沉淀物，应该就够当早餐\。替<NAVI>[箱子的恶魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>准备餐\点吧。",
@@ -47188,7 +47188,7 @@ QuestInfoList = {
 		Summary = "钟塔神秘地下室魔物100"
 	},
 	[5963] = {
-		Title = "恶魔的中餐\",
+		Title = "恶魔的中餐",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[钟塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>300只魔物的灵魂沉淀物，应该就够当中餐\。替<NAVI>[箱子的恶魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>准备餐\点吧。",
@@ -47197,7 +47197,7 @@ QuestInfoList = {
 		Summary = "钟塔神秘地下室魔物300"
 	},
 	[5964] = {
-		Title = "恶魔的晚餐\",
+		Title = "恶魔的晚餐",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[钟塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>1000只魔物的灵魂沉淀物，应该就够当晚餐\。替<NAVI>[箱子的恶魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>准备餐\点吧。",
@@ -47206,7 +47206,7 @@ QuestInfoList = {
 		Summary = "钟塔神秘地下室魔物1000"
 	},
 	[5965] = {
-		Title = "[等候]恶魔的特餐\",
+		Title = "[等候]恶魔的特餐",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"替<NAVI>[箱子的恶魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>准备本周特餐\，星期一的时候再准备一次就好了吧?"
@@ -47215,7 +47215,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[5966] = {
-		Title = "恶魔的特餐\",
+		Title = "恶魔的特餐",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"<NAVI>[箱子的恶魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>一周要求一次特餐\，<NAVI>[钟塔神秘地下室]<INFO>clock_01,84,44,0,101,0</INFO></NAVI>5000只魔物的灵魂沉淀物，应该就够当特餐\。",
@@ -47953,7 +47953,7 @@ QuestInfoList = {
 		Description = {
 			"第一次开始阅\读<NAVI>[幻想丛书]<INFO>prt_elib,59,45,0,101,0</INFO></NAVI>的『生研餐\』。全部阅\读完毕后，去找目次精灵印克吧。"
 		},
-		Summary = "初次阅\读生研餐\"
+		Summary = "初次阅\读生研餐"
 	},
 	[16668] = {
 		Title = ""生研餐\–等待",
@@ -48043,7 +48043,7 @@ QuestInfoList = {
 		Summary = "打赌获胜"
 	},
 	[16679] = {
-		Title = "生研餐\–准备午餐\",
+		Title = "生研餐\–准备午餐",
 		IconName = "ico_vr.bmp",
 		Description = {
 			"把抓到的海鲜交给在幻想丛书中的住处准备午餐\的<NAVI>[赛依连 温莎]<INFO>vr_bob,295,209,0,101,0</INFO></NAVI>吧。"
@@ -53218,7 +53218,7 @@ QuestInfoList = {
 		NpcPosY = 62
 	},
 	[19164] = {
-		Title = "搜索间谍成功\",
+		Title = "搜索间谍成功",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"凭借著精准的眼光找出了潜藏在冰封之城的间谍。去找<NAVI>[奥利乐操兵]<INFO>icas_in,100,62,0,101,0</INFO></NAVI>拿报酬吧。"
@@ -55520,7 +55520,7 @@ QuestInfoList = {
 		Summary = "与卡乐喀坦对话"
 	},
 	[8783] = {
-		Title = "卡乐喀坦的允许\",
+		Title = "卡乐喀坦的允许",
 		Description = {
 			"{
 			"卡乐喀坦欣然允许\使用萨满的力量。去见<NAVI>[普初恰乐坦]<INFO>um_in.gat,44,71,0,101,0</INFO></NAVI>吧。"
@@ -62232,7 +62232,7 @@ QuestInfoList = {
 		Summary = "前往露那佛玛"
 	},
 	[17758] = {
-		Title = "招募人才迈向成功\",
+		Title = "招募人才迈向成功",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"据说到<NAVI>[鳞岛]<INFO>jor_crk_p,71,85,0,101,0</INFO></NAVI>与纳多犹碰头，就能获得教团神殿的情报。"
@@ -62240,7 +62240,7 @@ QuestInfoList = {
 		Summary = "前往碰头地点"
 	},
 	[17759] = {
-		Title = "招募人才迈向成功\",
+		Title = "招募人才迈向成功",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"<NAVI>[艾凡]<INFO>jor_crk_p,69,85,0,101,0</INFO></NAVI>对留在鳞岛的一行人说他有一个提案，但是……"
@@ -62248,7 +62248,7 @@ QuestInfoList = {
 		Summary = "与艾凡对话"
 	},
 	[17760] = {
-		Title = "招募人才迈向成功\",
+		Title = "招募人才迈向成功",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"艾凡提到的人才据说就在<NAVI>[露那佛玛]<INFO>jor_mbase,166,302,0,101,0</INFO></NAVI>的供餐\处。究竟能不能成功\招募呢？"
