@@ -5,6 +5,8 @@
 
 import re
 import io
+import os
+import argparse
 from deep_translator import GoogleTranslator
 from typing import List, Tuple
 
@@ -108,16 +110,28 @@ def replace_page(block: str, new_pages: List[str]) -> str:
 	return new_block
 
 
-def build_translated_file(original_path: str, out_path: str, max_items: int = None):
+def get_existing_max_index(out_path: str) -> int:
+	if not os.path.exists(out_path):
+		return 0
+	txt = read_text(out_path)
+	nums = re.findall(r'\[\s*(\d+)\s*\]\s*=', txt)
+	nums = [int(n) for n in nums] if nums else []
+	return max(nums) if nums else 0
+
+
+def build_translated_file(original_path: str, out_path: str, start_index: int = 1, max_items: int = None):
 	txt = read_text(original_path)
 	blocks = find_all_blocks(txt)
 	translator = GoogleTranslator(source='ko', target='zh-CN')
 
-	# Open file for incremental writing; do not write a top-level `tbl = {}` header
-	with open(out_path, 'w', encoding='utf-8') as out:
-		count = 0
+	# choose append vs overwrite
+	mode = 'a' if (start_index > 1 and os.path.exists(out_path)) else 'w'
+	with open(out_path, mode, encoding='utf-8') as out:
+		processed = 0
 		for idx, block in blocks:
-			count += 1
+			if idx < start_index:
+				continue
+
 			# Translate only inside string literals in the block (keep all other chars untouched)
 			def _replace_string_literal(m):
 				inner = m.group(1)
@@ -126,23 +140,82 @@ def build_translated_file(original_path: str, out_path: str, max_items: int = No
 
 			new_block = re.sub(r'"((?:\\.|[^"\\])*)"', _replace_string_literal, block)
 
-			# write this element immediately (no leading tab and no enclosing tbl = {})
-			out.write(f'[{idx}] = {{\n')
-			for line in new_block.splitlines():
-				out.write('\t' + line.rstrip() + '\n')
-			out.write('},\n')
+			# prepare lines and trim leading/trailing blank lines to avoid extra empty lines
+			lines = new_block.splitlines()
+			# remove leading empty lines
+			while lines and lines[0].strip() == '':
+				lines.pop(0)
+			# remove trailing empty lines
+			while lines and lines[-1].strip() == '':
+				lines.pop()
 
+			# write this element immediately using same style as source:
+			# element header indented with one tab, top-level fields two tabs,
+			# nested items (arrays/tables/strings in Page/PageEX) three tabs.
+			out.write(f'\t[{idx}] = {{\n')
+			# prefer reconstructing known fields to ensure consistent indentation
+			# Title
+			title_m = re.search(r'Title\s*=\s*"((?:\\.|[^"\\])*)"', block)
+			if title_m:
+				title_val = title_m.group(1)
+				# translate Title if contains Korean
+				title_trans = translate_korean_preserve(title_val, translator)
+				out.write('\t\tTitle = "' + title_trans.replace('"', '\\"') + '",\n')
+			# Search
+			search_m = re.search(r'Search\s*=\s*([^,\n]+)', block)
+			if search_m:
+				out.write('\t\tSearch = ' + search_m.group(1).strip().rstrip(',') + ',\n')
+			# Image
+			image_m = re.search(r'Image\s*=\s*"((?:\\.|[^"\\])*)"', block)
+			if image_m:
+				out.write('\t\tImage = "' + image_m.group(1).replace('"', '\\"') + '",\n')
+			# Imgcoord (write raw between braces)
+			img_m = re.search(r'Imgcoord\s*=\s*(\{[\s\S]*?\})', block)
+			if img_m:
+				img_txt = img_m.group(1).strip()
+				out.write('\t\tImgcoord = ' + img_txt + ',\n')
+			# Page: extract string literals and write with 3-tabs
+			page_m = re.search(r'Page\s*=\s*\{([\s\S]*?)\}\s*(?:,|$)', block, flags=re.S)
+			if page_m:
+				pages = extract_string_literals(page_m.group(1))
+				out.write('\t\tPage = {\n')
+				for p in pages:
+					# translate page content, preserving tokens
+					p_trans = translate_korean_preserve(p, translator)
+					p2 = p_trans.replace('\r\n', '\\n').replace('\r', '\\n').replace('\n', '\\n').replace('\t', '\\t')
+					out.write('\t\t\t"' + p2.replace('"', '\\"') + '",\n')
+				out.write('\t\t},\n')
+			# PageEX: keep inner lines but normalize indentation
+			pageex_m = re.search(r'PageEX\s*=\s*\{([\s\S]*?)\}\s*(?:,|$)', block, flags=re.S)
+			if pageex_m:
+				inner = pageex_m.group(1).strip()
+				# split into lines and write non-empty lines at 3-tabs
+				out.write('\t\tPageEX = {\n')
+				for L in inner.splitlines():
+					s = L.strip()
+					if not s:
+						continue
+					out.write('\t\t\t' + s + '\n')
+				out.write('\t\t},\n')
+			# end element
+			out.write('\t},\n')
 			out.flush()
 
-			if max_items and count >= max_items:
+			processed += 1
+			if max_items and processed >= max_items:
 				break
 
 
 if __name__ == '__main__':
-	src = 'd:\\ding\\ro\\Ragnarok-translate\\system\\tipbox.lua'
-	out = 'd:\\ding\\ro\\Ragnarok-translate\\system\\tipbox_translated.lua'
-	# process first two items for testing
-	build_translated_file(src, out, max_items=2)
-	print(f'Wrote translated items to {out}')
+	p = argparse.ArgumentParser(description='Translate tipbox entries with auto-resume')
+	p.add_argument('--src', default=r'd:\\ding\\ro\\Ragnarok-translate\\system\\tipbox.lua')
+	p.add_argument('--out', default=r'd:\\ding\\ro\\Ragnarok-translate\\system\\tipbox_translated.lua')
+	p.add_argument('--count', '-c', type=int, default=1, help='How many entries to translate this run')
+	args = p.parse_args()
+
+	existing_max = get_existing_max_index(args.out)
+	start = existing_max + 1
+	build_translated_file(args.src, args.out, start_index=start, max_items=args.count)
+	print(f'Appended translated items starting at index {start} to {args.out}')
 
 
