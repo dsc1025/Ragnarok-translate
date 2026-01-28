@@ -42,6 +42,28 @@ def extract_string_literals(s: str) -> List[str]:
 	return re.findall(r'"((?:\\.|[^"\\])*)"', s)
 
 
+def extract_braced_inner(block: str, key: str) -> str:
+	"""Find key = { ... } in block and return the inner content (between the braces).
+	Uses brace counting to handle nested braces."""
+	m = re.search(rf'{re.escape(key)}\s*=\s*\{{', block)
+	if not m:
+		return ''
+	start = m.end() - 1
+	i = start
+	depth = 0
+	n = len(block)
+	while i < n:
+		if block[i] == '{':
+			depth += 1
+		elif block[i] == '}':
+			depth -= 1
+			if depth == 0:
+				# return content between the braces
+				return block[start+1:i]
+		i += 1
+	return ''
+
+
 def parse_title_and_pages(block: str):
 	title = None
 	m = re.search(r'Title\s*=\s*"((?:\\.|[^"\\])*)"', block)
@@ -185,11 +207,9 @@ def build_translated_file(original_path: str, out_path: str, start_index: int = 
 					p2 = p_trans.replace('\r\n', '\\n').replace('\r', '\\n').replace('\n', '\\n').replace('\t', '\\t')
 					out.write('\t\t\t"' + p2.replace('"', '\\"') + '",\n')
 				out.write('\t\t},\n')
-			# PageEX: keep inner lines but normalize indentation
-			pageex_m = re.search(r'PageEX\s*=\s*\{([\s\S]*?)\}\s*(?:,|$)', block, flags=re.S)
-			if pageex_m:
-				inner = pageex_m.group(1).strip()
-				# split into lines and write non-empty lines at 3-tabs
+			# PageEX: extract using brace-matching to avoid premature '}' matches
+			inner = extract_braced_inner(block, 'PageEX')
+			if inner:
 				out.write('\t\tPageEX = {\n')
 				for L in inner.splitlines():
 					s = L.strip()
@@ -208,14 +228,21 @@ def build_translated_file(original_path: str, out_path: str, start_index: int = 
 
 if __name__ == '__main__':
 	p = argparse.ArgumentParser(description='Translate tipbox entries with auto-resume')
-	p.add_argument('--src', default=r'd:\\ding\\ro\\Ragnarok-translate\\system\\tipbox.lua')
-	p.add_argument('--out', default=r'd:\\ding\\ro\\Ragnarok-translate\\system\\tipbox_translated.lua')
-	p.add_argument('--count', '-c', type=int, default=1, help='How many entries to translate this run')
+	p.add_argument('--file', required=True, help='Path to the source Lua file to translate')
+	p.add_argument('--count', '-c', type=int, default=1, help='How many entries to translate this run (0 = no limit)')
 	args = p.parse_args()
 
-	existing_max = get_existing_max_index(args.out)
+	src_path = args.file
+	# build default out path: same dir, filename + _translated + original ext
+	base, ext = os.path.splitext(src_path)
+	if ext == '':
+		out_path = base + '_translated'
+	else:
+		out_path = base + '_translated' + ext
+
+	existing_max = get_existing_max_index(out_path)
 	start = existing_max + 1
-	build_translated_file(args.src, args.out, start_index=start, max_items=args.count)
-	print(f'Appended translated items starting at index {start} to {args.out}')
+	build_translated_file(src_path, out_path, start_index=start, max_items=(None if args.count == 0 else args.count))
+	print(f'Appended translated items starting at index {start} to {out_path}')
 
 
