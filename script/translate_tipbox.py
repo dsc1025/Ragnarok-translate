@@ -8,6 +8,7 @@ import io
 import os
 import argparse
 from deep_translator import GoogleTranslator
+from tqdm import tqdm
 from typing import List, Tuple
 
 
@@ -141,7 +142,7 @@ def get_existing_max_index(out_path: str) -> int:
 	return max(nums) if nums else 0
 
 
-def build_translated_file(original_path: str, out_path: str, start_index: int = 1, max_items: int = None):
+def build_translated_file(original_path: str, out_path: str, start_index: int = 1, max_items: int = None, show_progress: bool = True):
 	txt = read_text(original_path)
 	blocks = find_all_blocks(txt)
 	translator = GoogleTranslator(source='ko', target='zh-CN')
@@ -150,6 +151,13 @@ def build_translated_file(original_path: str, out_path: str, start_index: int = 
 	mode = 'a' if (start_index > 1 and os.path.exists(out_path)) else 'w'
 	with open(out_path, mode, encoding='utf-8') as out:
 		processed = 0
+		# prepare progress bar
+		remaining_blocks = [1 for idx0, _ in blocks if idx0 >= start_index]
+		total_to_process = len(remaining_blocks)
+		if max_items and max_items > 0:
+			total_to_process = min(total_to_process, max_items)
+		pbar = tqdm(total=total_to_process, desc='Translating', unit='item', disable=not show_progress)
+
 		for idx, block in blocks:
 			if idx < start_index:
 				continue
@@ -222,8 +230,10 @@ def build_translated_file(original_path: str, out_path: str, start_index: int = 
 			out.flush()
 
 			processed += 1
+			pbar.update(1)
 			if max_items and processed >= max_items:
 				break
+		pbar.close()
 
 
 if __name__ == '__main__':
