@@ -1208,7 +1208,7 @@ MSI_DEATH_R01	[천사의대답] 感谢您教导女孩正确的事实.
 MSI_DEATH_R02	[천사의대답] 你是一个可爱的人.女孩很感动.
 MSI_DEATH_R05	[천사의대답] 女孩很失望.
 MSI_DEATH_POINT	[POINT] 排名积分增加了 %d 至 %d 分.
-MSI_POINT_SHOP	[%s] 的拥有缓存:%d 缓存
+MSI_POINT_SHOP	[%s] 的拥有点数:%d 点数
 MSI_CONFIRM_SELECT_CHARACTERS	未选择的字符将被删除.您确定要完成它吗?
 MSI_ERROR_SELECT_CHARACTERS	您选择的数量不能超过 9 个.
 MSI_CONFIRM_TO_CHANGE_NAME	您想将角色名称更改为"%s"吗?
@@ -1252,7 +1252,7 @@ MSI_DDEATHPENALTY	如果你在30分钟内死亡,你的经验值不会减少一�
 MSI_RECEIVEITEM	30分钟内,狩猎怪物获得的基础物品掉落率翻倍.
 MSI_BOSS_ALARM	我们将提供可以在地图上出现10分钟的Boss怪物的信息.
 MSI_BUY_RECONFIRM	^ff0000您可以在购买此商品后 7 天内撤回订阅.但是,如果超过 7 天或该商品已被打开,您就没有资格取消订阅.此外,取消订阅时用于购买的免费现金将不会退还. ^000000 您真的想购买该商品吗?购买时,将扣除%d现金.
-MSI_BUY_CASH_FAIL_MONEY	缓存较低.
+MSI_BUY_CASH_FAIL_MONEY	点数不够啊.
 MSI_NOTICE_TO_DELETE_TIME	^ff0000销毁日期:%s^000000
 MSI_NOTICE_TO_REMAIN_ITEMUSINGTIME	还剩 %d 分钟可以使用"%s"项目.
 MSI_LAST_NOTICE_TO_REMAIN_ITEMUSINGTIME	1 分钟后,"%s"商品将从您的库存中删除.
@@ -1303,9 +1303,9 @@ MSI_DAMAGED_EQUIP_PARTY	%s 的 %s 已损坏.
 MSI_DAMAGED_WEAPON	武器
 MSI_DAMAGED_BODY	铠甲
 MSI_NOT_ENOUGH_SKILLLEVE5_2	技能水平不够.无法加入队伍
-MSI_POINT_SHOP2	[%s] 上的可用缓存:%d 缓存
-MSI_USE_FREE_POINT	使用免费缓存:
-MSI_CASH	缓存
+MSI_POINT_SHOP2	[%s]的免费点数 :%d 点数
+MSI_USE_FREE_POINT	使用免费点数:
+MSI_CASH	点数
 MSI_SETTLE_WEB_URL_HANGAME	http://payment.ro.hangame.com/index.asp
 MSI_BAN_GRAVITY_MEM_AGREE	要使用 Gravity,您必须同意会员信息.
 MSI_BAN_GAME_MEM_AGREE	您必须同意使用条款才能使用此服务.
@@ -1327,7 +1327,7 @@ MSI_INVITE_PARTY_REFUSE	拒绝所有队伍邀请.
 MSI_INVITE_PARTY_ACCEPT	接受所有队伍邀请.
 MSI_YOURITEM_EQUIP	佩戴后,该物品将永久绑定.你想戴它吗?
 MSI_YOURITEM_EQUIPED	%s 项目已被绑定.
-MSI_BUY_TO_FREE_POINT	缓存较低.请输入您的免费现金积分.
+MSI_BUY_TO_FREE_POINT	点数不足, 请检查后再次输入.
 MSI_REQ_JOIN_PARTY3	请求加入队伍
 MSI_VIEW_SIEGE_INFO_MSG	显示攻城信息消息
 MSI_MDUNGEON_SUBSCRIPTION_CANCEL_SUCCESS	纪念地下城"%s"的预订已被取消.
@@ -1388,9 +1388,9 @@ MSI_PLUSEXP12312	60分钟内狩猎怪物获得的经验值增加1.5倍.
 MSI_NOPARTY	你不能在这张地图上组建队伍.
 MSI_NOPARTY2	(%s) 所在的地图无法加入队伍.
 MSI_SIMPLE_CASH_SHOP	简单的物品商店
-MSI_SIMPLE_POINT_SHOP_NHN	持有 Hancoin:%d Hancoin
-MSI_SIMPLE_POINT_SHOP	拥有的缓存:%d 缓存
-MSI_SIMPLE_POINT_SHOP2	可用缓存:%d 缓存
+MSI_SIMPLE_POINT_SHOP_NHN	携带总点数 :%d 点数
+MSI_SIMPLE_POINT_SHOP	携带点数 :%d 点数
+MSI_SIMPLE_POINT_SHOP2	免费点数 :%d 点数
 MSI_MAIN_USER_CANONT_LOGIN_FREE_SERVER	主服务器用户无法访问免费服务器.
 MSI_INVALID_ONETIMELIMIT	密码已过期.请重新登录.
 MSI_3TABNAME_SKILLWND	第三份工作
@@ -1855,8 +1855,8 @@ MSI_NC_CAT8	ETC
 MSI_NC_COST	价格
 MSI_NC_NUM	数量
 MSI_NC_COUNT	狗
-MSI_NC_FREECASH	空闲缓存:%s C
-MSI_NC_CASH	占有缓存:%s C
+MSI_NC_FREECASH	空闲点数:%s C
+MSI_NC_CASH	携带点数:%s C
 MSI_CALLMONSTER_FAIL_AREA	该区域不能召唤怪物.
 MSI_BUY_CASH_FAIL2	自由现金使用量超过总金额
 MSI_MACRO_SAVE_DATA	设置保存在 [SaveData_ExMacro%d] 中.
@@ -3302,7 +3302,7 @@ MSI_CASHSHOP_ITEM_BUY	买
 MSI_CASHSHOP_CASH_CHARGE_ADDRESS	http://member.gnjoy.com/user/pay/chargelist.asp
 MSI_ITEM_SEARCH	物品搜索
 MSI_CASHSHOP_FREE_POINT	免费现金
-MSI_CASHSHOP_FREE_POINT_TO_USE	使用免费缓存
+MSI_CASHSHOP_FREE_POINT_TO_USE	使用免费点数
 MSI_CASHSHOP_CASH_POINT	持有现金
 MSI_CASHSHOP_REFRESH	数量更新
 MSI_STAR_EMPEROR_F	成济(女)

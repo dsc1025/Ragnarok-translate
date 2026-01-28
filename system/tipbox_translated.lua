@@ -1377,3 +1377,2703 @@
 			"艾伯塔省的一名司机寻求帮助。据说，一位考古学家朋友在评估偶然发现的一块龟壳时突然失踪了。\n\t\t我到处寻找，但找不到我的朋友，他们说剩下的一块贝壳是最后的线索……\n\n\t\t^663399◈150级以上^000000\n\t\t\n\t\t<NAVI>[艾尔瓦骑士]<INFO>alberta,211,28,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶欢迎调查队讨伐任务\n\t\t<TIPBOX>Q 击败100个古阳宫幻象 (150)<INFO>9130</INFO></TIPBOX>\n\t\t\n\t\t▶完成任务后可以执行的每日任务\n\t\t<TIPBOX>Q 一段不能忘记的记忆（150）<INFO>9103</INFO></TIPBOX>\n\t\t<TIPBOX>Q 虚荣的欲望 (150)<INFO>9104</INFO></TIPBOX>\n\t\t<TIPBOX>Q 无尽的饥饿 (150)<INFO>9105</INFO></TIPBOX>\n\t\t\t\t\n\t\t玩《九宫幻境》时获得。<ITEM>[幻想石]<INFO>25271</INFO></ITEM>您可以使用包括作为材料的物品来交换一些装备物品以获得更好的性能。\n\t\t想要交换的装备必须精炼到+9以上，现有的装备强化、卡牌选项等都会消失。\n\t\t^663399◈兑换地点^000000\n\t\t▶<NAVI>[设备研究员]<INFO>alberta,226,28,0,101,0</INFO></NAVI>\n\t\t▷<ITEM>【幻影无形剑[2]]<INFO>13469</INFO></ITEM>\n\t\t+9 <ITEM>【无形剑】<INFO>1141</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>100,<ITEM>[航行日志]<INFO>25314</INFO></ITEM>50\n\t\t▷<ITEM>[幻象战斧[2]]<INFO>1326</INFO></ITEM>\n\t\t+9<ITEM>[战斧[1]]<INFO>1306</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>100,<ITEM>【黑色灵魂碎片】<INFO>25311</INFO></ITEM>200\n\t\t▷<ITEM>[幻象落斧[2]]<INFO>32005</INFO></ITEM>\n\t\t+9 <ITEM>[保罗·阿克斯[1]]<INFO>1417</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>100,<ITEM>【黑色灵魂碎片】<INFO>25311</INFO></ITEM>200\n\t\t▷<ITEM>[幻象风魔手里剑的好处[2]]<INFO>13338</INFO></ITEM>\n\t\t+9 <ITEM>【风魔手里剑的好处】<INFO>13300</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>100,<ITEM>[旧壳]<INFO>25313</INFO></ITEM>200\n\t\t▷<ITEM>[幻铁司机[2]]<INFO>16065</INFO></ITEM>\n\t\t+9 <ITEM>[铁司机]<INFO>1529</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>100,<ITEM>[旧壳]<INFO>25313</INFO></ITEM>200\n\t\t▷<ITEM>[幻觉装饰花[1]]<INFO>19247</INFO></ITEM>\n\t\t<ITEM>[装饰花]<INFO>2207</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>50、<ITEM>【穿得很漂亮的娃娃】<INFO>25312</INFO></ITEM>50\n\n\t\t<TIPBOX>▶转到上一页<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
 		},
 	},
+	[9090] = {
+		Title = "泰迪熊的幻觉",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"一位来自艾因布鲁克的体弱多病的年轻人正在寻找他的朋友。一个出去工作的朋友再也没有回来。\n\t\t我朋友说他去Einbech矿山送货……\n\n\t\t^663399◈150级以上^000000\n\t\t\n\t\t<NAVI>[年轻人打呼噜]<INFO>einbroch,149,242,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶欢迎调查队讨伐任务\n\t\t<TIPBOX>Q 击败 100 只泰迪熊的幻象 (150)<INFO>9131</INFO></TIPBOX>\n\t\t\n\t\t▶完成任务后可以执行的每日任务\n\t\t<TIPBOX>问：逃跑吧！！！！ (150)<INFO>9106</INFO></TIPBOX>\n\t\t<TIPBOX>不应该存在的问题 (150)<INFO>9107</INFO></TIPBOX>\n\t\t<TIPBOX>Q 让光明吞噬黑暗。 (150)<INFO>9108</INFO></TIPBOX>\n\t\t\t\t\n\t\t在玩《泰迪熊的幻象》时获得。<ITEM>[幻想石]<INFO>25271</INFO></ITEM>您可以使用包括作为材料的物品来交换一些装备物品以获得更好的性能。\n\t\t想要交换的装备必须精炼到+9以上，现有的装备强化、卡牌选项等都会消失。\n\t\t^663399◈兑换地点^000000\n\t\t▶<NAVI>[小熊想要一块幻想石]<INFO>ein_d02_i,177,158,0,101,0</INFO></NAVI>\n\t\t▷<ITEM>[幻象反击匕首[2]]<INFO>28745</INFO></ITEM>\n\t\t+9 <ITEM>[反匕首]<INFO>1242</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>95、<ITEM>【绿熊绳】<INFO>25616</INFO></ITEM>75、<ITEM>[顶级Chonchon娃娃]<INFO>25617</INFO></ITEM>50\n\t\t▷<ITEM>【幻象守门人-DD[2]]<INFO>28244</INFO></ITEM>\n\t\t+9<ITEM>[看门人-DD]<INFO>13167</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>95、<ITEM>[顶级Chonchon娃娃]<INFO>25617</INFO></ITEM>75、<ITEM>[纳萨利安灵魂石]<INFO>25615</INFO></ITEM>150\n\t\t▷<ITEM>[幻象生存法杖[2]]<INFO>2051</INFO></ITEM>\n\t\t+9 <ITEM>[生存法杖[1](DEX)]<INFO>1618</INFO></ITEM>, +9 <ITEM>[生存法杖[1](INT)]<INFO>1620</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>125、<ITEM>[泥娃娃]<INFO>25619</INFO></ITEM>15、<ITEM>【哥特式瓷娃娃】<INFO>25618</INFO></ITEM>100,<ITEM>[顶级Chonchon娃娃]<INFO>25617</INFO></ITEM>100\n\t\t▷<ITEM>[幻象靴子[1]]<INFO>22190</INFO></ITEM>\n\t\t+9 <ITEM>[靴子[1]]<INFO>2406</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>85、<ITEM>【绿熊绳】<INFO>25616</INFO></ITEM>50、<ITEM>【哥特式瓷娃娃】<INFO>25618</INFO></ITEM>50\n\t\t▷<ITEM>[幻象热情头带[1]]<INFO>19344</INFO></ITEM>\n\t\t+9 <ITEM>【热情头带】<INFO>5070</INFO></ITEM>, <ITEM>[幻想石]<INFO>25271</INFO></ITEM>115、<ITEM>[泥娃娃]<INFO>25619</INFO></ITEM>5、<ITEM>[顶级Chonchon娃娃]<INFO>25617</INFO></ITEM>50、<ITEM>[纳萨利安灵魂石]<INFO>25615</INFO></ITEM>100\n\n\t\t<TIPBOX>▶转到上一页<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9091] = {
+		Title = "罗安达的幻象",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"当你经过你总能看到的罗安达洞穴图腾时，你会被一种神秘的光芒吸引，回头看图腾……\n\n\t\t^663399◈160级以上^000000\n\t\t\n\t\t<NAVI>[罗安达某处的图腾]<INFO>beach_dun2,245,250,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶欢迎调查队讨伐任务\n\t\t<TIPBOX>Q 消灭 100 个罗安达幻象 (160)<INFO>9132</INFO></TIPBOX>\n\t\t\n\t\t▶完成任务后可以执行的每日任务\n\t\t<TIPBOX>Q 巨石部落被消灭的证据 (160)<INFO>9109</INFO></TIPBOX>\n\t\t<TIPBOX>Q 乌坦部落被消灭的证据 (160)<INFO>9110</INFO></TIPBOX>\n\t\t<TIPBOX>Q 巨石消灭行动 (160)<INFO>9111</INFO></TIPBOX>\n\t\t<TIPBOX>Q 消灭乌坦族行动（160）<INFO>9112</INFO></TIPBOX>\n\t\t\n\t\t在玩罗安达幻象时获得。<ITEM>[幻想石]<INFO>25271</INFO></ITEM>您可以使用包括作为材料的物品来交换一些装备物品以获得更好的性能。\n\t\t想要交换的装备必须精炼到+9以上，现有的装备强化、卡牌选项等都会消失。\n\t\t^663399◈兑换地点^000000\n\t\t▶<NAVI>【乡村工匠香皂】<INFO>com_d02_i,234,266,0,101,0</INFO></NAVI>\n\t\t▷<ITEM>[幻象碑[2]]<INFO>28626</INFO></ITEM>\n\t\t+9 <ITEM>[平板电脑[1]]<INFO>1552</INFO></ITEM>, <ITEM>[看起来很脆弱的昆虫]<INFO>25642</INFO></ITEM>100,<ITEM>[幻想石]<INFO>25271</INFO></ITEM>50\n\t\t▷<ITEM>[幻象猎弓[2]]<INFO>18174</INFO></ITEM>\n\t\t+9 <ITEM>[猎人弓[1]]<INFO>1726</INFO></ITEM>1、<ITEM>【适合射击的石头】<INFO>25636</INFO></ITEM>50、<ITEM>[花形石]<INFO>25640</INFO></ITEM>50、<ITEM>[头状叶子]<INFO>25637</INFO></ITEM>50、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>80\n\t\t▷<ITEM>[幻象格布内的头盔[1]]<INFO>19366</INFO></ITEM>\n\t\t+9 <ITEM>[盖夫内的头盔]<INFO>5128</INFO></ITEM>1、<ITEM>[乌坦防御者的盾牌碎片]<INFO>25634</INFO></ITEM>30、<ITEM>[乌坦的令牌]<INFO>25633</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象格布内铠甲[1]]<INFO>15348</INFO></ITEM>\n\t\t+9 <ITEM>[盖夫内的铠甲]<INFO>2354</INFO></ITEM>1、<ITEM>[几乎没有结块的泥土]<INFO>25641</INFO></ITEM>100,<ITEM>[巨石令牌]<INFO>25638</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>80\n\t\t▷<ITEM>[幻象格布内的靴子[1]]<INFO>22192</INFO></ITEM>\n\t\t+9 <ITEM>[盖夫内的靴子]<INFO>2419</INFO></ITEM>1、<ITEM>[乌坦武士的毛皮]<INFO>25635</INFO></ITEM>100,<ITEM>[乌坦的令牌]<INFO>25633</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>80\n\t\t▷<ITEM>[幻象格布内的<INFO>20923</INFO></ITEM>\n\t\t<ITEM>肩部装饰[1]]<INFO>20923</INFO></ITEM>\n\t\t+9 <ITEM>【格夫内肩饰】<INFO>2520</INFO></ITEM>1、<ITEM>[被闪电击中的石头碎片]<INFO>25639</INFO></ITEM>30、<ITEM>[巨石令牌]<INFO>25638</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\n\t\t<TIPBOX>▶转到上一页<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9092] = {
+		Title = "迷宫的幻象",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在普隆德拉北域的迷宫地下城中，你会遇到幽灵形态的艾琳。\n\t\t艾琳要你告诉公会会长来拯救她和她的战友。\n\t\t\n\t\t^663399◈170级以上^000000\n\t\t\n\t\t<NAVI>[艾琳]<INFO>prt_maze01,97,26,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶欢迎调查队讨伐任务\n\t\t<TIPBOX>Q 击败 100 个迷宫幻象 (170)<INFO>9133</INFO></TIPBOX>\n\t\t\n\t\t▶完成任务后可以执行的每日任务\n\t\t<TIPBOX>Q 安德莉亚的复仇​​ I (170)<INFO>9113</INFO></TIPBOX>\n\t\t<TIPBOX>Q 安德莉亚的复仇​​ II(170)<INFO>9114</INFO></TIPBOX>\n\t\t<TIPBOX>Q 艾格尼丝的复仇 I (170)<INFO>9115</INFO></TIPBOX>\n\t\t<TIPBOX>Q 艾格尼丝的复仇 II (170)<INFO>9116</INFO></TIPBOX>\n\t\t<TIPBOX>Q 西尔瓦诺的复仇 I (170)<INFO>9117</INFO></TIPBOX>\n\t\t<TIPBOX>Q 西尔瓦诺的复仇 II (170)<INFO>9118</INFO></TIPBOX>\n\t\t<TIPBOX>Q 塞西莉亚的复仇​​ I (170)<INFO>9119</INFO></TIPBOX>\n\t\t<TIPBOX>Q 塞西莉亚的复仇​​ II (170)<INFO>9120</INFO></TIPBOX>\n\t\t\n\t\t▶完成任务后可以执行的每周任务\n\t\t<TIPBOX>Q 思想净化 (170)<INFO>9121</INFO></TIPBOX>\n\n\t\t\n\t\t在玩《幻境迷宫》时获得。<ITEM>[幻想石]<INFO>25271</INFO></ITEM>您可以使用包括作为材料的物品来交换一些装备物品以获得更好的性能。\n\t\t想要交换的装备必须精炼到+9以上，现有的装备强化、卡牌选项等都会消失。\n\t\t^663399◈兑换地点^000000\n\t\t▶<NAVI>[埃斯梅拉达]<INFO>prt_fild01,141,367,0,101,0</INFO></NAVI>\n\t\t▷<ITEM>[幻觉睡眠的<INFO>19428</INFO></ITEM>\n\t\t<ITEM>引擎盖[1]]<INFO>19428</INFO></ITEM>\n\t\t+9 <ITEM>[墨菲修斯的兜帽]<INFO>5126</INFO></ITEM>, <ITEM>【一块蓬松的布】<INFO>25775</INFO></ITEM>100,<ITEM>[冷圣水]<INFO>25783</INFO></ITEM>50、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻觉睡眠的<INFO>20948</INFO></ITEM>\n\t\t<ITEM>学校[1]]<INFO>20948</INFO></ITEM>\n\t\t+9<ITEM>[莫菲修斯的披肩]<INFO>2518</INFO></ITEM>, <ITEM>【七彩果冻】<INFO>25778</INFO></ITEM>100,<ITEM>[药袋]<INFO>25782</INFO></ITEM>50、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻觉睡眠的<INFO>32238</INFO></ITEM>\n\t\t<ITEM>环[1]]<INFO>32238</INFO></ITEM>\n\t\t<ITEM>[墨菲修斯之戒]<INFO>2648</INFO></ITEM>, <ITEM>【非常坚硬的紫色外壳】<INFO>25776</INFO></ITEM>100,<ITEM>【小而漂亮的蜡烛】<INFO>25781</INFO></ITEM>50、<ITEM>[恶魔的本质]<INFO>25780</INFO></ITEM>15、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻觉睡眠的<INFO>32239</INFO></ITEM>\n\t\t<ITEM>手镯[1]]<INFO>32239</INFO></ITEM>\n\t\t<ITEM>[墨菲修斯的手镯]<INFO>2649</INFO></ITEM>, <ITEM>[神秘的闷棍]<INFO>25777</INFO></ITEM>100,<ITEM>【小手电筒】<INFO>25784</INFO></ITEM>50、<ITEM>[恶魔的本质]<INFO>25780</INFO></ITEM>15、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻象屠夫[2]]<INFO>28254</INFO></ITEM>\n\t\t+9 <ITEM>[屠夫[1]]<INFO>13159</INFO></ITEM>, <ITEM>[美味的果汁]<INFO>25772</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象大邱云[2]]<INFO>21050</INFO></ITEM>\n\t\t+9 <ITEM>[大邱涟[2]]<INFO>1181</INFO></ITEM>, <ITEM>[短线]<INFO>25779</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象金奢华[2]]<INFO>32301</INFO></ITEM>\n\t\t+9 <ITEM>[金色外观]<INFO>13106</INFO></ITEM>, <ITEM>【蛇毒】<INFO>25773</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象巴泽拉德[2]]<INFO>28762</INFO></ITEM>\n\t\t+9 <ITEM>[巴泽拉德]<INFO>1231</INFO></ITEM>, <ITEM>【螳螂花】<INFO>25774</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\n\t\t<TIPBOX>▶转到上一页<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9093] = {
+		Title = "水下幻觉",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"距离西鲁德在伊兹鲁德钓鱼时失踪已经三个月了。突然，西鲁德的钓鱼竿被发现。\n\t\t西鲁德的朋友审问海洋学家杰里蒙以寻找线索……\n\t\t^663399◈140级以上^000000\n\t\t\n\t\t<NAVI>[获得]<INFO>izlude,132,49,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶欢迎调查队讨伐任务\n\t\t<TIPBOX>Q 击败 100 个水下幻象 (180)<INFO>9134</INFO></TIPBOX>\n\t\t\n\t\t▶完成任务后可以执行的每日任务\n\t\t<TIPBOX>Q 收集深渊精华 (140)<INFO>9122</INFO></TIPBOX>\n\t\t<TIPBOX>Q 击败上层深海生物 (140)<INFO>9123</INFO></TIPBOX>\n\t\t<TIPBOX>Q 击败下层深海生物 (180)<INFO>9124</INFO></TIPBOX>\n\t\t<TIPBOX>Q 击败下层鱼人 (180)<INFO>9125</INFO></TIPBOX>\n\t\t\t\t\n\t\t在玩水下幻象时获得。<ITEM>[幻想石]<INFO>25271</INFO></ITEM>您可以使用包括作为材料的物品来交换一些装备物品以获得更好的性能。\n\t\t想要交换的装备必须精炼到+9以上，现有的装备强化、卡牌选项等都会消失。\n\t\t^663399◈兑换地点^000000\n\t\t▶<NAVI>[霍伦]<INFO>iz_d04_i,134,228,0,101,0</INFO></NAVI>\n\t\t▷<ITEM>[幻象电鳗[2]]<INFO>580008</INFO></ITEM>\n\t\t+9 <ITEM>[电鳗[2]]<INFO>1972</INFO></ITEM>, <ITEM>【深海里的海星】<INFO>25895</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象电吉他[2]]<INFO>570008</INFO></ITEM>\n\t\t+9<ITEM>[电吉他]<INFO>1913</INFO></ITEM>, <ITEM>【深海里的海星】<INFO>25895</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象布鲁纳克[2]]<INFO>630006</INFO></ITEM>\n\t\t+9 <ITEM>[布鲁纳克]<INFO>1470</INFO></ITEM>, <ITEM>【深海鱼尾】<INFO>25893</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象希琳<INFO>610012</INFO></ITEM>\n\t\t<ITEM>冰柱卡特里[2]]<INFO>610012</INFO></ITEM>\n\t\t+9 <ITEM>[寒冷冰柱的卡塔尔[3]]<INFO>1275</INFO></ITEM>, <ITEM>[深海蟹]<INFO>25896</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象死亡使者[2]]<INFO>600011</INFO></ITEM>\n\t\t+9 <ITEM>[死亡使者[2]]<INFO>1186</INFO></ITEM>, <ITEM>[腐败的深海鱼]<INFO>25894</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象西风[2]]<INFO>630007</INFO></ITEM>\n\t\t+9 <ITEM>[泽普罗斯[3]]<INFO>1481</INFO></ITEM>, <ITEM>[深海贝壳]<INFO>25892</INFO></ITEM>150、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>【幻境圣袍[1]]<INFO>450144</INFO></ITEM>\n\t\t+9 <ITEM>[圣袍[1]]<INFO>2326</INFO></ITEM>, <ITEM>【深海鱼尾】<INFO>25893</INFO></ITEM>100,<ITEM>[深渊精华]<INFO>25899</INFO></ITEM>20、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>90\n\t\t▷<ITEM>[幻象大海的呐喊[1]]<INFO>450145</INFO></ITEM>\n\t\t+9 <ITEM>[[智人]的海<INFO>2347</INFO></ITEM>\n\t\t<ITEM>嚎叫[1]]<INFO>2347</INFO></ITEM>, <ITEM>[深海蟹]<INFO>25896</INFO></ITEM>100,<ITEM>[深渊精华]<INFO>25899</INFO></ITEM>20、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>90\n\t\t▷<ITEM>[幻象邮件[1]]<INFO>450146</INFO></ITEM>\n\t\t+9 <ITEM>[邮件[1]]<INFO>2315</INFO></ITEM>, <ITEM>【深海里的海星】<INFO>25895</INFO></ITEM>100,<ITEM>[深渊精华]<INFO>25899</INFO></ITEM>20、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>90\n\t\t▷<ITEM>[幻象莫莉安头盔[1]]<INFO>400053</INFO></ITEM>\n\t\t+9 <ITEM>[莫里安头盔]<INFO>5127</INFO></ITEM>, <ITEM>[深海蟹]<INFO>25896</INFO></ITEM>100,<ITEM>[深渊精华]<INFO>25899</INFO></ITEM>50、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻象莫莉安的斗篷[1]]<INFO>480054</INFO></ITEM>\n\t\t+9 <ITEM>[莫莉安的斗篷]<INFO>2519</INFO></ITEM>, <ITEM>[腐败的深海鱼]<INFO>25894</INFO></ITEM>100,<ITEM>[深渊精华]<INFO>25899</INFO></ITEM>50、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻象莫莉安腰带[1]]<INFO>490069</INFO></ITEM>\n\t\t<ITEM>[莫莉安的腰带]<INFO>2650</INFO></ITEM>, <ITEM>【深海鱼尾】<INFO>25893</INFO></ITEM>100,<ITEM>[深海海妖之桥]<INFO>7324</INFO></ITEM>15、<ITEM>[深渊精华]<INFO>25899</INFO></ITEM>50、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻象莫莉安的<INFO>490070</INFO></ITEM>\n\t\t<ITEM>吊坠[1]]<INFO>490070</INFO></ITEM>\n\t\t<ITEM>[莫莉安的吊坠]<INFO>2651</INFO></ITEM>, <ITEM>[深海贝壳]<INFO>25892</INFO></ITEM>100,<ITEM>【深海魔女的棺材】<INFO>25897</INFO></ITEM>15、<ITEM>[深渊精华]<INFO>25899</INFO></ITEM>50、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\n\t\t<TIPBOX>▶转到上一页<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9094] = {
+		Title = "Q 阻止大巫师！ (100)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"粗略猜测，去除噩梦的根源就可以解决这个问题。\n\t\t他们说，四处游荡的邪恶巫师一定是噩梦的罪魁祸首……\n\t\t巫师和这里的一切也可能是梦境的一部分，但首先让我们来对付巫师，找出为什么梦境与现实之间的界限已经崩溃。\n\t\t\n\t\t<NAVI>【学士学位素描】<INFO>pay_d03_i,149,45,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶月光的幻觉<INFO>9086</INFO></TIPBOX>完全的\n\t\t^663399◈100级以上^000000\n\n\t\t<TIPBOX>▶转到上一页<INFO>9086</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9095] = {
+		Title = "问：幻想是没有怜悯的。 (100)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"大青海受到九尾狐的骚扰。我不是不理解九尾狐的愤怒，但我们也必须解决这个问题。\n\t\t让我们帮助九尾狐不要干扰大青海吧。\n\t\t\n\t\t<NAVI>[士兵申正熙]<INFO>pay_d03_i,152,45,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶月光的幻觉<INFO>9086</INFO></TIPBOX>完全的\n\t\t^663399◈100级以上^000000\n\n\t\t<TIPBOX>▶转到上一页<INFO>9086</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9096] = {
+		Title = "Q 纪念我们祖先的灵魂 (100)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在你的周围，你可以看到过去试图保护村民的士兵们的怨恨。\n\t\t让我们让那些怨恨如此深重的士兵们的灵魂安息吧。\n\t\t\n\t\t<NAVI>[士兵申正熙]<INFO>pay_d03_i,152,45,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶月光的幻觉<INFO>9086</INFO></TIPBOX>完全的\n\t\t^663399◈100级以上^000000\n\n\t\t<TIPBOX>▶转到上一页<INFO>9086</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9097] = {
+		Title = "问：好奇心是本能 (130)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"由于冷酷牧师的干扰，Mojo 对过去僵尸的研究无法进行。让我们帮 Mojo 的忙，杀死僵尸并获得物品。\n  \n  <NAVI>[魔法师魔力]<INFO>gef_dun01,134,224,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶吸血鬼的幻觉<INFO>9087</INFO></TIPBOX>完全的\n  ^663399◈130级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9087</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9098] = {
+		Title = "Q 所有死去的东西都会沉入地下 (130)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"杰姆修女责成冒险家帮助所有死者返回地球并安息。\n  \n  <NAVI>[杰姆姐妹]<INFO>gef_d01_i,113,230,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶吸血鬼的幻觉<INFO>9087</INFO></TIPBOX>完全的\n  ^663399◈130级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9087</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9099] = {
+		Title = "Q 甜蜜的梦 (130)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"安托万想要研究幻境内的梦魇与幻境外的梦魇之间的区别。\n  \n  <NAVI>[巫师安托万]<INFO>gef_d01_i,116,228,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶吸血鬼的幻觉<INFO>9087</INFO></TIPBOX>完全的\n  ^663399◈130级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9087</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9100] = {
+		Title = "Q 不安的假血 (130)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"我们去为不能喝活人血的波密去拿制作假血的材料吧。\n  \n  <NAVI>[波密]<INFO>gef_d01_i,81,135,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶吸血鬼的幻觉<INFO>9087</INFO></TIPBOX>完全的\n  ^663399◈130级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9087</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9101] = {
+		Title = "Q 情绪问题 (130)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"King要求你处理掉周围那些制造噪音的事物，这样你才能安静地生活。我们先杀掉蝙蝠，让周围安静下来，然后获取制作斗篷的材料。\n  \n  <NAVI>[国王]<INFO>gef_d01_i,185,97,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶吸血鬼的幻觉<INFO>9087</INFO></TIPBOX>完全的\n  ^663399◈130级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9087</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9102] = {
+		Title = "Q 贤雪地宫 (130)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"让经常写错字的乔乔买一种发光材料，让他即使在黑暗中也能舒适地学习。\n  \n  <NAVI>[乔乔]<INFO>gef_d01_i,191,96,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶吸血鬼的幻觉<INFO>9087</INFO></TIPBOX>完全的\n  ^663399◈130级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9087</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9103] = {
+		Title = "Q 一段不能忘记的记忆（150）",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"一切结束的第二天，我去看了那个女孩，但她似乎什么都不记得了。\n\t\t就按照少女所说的去做吧，恢复她被遗忘的记忆吧。\n  \n  <NAVI>[女孩]<INFO>tur_d03_i,139,186,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶古阳宫幻象<INFO>9089</INFO></TIPBOX>完全的\n  ^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9089</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9104] = {
+		Title = "Q 虚荣的欲望 (150)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这名士兵崩溃了，说他找不到宝藏是因为古阳宫里有强大的怪物。\n\t\t让我们为他猎杀怪物并取回他声称的宝藏。\n  \n  <NAVI>[敏感的士兵]<INFO>tur_d03_i,235,187,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶古阳宫幻象<INFO>9089</INFO></TIPBOX>完全的\n  ^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9089</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9105] = {
+		Title = "Q 无尽的饥饿 (150)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"那个无精打采的女人说她已经饿了很长时间了，并要求你去猎杀乌龟怪物并得到一些肉。\n\t\t不过这里的肉都是通过猎杀怪物得到的……\n  \n  <NAVI>【没有力气的女人】<INFO>tur_d04_i,97,112,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶古阳宫幻象<INFO>9089</INFO></TIPBOX>完全的\n  ^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9089</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9106] = {
+		Title = "问：逃跑！！！ (150)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"史蒂文说他将留在幻象并拯救其他娃娃制造商。\n\t\t让我们帮助他，让工匠们能够逃脱。\n  \n  <NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶泰迪熊的幻觉<INFO>9090</INFO></TIPBOX>完全的\n  ^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9090</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9107] = {
+		Title = "不应该存在的问题 (150)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"废弃矿井的角落里躺着一只泰迪熊。\n\t\t郁闷的泰迪熊说它们不应该存在在这里，并要求被送回地下深处。\n  \n  <NAVI>[忧郁的泰迪熊]<INFO>ein_d02_i,168,206,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶泰迪熊的幻觉<INFO>9090</INFO></TIPBOX>完全的\n  ^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9090</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9108] = {
+		Title = "Q 让光明吞噬黑暗。 (150)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"一只巨大的发光泰迪熊挡住了出去的路。\n\t\t让我们杀死娃娃，这样娃娃制造者就可以逃脱。\n  \n  <NAVI>【陶娃娃工匠】<INFO>ein_d02_i,191,192,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶泰迪熊的幻觉<INFO>9090</INFO></TIPBOX>完全的\n  ^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9090</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9109] = {
+		Title = "Q 巨石部落被消灭的证据 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"村里的请求公告栏包含村长发布的请求。\n\t\t让我们征服巨石部落，带上3个巨石令牌作为证据，并向罗安达报告。\n  \n  <NAVI>[请求公告板]<INFO>com_d02_i,238,266,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶罗安达的幻觉<INFO>9091</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9091</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9110] = {
+		Title = "Q 乌坦部落被消灭的证据 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"村里的请求公告栏包含村长发布的请求。\n\t\t让我们制服乌坦人，带上3个乌坦令牌作为证据，并向罗安达举报。\n  \n  <NAVI>[请求公告板]<INFO>com_d02_i,238,266,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶罗安达的幻觉<INFO>9091</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9091</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9111] = {
+		Title = "Q 巨石消灭行动 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"村里的请求公告栏包含村长发布的请求。\n\t\t我们先杀掉五个远古三关节、远古立体傀儡和远古巨石，然后向罗安达报告。\n  \n  <NAVI>[请求公告板]<INFO>com_d02_i,238,266,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶罗安达的幻觉<INFO>9091</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9091</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9112] = {
+		Title = "Q 消灭乌坦族行动（160）",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"村里的请求公告栏包含村长发布的请求。\n\t\t我们先杀掉五名远古石射手、远古子弹射手、远古斗牛士，然后向罗安达报告。\n  \n  <NAVI>[请求公告板]<INFO>com_d02_i,238,266,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶罗安达的幻觉<INFO>9091</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9091</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9113] = {
+		Title = "Q 安德莉亚的复仇​​ I (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"安德里亚被一个齐膝高的小生物挥舞的镰刀致命伤。\n\t\t让我们杀死 5 个小混沌巴风特并报告。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9114] = {
+		Title = "Q 安德莉亚的复仇​​ II(170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"安德莉亚在遭受致命的肉体伤害后，试图用自己的精神力来治愈，但她的灵魂却被这个混沌存在所压制，她不得不放弃复活。\n\t\t我们先杀掉那两只混沌鬼灵，然后汇报情况。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9115] = {
+		Title = "Q 艾格尼丝的复仇 I (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这只速度快而凶猛的昆虫给了濒临死亡的艾格尼丝以决定性的一击。\n\t\t让我们杀死 5 只混沌猎蝇并报告。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9116] = {
+		Title = "Q 艾格尼丝的复仇 II (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"当她迷路时，她被从灌木丛中跳出来的残忍掠食者袭击并受了致命伤。\n\t\t让我们杀死 5 只混沌杀手并报告。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9117] = {
+		Title = "Q 西尔瓦诺的复仇 I (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"西尔瓦诺清楚地记得是谁袭击了他，并使他处于濒临死亡的状态。\n\t\t我们杀掉5只混沌螳螂然后报告吧。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9118] = {
+		Title = "Q 西尔瓦诺的复仇 II (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"处于濒死状态的西尔瓦诺连恢复咒语都来不及吟唱，他尝试着使用药剂，但背包里的药剂全部被这只软弱无力的怪物吞掉了。\n\t\t我们杀掉 5 只混沌波波林并报告吧。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9119] = {
+		Title = "Q 塞西莉亚的复仇​​ I (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"塞西莉亚一时疲惫不堪，坐在那里就被这个怪物咬了一口。麻痹之毒迅速蔓延全身，她无法动弹。\n\t\t让我们杀死 5 只混沌响尾蛇并报告。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9120] = {
+		Title = "Q 塞西莉亚的复仇​​ II (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"她现在处于麻痹毒无法动弹的状态，又被这个尖刺怪物击中了贯穿伤。\n\t\t让我们杀死 3 只混沌茎虫并报告。\n  \n\t\t<NAVI>[安德里亚]<INFO>prt_maze01,97,21,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9121] = {
+		Title = "Q 思想净化 (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"每周一次，你可以从弗龙特拉迷宫森林一楼的艾格尼丝那里收到一次思想净化请求。\n\t\t如果您接受请求，您将收到混沌安德莉亚、混沌艾格尼丝、混沌西尔瓦诺和混沌塞西莉亚。你将驱除四位牧师之一的思想。这种念头是灵魂净化过程中怨恨仇恨的渗漏和凝结而生的，是不以灵魂意志为转移的实体。\n  \n\t\t<NAVI>[阿内斯]<INFO>prt_maze01,97,25,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶迷宫的错觉<INFO>9092</INFO></TIPBOX>完全的\n  ^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9122] = {
+		Title = "Q 收集深渊精华 (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"杰里蒙还需要 10 个深海精华用于研究。\n  \n\t\t<NAVI>[杰里蒙]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶水下幻觉<INFO>9093</INFO></TIPBOX>完全的\n  ^663399◈140级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9123] = {
+		Title = "Q 击败上层深海生物 (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"杰里蒙要求你杀死妨碍他研究的深海斯洛波、深海德维乌斯和深海玛斯各 10 个人。\n  \n\t\t<NAVI>[杰里蒙]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶水下幻觉<INFO>9093</INFO></TIPBOX>完全的\n  ^663399◈140级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9124] = {
+		Title = "Q 击败下层深海生物 (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"肯娜要求你杀死威胁她安全的深海剑鱼、深海扇和深海王德拉莫各 10 只。\n  \n\t\t<NAVI>[肯纳]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶水下幻觉<INFO>9093</INFO></TIPBOX>完全的\n  ^663399◈180级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9125] = {
+		Title = "Q 击败下层鱼人 (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"肯纳请求您杀死威胁她安全的深海塞多拉和深海斯特拉夫各 15 只。\n  \n\t\t<NAVI>[肯纳]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶水下幻觉<INFO>9093</INFO></TIPBOX>完全的\n  ^663399◈180级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9126] = {
+		Title = "关于欢迎调查组#Illusion",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"一支受欢迎的调查小组终于成立，专门调查幻象。\n\t\t调查组的首要任务就是测量各个幻境内怪物的恢复速度。调查组成员虽然已经出动，但战斗力严重不足。\n\t\t于是，调查组接纳了冒险者为团队成员，并向成员们布置了任务。\n\t\t普隆德拉欢迎调查组组长<NAVI>[乔尔]<INFO>prt_in,136,34,</INFO></NAVI>申请会员资格后，您可以在每个幻象地下城中执行额外的每日任务。\n\t\t^663399◈100级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9085</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9127] = {
+		Title = "Q 击败 100 个月光幻象 (100)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"胆怯的吉洛克试图通过炫耀来打动心仪的艾丽西亚，结果被关进了梦魇的梦魇地下城。\n\t\t该任务是杀死吉洛克所在地图上的100只怪物。\n  \n\t\t<NAVI>[格罗克]<INFO>pay_d03_i,149,34,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈100级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9086</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9128] = {
+		Title = "Q 杀死 100 只幻象吸血鬼 (130)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"拉迪米尔充满动力，是一个意志战胜恐惧的人。\n\t\t该任务是杀死拉迪米尔所在地图上的100个怪物。\n  \n\t\t<NAVI>[拉迪米尔]<INFO>gef_d01_i,122,237,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈130级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9087</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9129] = {
+		Title = "Q 杀死 100 冰冻幻象 (120)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"虽然艾丽西亚担心派往其他地方的同事胆怯的吉洛克，但她知道自己的工作是第一位的。\n\t\t这个任务是杀死Elysia所在地图上的100个怪物。\n  \n\t\t<NAVI>[艾丽西亚]<INFO>ice_d03_i,145,25,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈120级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9088</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9130] = {
+		Title = "Q 击败100个古阳宫幻象 (150)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"一个现实的奥里安是一个令人向往的社会人物，只要报酬丰厚，他似乎就能完成任何事情。\n\t\t这个任务是杀死奥里安所在地图上的100个怪物。\n  \n\t\t<NAVI>[奥里安]<INFO>tur_d03_i,125,186,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9089</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9131] = {
+		Title = "Q 击败 100 只泰迪熊的幻象 (150)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"被可爱的小熊外表迷惑而选择派遣目的地的真町子，是在身心完全失修的情况下，忠实履行自己职责的伟大社会成员。\n\t\t这个任务是杀死Machoko所在地图上的100个怪物。\n  \n\t\t<NAVI>[猛男]<INFO>ein_d02_i,161,180,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈150级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9090</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9132] = {
+		Title = "Q 消灭 100 个罗安达幻象 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"凯西斯在弗龙特拉经营一家商店，他对面对面的工作感到压力，于是加入了调查小组。我很高兴这份工作看起来很适合我。\n\t\t这个任务是杀死Kesis所在地图上的100个怪物。\n  \n\t\t<NAVI>[凯西斯]<INFO>com_d02_i,253,232,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9091</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9133] = {
+		Title = "Q 击败 100 个迷宫幻象 (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"与调查组的其他成员不同，塞里安似乎有一个目的，就是研究自己的理论。\n\t\t这个任务是杀死弗龙特拉迷宫森林中的100只怪物。\n  \n\t\t<NAVI>[特里安]<INFO>prt_mz03_i,97,31,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈170级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9092</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9134] = {
+		Title = "Q 击败 100 个水下幻象 (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"作为杰里蒙的弟子，莉斯塔想成为一个能引起杰里蒙注意的伟大人物。\n\t\t这个任务是杀死深渊洞窟下层的100只怪物。\n  \n\t\t<NAVI>[莉斯塔]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈180级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9135] = {
+		Title = "第四份工作#第四份工作",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"完成第3转职的冒险者经验值增加后，可以转职到第4转职。\n\t\t更多的技能和伟大的冒险等待着你。\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t\n\t\t※警告\n\t\t冒险者在非转职状态下转为第三职业时，基础等级达到200级时<NAVI>[我来揭晓]<INFO>prt_in,285,161,0,101,0,</INFO></NAVI>支持传输。\n\n\t\t<TIPBOX>▶前往职位页面<INFO>9031</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9136] = {
+		Title = "第四次工作变动任务#第四次工作变动",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"基础等级为200且职业等级为70以上的第3职业可以变更为第4职业。\n\t\t<TIPBOX>▷龙骑士<INFO>9137</INFO></TIPBOX>\n\t\t<TIPBOX>▷帝国卫队<INFO>9138</INFO></TIPBOX>\n\t\t<TIPBOX>▷大法师<INFO>9139</INFO></TIPBOX>\n\t\t<TIPBOX>▷元素大师<INFO>9140</INFO></TIPBOX>\n\t\t<TIPBOX>▷名师<INFO>9141</INFO></TIPBOX>\n\t\t<TIPBOX>▷中提琴<INFO>9142</INFO></TIPBOX>\n\t\t<TIPBOX>▷红衣主教<INFO>9143</INFO></TIPBOX>\n\t\t<TIPBOX>▷ 审判官<INFO>9144</INFO></TIPBOX>\n\t\t<TIPBOX>▷暗影十字<INFO>9145</INFO></TIPBOX>\n\t\t<TIPBOX>▷深渊追击者<INFO>9146</INFO></TIPBOX>\n\t\t<TIPBOX>▷风鹰<INFO>9147</INFO></TIPBOX>\n\t\t<TIPBOX>▷游吟诗人<INFO>9148</INFO></TIPBOX>\n\t\t<TIPBOX>▷特鲁弗<INFO>9149</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶转到上一页<INFO>9135</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9137] = {
+		Title = "JQ龙骑士进阶",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"龙骑士，是符文骑士变化出来的第四职业，自由使用双手武器，挥舞以武器形式体现自己意志的仆从武器。\n\t\t基本攻击时，可以使用从属武器进行追加攻击，还可以进行强力的范围攻击。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：符文骑士^000000\n\n\t\t<NAVI>[奥斯卡]<INFO>gef_fild08,54,101,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9138] = {
+		Title = "JQ禁卫军变动",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"皇家卫队是皇家卫队的第四种职业，使用剑和盾，是那些对真正力量有信心的人。\n\t\t既然你基本上可以操控神圣力量，那么你就可以使用更强大的神圣攻击。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：皇家卫队^000000\n\n\t\t<NAVI>[国王的骑士]<INFO>prt_cas,181,10,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9139] = {
+		Title = "JQ大法师进阶",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"第四职业，由术士变身的大法师，在强大的魔法中增添了美感，呈现出梦幻般的魔法。\n\t\t你可以创造一个火焰花园，并使用冰魔法让你周围下雨。此外，他还是一个幻想巫师，当高潮开始时，他现有的魔法会变得更加强大。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：术士^000000\n\n\t\t<NAVI>【巴蒙府邸花园】<INFO>ba_maison,200,256,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9140] = {
+		Title = "JQ元素大师改动",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"元素师，是从魔法师转变而来的第四个职业，是一个专门处理自然元素的职业。通过强化现有的灵魂，你可以召唤新的灵魂或使用自然元素魔法。\n\t\t它还使用各种辅助魔法，例如增加盟友的魔法强度。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：魔法师^000000\n\n\t\t<NAVI>[格芬塔]<INFO>gef_tower,119,29,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9141] = {
+		Title = "前JQ大师",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"机械师是第4个职业，机械师，机械工程大师，可以随意控制自主战斗机器人。\n\t\t此外，他还可以制造各种装置来保护或加强他的盟友，并且他还表现出作为战斗支持者的出色能力。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：机械师^000000\n\n\t\t<NAVI>[罗迪]<INFO>yuno,111,208,0,101,0,</INFO></NAVI>\n\t\t<NAVI>[薄雾]<INFO>yuno,114,208,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9142] = {
+		Title = "改成JQ小提琴",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"Violo 是 Generic 的第四位跳槽者，他是生物技术专家，在战斗中使用植物性生物能源。\n\t\t此外，他还制作各种解决方案并在战斗中使用它们，发挥了作为战斗支援者的出色能力。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：通用^000000\n\n\t\t<NAVI>[阿尔迪娜]<INFO>verus04,157,165,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9143] = {
+		Title = "前 JQ 红衣主教",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"枢机主教是从大主教演变而来的第四职，是神的代表，可以自由使用神力。\n\t\t它是一种专门的辅助工作，可以治愈或增强盟友更多的神圣力量，但它也可以驱除怪物或为武器注入神圣魔法。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：大主教^000000\n\n\t\t<NAVI>[耶古斯牧师]<INFO>prt_church,184,101,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▷旅行者的纪念碑<INFO>8370</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9144] = {
+		Title = "前JQ调查官",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"审判官，是从苏拉变化出来的第四个职业，是神的审判的代理人。\n\t\t审判官隶属于一个宗教团体，通过信仰一步步强化自己，让他们能够发动更加多样化的攻击。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：苏拉^000000\n\n\t\t<NAVI>[弗龙特拉旅馆]<INFO>prt_in,250,129,0,101,0,</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▷旅行者的纪念碑<INFO>8370</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9145] = {
+		Title = "JQ影十字转职",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"暗影十字是断头十字变更后的第四个职业，拥有隐藏身体的同时让敌人出其不意的能力。\n\t\t此外，如果你使用匕首作为主要武器，你可以旋转刀片对接近的目标造成伤痕。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：断头台十字架^000000\n\n\t\t<NAVI>[鲁明]<INFO>job3_guil01,74,92,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9146] = {
+		Title = "前JQ深渊追击者",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"深渊追击者，是追影者变化出来的第四个职业，利用深渊的力量进行各种攻击。\n\t\t你可以像魔法一样使用深渊，或者将其集中在你的匕首尖端以最大化伤害。此外，您可以通过对箭头尖端施加力量来执行连锁攻击。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：追影者^000000\n\n\t\t<NAVI>[维森特]<INFO>s_atelier,122,59,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9147] = {
+		Title = "JQ Windhawk 前工作",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"风鹰，游侠第四转职者，是利用风的强大力量的神枪手。\n\t\t风鹰拥有利用风的力量射箭的技能，还具有与动物交流的能力，使他能够同时使用座狼和猎鹰。\n\t\t这也是一个可以利用引起各种状态异常的陷阱的全能职业。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：游侠^000000\n\n\t\t<NAVI>[佩永]<INFO>payon,100,177,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9148] = {
+		Title = "前 JQ 游吟诗人",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"吟游诗人是吟游诗人的第四个职业，吟唱优美的旋律，鼓舞盟友的士气。\n\t\t你可以利用音乐的力量进行战斗，增强盟友的力量或削弱敌人的力量。\n\t\t这是一项通过歌曲推翻战场领导权的工作。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：吟游诗人^000000\n\n\t\t<NAVI>[传单兼职]<INFO>lighthalzen,186,124,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9149] = {
+		Title = "前JQ特鲁伯特",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"特鲁伯特是流浪者的第四个职业，他会唱出优美的旋律，鼓舞盟友的士气。\n\t\t你可以利用音乐的力量进行战斗，增强盟友的力量或削弱敌人的力量。\n\t\t这是一项通过歌曲推翻战场领导权的工作。\n\t\t^663399◈基础等级200以上^000000\n\t\t^663399◈工作等级70级以上^000000\n\t\t^663399◈目标：流浪者^000000\n\n\t\t<NAVI>【金苹果酋长】<INFO>comodo,142,165,0,101,0,</INFO></NAVI>\n\n\t\t<TIPBOX>▶第四次转职任务<INFO>9136</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9150] = {
+		Title = "Q大宴会厅、地府深处 (200)#200",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在天堂里，有一位眼睛发光的老人，为了招募无所事事的冒险者……不，是强大的冒险者。\n\t\t他唯一的目的就是证实有关尼福尔海姆的传闻。\n\t\t^663399◈200级以上^000000\n\t\t\n\t\t<NAVI>[无学者]<INFO>moc_para01,14,19,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶本地任务：尼福尔海姆<INFO>4154</INFO></TIPBOX>\n\t\t<TIPBOX>▶任务等级200~209<INFO>4135</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9151] = {
+		Title = "Q 看起来很可爱 (200)#200",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尼福尔海姆的米拉觉得自己死后也睡不好觉很不公平。\n\t\t要想帮助她，我想你只需斥责在死人宴会厅里闹腾的鬼立方和卢德加尔就行了。\n\t\t^663399◈200级^000000\n\t\t\n\t\t<NAVI>[死者看上去很疲惫]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶地府深处的大宴会厅<INFO>9150</INFO></TIPBOX>完全的\n\t\t^663399◈200级以上^000000\n\t\t\n\t\t<TIPBOX>▶本地任务：尼福尔海姆<INFO>4154</INFO></TIPBOX>\n\t\t<TIPBOX>▶任务等级200~209<INFO>4135</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9152] = {
+		Title = "Q 那不是乐器 (200)#200",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尼福尔海姆的米拉觉得自己死后也睡不好觉很不公平。\n\t\t为了帮助她，我想你只需惩罚在死人宴会厅里闹腾的凶手和甘坎就行了。\n\t\t^663399◈200级^000000\n\t\t\n\t\t<NAVI>[死者看上去很疲惫]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶地府深处的大宴会厅<INFO>9150</INFO></TIPBOX>完全的\n\t\t^663399◈200级以上^000000\n\t\t\n\t\t<TIPBOX>▶本地任务：尼福尔海姆<INFO>4154</INFO></TIPBOX>\n\t\t<TIPBOX>▶任务等级200~209<INFO>4135</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9153] = {
+		Title = "Q 弹钢琴（200）#200",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尼福尔海姆的米拉叫你来敲死人宴会厅的大钢琴。\n\t\t对生者不会有影响，但会对米拉打扰她睡眠的朋友造成很大的伤害。\n\t\t^663399◈200级^000000\n\t\t\n\t\t<NAVI>[死者看上去很疲惫]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶地府深处的大宴会厅<INFO>9150</INFO></TIPBOX>完全的\n\t\t^663399◈200级以上^000000\n\t\t\n\t\t<TIPBOX>▶本地任务：尼福尔海姆<INFO>4154</INFO></TIPBOX>\n\t\t<TIPBOX>▶任务等级200~209<INFO>4135</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9154] = {
+		Title = "浓密头发的 Q 男孩 (240)#240",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尼福尔海姆的米拉让你责骂在倒塌的歌剧院里闹腾的伪装者和蓝月罗里鲁里。\n\t\t怨恨似乎如此之深，连死人都无法入睡。\n\t\t^663399◈240级^000000\n\t\t\n\t\t<NAVI>[死者看上去很疲惫]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶地府深处的大宴会厅<INFO>9150</INFO></TIPBOX>完全的\n\t\t^663399◈200级以上^000000\n\t\t\n\t\t<TIPBOX>▶本地任务：尼福尔海姆<INFO>4154</INFO></TIPBOX>\n\t\t<TIPBOX>▶任务等级240~249<INFO>4139</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9155] = {
+		Title = "Q 娃娃 (240)#240",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尼福尔海姆的米拉请你责骂在倒塌的歌剧院制造麻烦的格罗特和皮埃罗佐伊斯特。\n\t\t楼层之间的噪音似乎连死人都会生气。\n\t\t^663399◈240级^000000\n\t\t\n\t\t<NAVI>[死者看上去很疲惫]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶地府深处的大宴会厅<INFO>9150</INFO></TIPBOX>完全的\n\t\t^663399◈200级以上^000000\n\t\t\n\t\t<TIPBOX>▶本地任务：尼福尔海姆<INFO>4154</INFO></TIPBOX>\n\t\t<TIPBOX>▶任务等级240~249<INFO>4139</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9156] = {
+		Title = "Q 叫醒他们 (240)#240",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尼福尔海姆的米拉在倒塌的歌剧院的框架里筑巢，要求沉睡的死者捏住他们的鼻子来唤醒他们。\n\t\t楼层间的噪音令人厌恶。\n\t\t^663399◈240级^000000\n\t\t\n\t\t<NAVI>[死者看上去很疲惫]<INFO>niflheim,164,102,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶地府深处的大宴会厅<INFO>9150</INFO></TIPBOX>完全的\n\t\t^663399◈200级以上^000000\n\t\t\n\t\t<TIPBOX>▶本地任务：尼福尔海姆<INFO>4154</INFO></TIPBOX>\n\t\t<TIPBOX>▶任务等级240~249<INFO>4139</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9157] = {
+		Title = "双胞胎的错觉",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在蚂蚁地狱二层的某处发现了一个未知的空间。\n\t\t据说，有一位冒险家独自去那里探险，说有一位长得和他一模一样的朋友遇到了危险。\n\t\t冒险家的同伴们请求救援，说他们一定是看到了什么东西……\n\t\t^663399◈160级以上^000000\n\t\t\n\t\t<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶欢迎调查队讨伐任务\n\t\t<TIPBOX>Q 击杀 100 双胞胎幻象 (160)<INFO>10088</INFO></TIPBOX>\n\t\t\n\t\t▶完成任务后可以执行的每日任务\n\t\t<TIPBOX>Q地质调查 (160)<INFO>9158</INFO></TIPBOX>\n\t\t<TIPBOX>Q 力量之源 (160)<INFO>9159</INFO></TIPBOX>\n\t\t<TIPBOX>问同样的事情 (160)<INFO>9160</INFO></TIPBOX>\n\t\t<TIPBOX>Q 共享回忆 (160)<INFO>9161</INFO></TIPBOX>\n\t\t\n\t\t在玩《Illusion of Twins》时获得。<ITEM>[幻想石]<INFO>25271</INFO></ITEM>您可以使用包括作为材料的物品来交换一些装备物品以获得更好的性能。\n\t\t想要交换的装备必须精炼到+9以上，现有的装备强化、卡牌选项等都会消失。\n\t\t^663399◈兑换地点^000000\n\t\t▶<NAVI>[舞会]<INFO>ant_d02_i,175,186,0,101,0</INFO></NAVI>\n\t\t▷<ITEM>[幻象冲刺邮件[1]]<INFO>450182</INFO></ITEM>\n\t\t+9 <ITEM>[冲刺邮件[1]]<INFO>2387</INFO></ITEM>, <ITEM>【蝙蝠的毛球】<INFO>1000517</INFO></ITEM>125、<ITEM>[盖亚斯戴过的帽子]<INFO>1000514</INFO></ITEM>55、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻象短跑鞋[1]]<INFO>470066</INFO></ITEM>\n\t\t+9<ITEM>[短跑鞋[1]]<INFO>2440</INFO></ITEM>, <ITEM>[马铃薯]<INFO>1000515</INFO></ITEM>75、<ITEM>[蚂蚁腿]<INFO>1000511</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[黑暗的幻象<INFO>550030</INFO></ITEM>\n\t\t<ITEM>荆棘法杖[2]]<INFO>550030</INFO></ITEM>\n\t\t+9<ITEM>[黑暗荆棘法杖]<INFO>1636</INFO></ITEM>, <ITEM>[蝙蝠颌骨]<INFO>1000516</INFO></ITEM>75、<ITEM>[马铃薯]<INFO>1000515</INFO></ITEM>75、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>135\n\t\t▷<ITEM>[幻象法杖<INFO>550031</INFO></ITEM>\n\t\t<ITEM>德阿[2]]<INFO>550031</INFO></ITEM>\n\t\t+9 <ITEM>[迪亚之杖[1]]<INFO>2005</INFO></ITEM>, <ITEM>[玛雅王冠]<INFO>1000518</INFO></ITEM>15、<ITEM>[蚂蚁腿]<INFO>1000511</INFO></ITEM>125、<ITEM>[马铃薯]<INFO>1000515</INFO></ITEM>75、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>150\n\t\t▷<ITEM>[幻象盖勒拉德里亚[2]]<INFO>530015</INFO></ITEM>\n\t\t+9 <ITEM>[格拉德里亚]<INFO>1414</INFO></ITEM>, <ITEM>[盖亚斯戴过的帽子]<INFO>1000514</INFO></ITEM>55、<ITEM>[蚂蚁触角]<INFO>1000510</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>150\n\t\t▷<ITEM>[幻象神剑[2]]<INFO>500030</INFO></ITEM>\n\t\t+9 <ITEM>[神剑]<INFO>1137</INFO></ITEM>,  <ITEM>[蝙蝠颌骨]<INFO>1000516</INFO></ITEM>75、<ITEM>[危险酸性液体]<INFO>1000513</INFO></ITEM>75、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>135\n\t\t▷<ITEM>[幻象末日杀手[2]]<INFO>620010</INFO></ITEM>\n\t\t+9 <ITEM>[末日杀手]<INFO>1370</INFO></ITEM>, <ITEM>[危险酸性液体]<INFO>500030</INFO></ITEM>75、<ITEM>[蚂蚁腿]<INFO>1000511</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>150\n\t\t▷<ITEM>[幻象古匕[2]]<INFO>510034</INFO></ITEM>\n\t\t+9 <ITEM>[远古匕首]<INFO>13062</INFO></ITEM>, <ITEM>[蝙蝠颌骨]<INFO>1000516</INFO></ITEM>75、<ITEM>【蝙蝠的毛球】<INFO>1000517</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>135\n\t\t▷<ITEM>[幻象守卫[1]]<INFO>460017</INFO></ITEM>\n\t\t+9 <ITEM>[警卫]<INFO>2101</INFO></ITEM>, <ITEM>[蚂蚁触角]<INFO>1000510</INFO></ITEM>75、<ITEM>【蝙蝠的毛球】<INFO>1000517</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻银卫[1]]<INFO>460018</INFO></ITEM>\n\t\t+9 <ITEM>[银卫[1]]<INFO>2146</INFO></ITEM>, <ITEM>[蚂蚁的下巴]<INFO>1000512</INFO></ITEM>55、<ITEM>[蚂蚁触角]<INFO>1000510</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>100\n\t\t▷<ITEM>[幻象冲刺戒指[1]]<INFO>490120</INFO></ITEM>\n\t\t<ITEM>[冲刺环]<INFO>2744</INFO></ITEM>, <ITEM>[危险酸性液体]<INFO>1000513</INFO></ITEM>75、<ITEM>[蚂蚁触角]<INFO>1000510</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\t\t▷<ITEM>[幻象冲刺<INFO>490121</INFO></ITEM>\n\t\t<ITEM>手套[1]]<INFO>490121</INFO></ITEM>\n\t\t<ITEM>[冲刺手套[1]]<INFO>2935</INFO></ITEM>, <ITEM>[蚂蚁的下巴]<INFO>1000512</INFO></ITEM>55、<ITEM>【蝙蝠的毛球】<INFO>1000517</INFO></ITEM>125、<ITEM>[幻想石]<INFO>25271</INFO></ITEM>120\n\n\t\t<TIPBOX>▶转到上一页<INFO>9085</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9158] = {
+		Title = "Q地质调查 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"米尔科要求您从勇敢的盖亚斯那里取回 20 块干沙。\n  \n\t\t<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶双胞胎的错觉<INFO>9157</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9159] = {
+		Title = "Q 力量之源 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"米尔科要求您从勤奋德尼罗和勤奋安德烈那里取回 20 种不透明液体。\n  \n\t\t<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶双胞胎的错觉<INFO>9157</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9160] = {
+		Title = "问同样的事情 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"米尔科要求你杀死勤奋的维塔塔、勤奋的士兵安德烈和勤奋的皮埃尔各 10 个人。\n  \n\t\t<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶双胞胎的错觉<INFO>9157</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9161] = {
+		Title = "Q 共享回忆 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"Mirko 要求你收集 20 个感知壳。\n  \n\t\t<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶双胞胎的错觉<INFO>9157</INFO></TIPBOX>完全的\n  ^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9093</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9162] = {
+		Title = "Regenschrm Lab设备改造项目简介#Item Reform",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"隶属于雷根伯格的雷根施姆研究所的四个团队正在以自己的方式进行实验，以完善商业化。\n\t\t他们接受冒险者对研究成功的装备的请求，对其进行修改，并将其升级为新装备。所有过程的目的都是积累数据，因此将结果返回给所有者。多么幸运。\n\t\t请注意，修改通常需要一定程度的细化。\n\t\t\n\t\t请参阅每个列表以了解搬运设备。\n\t\t<TIPBOX>▶[阿纳德团队]<INFO>9163</INFO></TIPBOX>\n\t\t武器专业研究团队\n\t\t<TIPBOX>▶[弗雷萨队]<INFO>9164</INFO></TIPBOX>\n\t\t装甲专业研究团队\n\t\t<TIPBOX>▶[泽特队]<INFO>9165</INFO></TIPBOX>\n\t\t配件专业研究团队\n\t\t<TIPBOX>▶[光之队]<INFO>9166</INFO></TIPBOX>\n\t\t非标设备科研团队\n\t\t\n\t\t前往雷根施姆研究所的路线：\n\t\t<NAVI>【设备改装公关代理】<INFO>lighthalzen,99,156,0,101,0</INFO></NAVI>\n\t\t（里奇塔森）\n\t\t<NAVI>【设备改装公关代理】<INFO>itemmall,14,50,0,101,0</INFO></NAVI>\n\t\t（商品商城）\n\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9163] = {
+		Title = "Atnad 团队的改装装备清单 #Regenschirm 装备改装项目改革",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是隶属于雷肯伯格雷根施姆研究所的 Atnad 团队的改装设备清单。\n\t\t需要改装的装备，灭霸武器的精炼度为 +9 或更高，OS 武器的精炼度为 +7 或更高。\n\t\t\n\t\t▶灭霸武器\n\t\t▷<ITEM>[灭霸之剑-AD]<INFO>500024</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸之剑]<INFO>13441</INFO></ITEM>\n\t\t▷<ITEM>[灭霸的巨剑-AD]<INFO>600016</INFO></ITEM>\n\t\t+9 <ITEM>【灭霸的巨剑】<INFO>21009</INFO></ITEM>\n\t\t▷<ITEM>[灭霸的凯瑟-AD]<INFO>610019</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的卡萨]<INFO>28000</INFO></ITEM>\n\t\t▷<ITEM>[灭霸之斧-AD]<INFO>620009</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸之斧]<INFO>28100</INFO></ITEM>\n\t\t▷<ITEM>[灭霸之弓-AD]<INFO>700029</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸之弓]<INFO>18119</INFO></ITEM>\n\t\t▷<ITEM>[灭霸之锤-AD]<INFO>590020</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸之锤]<INFO>16028</INFO></ITEM>\n\t\t▷<ITEM>[灭霸的匕首-AD]<INFO>510030</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的匕首]<INFO>13093</INFO></ITEM>\n\t\t▷<ITEM>【灭霸双手<INFO>640017</INFO></ITEM>\n\t\t<ITEM>魔杖-AD]<INFO>640017</INFO></ITEM>\n\t\t+9 <ITEM>【灭霸双手<INFO>2023</INFO></ITEM>\n\t\t<ITEM>甘蔗]<INFO>2023</INFO></ITEM>\n\t\t▷<ITEM>[灭霸的鞭剑-AD]<INFO>580016</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的鞭剑]<INFO>1988</INFO></ITEM>\n\t\t▷<ITEM>[灭霸的<INFO>570016</INFO></ITEM>\n\t\t<ITEM>小提琴-AD]<INFO>570016</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的小提琴]<INFO>1933</INFO></ITEM>\n\t\t▷<ITEM>[灭霸的指关节-AD]<INFO>560017</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的指关节]<INFO>1836</INFO></ITEM>\n\t\t▷<ITEM>[灭霸的法杖-AD]<INFO>550023</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的法杖]<INFO>1669</INFO></ITEM>\n\t\t▷<ITEM>[灭霸之矛-AD]<INFO>530012</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸之矛]<INFO>1438</INFO></ITEM>\n\t\t\n\t\t▶操作系统武器\n\t\t▷<ITEM>[光束双刃-OSAD]<INFO>600028</INFO></ITEM>\n\t\t+7 <ITEM>[光束双刃-OS]<INFO>21047</INFO></ITEM>\n\t\t▷<ITEM>[Moishura-OSAD]<INFO>610039</INFO></ITEM>\n\t\t+7 <ITEM>[Moishura-OS]<INFO>28038</INFO></ITEM>\n\t\t▷<ITEM>[Blasti-OSAD]<INFO>620018</INFO></ITEM>\n\t\t+7 <ITEM>[Blasti-操作系统]<INFO>28136</INFO></ITEM>\n\t\t▷<ITEM>【虚拟弓-OSAD】<INFO>700054</INFO></ITEM>\n\t\t+7 <ITEM>[虚拟弓操作系统]<INFO>18178</INFO></ITEM>\n\t\t▷<ITEM>[MH-P89-OSAD]<INFO>700055</INFO></ITEM>\n\t\t+7 <ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n\t\t▷<ITEM>[AC-B44-OSAD]<INFO>700056</INFO></ITEM>\n\t\t+7 <ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n\t\t▷<ITEM>[HR-S55-OSAD]<INFO>810013</INFO></ITEM>\n\t\t+7 <ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n\t\t▷<ITEM>[燃烧指关节-OSAD]<INFO>560034</INFO></ITEM>\n\t\t+7 <ITEM>[燃烧指关节-OS]<INFO>1862</INFO></ITEM>\n\t\t▷<ITEM>[加农剑-OSAD]<INFO>500051</INFO></ITEM>\n\t\t+7 <ITEM>[Cannon Rapier-OS]<INFO>13493</INFO></ITEM>\n\t\t▷<ITEM>[扎皮尔厅-OSAD]<INFO>590043</INFO></ITEM>\n\t\t+7 <ITEM>[扎皮尔大厅-OS]<INFO>16088</INFO></ITEM>\n\t\t▷<ITEM>[Ultio-OSAD]<INFO>590044</INFO></ITEM>\n\t\t+7 <ITEM>[Ultio操作系统]<INFO>16089</INFO></ITEM>\n\t\t▷<ITEM>[金丝棒-OSAD]<INFO>550075</INFO></ITEM>\n\t\t+7 <ITEM>[Rutilus Stick-OS]<INFO>26151</INFO></ITEM>\n\t\t▷<ITEM>【电狐-OSAD】<INFO>550076</INFO></ITEM>\n\t\t+7 <ITEM>[电狐-OS]<INFO>26164</INFO></ITEM>\n\t\t▷<ITEM>[电路板-OSAD]<INFO>540051</INFO></ITEM>\n\t\t+7 <ITEM>[电路板-操作系统]<INFO>28629</INFO></ITEM>\n\t\t▷<ITEM>[黑色-OSAD]<INFO>510066</INFO></ITEM>\n\t\t+7 <ITEM>[黑色操作系统]<INFO>28755</INFO></ITEM>\n\t\t▷<ITEM>[升压枪-OSAD]<INFO>530031</INFO></ITEM>\n\t\t+7 <ITEM>[升压Lance-OS]<INFO>32019</INFO></ITEM>\n\t\t\n\t\t阿纳德团队总监：\n\t\t<NAVI>[阶段]<INFO>rgsr_in,115,169,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶转到上一页<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9164] = {
+		Title = "弗雷萨队的改装装备清单 #Regenschirm 装备改装项目改革",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是隶属于雷根伯格研究所的弗雷萨团队的改装设备清单。\n\t\t改装装备通常要求精炼度+9以上。\n\t\t无法熔炼的装备只能改装到高级。\n\t\t\n\t\t▶铠甲\n\t\t▷<ITEM>【魔剑士塔纳托斯之剑-FA】<INFO>480324</INFO></ITEM>\n\t\t+9 <ITEM>【魔剑士塔纳托斯之剑】<INFO>480136</INFO></ITEM>\n\t\t\n\t\t弗雷萨团队总监：\n\t\t<NAVI>[代数]<INFO>rgsr_in,115,180,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶转到上一页<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9165] = {
+		Title = "泽特队的改装装备清单#Regenschirm 装备改装项目改革",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是隶属于雷肯伯格雷根施姆研究所的 Zerter 团队的改装设备清单。\n\t\t\n\t\t不幸的是，Team Zerter 目前还没有完成的研究。\n\t\t请支持他们并稍等片刻。\n\t\t\n\t\t蒂姆·格特导演：\n\t\t<NAVI>[冠军]<INFO>rgsr_in,137,178,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶转到上一页<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9166] = {
+		Title = "光之队的改装装备清单 #Regenschirm 装备改装项目改革",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是隶属于雷肯伯格雷根施姆研究所的里希特团队的改装设备清单。\n\t\t改装装备通常要求精炼度+9以上。\n\t\t无法熔炼的装备只能改装到高级。\n\n\t\t▶非标铠装\n\t\t▷<ITEM>【灭霸战士头盔-LT】<INFO>400135</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的战士头盔]<INFO>400134</INFO></ITEM>\n\t\t▷<ITEM>[灭霸神射手头盔-LT]<INFO>400142</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的射手头盔]<INFO>400141</INFO></ITEM>\n\t\t▷<ITEM>【灭霸魔法头盔-LT】<INFO>400145</INFO></ITEM>\n\t\t+9 <ITEM>【灭霸的魔法头盔】<INFO>400146</INFO></ITEM>\n\t\t▷<ITEM>[英雄之靴-LT]<INFO>470094</INFO></ITEM>\n\t\t+9 <ITEM>[伟大英雄的靴子]<INFO>22238</INFO></ITEM>\n\t\t▷<ITEM>【斯莫基的变身叶-LT】<INFO>400152</INFO></ITEM>\n\t\t+9 <ITEM>【斯莫基的变身离开】<INFO>19265</INFO></ITEM>\n\t\t▷<ITEM>[Hückebein 的黑色<INFO>400153</INFO></ITEM>\n\t\t<ITEM>猫耳-LT]<INFO>400153</INFO></ITEM>\n\t\t+9 <ITEM>[Hückebein 的黑色<INFO>19134</INFO></ITEM>\n\t\t<ITEM>[猫耳朵]<INFO>19134</INFO></ITEM>\n\t\t▷<ITEM>[生存头环-LT]<INFO>400154</INFO></ITEM>\n\t\t+9 <ITEM>[生存头环]<INFO>19266</INFO></ITEM>\n\t\t▷<ITEM>【金色鱼头帽-LT】<INFO>400155</INFO></ITEM>\n\t\t+9 <ITEM>【金色鱼头帽】<INFO>19264</INFO></ITEM>\n\t\t▷<ITEM>[小鬼帽子-LT]<INFO>400156</INFO></ITEM>\n\t\t+9 <ITEM>[小鬼帽子]<INFO>5658</INFO></ITEM>\n\t\t▷<ITEM>【灭霸的战斗机头盔-LT】<INFO>400151</INFO></ITEM>\n\t\t+9 <ITEM>[灭霸的战斗机头盔]<INFO>400150</INFO></ITEM>\n\t\t▷<ITEM>[-LT的生存]<INFO>420066</INFO></ITEM>\n\t\t<ITEM>[生存宝珠]<INFO>19267</INFO></ITEM>（无法精炼）\n\t\t▷<ITEM>[马德巴尼-LT]<INFO>460020</INFO></ITEM>\n\t\t+9 <ITEM>[马德巴尼]<INFO>28902</INFO></ITEM>\n\t\t▷<ITEM>[虎王公仔帽子-LT]<INFO>400245</INFO></ITEM>\n\t\t+9 <ITEM>【虎王公仔帽子】<INFO>5497</INFO></ITEM>\n\t\t▷<ITEM>[白素珍帽子-LT]<INFO>400246</INFO></ITEM>\n\t\t+9 <ITEM>[白素珍帽子]<INFO>5464</INFO></ITEM>\n\t\t▷<ITEM>[Inmagung Sky Storage-LT]<INFO>400261</INFO></ITEM>\n\t\t+9 <ITEM>[Inmagung天空存储]<INFO>400061</INFO></ITEM>\n\t\t▷<ITEM>[天和宫天空存储-LT]<INFO>400262</INFO></ITEM>\n\t\t+9 <ITEM>[天和宫天空储藏室]<INFO>400059</INFO></ITEM>\n\t\t▷<ITEM>[大法师戒律-LT]<INFO>400263</INFO></ITEM>\n\t\t+9 <ITEM>[大法师法庭]<INFO>400054</INFO></ITEM>\n\t\t▷<ITEM>[条纹帽子-LT]<INFO>400264</INFO></ITEM>\n\t\t+9 <ITEM>[条纹帽子]<INFO>400049</INFO></ITEM>\n\t\t▷<ITEM>[幻影帽-LT]<INFO>400265</INFO></ITEM>\n\t\t+9 <ITEM>[幻影帽]<INFO>400044</INFO></ITEM>\n\t\t▷<ITEM>[伊格尼斯帽-LT]<INFO>400266</INFO></ITEM>\n\t\t+9 <ITEM>[伊格尼斯帽]<INFO>400022</INFO></ITEM>\n\t\t▷<ITEM>[红钟棺材-LT]<INFO>400267</INFO></ITEM>\n\t\t+9 <ITEM>[红钟棺材]<INFO>400021</INFO></ITEM>\n\t\t▷<ITEM>[军官帽-LT]<INFO>400445</INFO></ITEM>\n\t\t+9 <ITEM>[军官帽]<INFO>400011</INFO></ITEM>\n\t\t▷<ITEM>[海獭迷你风扇-LT]<INFO>490374</INFO></ITEM>\n\t\t<ITEM>【海獭迷你风扇】<INFO>28439</INFO></ITEM>（无法精炼）\n\t\t▷<ITEM>[Perseal迷你风扇-LT]<INFO>490375</INFO></ITEM>\n\t\t<ITEM>[佩西尔迷你风扇]<INFO>28440</INFO></ITEM>（无法精炼）\n\t\t▷<ITEM>[塔纳托斯的痛苦-LT]<INFO>400465</INFO></ITEM>\n\t\t+9 <ITEM>[塔纳托斯的痛苦蔓延开来]<INFO>400023</INFO></ITEM>\n\t\t▷<ITEM>[红力吊坠-LT]<INFO>490382</INFO></ITEM>\n\t\t<ITEM>[红力吊坠]<INFO>490100</INFO></ITEM>（无法精炼）\n\t\t▷<ITEM>[蓝色心灵吊坠-LT]<INFO>490383</INFO></ITEM>\n\t\t<ITEM>[蓝色心灵坠饰]<INFO>490101</INFO></ITEM>（无法精炼）\n\t\t\n\t\t▶非标武器\n\t\t▷<ITEM>[圣霍尔-LT]<INFO>590030</INFO></ITEM>\n\t\t+9 <ITEM>【开启圣堂】<INFO>590012</INFO></ITEM>\n\t\t▷<ITEM>[水生矛-LT]<INFO>530019</INFO></ITEM>\n\t\t+9 <ITEM>[打开的水生矛]<INFO>530006</INFO></ITEM>\n\t\t▷<ITEM>[驱魔圣经-LT]<INFO>540035</INFO></ITEM>\n\t\t+9 <ITEM>【打开驱魔圣经】<INFO>540011</INFO></ITEM>\n\t\t▷<ITEM>[光刃-LT]<INFO>500038</INFO></ITEM>\n\t\t+9 <ITEM>[打开的光刃]<INFO>500017</INFO></ITEM>\n\t\t▷<ITEM>[魔剑-LT]<INFO>510040</INFO></ITEM>\n\t\t+9 <ITEM>[打开的魔剑]<INFO>510019</INFO></ITEM>\n\t\t▷<ITEM>[宿命论-LT]<INFO>510041</INFO></ITEM>\n\t\t+9 <ITEM>[打开宿命论]<INFO>510020</INFO></ITEM>\n\t\t▷<ITEM>[铁杖-LT]<INFO>640027</INFO></ITEM>\n\t\t+9 <ITEM>[打开的铁杖]<INFO>640011</INFO></ITEM>\n\t\t▷<ITEM>[蓝水晶法杖-LT]<INFO>640028</INFO></ITEM>\n\t\t+9 <ITEM>【开启蓝水晶<INFO>640012</INFO></ITEM>\n\t\t<ITEM>职员]<INFO>640012</INFO></ITEM>\n\t\t▷<ITEM>[暗影法杖-LT]<INFO>550045</INFO></ITEM>\n\t\t+9 <ITEM>[打开暗影法杖]<INFO>550012</INFO></ITEM>\n\t\t▷<ITEM>[冰冷法杖-LT]<INFO>550046</INFO></ITEM>\n\t\t+9 <ITEM>[开启寒冷之杖]<INFO>550013</INFO></ITEM>\n\t\t▷<ITEM>[铁钉-LT]<INFO>560026</INFO></ITEM>\n\t\t+9 <ITEM>【开铁钉】<INFO>560008</INFO></ITEM>\n\t\t▷<ITEM>[雷指关节-LT]<INFO>560027</INFO></ITEM>\n\t\t+9 <ITEM>[打开雷指关节]<INFO>560009</INFO></ITEM>\n\t\t▷<ITEM>[赤莲剑-LT]<INFO>500039</INFO></ITEM>\n\t\t+9 <ITEM>【开启的赤莲剑】<INFO>500013</INFO></ITEM>\n\t\t▷<ITEM>[石板剑-LT]<INFO>500040</INFO></ITEM>\n\t\t+9 <ITEM>[开启石板剑]<INFO>500014</INFO></ITEM>\n\t\t▷<ITEM>[皇家弓-LT]<INFO>700045</INFO></ITEM>\n\t\t+9 <ITEM>[打开皇家弓]<INFO>700018</INFO></ITEM>\n\t\t▷<ITEM>[赤龙<INFO>700046</INFO></ITEM>\n\t\t<ITEM>[皮弓-LT]<INFO>700046</INFO></ITEM>\n\t\t+9 <ITEM>[开启赤龙<INFO>700019</INFO></ITEM>\n\t\t<ITEM>皮弓]<INFO>700019</INFO></ITEM>\n\t\t▷<ITEM>[海螺小号-LT]<INFO>570027</INFO></ITEM>\n\t\t+9 <ITEM>【打开海螺喇叭】<INFO>570009</INFO></ITEM>\n\t\t▷<ITEM>[铁丝网鞭-LT]<INFO>580027</INFO></ITEM>\n\t\t+9 <ITEM>【张开铁丝网鞭子】<INFO>580009</INFO></ITEM>\n\t\t▷<ITEM>[水仙弓-LT]<INFO>700049</INFO></ITEM>\n\t\t+9 <ITEM>[打开的水仙弓]<INFO>700013</INFO></ITEM>\n\t\t▷<ITEM>[复仇者-LT]<INFO>620015</INFO></ITEM>\n\t\t+9 <ITEM>[开启复仇者]<INFO>620004</INFO></ITEM>\n\t\t▷<ITEM>[流星前锋-LT]<INFO>590034</INFO></ITEM>\n\t\t+9 <ITEM>[开启流星<INFO>590011</INFO></ITEM>\n\t\t<ITEM>前锋]<INFO>590011</INFO></ITEM>\n\t\t▷<ITEM>【东方宝剑-LT】<INFO>600023</INFO></ITEM>\n\t\t+9 <ITEM>【开启东方宝剑】<INFO>600009</INFO></ITEM>\n\t\t▷<ITEM>[屠龙者-LT]<INFO>600024</INFO></ITEM>\n\t\t+9 <ITEM>[打开德拉格尼<INFO>21058</INFO></ITEM>\n\t\t<ITEM>杀手]<INFO>21058</INFO></ITEM>\n\t\t▷<ITEM>[领土卡塔尔-LT]<INFO>610033</INFO></ITEM>\n\t\t+9 <ITEM>【卡塔尔令人兴奋的开放】<INFO>610008</INFO></ITEM>\n\t\t▷<ITEM>[卡塔尔刀片-LT]<INFO>610034</INFO></ITEM>\n\t\t+9 <ITEM>[卡塔尔开刃]<INFO>610009</INFO></ITEM>\n\t\t▷<ITEM>[丰马手里剑清明-LT]<INFO>650024</INFO></ITEM>\n\t\t+9 <ITEM>【开风魔手里剑清明】<INFO>650004</INFO></ITEM>\n\t\t▷<ITEM>[桐乃露-LT]<INFO>510060</INFO></ITEM>\n\t\t+9 <ITEM>[开张的桐乃露]<INFO>510022</INFO></ITEM>\n\t\t▷<ITEM>[深红玫瑰-LT]<INFO>800013</INFO></ITEM>\n\t\t+9 <ITEM>[打开的深红玫瑰]<INFO>800002</INFO></ITEM>\n\t\t▷<ITEM>[灵魂步枪大师-LT]<INFO>810009</INFO></ITEM>\n\t\t+9 <ITEM>[打开大师<INFO>810001</INFO></ITEM>\n\t\t<ITEM>灵魂步枪]<INFO>810001</INFO></ITEM>\n\t\t▷<ITEM>[恶魔杀手射击-LT]<INFO>820007</INFO></ITEM>\n\t\t+9 <ITEM>【开魔<INFO>820001</INFO></ITEM>\n\t\t<ITEM>杀手射击]<INFO>820001</INFO></ITEM>\n\t\t▷<ITEM>[黑色-LT]<INFO>830012</INFO></ITEM>\n\t\t+9 <ITEM>[黑开]<INFO>830002</INFO></ITEM>\n\t\t▷<ITEM>【黄金之路发射器-LT】<INFO>840008</INFO></ITEM>\n\t\t+9 <ITEM>[开启黄金之路发射器]<INFO>840001</INFO></ITEM>\n\t\t▷<ITEM>[平均 Nyang Foxtail-LT]<INFO>550067</INFO></ITEM>\n\t\t+9 <ITEM>[打开娘娘狐尾]<INFO>550014</INFO></ITEM>\n\t\t▷<ITEM>[一川二良-LT]<INFO>540048</INFO></ITEM>\n\t\t+9 <ITEM>[日川里阳开业]<INFO>540010</INFO></ITEM>\n\t\t▷<ITEM>[本岭丘-LT]<INFO>550068</INFO></ITEM>\n\t\t+9 <ITEM>【开启灵锥】<INFO>550015</INFO></ITEM>\n\t\t▷<ITEM>[自由棒-LT]<INFO>550082</INFO></ITEM>\n\t\t+9 <ITEM>[打开自由棒]<INFO>550081</INFO></ITEM>\n\t\t▷<ITEM>[祝福刀-LT]<INFO>510072</INFO></ITEM>\n\t\t+9 <ITEM>【开启祝福刀】<INFO>510071</INFO></ITEM>\n\t\t\n\t\t蒂姆·利希特导演：\n\t\t<NAVI>[堆]<INFO>rgsr_in,136,171,0,101,0</INFO></NAVI>\n\n  <TIPBOX>▶转到上一页<INFO>9162</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9167] = {
+		Title = "帽子组合#头盔组合服装头带制作",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"世界上有人用各种物品创造出奇妙的东西。如果你想穿一些特别的东西，让我们尝试制作一顶帽子。\n\t\t您可以在下面的区域列表中找到您所在地区附近的帽子工匠。\n\n\t\t部分组合帽子可以兑换服装。\n\t\t<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>到<ITEM>【服装兑换券】<INFO>6697</INFO></ITEM>在某些情况下，您可能会被要求带上帽子和帽子。\n\t\t详细内容请参阅各文档。\n\n\t\t<TIPBOX>▶[Frontera]<INFO>9168</INFO></TIPBOX>\n\t\t<TIPBOX>▶[莫洛克]<INFO>9169</INFO></TIPBOX>\n\t\t<TIPBOX>▶[格芬]<INFO>9170</INFO></TIPBOX>\n\t\t<TIPBOX>▶[佩永]<INFO>9171</INFO></TIPBOX>\n\t\t<TIPBOX>▶[鲁蒂尔]<INFO>9172</INFO></TIPBOX>\n\t\t<TIPBOX>▶[艾伯塔省]<INFO>9173</INFO></TIPBOX>\n\t\t<TIPBOX>▶[毕宿五]<INFO>9174</INFO></TIPBOX>\n\t\t<TIPBOX>▶[科莫多]<INFO>9175</INFO></TIPBOX>\n\t\t<TIPBOX>▶[由乃]<INFO>9176</INFO></TIPBOX>\n\t\t<TIPBOX>▶[艾因贝克]<INFO>9177</INFO></TIPBOX>\n\t\t<TIPBOX>▶[Richtarzen]<INFO>9178</INFO></TIPBOX>\n\t\t<TIPBOX>▶[雷切尔]<INFO>9179</INFO></TIPBOX>\n\t\t<TIPBOX>▶[胡格尔]<INFO>9180</INFO></TIPBOX>\n\t\t<TIPBOX>▶[其他地区、领域]<INFO>9181</INFO></TIPBOX>\n\n\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9168] = {
+		Title = "帽子组合：Frontera#helmet组合服装头带、毕业帽、红尾丝带",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在普隆德拉 (Prontera) 组合独特的帽子。\n\n\t\t▶<NAVI>[研究生教师]<INFO>prt_in,38,108,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【学士帽】<INFO>5012</INFO></ITEM>\n\t\t\t幻想花 1、希纳雷 1、芦荟 1、门特 1\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[网络]<INFO>prontera,165,232,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[红尾的丝带]<INFO>5083</INFO></ITEM>\n\t\t\t王丝带 1、丝带[1] 1、丝带 1\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9169] = {
+		Title = "帽子组合：摩洛哥 #Helmet 组合服装头带、发带、停车标志、望远镜、流浪猫、变形叶子、烦人浣熊、蓝色鱼",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Morok 中组合独特的帽子。\n\n\t\t▶<NAVI>[学员]<INFO>morocc_in,137,102,0,101,0</INFO></NAVI>组合列表\n\t\t\t实习生<ITEM>[发带]<INFO>2250</INFO></ITEM>您可以通过组合每种颜色的染料来改变发带的颜色。\n\t\t\t▷<ITEM>[白色发带]<INFO>5441</INFO></ITEM>\n\t\t\t发带、红色发带、蓝色发带、绿色发带、白色染料\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[红色发带]<INFO>5439</INFO></ITEM>\n\t\t\t发带,白色发带,蓝色发带,绿色发带,红色染料\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[蓝色发带]<INFO>5440</INFO></ITEM>\n\t\t\t发带、白色发带、红色发带、绿色发带1个、蓝色染料\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[绿色发带]<INFO>5438</INFO></ITEM>\n\t\t\t发带,白色发带,红色发带,蓝色发带,绿色染料\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[发带]<INFO>2250</INFO></ITEM>\n\t\t\t白色发带、红色发带、蓝色发带、绿色发带、黄色染料\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[楼梯]<INFO>morocc,152,167,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[停车标志]<INFO>2272</INFO></ITEM>\n\t\t\t50 个木片，1 个黑色染料，91100zeny\n\n\t\t▶<NAVI>[炼金术士]<INFO>morocc,169,168,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[望远镜]<INFO>2296</INFO></ITEM>\n\t\t\t1 个旋转玻璃，100 钢，50000zeny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>【一个看起来像旅行者的人】<INFO>morocc,273,79,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[下垂的猫]<INFO>5058</INFO></ITEM>\n\t\t\t头环[1] 1、黑色染料 1、黑猫娃娃 300、沙漠狼爪 1\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[变身叶]<INFO>5064</INFO></ITEM>\n\t\t\t浣熊叶 600、沙漠狼爪 1\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[烦人的浣熊]<INFO>5084</INFO></ITEM>\n\t\t\t1000个橡子，100个海獭皮，10个浣熊叶，1个沙漠狼爪。\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[蓝色的鱼]<INFO>5065</INFO></ITEM>\n\t\t\t腐鱼1条、腐鳞300个、生鱼50条、鱼尾1条、粘液100个、沙漠狼爪1个\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9170] = {
+		Title = "帽子组合：格芬#头盔组合服装头带、蘑菇头带、郁金香发夹、电焊面罩、耳机、X型发夹、创可贴、花朵发夹",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Gefen 组合独特的帽子。\n\t\t\n\t\t▶<NAVI>[首次公开募股]<INFO>geffen,67,87,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【蘑菇头带】<INFO>5082</INFO></ITEM>\n\t\t\t蘑菇孢子300\n\t\t\n\t\t▶<NAVI>[赛斯]<INFO>geffen,83,189,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[郁金香发夹]<INFO>5077</INFO></ITEM>\n\t\t\t1 个微笑，1 个红色染料\n\t\t\n\t\t▶<NAVI>[铁匠]<INFO>geffen_in,144,166,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[电焊面罩]<INFO>2292</INFO></ITEM>\n\t\t\t钢 50, 2000zeny\n\t\t\n\t\t▶<NAVI>[森海塞尔]<INFO>geffen_in,30,71,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[耳机]<INFO>5001</INFO></ITEM>\n\t\t\t钢 40、Oridecon 1、酒精 1、煤 1\n\t\t\n\t\t▶<NAVI>[阿尔詹]<INFO>geffen,129,148,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【X型发夹】<INFO>5079</INFO></ITEM>\n\t\t\t星尘 1、Actoplasm 400\n\t\t\t▷<ITEM>[膏药贴]<INFO>5063</INFO></ITEM>\n\t\t\t酒精1，腐烂绷带500\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>【花发簪】<INFO>5061</INFO></ITEM>\n\t\t\t1 花瓣，10 钢，20000zeny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9171] = {
+		Title = "帽子组合：Payon #头盔组合服装头带、黑猫耳朵、姿势矫正帽、神枪手的苹果、剧院道具、耳塞、氧气面罩、哈霍面罩、加克西面罩、狮子面罩、雄鸡、萨托帽子、狐狸面具、天使头盔、婴儿恶魔帽子",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Payon 中组合独特的帽子。\n\n\t\t▶<NAVI>[通力通力]<INFO>payon,115,131,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【黑猫耳朵】<INFO>5057</INFO></ITEM>\n\t\t\t1 个猫头带、1 个黑色染料、200 个绒毛、10000zeny\n\n\t\t▶<NAVI>[兰花香]<INFO>payon_in03,8,193,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【姿势矫正帽】<INFO>5073</INFO></ITEM>\n\t\t\t1个鼓，1个神枪手的苹果\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[射手的苹果]<INFO>2285</INFO></ITEM>\n\t\t\t1 个箭头、1 个姿势矫正帽\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[奶奶]<INFO>payon_in01,99,72,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【戏剧道具】<INFO>2293</INFO></ITEM>\n\t\t\t少女下摆4\n\n\t\t▶<NAVI>[神秘女士]<INFO>payon_in01,18,10,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[耳塞]<INFO>2283</INFO></ITEM>\n\t\t\t1 颗被诅咒的红宝石、200 软毛、1 个耳机、5000zeny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>【氧气面罩青春】<INFO>payon_in02,25,71,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[氧气面罩]<INFO>5004</INFO></ITEM>\n\t\t\t来来来 5\n\n\t\t▶<NAVI>[清越网]<INFO>payon,135,320,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[河回面膜]<INFO>5176</INFO></ITEM>\n\t\t\t回忆书签20、仙人掌毒刺100、野猪鬃毛100\n\t\t\t- 可兑换服装：<NAVI>【复制专家帕尔图】<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[加克西面膜]<INFO>5169</INFO></ITEM>\n\t\t\t少女裙摆20、透明布500、古鱼唇2、墨水100\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[狮子面具]<INFO>5177</INFO></ITEM>\n\t\t\t蛇毛 500、远古鱼牙 2、猩红染料 2\n\t\t\t（需要之前任务中的 1 颗四叶草、500 根原木和 10 根松紧绳）\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[汉加拉姆]<INFO>payon_in03,139,124,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[雄鸡]<INFO>5174</INFO></ITEM>\n\t\t\t闪亮鳞片 300、破损钻石 5、红色染料 1、软丝布 50\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[佐藤帽子]<INFO>5173</INFO></ITEM>\n\t\t\t300 个闪亮鳞片、5 个受损钻石、1 个黑色染料、1 顶帽子[1]\n\t\t\t（前面的任务需要 7 个蓝色球体、黄色球体、绿色球体和红色球体各一个）\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>【戴着狐狸面具的男人】<INFO>pay_arche,63,109,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[狐狸面具]<INFO>5069</INFO></ITEM>\n\t\t\t狐狸尾巴999\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[青年]<INFO>payon_in01,46,21,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[天使的头盔]<INFO>5025</INFO></ITEM>\n\t\t\t头盔 [1] 1、天使头带 1、哈蒂之牙 5\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[小恶魔帽]<INFO>5038</INFO></ITEM>\n\t\t\t小恶魔角 600、狮鹫爪 40\n\t\t\t- 可兑换服装：<NAVI>【复制专家帕尔图】<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9172] = {
+		Title = "帽子组合：Lutier #头盔组合服装头带、浣熊帽、斯波阿帽、神秘果壳、彩色蛋壳、同花、厨师帽、蜡烛、蛋糕帽、海獭帽、泰迪熊帽、鸡尾酒帽、草帽、牛仔帽、宽边帽、毛皮帽",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Routier 组合独特的帽子。\n\n\t\t▶<NAVI>[售货机]<INFO>xmas,115,295,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[浣熊帽]<INFO>5033</INFO></ITEM>\n\t\t\t猫头带 1、龙鳞 20、韧鳞茎 200、海獭皮 300\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[斯波帽]<INFO>5029</INFO></ITEM>\n\t\t\t毒蘑菇孢子850、玉树300、细长舌头1\n\t\t\t▷<ITEM>【神秘果壳】<INFO>5050</INFO></ITEM>\n\t\t\t500个蜻蜓翅膀，1个果壳\n\t\t\t▷<ITEM>【七彩蛋壳】<INFO>5039</INFO></ITEM>\n\t\t\t装饰蛋壳 1、蓝色染料 1、沙漠狼爪 50\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[血]<INFO>5040</INFO></ITEM>\n\t\t\t爱丽丝的围裙 100\n\t\t\t- 可兑换服装：<NAVI>【复制专家帕尔图】<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[厨师帽]<INFO>5026</INFO></ITEM>\n\t\t\t小菜一碟 120、白色染料 1、软毛 330、龙鳞 450\n\t\t\t▷<ITEM>[烛光]<INFO>5028</INFO></ITEM>\n\t\t\t1 灯芯、50 根火柴、100 粒蜂王浆\n\t\t\t▷<ITEM>[蛋糕帽]<INFO>5024</INFO></ITEM>\n\t\t\t10 块糖果、5 块棒棒糖、15 块烤饼干、20 块蛋糕、10 块钢铁\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[漂亮的兰西]<INFO>xmas,183,267,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[海獭帽]<INFO>5078</INFO></ITEM>\n\t\t\t浣熊帽1、变身叶1\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>【算命】<INFO>xmas,175,156,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[熊帽子]<INFO>5059</INFO></ITEM>\n\t\t\t熊猫帽子1个、针布100、线100、黑熊皮300\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[帽匠]<INFO>xmas_in,35,30,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[克罗地亚帽子]<INFO>5060</INFO></ITEM>\n\t\t\t圣诞帽1个、油纸100张、光滑纸100张\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[草帽]<INFO>5062</INFO></ITEM>\n\t\t\t帽子1顶、坚韧树藤300根、竹片300根\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[牛仔帽]<INFO>5075</INFO></ITEM>\n\t\t\t西部优雅1、沙漠狼爪108、软刃108、燃烧马蹄4\n\t\t\t▷<ITEM>[阔边帽]<INFO>5067</INFO></ITEM>\n\t\t\t1 顶草帽、50 根仙人掌针、1 个其他\n\t\t\t▷<ITEM>[毛皮帽子]<INFO>5076</INFO></ITEM>\n\t\t\t帽1，纱500\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9173] = {
+		Title = "帽子组合：阿尔伯塔#头盔组合服装头带、学生帽、鹿角、街头帽、巫师帽、魔术师帽、太阳神帽、发帽、月牙发夹、时尚墨镜、心形发夹、小天使雕像、独奏盒子",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以组合艾伯塔省独特的帽子。\n\n\t\t▶<NAVI>[学生的母亲和祖父]<INFO>alberta_in,29,140,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[学生帽]<INFO>5016</INFO></ITEM>\n\t\t\t虎爪10\n\t\t\t- 可兑换服装：<NAVI>【复制专家帕尔图】<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[切诺基]<INFO>alberta_in,122,53,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[鹿角]<INFO>2284</INFO></ITEM>\n\t\t\t恶魔角20\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>【帽子店小姐姐】<INFO>alberta,136,79,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[外出帽子]<INFO>5032</INFO></ITEM>\n\t\t\t透明布250，帽子[1]1，鸭舌帽[1]1，软羽毛600\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[巫师的帽子]<INFO>5027</INFO></ITEM>\n\t\t\t巫师帽1、龙鳞400、长柳卡1、真菌粉50\n\t\t\t▷<ITEM>[魔术师的帽子]<INFO>5045</INFO></ITEM>\n\t\t\t巫师帽 1、远古鱼唇 450、极硬壳 1200\n\t\t\t▷<ITEM>[太阳神的帽子]<INFO>5022</INFO></ITEM>\n\t\t\t太阳神符号 1、金 10、钢 40、煤炭 50、奥里迪奥康 2\n\n\t\t▶<NAVI>【时尚商家】<INFO>alberta,120,53,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[掉头发]<INFO>5042</INFO></ITEM>\n\t\t\t丝带1、兽人勇者的令牌50\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>【月牙簪】<INFO>5048</INFO></ITEM>\n\t\t\t心形发夹 1、钢 10\n\t\t\t▷<ITEM>[时尚太阳镜]<INFO>5047</INFO></ITEM>\n\t\t\t头戴眼镜1个、红色染料1个\n\t\t\t▷<ITEM>【心形发夹】<INFO>5041</INFO></ITEM>\n\t\t\t珊瑚礁 1200\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[贝贝特]<INFO>alberta,151,78,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[小天使雕像]<INFO>5443</INFO></ITEM>\n\t\t\t鸟羽500、圣水1、白云母10、魂环1、闪亮石1\n\n\t\t▶<NAVI>[洪达尔]<INFO>alberta,120,206,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[独玩盒子]<INFO>5448</INFO></ITEM>\n\t\t\t杰罗姆 20、阿克劳斯 40、报纸 20、Cheongi 20 狩猎\n\t\t\t▷<ITEM>[独玩盒子]<INFO>5449</INFO></ITEM>\n\t\t\t狩猎安魂曲 20、高级兽人 30、老派火枪手 40、墓碑 50\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9174] = {
+		Title = "帽子组合：毕宿五#头盔组合服装头带、医生头带、羽毛帽、歌剧面具、帽子、报警面具",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在毕宿五中组合独特的帽子。\n\n\t\t▶<NAVI>【部分商家】<INFO>aldeba_in,152,166,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[医生头带]<INFO>2273</INFO></ITEM>\n\t\t\t1 个损坏的钻石、1 个头巾、50 个铁、3500 泽尼\n\t\t\t▷<ITEM>[羽毛帽子]<INFO>5018</INFO></ITEM>\n\t\t\t老浪漫 1、鸟羽毛 300、500 Zenny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[歌剧面具]<INFO>2281</INFO></ITEM>\n\t\t\t20 钢，1 歌唱草，5000 泽尼\n\t\t\t▷<ITEM>[伞]<INFO>2280</INFO></ITEM>\n\t\t\t木片 120, 10000 Zenny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[穆斯林]<INFO>alde_alche,88,180,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[报警面罩]<INFO>5086</INFO></ITEM>\n\t\t\t3000只手，1个防刮面具\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9175] = {
+		Title = "帽子组合：科莫多#头盔组合服装头带、发刷、十字头带、灯泡头带、条纹头带、蓝色头带、采矿头盔、捆绑帽、输钱者之心、歌剧幽灵面具、印第安头带",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在科莫多组合独特的帽子。\n\n\t\t▶<NAVI>[莫贾姐姐]<INFO>comodo,236,164,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[发刷]<INFO>5444</INFO></ITEM>\n\t\t\t混合物 1、红色染料 1、极硬壳 50、铒 5、斧头 1\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>【头带姐姐】<INFO>comodo,228,159,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[十字头带]<INFO>5036</INFO></ITEM>\n\t\t\t念珠1，破损铠甲片500\n\t\t\t▷<ITEM>[灯泡头带]<INFO>5034</INFO></ITEM>\n\t\t\t圆环[1] 1、玻璃珠 20\n\t\t\t▷<ITEM>[条纹发带]<INFO>5049</INFO></ITEM>\n\t\t\t旧囚服1500\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>[蓝色发带]<INFO>5052</INFO></ITEM>\n\t\t\t兜帽 1、蓝色染料 1、阿诺利亚皮肤 300\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[游客]<INFO>comodo,273,137,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【矿用头盔】<INFO>5031</INFO></ITEM>\n\t\t\t安全帽1、蜡烛1、水晶镜1、钢25\n\t\t\t▷<ITEM>[博塔里莫]<INFO>5023</INFO></ITEM>\n\t\t\t透明布150块、老树树脂100个、蓝色染料1个\n\t\t\t▷<ITEM>【亏钱的人的心】<INFO>5021</INFO></ITEM>\n\t\t\t圆环[1] 1、金1、软毛80、钢20、粘液800\n\t\t\t▷<ITEM>【戏曲鬼脸】<INFO>5043</INFO></ITEM>\n\t\t\t歌剧面具1个、蛇毛50个\n\n\t\t▶<NAVI>[梅伦特]<INFO>comodo,237,217,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[印度头带]<INFO>5071</INFO></ITEM>\n\t\t\t原生头带 1、条纹头带 1、佩科翼羽毛 10、10000 Zenny\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9176] = {
+		Title = "帽子组合：尤诺#头盔组合服装头带、大金铃铛、古代女王皇冠、情妇皇冠、热情头带、天使之翼耳朵、恶魔之翼耳朵、烤熟的吐司",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Yuno 中组合独特的帽子。\n\n\t\t▶<NAVI>[涅里斯]<INFO>yuno_in03,20,18,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【大金钟】<INFO>5091</INFO></ITEM>\n\t\t\t1 金翅雀, 1 火金雀, 3 金, 2000 Zenny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>【古代女王的王冠】<INFO>5080</INFO></ITEM>\n\t\t\t女王头饰 1、Empelium 1、金币 3、20000 Zenny\n\t\t\t▷<ITEM>[女主人的皇冠]<INFO>5081</INFO></ITEM>\n\t\t\t皇冠 1、火金 1、黄金 3、40000 Zenny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[Zenbolt]<INFO>yuno,300,188,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【热情头带】<INFO>5070</INFO></ITEM>\n\t\t\t红色马胡拉 300、燃烧之心 300、兜帽 1、白色染料 1\n\n\t\t▶<NAVI>[老铁匠]<INFO>yuno,241,52,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【天使的翅膀耳朵】<INFO>5074</INFO></ITEM>\n\t\t\t天使头带 1、仙女耳朵 1、20000 Zenny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\t▷<ITEM>【恶魔之翼耳朵】<INFO>5068</INFO></ITEM>\n\t\t\t恶魔头带 1、妖精耳朵 1、20000 Zenny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[卡西斯]<INFO>yuno,222,116,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【烤好的吐司】<INFO>5107</INFO></ITEM>\n\t\t\t牛奶 50、奶酪 50、旧煎锅 50、蛋糕 50\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9177] = {
+		Title = "帽子组合：Einbech#helmet组合服装头带、时尚冬帽",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Einbech 组合独特的帽子。\n\n\t\t▶<NAVI>[事情]<INFO>einbech,70,222,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[时尚冬帽]<INFO>5115</INFO></ITEM>\n\t\t\t1 黑色染料、1 冰玫瑰、999 老虎内裤、50000 zeny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9178] = {
+		Title = "帽子组合：Richtarzen #Helmet 组合服装头带、神秘玫瑰、婴儿奶嘴、侦探帽、红色帽子、领带",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Richtarzen 组合独特的帽子。\n\t\t\n\t\t▶<NAVI>[玛格丽特·玛丽]<INFO>lhz_in02,91,38,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[神秘玫瑰]<INFO>5117</INFO></ITEM>\n\t\t\t钻石 2 克拉 10、不褪色玫瑰 3、白色染料 1、50000 zeny\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶<NAVI>[小孩子]<INFO>lighthalzen,360,313,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[婴儿奶嘴]<INFO>5110</INFO></ITEM>\n\t\t\t奶瓶1个、水龙头1个、铁链1条、蜂王浆2个\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶<NAVI>【古怪的年轻人】<INFO>lighthalzen,143,68,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【侦探帽】<INFO>5108</INFO></ITEM>\n\t\t\t帽子[1]1个，放大镜10个，小刀装饰1887年，1887年珍妮\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶<NAVI>【看起来很轻松的女士】<INFO>lighthalzen,182,89,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[红色帽子]<INFO>5109</INFO></ITEM>\n\t\t\t1 绿色蕾丝、1 红色染料、1 丝带、1 野餐帽、50000 zeny\n\t\t\t\n\t\t▶<NAVI>[酒鬼]<INFO>lhz_in02,276,281,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[领带]<INFO>5442</INFO></ITEM>\n\t\t\t蓝色染料 1、油纸 30、透明布 100、线轴 20\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\t\t\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9179] = {
+		Title = "帽子组合：Rachel #helmet 组合服装头带、羽毛贝雷帽、匿名请求",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Rachel 组合独特的帽子。\n\t\t\n\t\t▶<NAVI>[萨库尔]<INFO>rachel,152,131,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[羽毛贝雷帽]<INFO>5170</INFO></ITEM>\n\t\t\t贝雷帽 1、软羽毛 100、白色染料 1\n\t\t\n\t\t▶<NAVI>[?]<INFO>rachel,91,273,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[匿名请求]<INFO>5175</INFO></ITEM>\n\t\t\t1 黑色染料、100 光滑纸、99 粘性液体、100000zeny\n\t\t\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9180] = {
+		Title = "帽子组合：Hugel #Helmet 组合服装头带、Valkyrie 头盔",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以在 Hugel 组合独特的帽子。\n\n\t\t▶<NAVI>[金尼罗敏]<INFO>hugel,147,103,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[女武神头盔]<INFO>5171</INFO></ITEM>\n\t\t\t1 张贤者蠕虫卡、1 张阿尔杰夫卡、1 张树妖卡、1 张木制傀儡卡、1 张骨头卡、1 张海盗斯凯尔卡、1 张马杜克卡、1 张部落卡、1 张长者卡、1 张梦魇恐怖卡、\n\t\t\t黑暗符文 1000、血色符文 1000、10000000zeny\n\t\t\t- 可兑换服装：<NAVI>【复制专家帕尔图】<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[9181] = {
+		Title = "帽子组合：其他地区和领域#头盔组合服装头带、兽人头盔、新娘皇冠、青蛙帽、齐尔塔斯面具、猫脚印发夹、仙女花",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"您可以组合其他地区和领域的独特帽子。\n\n\t\t▶<NAVI>[兽人战士]<INFO>in_orcs01,31,93,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[兽人头盔]<INFO>2299</INFO></ITEM>\n\t\t\t完成 10,000 个 Zellopi 和 10,000 个兽人战士令牌的任务。\n\n\t\t▶<NAVI>[橡树女士]<INFO>in_orcs01,119,106,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【新娘花冠】<INFO>5436</INFO></ITEM>\n\t\t\t丝带1、食人花1000\n\n\t\t▶<NAVI>[罗达青蛙]<INFO>gef_fild07,108,161,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[青蛙帽子]<INFO>5447</INFO></ITEM>\n\t\t\t- 可兑换服装：<NAVI>【复制专家帕尔图】<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[吉尔塔斯]<INFO>gl_prison1,137,138,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[吉尔塔斯的面具]<INFO>5121</INFO></ITEM>\n\t\t\t先决条件：需要黑水晶碎片 369\n\t\t\t猫眼石 1、旧魔法阵 30、禁红蜡烛 1\n\t\t\t- 可兑换服装：<NAVI>[伊芙·佩特]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n\t\t▶<NAVI>[音乐]<INFO>um_fild04,201,200,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>【猫爪印发夹】<INFO>5446</INFO></ITEM>\n\t\t\t狩猎100颗巧克力，执行任务时禁止狩猎野玫瑰。\n\n\t\t▶<NAVI>[悠堂]<INFO>gonryun,149,189,0,101,0</INFO></NAVI>组合列表\n\t\t\t▷<ITEM>[仙女之花]<INFO>5437</INFO></ITEM>\n\t\t\t透明翅膀衣服100、柔软丝布10​​0、花束1、紫色染料1、兜帽1\n\n\t<TIPBOX>▶转到上一页<INFO>9167</INFO></TIPBOX>\n\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10001] = {
+		Title = "第15.1话 幻境！！ #任务情节",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10001",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是关于生活在超文明中的人们的故事，以及维鲁斯城的秘密，一个名为“Phantasmagorica”的大规模发掘项目。\n\n\n\t\t▶幻影主线任务\n\t\t<TIPBOX>Q 幻影！ (140)<INFO>10002</INFO></TIPBOX>\n\n\t\t▶幻影支线任务\n\t\t<TIPBOX>Q 挖掘队接待 (140)<INFO>10003</INFO></TIPBOX>\n\t\t<TIPBOX>Q 阿纳德挖掘队 (140)<INFO>10004</INFO></TIPBOX>\n\t\t<TIPBOX>Q 每日绩效报告 (140)<INFO>10005</INFO></TIPBOX>\n\n\t\t▶幻影一般任务\n\t\t<TIPBOX>Q通道消灭 (140)<INFO>10006</INFO></TIPBOX>\n\t\t<TIPBOX>Q 威胁拦截 (140)<INFO>10007</INFO></TIPBOX>\n\t\t<TIPBOX>Q新电源 (140)<INFO>10008</INFO></TIPBOX>\n\t\t<TIPBOX>Q 核心合集 (140)<INFO>10009</INFO></TIPBOX>\n\t\t<TIPBOX>问：在附近散步 (140)<INFO>10010</INFO></TIPBOX>\n\t\t<TIPBOX>Q 攻击毁灭祝福会 (140)<INFO>10011</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶观看第15集<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10002] = {
+		Title = "Q 幻影！ (140)#奇幻#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"雷肯伯格正在招募人才加入我们规划幻境，欧菲洛斯的新历史遗址！\n\t\t<NAVI>[公共关系机构（Frontera）]<INFO>prontera,121,77,0,101,0</INFO></NAVI>\n\t\t<NAVI>[公共关系中心（莫罗克）]<INFO>morocc,208,287,0,101,0</INFO></NAVI>\n\t\t<NAVI>[公共关系机构（Payon）]<INFO>payon,174,113,0,101,0</INFO></NAVI>\n\t\t<NAVI>[公共关系机构（格芬）]<INFO>geffen,135,64,0,101,0</INFO></NAVI>\n\t\t<NAVI>[公共关系局（艾伯塔省）]<INFO>alberta,119,65,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t^663399◈140级^000000\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10003] = {
+		Title = "发掘队接待(140)#幻境#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"让位于幻影发掘受理中心的奈良来完成申请吧。\n\t\t<NAVI>[国家]<INFO>verus04,182,168,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t^663399◈140级^000000\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10004] = {
+		Title = "Q 阿纳德挖掘队 (140)#Phantasmagorica#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"进入天堂后，您将收到有关参加 Atnad 挖掘团队的程序的指导。\n\t\t<NAVI>[酸橙]<INFO>moc_para01,31,14,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t^663399◈140级^000000\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10005] = {
+		Title = "Q每日表现报告(140)#Phantasmagorica#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"让我们以盖有阿特纳德挖掘负责人印章的绩效报告的形式向刘易斯指挥官报告每天的绩效。\n\t\t<NAVI>[刘易斯]<INFO>verus04,179,165,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t<TIPBOX>挖掘队接待<INFO>10003</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10006] = {
+		Title = "Q通道消除(140)#幻境#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"消灭了通往东部遗迹的通道中的怪物后，我们就向米歇尔经理汇报吧。\n\t\t<NAVI>[管理员米歇尔]<INFO>ver_eju,114,40,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t<TIPBOX>挖掘队接待<INFO>10003</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10007] = {
+		Title = "Q 威胁拦截 (140)#Phantasmagorica#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"侵略性的机械怪物出没于幻境的主要挖掘地点。让我们来处理它们以确保顺利运行。\n\t\t<NAVI>[刘易斯]<INFO>verus04,179,165,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t<TIPBOX>挖掘队接待<INFO>10003</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10008] = {
+		Title = "Q新动力源(140)#幻影#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"为了协助劳埃德进行研究，准备了 10 块玻璃毛坯来收集机器残骸中发现的集中能量。\n\t\t<NAVI>[劳埃德]<INFO>verus03,103,177,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t<TIPBOX>阿特纳德挖掘队<INFO>10004</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10009] = {
+		Title = "Q核心合集(140)#幻影#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"为了帮助伊恩·阿特纳德的研究，我们从内部广场收集20个操作控制装置。\n\t\t<NAVI>[伊恩·阿特纳德]<INFO>verus04,179,165,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t<TIPBOX>挖掘队接待<INFO>10003</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10010] = {
+		Title = "Q 在附近散步(140)#Phantasmagorica#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"让我们代表忙碌的警察队长卡斯勒来听听会员们的不满。成员包括萨格兰、杰里夫、苏伊登和皮普斯。\n\t\t<NAVI>[安全队长卡斯勒]<INFO>verus04,133,212,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t^663399◈140级^000000\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10011] = {
+		Title = "Q 攻击毁灭祝福会(140)#Phantasmagorica#15.1#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"有一定概率发生的事件！让我们阻止毁灭祝福会破坏古迹的攻击吧。\n\t\t<NAVI>[安全队长卡斯勒]<INFO>verus04,133,212,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 任务条件\n\t\t^663399◈140级^000000\n\t\t\n\t\t<TIPBOX>▶查看幻影任务<INFO>10001</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10013] = {
+		Title = "第 15.2 集记忆记录 #Quest 集",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10013",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在维鲁斯城发现的每一个小碎片都有自己的故事。当时这里发生了什么？\n\n\t\t▶记忆记录主线任务\n\t\t<TIPBOX>Q 重温记忆<INFO>10014</INFO></TIPBOX>\n\n\t\t▶记忆记录支线任务\n\t\t<TIPBOX>Q迹线<INFO>10015</INFO></TIPBOX>\n\t\t<TIPBOX>Q 第一天 - 认识人<INFO>10016</INFO></TIPBOX>\n\t\t<TIPBOX>Q 第 2 天 - 空气净化器<INFO>10017</INFO></TIPBOX>\n\t\t<TIPBOX>Q 第 3 天 - 葡萄收获<INFO>10018</INFO></TIPBOX>\n\t\t<TIPBOX>Q 第 4 天 - 制服病人<INFO>10019</INFO></TIPBOX>\n\t\t<TIPBOX>Q 第 5 天 - 搬运货物<INFO>10020</INFO></TIPBOX>\n\t\t<TIPBOX>Q最后一个房间<INFO>10021</INFO></TIPBOX>\n\t\t<TIPBOX>Q Presa 的研究实验室<INFO>10022</INFO></TIPBOX>\n\n\t\t▶记忆记录一般任务\n\t\t<TIPBOX>Q 实验楼记忆<INFO>10023</INFO></TIPBOX>\n\t\t<TIPBOX>Q 研究同意记忆<INFO>10024</INFO></TIPBOX>\n\t\t<TIPBOX>Q 月刊布里根<INFO>10025</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶观看第15集<INFO>4104</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10014] = {
+		Title = "Q 播放记忆#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在帮助伊恩·阿特纳德进行挖掘工作时，他发现了一份记忆记录。它是一种记录语音和声音的存储介质。\n\t\t故事始于找到一种可以读取它的设备。\n\t\t<NAVI>[伊恩·阿特纳德]<INFO>verus04,144,193,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399EP 15.1 已完成^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10015] = {
+		Title = "Q追踪#内存记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"我们与露、马克、阿尔夫和塔马林一起调查位于中心区域的一个地下掩体。随着对地下掩体的调查，开始发现不寻常的痕迹。\n\t\t地下掩体的尽头究竟存在着什么？\n\t\t<NAVI>[露]<INFO>verus01,221,65,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399EP 15.1 已完成^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10016] = {
+		Title = "Q 第一天 - 人员识别#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"罗娜·弗雷萨 (Rona Fresa) 认为自己对这次爆炸负有责任，并试图在混乱中控制局势。\n\t\t让我们帮助她处理 Burnok Cyhue。\n\t\t<NAVI>[伯诺克·塞休]<INFO>un_bk_q,103,147,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399使用[记录片段1]进行变形^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10017] = {
+		Title = "Q第2天-空气净化器#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"机械工程师 Mugoshi 表示，他建造了一种新的空气净化装置，但在运输过程中遇到了问题。\n\t\t在这种时候，我想我需要一个强大的冒险者的帮助。\n\t\t<NAVI>[机械工程师Mugeosi]<INFO>un_bk_q,56,286,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399使用[记录片段2]进行变形^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10018] = {
+		Title = "Q第3天-葡萄收获#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"生物工程师埃布里克正集中精力为避难所内的人们研究和生产食物。\n\t\t在采摘主要食物之一的葡萄的过程中，似乎发生了一些困难。让我们帮忙吧。\n\t\t<NAVI>[生物工程师埃布里克]<INFO>un_bk_q,220,350,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399使用[记录片段3]进行扭曲^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10019] = {
+		Title = "Q第4天-病人被制服#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"拉普拉德护士正在照顾患有传染病的患者。然而，表现出极端癫痫症状的感染患者数量正在增加。\n\t\t拉普拉德无法独自应对。让我们帮助她制服癫痫患者。\n\t\t<NAVI>[拉普拉德护士]<INFO>un_bk_q,276,243,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399使用[记录片段4]进行扭曲^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10020] = {
+		Title = "Q第5天-货物移动#内存记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"运输经理 Ernon 需要将日常必需品运送到 Z-2 区域，但与他合作的腐败研究人员似乎并没有提供帮助。\n\t\t让我们满足冒险者想要随身携带一些行李的请求吧。\n\t\t<NAVI>[运输经理埃农]<INFO>un_bk_q,279,294,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399使用[记录片段5]进行扭曲^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10021] = {
+		Title = "Q 最后一个房间#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"最后一个房间位于地下掩体深处，不知为何有着不寻常的气氛。\n\t\t看来有必要组建一个政党了。充分准备之后，让我们揭开最后一个房间的秘密吧。\n\t\t<NAVI>[标记]<INFO>un_bunker,304,67,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈150级^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10022] = {
+		Title = "Q Fresa Lab#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"文明探索者想要利用次元传送器探索过去的文明，但由于大量积压的工作而无法移动。\n\t\t让我们代表悲伤的文明探索者一起回到过去吧。\n\t\t<NAVI>[文明探索者]<INFO>verus01,149,155,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈135级^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10023] = {
+		Title = "Q实验同意记忆#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"通过领袖阿尔奎恩，我们得知我们目前拥有的记忆记录就是其中的分割碎片之一。\n\t\t让我们收集所有 5 个散落的碎片并将它们带到阿尔奎恩。\n\t\t<NAVI>[伊恩·阿特纳德]<INFO>moc_para01,133,170,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399EP 15.1 已完成^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10024] = {
+		Title = "Q研究同意记忆#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"雷肯伯格总部的主席想要会见该小组。\n\t\t我不知道业务是什么，但我们先去 Richtarsen，Levenberg 的总部所在地。\n\t\t<NAVI>[伊恩·阿特纳德]<INFO>verus04,144,193,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399[Q研究同意记忆]已完成5次^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10025] = {
+		Title = "Q月刊布里根#记忆记录#15.2#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在卡罗切尔的后辈中，我非常喜欢这位正在试用期的新人。\n\t\t也许他去了一片废墟。如果您发现新成员，请向卡罗切尔报告。\n\t\t<NAVI>[卡罗切尔]<INFO>verus02,79,31,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399EP 15.1 已完成^000000\n\n\t\t<TIPBOX>▶查看内存记录任务<INFO>10013</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10026] = {
+		Title = "Q 警惕村#马来亚港#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10026",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"最近，村里的邪灵威胁有所增加，居民们对外来者保持警惕。\n\t\t守卫罗德尔首先要求你去见村长蒙巴基·方（Mumbaki Fong）。\n\t\t<NAVI>[后卫罗德尔]<INFO>malaya,266,76,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10027] = {
+		Title = "Q 进入Beongunggot (100)#马来亚港#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10027",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是进入Beongunggot的任务。\n\t\t让我们来听听拉杰护士的紧急请求，她的脚脱皮了，甚至无法进入医院。\n\t\t<NAVI>[护士]<INFO>malaya,55,72,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10028] = {
+		Title = "Q森林里的秘密(100)#马来亚港#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10028",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"有传言说马来亚港的森林深处隐藏着巨大的宝藏。这也是最近这里外来者数量快速增加的原因。\n\t\t希望冒险家和我们一起探索森林，快速致富。\n\t\t<NAVI>[警卫]<INFO>malaya,305,281,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10029] = {
+		Title = "Q 布科诺沃湖入口 (120)#马来亚港#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10029",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是进入比尔科瑙尔湖的任务。\n\t\t一位死去不公的老妇人的复仇之魂在贝尔科纳战争中复活。为了防止更大的灾难，必须举行仪式来安抚复仇的灵魂。\n\t\t<NAVI>【精通传说的老人】<INFO>malaya,285,332,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈120级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10030] = {
+		Title = "Q 老人与铸铁锅 (100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尼尔多是一位在邪灵横行的村庄里焦虑得发抖的老人，他在你身上发现了一种神秘的能量。\n\t\t似乎很难忽视他的恳切请求，所以我们得想办法让邪灵安静下来。\t\t\n\t\t<NAVI>[老尼尔多]<INFO>malaya,181,353,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10031] = {
+		Title = "Q 击败杰泽林(100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，杰格林对马来亚港和巴约之间来往的小贩造成的损害正在不断累积。\n\t\t应卫兵罗德尔的请求，让我们一起加入消灭杰泽林的行列吧。\t\n\t\t<NAVI>[后卫罗德尔]<INFO>malaya,266,76,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10032] = {
+		Title = "Q Jejering 和 Jejelope (100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"杰泽洛普可以通过击败杰泽林获得，是各种加工物品的极佳材料。\n\t\t让我们把杰泽洛普带到收藏品商人瓦伦那里，以获得奖励。\t\t\n\t\t<NAVI>[云]<INFO>malaya,295,171,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10033] = {
+		Title = "Q 闪亮银刃(100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"银刃，一剑斩一切煞气的剑。\n\t\t铁匠学徒潘多伊希望通过​​打造一把银刃而得到大家的认可。我想我可以为他做点好事。\n\t\t<NAVI>[潘多伊]<INFO>malaya,119,217,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10034] = {
+		Title = "Q马里斯的孩子(100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"马里斯很担心，因为她的女儿离家后还没有回来。我似乎被森林里的恶灵驱赶着，在路上徘徊。\n\t\t让我们帮助马里斯，帮助失踪的孩子回家。\n\t\t<NAVI>[马里斯]<INFO>ma_fild01,200,190,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10035] = {
+		Title = "Q 请同意 - 收集骨头(100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"班泰（Banthai）是看守的搭档，是一只具有非凡能力的看门狗。\n\t\t但班泰似乎需要一块特殊的骨头来保持他的能力。\n\t\t<NAVI>[保安大楼]<INFO>ma_fild01,239,253,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10036] = {
+		Title = "Q 制作传统守卫(100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"伊梅尔达有能力创建守卫来保护村庄的和平。\n\t\t不过，她似乎没有能力收集建造结界的材料。\n\t\t<NAVI>[伊梅尔达]<INFO>malaya,169,350,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10037] = {
+		Title = "Q 佩里精神 (100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"佩德罗说他的船被鬼魂占领了，无法再运行。\n\t\t我们需要一位勇敢的冒险家去调查佩德罗的船，它已经变成了闹鬼的巢穴！\n\t\t<NAVI>[佩德罗]<INFO>malaya,326,68,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>村庄守卫<INFO>10026</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10038] = {
+		Title = "问：我无法与那个人进行眼神交流(100)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"牛、马、羊、鸡和猪都喜欢布迪·戴的歌曲……但他们说他们还不会回来。\n\t\t因为受到了独眼怪物文升吉斯的欺负，我想我需要冒险家的帮助！\n\t\t<NAVI>[拜托日]<INFO>ma_fild02,241,39,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10039] = {
+		Title = "Q Pintados Festival#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"Baryo Mahihuaga 有一个名为 Pintados Festival 的节日，已经持续了很长时间。\n\t\t在准备这个祭典的过程中，我们遭到了Bungiseungis的袭击，面临无法举办祭典的危险。有什么办法可以帮助陷入困境的伊斯科吗？\n\t\t<NAVI>[节日准备男孩]<INFO>ma_fild01,179,260,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10040] = {
+		Title = "击败Q·布洛耶(130)#马来亚港#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，在森林深处发现了布沃耶，一种长着两个巨大头颅的可怕怪物。\n\t\tBuwoyeo的力量如此强大，以至于迫切需要外部力量。让我们加入战斗并保护马来亚港人民。\n\t\t<NAVI>[守卫队长]<INFO>malaya,290,340,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈130级^000000\n\t\t<TIPBOX>Q 森林里的秘密 (100)<INFO>10029</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看马来亚港任务<INFO>4173</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10041] = {
+		Title = "Q 瓜拉那#巴西#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10041",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，用瓜拉那果实制成的糖果是巴西各个年龄段和性别的人都非常喜爱的产品。\n\t\t然而，据说他们最近在生产瓜拉那糖方面遇到了困难。\n\t\t<NAVI>[糖果制造商]<INFO>brasilis,187,162,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看巴西人的任务<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10042] = {
+		Title = "Q幸运睡莲#巴西#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10042",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"巴西利斯的植物因其独特的环境而以其生动多彩的性质而闻名。\n\t\t其中，巴西睡莲特别美丽，据说可以带来好运。\n\t\t<NAVI>[卡门]<INFO>brasilis,203,286,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看巴西人的任务<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10043] = {
+		Title = "Q 浴室里的鬼魂（40）#巴西#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10043",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"巴西利斯艺术博物馆的浴室里流传着一个奇怪的谣言。\n\t\t我想我可以从这些孩子那里得到一些关于这个谣言的信息。\n\t\t<NAVI>[佩尔多]<INFO>brasilis,185,246,0,101,0</INFO></NAVI>\n\t\t<NAVI>[玛丽安娜]<INFO>brasilis,188,244,0,101,0</INFO></NAVI>\n\t\t<NAVI>[法比奥]<INFO>brasilis,181,250,0,101,0</INFO></NAVI>\n\t\t<NAVI>[丹尼尔]<INFO>brasilis,180,249,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈40级^000000\n\n\t\t<TIPBOX>▶查看巴西人的任务<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10044] = {
+		Title = "Q李阿拉#巴西#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，在洞穴深处的睡莲之上，有一位美丽的女子李阿拉，她会选择男人并用她的邪恶力量来诱惑他们。\n\t\t我们必须想办法削弱她的力量。\n\t\t<NAVI>[萨满]<INFO>brasilis,315,334,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看巴西人的任务<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10045] = {
+		Title = "Q 捉老鼠 (40)#巴西#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"不知何时，巴西利斯开始出现了带有无法识别的邪恶能量的奇怪老鼠。\n\t\t露西亚似乎有一种特殊的物品可以抓住他们。\n\t\t<NAVI>[露西娅]<INFO>brasilis,192,133,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈40级^000000\n\n\t\t<TIPBOX>▶查看巴西人的任务<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10046] = {
+		Title = "Q 寻找动物 (40)#巴西#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"안젤로가 기르고 있던 강아지들이 마을 밖 필드까지 나가버리는 사태가 발생했습니다.\n\t\t난처해하고 있는 안젤로를 위해 무엇인가 할 일은 없을까요?\n\t\t<NAVI>[安杰洛]<INFO>brasilis,297,307,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈40级^000000\n\n\t\t<TIPBOX>▶查看巴西人的任务<INFO>4171</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10047] = {
+		Title = "Q游虎#大城#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10047",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"从都喜那里，您可以听到有关位于古建筑中心的沸腾虎的故事。\n\t\t看来，关于游泳老虎的奇怪而恐怖的故事实际上激发了冒险家的好奇心！\n\t\t<NAVI>[杜斯特]<INFO>ayothaya,83,132,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看大城任务<INFO>4169</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10048] = {
+		Title = "Q 东阳宫#大城府#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10048",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"大城以其丰富的美味佳肴而闻名。其中，据说最美味的是一种叫冬阴功的食物！\n\t\t如果你问艾农，说不定就能尝到那种特别的食物。\n\t\t<NAVI>[匿名]<INFO>ayothaya,196,265,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看大城任务<INFO>4169</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10049] = {
+		Title = "Q 寻找订婚戒指#Ayothaya#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10049",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"那个把戒指掉进水里的女人当场坐立不安。\n\t\t让我们帮助她找回戒指并听听更多故事。\n\t\t<NAVI>【看似坚强的女人】<INFO>ayothaya,233,105,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看大城任务<INFO>4169</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10050] = {
+		Title = "Q 寻找鲸鱼岛#莫斯科#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10050",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"在莫斯科，自古就有一个关于移动岛的故事。\n\t\t贝尔巴耶夫强烈声称他确实在不久前看到过它。\n\t\t<NAVI>[贝尔巴耶夫]<INFO>moscovia,171,71,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10051] = {
+		Title = "Q 俄罗斯神仙Koshei#莫斯科#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10051",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"Sage非常欢迎来自其他地区的游客。\n\t\t讲述了许多冒险家在附近的森林中失踪的故事……\n\t\t<NAVI>[圣人]<INFO>mosk_fild02,198,252,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈拥有波令卡^000000\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10052] = {
+		Title = "Q 冬天，请不要再来了！#Moscowia#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10052",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"莫斯科因其比其他地区更冷的天气而臭名昭著。\n\t\t更可怕的是巴巴雅嘎，她说只要你帮她一点点，她就能完成阻止冬天到来的魔法。\n\t\t<NAVI>【更可怕的芭芭雅嘎】<INFO>mosk_in,215,46,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈60级^000000\n\t\t^663399◈拥有40门迫击炮^000000\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10053] = {
+		Title = "Q红环#莫斯科#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"他去找瓦西里爷爷要红戒指，但他说他不再拥有这枚戒指了。\n\t\t我听到一个与之相关的悲伤故事......\n\t\t<NAVI>[瓦西里爷爷]<INFO>moscovia,206,81,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t<TIPBOX>Q 俄罗斯不朽Koschei<INFO>10051</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10054] = {
+		Title = "Q 露莎卡的头发#Moscowia#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，如果新娘在婚礼前掉入沼泽而死，她就会变成水仙女露莎卡。\n\t\t不久前，据说她的女儿在婚礼前失踪了。\n\t\t<NAVI>[伤心欲绝的女人]<INFO>moscovia,166,145,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t<TIPBOX>Q 俄罗斯不朽Koschei<INFO>10051</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10055] = {
+		Title = "Q Marozka#莫斯科#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说制作金钥匙的材料金线可以从马罗斯卡获得。\n\t\t墙外传来的女孩声音提供了一些线索。\n\t\t<NAVI>[墙]<INFO>mosk_dun01,45,257,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t<TIPBOX>Q 俄罗斯不朽Koschei<INFO>10051</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10056] = {
+		Title = "Q 胆小鬼米哈伊尔#莫斯科维亚#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说加林娜的儿子米哈伊尔在一次事故后逃跑了，至今尚未回来。\n\t\t让我们帮一下心情焦躁的加琳娜吧。\n\t\t<NAVI>[加琳娜]<INFO>mosk_in,144,279,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10057] = {
+		Title = "Q 如何做煎饼#Moscovia#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"管家拉丽莎为拜访米哈伊尔准备了特制烤煎饼作为礼物。\n\t\t他们还说，如果你带了必要的原料，他们会教你新的煎​​饼食谱。\n\t\t<NAVI>[拉里萨]<INFO>mosk_in,211,259,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t<TIPBOX>Q 胆小鬼米哈伊尔<INFO>10056</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10058] = {
+		Title = "Q 制作耳罩帽子#Moscowia#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"尖顶帽是莫斯科非常流行的传统帽子，也是御寒必备的帽子。\n\t\t伊琳娜住在南方的一所私人住宅里，如果你带一些材料给她，她会给你做一顶夏普帽。\n\t\t<NAVI>[伊琳娜]<INFO>moscovia,211,93,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10059] = {
+		Title = "Q 神奇的松鼠吐出珠宝#Moscowia#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"莫斯科的一位橡子小贩正在出售新鲜的橡子。\n\t\t有传言说，如果你把从商人那里买来的橡子带给村子附近的一只大松鼠，它会吐出奇怪的宝石。\n\t\t<NAVI>[橡子商人]<INFO>moscovia,208,182,0,101,0</INFO></NAVI>\n\t\t<NAVI>[大松鼠]<INFO>mosk_fild01,113,108,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看莫斯科维亚任务<INFO>4170</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10060] = {
+		Title = "Q传奇(60)#出瓦塔#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10060",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说贾蒂王冠只有那些获得贾蒂部落荣耀的人才能获得。\n\t\t在小屋前，他无意中听到了圣人迦叶波和迦提王冠的故事……\n\t\t<NAVI>[圣人迦叶巴]<INFO>dew_in01,22,48,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈60级^000000\n\n\t\t<TIPBOX>▶查看出瓦塔任务<INFO>4172</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10061] = {
+		Title = "问 帮助老人！ (60)#德瓦塔#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"酿造传统白酒的老人梅莫处境艰难。\n\t\t这是因为我们突然与我们的主要客户 Jati 部落失去了联系，据说他们近 10 年来从未食言。发生了什么？\n\t\t<NAVI>[备忘录]<INFO>dewata,109,262,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈60级^000000\n\n\t\t<TIPBOX>▶查看出瓦塔任务<INFO>4172</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10062] = {
+		Title = "Q 传统武器！！ (60)#德瓦塔#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"一个连自己身在何处都不知道的老人。\n\t\t原来，这是有很多故事的怀特史密斯。据说他在旅行中获得了神秘的武器配方......\n\t\t<NAVI>[加蒂]<INFO>dew_fild01,127,240,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈60级^000000\n\n\t\t<TIPBOX>▶查看出瓦塔任务<INFO>4172</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10063] = {
+		Title = "Q韩药铺(40)#龙智成#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10063",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"多华似乎是永成的韩医生，他正在治疗一位紧急病人，但不幸的是，他的药品已经用完了。\n\t\t我想我需要替塔瓦拿点药，她很难离开。\n\t\t<NAVI>【看起来像医生的医生】<INFO>lou_in02,265,69,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈40级^000000\n\n\t\t<TIPBOX>▶查看龙智成任务<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10064] = {
+		Title = "Q毒王(40)#龙智星#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10064",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"毒王纳迦什阿塞斯是永济城公认的武林高手。\n\t\t其中，论毒术，他可以说是最出色的。为什么不从他那里得到一些关于毒术的知识呢？\n\t\t<NAVI>【毒王】<INFO>lou_in02,123,39,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈40级^000000\n\t\t<TIPBOX>Q 韩药店 (40)<INFO>10063</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看龙智成任务<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10065] = {
+		Title = "Q 8 改革积极分子#龙智成#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"용지성의 미래를 바꾸고 싶어 하는 개혁 운동가 쑨 마오는 당신에게도 동료들과 함께 개혁 운동에 동참할 것을 권합니다.\n\t\t好像有8个新人加入，就能接到特殊任务。\n\t\t<NAVI>[隐士]<INFO>lou_in02,77,37,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看龙智成任务<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10066] = {
+		Title = "Q展望台#龙池城#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"站在洛阳场中央山峰上欣赏风景的少年，似乎对镇上的某家酒馆感到愤怒。\n\t\t据说，如果你答应他的请求，他就会告诉你一些好东西。\n\t\t<NAVI>[老延波]<INFO>lou_fild01,195,177,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看龙智成任务<INFO>4166</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10067] = {
+		Title = "Q 天松地牢访问#Amatsu#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10067",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是进入Amatsu Dungeon的任务。\n\t\t我们从守卫阿松别馆前部的守门人那里得知星州的母亲病得很重。故事从前往星州寻求帮助开始。\n\t\t<NAVI>[守门士兵]<INFO>amatsu,164,174,0,101,0</INFO></NAVI>\n\t\t<NAVI>[城主]<INFO>ama_in02,200,176,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看Amatsu Quest<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10068] = {
+		Title = "Q 桃太郎(30)#天松#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"杜鲁马吉出版公司准备了一场精彩的活动来庆祝流行民间故事《桃太郎物语》出版100万册。\n\t\t你将能够成为故事中的主角，享受美妙的体验！\n\t\t<NAVI>[出版公司员工]<INFO>amatsu,223,236,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈30级^000000\n\n\t\t<TIPBOX>▶查看Amatsu Quest<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10069] = {
+		Title = "Q属性宝石兑换#天松#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"格雷戈里·拉斯普京（Gregory Rasputin），一位看上去充满疯狂的炼金术士。\n\t\t尽管语气邪恶，但他做事却显得十分利落。\n\t\t<NAVI>[炼金术士]<INFO>ama_in02,61,27,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看Amatsu Quest<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10070] = {
+		Title = "问寿司！芥末！寿司！芥末！寿司！#Amatsu#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"他不但厨艺高超，而且还很有感情，所以他会为顾客倒菜，所以被称为麻姑麻姑。\n\t\t因此，我们总是遇到物资短缺的情况，我想如果我们帮助这个人，就会有好事发生。\n\t\t<NAVI>[寿司大师]<INFO>ama_in01,162,17,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看Amatsu Quest<INFO>4167</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10071] = {
+		Title = "Q断剑(50)#昆仑#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10071",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"由于各种邪恶的谣言，目前这个村子不太欢迎外来者。\n\t\t最近据说连小偷都在设下……\n\t\t<NAVI>[一家之主]<INFO>gon_in,17,93,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈50级^000000\n\n\t\t<TIPBOX>▶查看昆仑任务<INFO>4168</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10072] = {
+		Title = "Q 大连江#昆仑#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这里有一个拳击场，可以测试一下自己的实力。\n\t\t据说，要想进入擂台，就必须在车礼士面前承认自己的实力。\n\t\t<NAVI>[察礼寺]<INFO>gonryun,180,118,0,101,0</INFO></NAVI>\n\n\t\t<TIPBOX>▶查看昆仑任务<INFO>4168</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10073] = {
+		Title = "Q 捡起东西的好人（20）#昆仑#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"燕桥船将一件重要的传家宝掉落在地上。\n\t\t如果你帮忙了，难道就不能得到回报吗？\n\t\t<NAVI>【继续培训】<INFO>gonryun,237,226,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈20级^000000\n\n\t\t<TIPBOX>▶查看昆仑任务<INFO>4168</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10074] = {
+		Title = "Q 抓到的、没抓到的、忙的(100)#Rock Ridge#",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10074",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"你听说过关于新大陆拓荒城市罗克里奇的传闻吗？\n\t\t您可以通过艾伯塔省的导航员 Karam Pucci 收到第一个请求。\t\n\t\t<NAVI>[卡拉姆·普奇]<INFO>alberta,240,103,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10075] = {
+		Title = "Q 管道清洁 (100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"管理岩岭地下下水道系统管道和水泵的多诺万似乎有很多需要担心的事情。\n\t\t据说，附着在管道和水泵上的怪物就是罪魁祸首。\n\t\t<NAVI>[多诺万]<INFO>harboro1,138,157,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10076] = {
+		Title = "Q 收集矿石碎片(100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"由于外国人的过度开采，已经到了连原住民所需的矿产都供不应求的地步。\n\t\t作为陌生人中的一员，为什么不给他们一些帮助呢？\n\t\t<NAVI>[蹲马]<INFO>rockrdg1,262,90,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>Q 抓到的、没抓到的、忙的 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10077] = {
+		Title = "Q 家庭和平 (100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说卡克特隆先生在经过荒野时遭到土狼袭击，丢失了重要物品。\n\t\t我希望你能尽力为卡克特龙家族带来和平。\n\t\t<NAVI>[先生。卡克特隆]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>Q 抓到的、没抓到的、忙的 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10078] = {
+		Title = "问气！气体！！ (100)#岩岭#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，矿井内有团块恶毒气体在流动，导致矿工们出现奇怪的现象。\n\t\t让我们代替生病的他在矿井内部巡逻吧。\n\t\t<NAVI>[生病的恶魂]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>Q 抓到的、没抓到的、忙的 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10079] = {
+		Title = "Q Baduki携带的戒指（100）#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"麦克费恩一家的狗巴杜基偷走了他们珍贵的金戒指。\n\t\t我想如果冒险者能帮你找到的话就好了。\n\t\t<NAVI>[麦克菲女士]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10080] = {
+		Title = "Q 围棋，那么你就不能玩(100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"Baduki 每天都会把东西带到荒野里。\n\t\t似乎每天拿的东西都不同。\n\t\t<NAVI>[麦克菲女士]<INFO>harboro1,347,65,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>Q Baduki 拿走的戒指 (100)<INFO>10079</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10081] = {
+		Title = "Q 巴杜基的复仇 (100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，巴杜克一看到屋里有一把长枪，就吓得浑身发抖。\n\t\t看来有人一直在骚扰他。让我替他报仇吧。\n\t\t<NAVI>[先生。麦菲]<INFO>harboro1,344,61,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>Q Baduki 拿走的戒指 (100)<INFO>10079</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10082] = {
+		Title = "Q 管道维护 (100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"由于缺乏人力，海水淡化设施管理办公室似乎遇到了非常困难的时期。\n\t\t如果您接受管理经理的建议，您将能够执行四项管道维护任务。\n\t\t<NAVI>[海水淡化设施管理总监]<INFO>harboro1,334,135,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10083] = {
+		Title = "Q 边境采购食物(100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"他们似乎很难养活饥饿的工人，因为这里很难获得食物。\n\t\t让我们从外部采购食材来帮助餐饮服务人员。\n\t\t<NAVI>【膳食自理】<INFO>harboro1,357,163,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10084] = {
+		Title = "Q 边境狩猎 - 普通 (100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"为了让这个区域成为一个合适的交通枢纽，必须以某种方式减少周围怪物的数量。\n\t\t让我们帮助钢铁治安维护者追捕一群强盗。\n\t\t<NAVI>[钢铁义警]<INFO>harboro1,357,155,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10085] = {
+		Title = "Q边境狩猎-精英(100)#岩石岭#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"跟随钢铁义警继续追捕强盗。\n\t\t这次你将面对实力稍强的队伍。\n\t\t<NAVI>[钢铁义警]<INFO>harboro1,357,152,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\t\t<TIPBOX>Q边境狩猎-普通 (100)<INFO>10084</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10086] = {
+		Title = "Q 与巨像的契约(100)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"胡丁是一位走遍整个大陆的商人，来这里寻找岩岭的特产。\n\t\t看来他是个有良心的商人，应该能卖到一笔好价钱。\n\t\t<NAVI>【外国商人】<INFO>harboro1,231,254,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈100级^000000\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10087] = {
+		Title = "Q 烟花节筹备委员会 (130)#Rock Ridge#",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"爆破技术员戴蒙正准备制造一枚威力强大的炸弹，以从土匪手中夺回地雷。\n\t\t让我们帮助他采购制造所需的材料。\n\t\t<NAVI>[守护进程]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>\n\n\t\t▶ 任务条件\n\t\t^663399◈130级^000000\n\t\t<TIPBOX>Q 抓到的、没抓到的、忙的 (100)<INFO>10074</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看岩岭任务<INFO>4174</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10088] = {
+		Title = "Q 击杀 100 双胞胎幻象 (160)",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"对自己的幻象探索充满信心的瑟辛遇到了比预想中更强大的敌人，遇到了麻烦。\n\t\t这个任务是杀死Seshin所在地图上的100个怪物。\n  \n\t\t<NAVI>[世新]<INFO>ant_d02_i,167,184,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399◈160级以上^000000\n\n  <TIPBOX>▶转到上一页<INFO>9086</INFO></TIPBOX>\n  <TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10089] = {
+		Title = "杯盘清单",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"这是可以通过使用驯服物品或通过优惠券或活动获得的 Qpet 列表。\n\n\t\t▶杯垫清单\n\t\t<TIPBOX>QPET 新手波瑞<INFO>10090</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet波利<INFO>10091</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet母带<INFO>10092</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet天使<INFO>10093</INFO></TIPBOX>\n\t\t<TIPBOX>Q宠物滴<INFO>10094</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet蛋戒指<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 波波林<INFO>10096</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 沙漠狼幼崽<INFO>10097</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 沙漠狼<INFO>10098</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 兽人战士<INFO>10099</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 高级兽人<INFO>10100</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 火焰傀儡<INFO>10101</INFO></TIPBOX>\n\t\t<TIPBOX>Q宠物娇小<INFO>10102</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 地面除毛器<INFO>10103</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet固体噩梦恐怖<INFO>10104</INFO></TIPBOX>\n\t\t<TIPBOX>小 Qpet 巴风特<INFO>10105</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 混沌 Baphomet Jr.<INFO>10106</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 佩科佩科<INFO>10107</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 大佩科<INFO>10108</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet泰迪熊<INFO>10109</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 被遗弃的泰迪熊<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>库佩埃利奥特<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet埃利塞尔<INFO>10112</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet孢子<INFO>10113</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet毒孢子<INFO>10114</INFO></TIPBOX>\n\t\t<TIPBOX>库佩特伊希斯<INFO>10115</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 小伊希斯<INFO>10116</INFO></TIPBOX>\n\t\t<TIPBOX>QPET流浪者<INFO>10117</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 腐化徘徊者<INFO>10118</INFO></TIPBOX>\n\t\t<TIPBOX>奎佩特·穆纳克<INFO>10119</INFO></TIPBOX>\n\t\t<TIPBOX>我对 Qpet 的了解<INFO>10120</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet惠根<INFO>10121</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet昭熙<INFO>10122</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 约善女<INFO>10123</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet九尾狐<INFO>10124</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 九尾猫<INFO>10125</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 梦魇<INFO>10126</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 魅魔<INFO>10127</INFO></TIPBOX>\n\t\t<TIPBOX>Q宠物储物柜<INFO>10128</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 梅特勒<INFO>10129</INFO></TIPBOX>\n\t\t<TIPBOX>Q宠物木乃伊<INFO>10130</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 古代木乃伊<INFO>10131</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 疯子<INFO>10132</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 叶疯子<INFO>10133</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 挑剔<INFO>10134</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 琼琼<INFO>10135</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 钢铁雄雄<INFO>10136</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 猎人 飞<INFO>10137</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 野蛮贝贝<INFO>10138</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 野蛮人<INFO>10139</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 烟熏<INFO>10140</INFO></TIPBOX>\n\t\t<TIPBOX>Q宠物溜溜球<INFO>10141</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet巧克力<INFO>10142</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 哥布林<INFO>10143</INFO></TIPBOX>\n\t\t<TIPBOX>库佩特阿穆特<INFO>10144</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 黛比·卢奇<INFO>10145</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 恶魔<INFO>10146</INFO></TIPBOX>\n\t\t<TIPBOX>库佩特·爱丽丝<INFO>10147</INFO></TIPBOX>\n\t\t<TIPBOX>库佩特·伊丽莎<INFO>10148</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet青衣<INFO>10149</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 叶猫<INFO>10150</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 洛里·鲁里<INFO>10151</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet忍者<INFO>10152</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 雅娃娃<INFO>10153</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 木偶<INFO>10154</INFO></TIPBOX>\n\t\t<TIPBOX>Q宠物低语<INFO>10155</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 石头射手<INFO>10157</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 小鬼<INFO>10158</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 蜱虫<INFO>10159</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 小魔怪<INFO>10160</INFO></TIPBOX>\n\t\t<TIPBOX>库佩特·霍德雷姆林<INFO>10161</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 黑暗牧师<INFO>10162</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 柳<INFO>10163</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet罗温<INFO>10164</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 齐尔塔斯<INFO>10165</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet小管家β<INFO>10166</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet小经理α<INFO>10167</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 糖果滴<INFO>10168</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 圣诞妖精<INFO>10169</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 哥布林领袖<INFO>10170</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet墓碑<INFO>10171</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet雪兔<INFO>10172</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 蓝色独角兽<INFO>10173</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet硬米糕<INFO>10174</INFO></TIPBOX>\n\t\t<TIPBOX>库佩特·斯卡尔顿<INFO>10175</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet骷髅<INFO>10176</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet流浪鸭公仔<INFO>10177</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet傀儡<INFO>10178</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet白素珍<INFO>10179</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 周一晚上剧集<INFO>10180</INFO></TIPBOX>\n\t\t<TIPBOX>普里奥尼<INFO>10181</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet兽人英雄<INFO>10182</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 新郎在夜下<INFO>10183</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet契尔-D-01<INFO>10184</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet杜拉汉<INFO>10185</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 噩梦恐怖<INFO>10186</INFO></TIPBOX>\n\t\t<TIPBOX>库佩·巴风特<INFO>10187</INFO></TIPBOX>\n\t\t<TIPBOX>Q宠物熟人<INFO>10188</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 黑暗幻象<INFO>10189</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 蓝月 Lori Ruri<INFO>10190</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet野玫瑰<INFO>10191</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 变身的白衣骑士<INFO>10192</INFO></TIPBOX>\n\t\t<TIPBOX>QPET 深渊骑士<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet白骑士<INFO>10194</INFO></TIPBOX>\n\t\t<TIPBOX>库佩特埃德加<INFO>10195</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet美杜莎<INFO>10196</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet·科博<INFO>10197</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 灰冰风<INFO>10198</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 冰风<INFO>10199</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 黑暗领主<INFO>10200</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet冰海马<INFO>10201</INFO></TIPBOX>\n\t\t<TIPBOX>杯蜂<INFO>10202</INFO></TIPBOX>\n\t\t<TIPBOX>丘比特大黄蜂<INFO>10203</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet情妇<INFO>10204</INFO></TIPBOX>\n\t\t<TIPBOX>杯子钟<INFO>10205</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 钟楼经理<INFO>10206</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 斯卡戈尔德<INFO>10207</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet天使金<INFO>10208</INFO></TIPBOX>\n\t\t<TIPBOX>Qpet 时间持有人<INFO>10209</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10090] = {
+		Title = "Qpet 新鲜波利 #青苹果 #苹果汁",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9062]Qpet 新生波利\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12846]\n\t\t\n\t\t▶ 食品\n\t\t^i[531]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10091] = {
+		Title = "Qpet Poring #未成熟的苹果 #苹果汁",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9001]库佩波利\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[619]\n\t\t\n\t\t▶ 食品\n\t\t^i[531]\n\n\t\t▶ 配件\n\t\t^i[10013]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Cupet 母带处理<INFO>10092</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10092] = {
+		Title = "掌握 QPet #宠物食品 #未成熟的苹果 #Yggdrasil 的叶子",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9069]Cupet 母带处理\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特波利<INFO>10091</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[619]x3, ^i[610]x10\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷钓鱼<INFO>10093</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10093] = {
+		Title = "Qpet Angeling #宠物食品 #未成熟的苹果 #Soul Link",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9088]杯子天使戒指\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Cupet 母带处理<INFO>10092</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[2282]x1, ^i[509]x50,\n\t\t^i[503]x20, ^i[909]x200\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10094] = {
+		Title = "Qpet 滴 #Yellow Herb #Orange Juice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9002]杯子掉落\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[620]\n\n\t\t▶ 食品\n\t\t^i[508]\n\n\t\t▶ 配件\n\t\t^i[10013]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷ 杯子蛋戒指<INFO>10095</INFO></TIPBOX>\n\t\t<TIPBOX>▷Qpet 糖果滴<INFO>10168</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10095] = {
+		Title = "Qpet蛋圈#宠物食品#蛋壳片#旧煎锅",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9092]杯子蛋戒指\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷杯子掉落<INFO>10094</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7032]x20, ^i[7031]x10,\n\t\t^i[531]x3, ^i[4659]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10096] = {
+		Title = "Qpet Poporing #Green Herb #Bitter Grass",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9003]Qpet 波波林\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[621]\n\n\t\t▶ 食品\n\t\t^i[511]\n\n\t\t▶ 配件\n\t\t^i[10013]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10097] = {
+		Title = "Qpet 沙漠狼幼崽 #宠物食品 #干骨",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9010]库佩沙漠幼狼\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[628]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10003]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特沙漠狼<INFO>10098</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10098] = {
+		Title = "Qpet沙漠狼#宠物食品#干骨头",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9129]库佩沙漠狼\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特沙漠狼幼崽<INFO>10097</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[628]x3, ^i[7030]x300,\n\t\t^i[919]x20, ^i[4082]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10099] = {
+		Title = "Qpet兽人战士#宠物食品#纸巾的苦味",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9017]Cupet兽人战士\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[635]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10009]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特高橡树<INFO>10100</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10100] = {
+		Title = "Qpet 高橡木#宠物食品#纸巾的苦味",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9087]库佩特高橡木\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Cupet兽人战士<INFO>10099</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[635]x3, ^i[1124]x1,\n\t\t^i[931]x500, ^i[2267]x1,\n\t\t^i[4066]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet兽人英雄<INFO>10182</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10101] = {
+		Title = "Qpet 火焰傀儡#宠物食品#石心#魔法石板",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9131]杯形火焰傀儡\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷ 杯子傀儡<INFO>10178</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[953]x500, ^i[12371]x3,\n\t\t^i[990]x20, ^i[27029]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10102] = {
+		Title = "Qpet Petit #宠物食品 #Shiny Stone",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9022]Qpet 娇小\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[640]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10011]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特地面德利托<INFO>10103</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10103] = {
+		Title = "QPET 磨碎 #宠物食品 #Petit's Tail #Aloe Vera",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9098]Cupet地面删除器\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 娇小<INFO>10102</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[6260]x100, ^i[606]x150,\n\t\t^i[640]x3, ^i[4279]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10104] = {
+		Title = "Qpet 僵硬噩梦恐怖 #宠物食品 #Burning Horseshoe",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9116]杯形固体梦魇恐怖\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 噩梦恐怖<INFO>10186</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7120]x500, ^i[510]x100,\n\t\t^i[935]x100, ^i[4166]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10105] = {
+		Title = "Qpet Baphomet Jr. #宠物食品 #恶魔召唤卷轴",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9024]小库佩·巴风特\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[642]\n\n\t\t▶ 食品\n\t\t^i[518]\n\t\t\n\t\t▶ 配件\n\t\t^i[10001]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特混沌 Baphomet Jr.<INFO>10106</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10106] = {
+		Title = "Qpet Chaos Baphomet Jr. #宠物食品 #Devil's Horns",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9130]库佩特混沌 Baphomet Jr.\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷ 小库佩·巴风特<INFO>10105</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[923]x300, ^i[7054]x300,\n\t\t^i[508]x100, ^i[27335]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特·巴风特<INFO>10187</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10107] = {
+		Title = "QPet Peko Peko #宠物食品 #Buffy 蚯蚓",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9014]Cupet Peko Peko\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[632]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10010]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特大佩科<INFO>10108</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10108] = {
+		Title = "Q-Pet Grand Peko #宠物食品 #Buffy 蚯蚓",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9071]库佩特大佩科\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Cupet Peko Peko<INFO>10107</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[632]x3, ^i[537]x10,\n\t\t^i[7101]x300, ^i[522]x10,\n\t\t^i[4031]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10109] = {
+		Title = "Qpet泰迪熊#棉球#小娃娃针",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9099]Qpet泰迪熊\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[23189]\n\n\t\t▶ 食品\n\t\t^i[25233]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet被遗弃的泰迪熊<INFO>10110</INFO></TIPBOX>\n\t\t<TIPBOX>▷库佩·埃利奥特<INFO>10111</INFO></TIPBOX>\n\t\t<TIPBOX>▷库佩埃利塞尔<INFO>10112</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10110] = {
+		Title = "Qpet 被遗弃的泰迪熊#pet food #cursed person",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9108]Qpet被遗弃的泰迪熊\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 泰迪熊<INFO>10109</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7442]x300, ^i[724]x50,\n\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10111] = {
+		Title = "Qpet Elliot #宠物食品 #生锈螺丝 #Opal",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9118]库佩·埃利奥特\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 泰迪熊<INFO>10109</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7317]x500, ^i[518]x100,\n\t\t^i[727]x10, ^i[4340]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩基尔-D-01<INFO>10184</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10112] = {
+		Title = "Qpet Elicell #宠物食品 #生锈的螺丝 #血腥书架",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9119]库佩埃利塞尔\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 泰迪熊<INFO>10109</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7317]x500, ^i[518]x100,\n\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10113] = {
+		Title = "Qpet 孢子 #宠物食品 #Moss 与晨露",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9012]杯形孢子\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[630]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10017]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10114] = {
+		Title = "Qpet毒孢子#宠物食品#有毒植物",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9013]金杯毒孢子\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[631]\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10017]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10115] = {
+		Title = "Qpet Isis #宠物食品 #服从手链",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9021]库佩伊希斯\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[639]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10006]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特小伊希斯<INFO>10116</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10116] = {
+		Title = "Qpet 小伊希斯 #宠物食品 #服从手链 3 女王头饰",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9090]库佩特小伊希斯\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特伊希斯<INFO>10115</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[639]x3, ^i[10006]x1,\n\t\t^i[954]x300, ^i[732]x6\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10117] = {
+		Title = "Qpet流浪者#烈酒#浪人头骨",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9037]Qpet 流浪者\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[14574]\n\n\t\t▶ 食品\n\t\t^i[7824]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet 污染流浪者<INFO>10118</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10118] = {
+		Title = "Qpet污染流浪者#宠物食品#骷髅葫芦",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9117]库佩腐化流浪者\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet流浪者<INFO>10117</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7005]x500, ^i[1059]x100,\n\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10119] = {
+		Title = "Qpet Munak#宠物食品#收件人未知",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9018]库佩特穆纳克\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[636]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10008]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10120] = {
+		Title = "Qpet看到#宠物食品#她的心",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9025]看到Qpet\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[659]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10020]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩惠根<INFO>10121</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10121] = {
+		Title = "Qpet惠根#宠物食品#Unmarked娃娃",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9093]Qpet惠根\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷我对Qpet的了解<INFO>10120</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7277]x100, ^i[7014]x50,\n\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10122] = {
+		Title = "Qpet Sohee #宠物食品 #Eunjangdo of Purity",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9020]Qpet 昭熙\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[638]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10016]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10123] = {
+		Title = "Qpet漂亮女孩#晨露#甘美莲花",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9047]Cupet Yoseonnyeo\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12365]\n\n\t\t▶ 食品\n\t\t^i[6105]\n\n\t\t▶ 配件\n\t\t^i[10029]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet白素珍<INFO>10179</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10124] = {
+		Title = "Qpet 九尾狐 #可疑瓶子 #Sap Jelly",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9095]Qpet 九尾狐\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[23187]\n\t\t\n\t\t▶ 食品\n\t\t^i[25231]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷杯子猫O九尾<INFO>10125</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10125] = {
+		Title = "Qpet 猫九尾 #宠物食品 #狐尾",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9096]杯子猫O九尾\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 九尾狐<INFO>10124</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[1022]x999, ^i[23187]x3,\n\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Cupet 周一晚间剧集<INFO>10180</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10126] = {
+		Title = "Qpet梦魇#活力花#少女的纯真",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9052]杯佩梦魇\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12370]\n\n\t\t▶ 食品\n\t\t^i[6110]\n\n\t\t▶ 配件\n\t\t^i[10034]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10127] = {
+		Title = "Qpet 魅魔 #活力之花 #男孩的纯真",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9055]Qpet 魅魔\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12373]\n\n\t\t▶ 食品\n\t\t^i[6113]\n\n\t\t▶ 配件\n\t\t^i[10037]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10128] = {
+		Title = "Qpet摇杆#宠物食品#歌唱花",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9011]杯子储物柜\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[629]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10014]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特·梅特勒<INFO>10129</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10129] = {
+		Title = "Qpet Mettler#宠物食品#蚱蜢的后腿",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9106]库佩·梅特勒\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Q宠物储物柜<INFO>10128</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[940]x777, ^i[508]x200,\n\t\t^i[707]x3, ^i[4057]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10130] = {
+		Title = "Qpet木乃伊#死者纪念品#神奇绷带",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9102]杯子木乃伊\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[23256]\n\n\t\t▶ 食品\n\t\t^i[934]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet古代木乃伊<INFO>10131</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10131] = {
+		Title = "Qpet古代木乃伊#宠物食品#黑暗符文",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9107]Qpet古代木乃伊\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet木乃伊<INFO>10130</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7511]x200, ^i[969]x30,\n\t\t^i[23256]x3, ^i[4248]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10132] = {
+		Title = "Qpet Lunatic #胡萝卜汁#彩虹色胡萝卜",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9004]库佩特疯子\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[622]\n\t\t\n\t\t▶ 食品\n\t\t^i[534]\n\n\t\t▶ 配件\n\t\t^i[10007]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷ 紫叶疯子<INFO>10133</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10133] = {
+		Title = "Qpet 叶疯子 #宠物食品 #Clover",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9094]铜叶疯子\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特疯子<INFO>10132</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[705]x250, ^i[706]x30,\n\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10134] = {
+		Title = "Qpet Picky #红草 #帅小蚯蚓",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9005]Qpet 挑剔\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[623]\n\t\t\n\t\t▶ 食品\n\t\t^i[507]\n\n\t\t▶ 配件\n\t\t^i[10012]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10135] = {
+		Title = "Qpet Chonchon #宠物食品#Rotten Fish",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9006]Qpet 春琼\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[624]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10002]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10136] = {
+		Title = "Qpet Steel Chonchon #铁矿石 #生锈的铁",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9007]Cupet 仍然 Chonchon\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[625]\n\n\t\t▶ 食品\n\t\t^i[1002]\n\n\t\t▶ 配件\n\t\t^i[10002]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10137] = {
+		Title = "Qpet猎人飞#红色宝石#怪物果汁",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9008]Qpet 猎人飞\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[626]\n\t\t\n\t\t▶ 食品\n\t\t^i[716]\n\t\t\n\t\t▶ 配件\n\t\t^i[10002]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10138] = {
+		Title = "Qpet野蛮贝贝#宠物食品#甜奶",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9009]Cupet Savage 贝贝\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[627]\n\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t^i[10015]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特野蛮人<INFO>10139</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10139] = {
+		Title = "Qpet Savage #宠物食品 #甜牛奶",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9070]库佩特野蛮人\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 野蛮贝贝<INFO>10138</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[627]x3, ^i[537]x10,\n\t\t^i[517]x100, ^i[949]x50\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10140] = {
+		Title = "Qpet Smokey#宠物食品#烤红薯",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9015]Cupet Smokey\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[633]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10019]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10141] = {
+		Title = "Qpet Yoyo #香蕉汁#热带香蕉",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9016]Qpet溜溜球\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[634]\n\t\t\n\t\t▶ 食品\n\t\t^i[532]\n\n\t\t▶ 配件\n\t\t^i[10018]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet巧克力<INFO>10142</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10142] = {
+		Title = "Qpet Choco#宠物食品#热带香蕉",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9091]Qpet 巧克力\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet悠悠球<INFO>10141</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[634]x3, ^i[753]x2,\n\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10143] = {
+		Title = "Qpet 小妖精 #宠物食品 #Old Broom",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9019]Qpet 哥布林\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[637]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10005]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特·阿穆特<INFO>10144</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10144] = {
+		Title = "Qpet Ammoot#宠物食品#老扫帚",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9089]库佩阿穆特\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet哥布林<INFO>10143</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[637]x3, ^i[981]x3,\n\t\t^i[1021]x300, ^i[969]x3\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10145] = {
+		Title = "Qpet Debiruchi#Sprout#黑暗契约",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9023]Cupet Debiruchi\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[641]\n\n\t\t▶ 食品\n\t\t^i[711]\n\n\t\t▶ 配件\n\t\t^i[10004]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩迪亚波利克<INFO>10146</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10146] = {
+		Title = "Qpet Diabolik#宠物食品#黑暗契约",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9097]Cupet Diabolik\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特·黛比·卢奇<INFO>10145</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[641]x3, ^i[1039]x250,\n\t\t^i[1009]x30, ^i[4122]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[7823]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10147] = {
+		Title = "Qpet爱丽丝#白色药水#Sky Apron",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9027]库佩爱丽丝\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[661]\n\n\t\t▶ 食品\n\t\t^i[504]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩伊丽莎<INFO>10148</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10148] = {
+		Title = "Qpet Eliza#宠物食品#Elise的围裙",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9120]库佩伊丽莎\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩爱丽丝<INFO>10147</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7047]x500, ^i[511]x200,\n\t\t^i[985]x30, ^i[4253]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10149] = {
+		Title = "Qpet Cheongi #儿童饺子#Tandanmyeon",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9030]Qpet 青伊\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12395]\n\n\t\t▶ 食品\n\t\t^i[6115]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10150] = {
+		Title = "Qpet叶猫#蓝背鱼#很软的草",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9041]Qpet 叶猫\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12359]\n\n\t\t▶ 食品\n\t\t^i[6096]\n\n\t\t▶ 配件\n\t\t^i[10023]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特野玫瑰<INFO>10191</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10151] = {
+		Title = "Qpet Lori Ruri #甜南瓜派#亮红果汁",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9042]库佩洛里·鲁里\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12360]\n\n\t\t▶ 食品\n\t\t^i[6097]\n\n\t\t▶ 配件\n\t\t^i[10024]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Cupet 蓝月 洛里·鲁里<INFO>10190</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10152] = {
+		Title = "Qpet忍#烤年糕#黑莲",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9044]Qpet忍者\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12362]\n\n\t\t▶ 食品\n\t\t^i[6099]\n\n\t\t▶ 配件\n\t\t^i[10026]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10153] = {
+		Title = "Qpet宫娃娃#成熟的草莓#少女娃娃",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9048]Qpet 雅娃娃\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12366]\n\t\t\n\t\t▶ 食品\n\t\t^i[6106]\n\n\t\t▶ 配件\n\t\t^i[10030]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10154] = {
+		Title = "Qpet 木偶#小雪花#美味刨冰",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9043]杯子木偶\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12361]\n\n\t\t▶ 食品\n\t\t^i[6098]\n\n\t\t▶ 配件\n\t\t^i[10025]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10155] = {
+		Title = "Qpet低语#潮湿的黑暗#定制棺材",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9045]库佩特低语\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12363]\n\n\t\t▶ 食品\n\t\t^i[6100]\n\n\t\t▶ 配件\n\t\t^i[10027]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10157] = {
+		Title = "Qpet 石射手 #植物营养素 #油棕果",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9051]杯石射手\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12369]\n\n\t\t▶ 食品\n\t\t^i[6109]\n\t\t\n\t\t▶ 配件\n\t\t^i[10033]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10158] = {
+		Title = "Qpet小鬼#火宝石#火冰",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9056]库佩小鬼\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12374]\n\n\t\t▶ 食品\n\t\t^i[6114]\n\n\t\t▶ 配件\n\t\t^i[10038]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10159] = {
+		Title = "Qpet 滴答作响#怪物食物#ticking 腰带",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9059]Qpet 滴答作响\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12699]\n\n\t\t▶ 食品\n\t\t^i[528]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10160] = {
+		Title = "Qpet Gremlin #廉价润滑剂#未加工零件",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9100]库佩特小魔怪\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[23188]\n\n\t\t▶ 食品\n\t\t^i[25232]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特·霍德雷姆林<INFO>10161</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10161] = {
+		Title = "Qpet Hodremlin#宠物食品#黑暗意志",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9105]库佩特·霍德雷姆林\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特小精灵<INFO>10160</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7340]x200, ^i[6100]x50,\n\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷夜色下的Cupet新郎<INFO>10183</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10162] = {
+		Title = "Qpet黑暗牧师#邪恶男女#黑暗圣经",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9128]库佩特黑暗牧师\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[100796]\n\n\t\t▶ 食品\n\t\t^i[1000552]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet黑暗幻象<INFO>10189</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10163] = {
+		Title = "Qpet Willow #细粒木头#老树上的露水",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9103]铜柳\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[23257]\n\n\t\t▶ 食品\n\t\t^i[1066]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10164] = {
+		Title = "Qpet Rowin#烂肉#臭烂肉",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9104]库佩·罗温\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[23258]\n\n\t\t▶ 食品\n\t\t^i[7564]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10165] = {
+		Title = "Qpet Zirtas #不可阻挡的心 #Forbidden 红蜡烛",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9026]库佩齐尔塔斯\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[660]\n\n\t\t▶ 食品\n\t\t^i[929]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10166] = {
+		Title = "Qpet小管家β#Cloud Som",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9123]Qpet小经理β\n\t\t▶ 获取方式：兑换\n\t\t交换物品：^i[1000103]x30\n\t\t<NAVI>【小经理β】<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t▶ 食品\n\t\t^i[1000227]\n\n\t\t▶ 配件\n\t\t^i[10043]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet小经理α<INFO>10167</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10167] = {
+		Title = "Qpet小管家α#宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9124]Qpet小经理α\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet小管家β<INFO>10166</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t^i[7094]x10\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t^i[10044]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10168] = {
+		Title = "Qpet 糖果滴#Candy",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9109]Qpet 糖果滴\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷杯子掉落<INFO>10094</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[529]x50, ^i[530]x50,\n\t\t^i[25290]x500, ^i[4004]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[529]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10169] = {
+		Title = "Qpet 圣诞妖精 #Cell #Sweet Lollipop",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9029]杯子圣诞妖精\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12225]\n\n\t\t▶ 食品\n\t\t^i[911]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10170] = {
+		Title = "Qpet哥布林领袖#大细胞#甜蜜棒棒糖",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9046]Qpet 哥布林领袖\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12364]\n\n\t\t▶ 食品\n\t\t^i[6104]\n\n\t\t▶ 配件\n\t\t^i[10028]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10171] = {
+		Title = "QPET的墓碑#香#风之扇",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9040]Qpet墓碑\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12358]\n\n\t\t▶ 食品\n\t\t^i[6095]\n\n\t\t▶ 配件\n\t\t^i[10022]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10172] = {
+		Title = "Qpet雪兔#糖果",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9058]Qpet雪兔\n\t\t▶ 如何获得\n\t\t活动期间获得^i[9058]\n\n\t\t▶ 食品\n\t\t^i[529]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10173] = {
+		Title = "Qpet蓝色独角兽#宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9068]Cupet蓝色独角兽\n\t\t▶ 如何获得\n\t\t活动期间获得^i[9068]\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10174] = {
+		Title = "Qpet硬米糕#青草#神秘糯米粉",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9028]Qpet硬年糕\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12340]\n\n\t\t▶ 食品\n\t\t^i[511]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10175] = {
+		Title = "Qpet Scatratton #美味鱼",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9101]库佩·斯卡特雷顿\n\t\t▶ 如何获得\n\t\t万圣节活动期间通过任务获得（活动结束）\n\n\t\t▶ 食品\n\t\t^i[579]\n\n\t\t▶ 配件\n\t\t^i[10040]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Cupet骷髅<INFO>10176</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10176] = {
+		Title = "Qpet Skelion #美味肉",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9113]杯佩骷髅\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩斯卡顿<INFO>10175</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[25408]x2, ^i[11616]x100,\n\t\t^i[11605]x100\n\n\t\t▶ 食品\n\t\t^i[11616]\n\n\t\t▶ 配件\n\t\t^i[10042]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10177] = {
+		Title = "Qpet 流浪鸭娃娃 #棉球 #闪光娃娃纽扣",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9125]Qpet 流浪鸭公仔\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[9897]\n\n\t\t▶ 食品\n\t\t^i[25233]\n\n\t\t▶ 配件\n\t\t^i[10045]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10178] = {
+		Title = "Qpet傀儡#充满魔法的石头#魔法之石",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9053]杯子傀儡\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12371]\n\n\t\t▶ 食品\n\t\t^i[6111]\n\n\t\t▶ 配件\n\t\t^i[10035]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet 火焰傀儡<INFO>10101</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10179] = {
+		Title = "Qpet 白素珍 #豪华宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9115]Qpet白素珍\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Cupet 湖仙女<INFO>10123</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4202]x10, ^i[4265]x10,\n\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t▶ 食品\n\t\t^i[25377]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10180] = {
+		Title = "Qpet 周一晚上#Luxurious 宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9112]Cupet 周一晚间剧集\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷杯子猫O九尾<INFO>10125</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4159]x10, ^i[4090]x10,\n\t\t^i[4100]x10, ^i[25375]x30\n\t\t\n\t\t▶ 食品\n\t\t^i[25377]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10181] = {
+		Title = "Qpet Proni #豪华宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9111]库佩·普里奥尼\n\t\t▶ 获取方式：兑换\n\t\t交换物品：^i[25375]x30\n\t\t<NAVI>【金手，超凡之仆】<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\n\t\t▶ 食品\n\t\t^i[25377]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10182] = {
+		Title = "Qpet 兽人英雄 #Luxurious 宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9121]库佩兽人英雄\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特高橡树<INFO>10100</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4066]x10, ^i[4375]x10,\n\t\t^i[968]x10, ^i[25375]x30\n\n\t\t▶ 食品\n\t\t^i[25377]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10183] = {
+		Title = "QPet 新郎在夜间 #Luxurious 宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9122]夜色下的杯形新郎\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特·霍德雷姆林<INFO>10161</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4413]x10, ^i[4409]x10,\n\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t▶ 食品\n\t\t^i[25377]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10184] = {
+		Title = "Qpet Kiehl-D-01#奢华宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9126]库佩基尔-D-01\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩·埃利奥特<INFO>10111</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4402]x10, ^i[4400]x10,\n\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t▶ 食品\n\t\t^i[25377]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10185] = {
+		Title = "Qpet无头骑士#死亡之环#高品质酒瓶",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9049]库佩·杜拉汉\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12367]\n\n\t\t▶ 食品\n\t\t^i[6107]\n\n\t\t▶ 配件\n\t\t^i[10031]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10186] = {
+		Title = "Qpet 噩梦恐怖#新鲜草#地狱契约",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9054]Qpet 噩梦恐怖\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12372]\n\n\t\t▶ 食品\n\t\t^i[6112]\n\t\t\n\t\t▶ 配件\n\t\t^i[10036]\n\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Cupet固体噩梦恐怖<INFO>10104</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10187] = {
+		Title = "Qpet Baphomet #豪华宠物食品",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9137]库佩·巴风特\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特混沌 Baphomet Jr.<INFO>10106</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4129]x15, ^i[27335]x15,\n\t\t^i[25375]x30\n\n\t\t▶ 食品\n\t\t^i[25377]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10188] = {
+		Title = "Qpet熟悉#什锦水果陷阱#复合果汁",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9138]Qpet 熟人\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[101331]\n\n\t\t▶ 食品\n\t\t^i[1000889]\n\n\t\t▶ 配件\n\t\t[不存在]\n\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10189] = {
+		Title = "Qpet 黑暗幻象 #Evolution #Dark Priest",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9139]Qpet黑暗幻象\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特黑暗牧师<INFO>10162</INFO></TIPBOX>进化\n\t\t▷进化材料：\n\t\t^i[7005]x500, ^i[2608]x1,\n\t\t^i[1009]x5, ^i[4171]x10\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特黑暗领主<INFO>10200</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10190] = {
+		Title = "Qpet 蓝月 Lori Ruri #Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9140]库佩特蓝月洛里·鲁里\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特·洛里·鲁里<INFO>10151</INFO></TIPBOX>进化\n\t\t▷进化材料：\n\t\t^i[7214]x500, ^i[510]x50,\n\t\t^i[7019]x1, ^i[4191]x10\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10191] = {
+		Title = "Qpet野玫瑰#进化#叶猫",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9141]库佩野玫瑰\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet 叶猫<INFO>10150</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7198]x500, ^i[7206]x200,\n\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t▶ 食品\n\t\t^i[537]\n\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩·埃德加<INFO>10195</INFO></TIPBOX>\n\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10192] = {
+		Title = "Qpet 变异的白衣骑士#Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9133]库佩变身白骑士\n\t\t▶ 获取方式：兑换\n\t\t交换物品：^i[25375]x10\n\t\t<NAVI>【金手，超凡之仆】<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷深渊的库佩特骑士<INFO>10193</INFO></TIPBOX>\n\t\t<TIPBOX>▷库佩特白骑士<INFO>10194</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10193] = {
+		Title = "QPET 深渊骑士 #Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9132]深渊的库佩特骑士\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Cupet 变身白骑士<INFO>10192</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[6089]x100, ^i[7511]x100,\n\t\t^i[1000257]x200, ^i[4140]x5\n\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10194] = {
+		Title = "Qpet 白骑士 #Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9134]库佩特白骑士\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Cupet 变身白骑士<INFO>10192</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[25509]x100, ^i[1000831]x100,\n\t\t^i[1000263]x200, ^i[4608]x2\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10195] = {
+		Title = "库佩埃德加#进化",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9142]库佩·埃德加\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特野玫瑰<INFO>10191</INFO></TIPBOX>进化\n\t\t▷进化材料：\n\t\t^i[4195]x10, ^i[4257]x10,\n\t\t^i[27124]x10, ^i[25375]x30\n\t\t\n\t\t▶ 食品\n\t\t^i[25377]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10196] = {
+		Title = "Qpet美杜莎",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9050]杯子美杜莎\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[12368]\n\n\t\t▶ 食品\n\t\t^i[6108]\n\t\t\n\t\t▶ 配件\n\t\t^i[10032]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10197] = {
+		Title = "Qpet·科博",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9145]Qpet Kkobo\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[102202]\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特灰色冰风<INFO>10198</INFO></TIPBOX>\n\t\t<TIPBOX>▷库佩特冰风<INFO>10199</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10198] = {
+		Title = "Qpet 灰冰风",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9146]库佩特灰色冰风\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet Kkobo<INFO>10197</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[1001244]x200, ^i[1001247]x150,\n\t\t^i[1001246]x150, ^i[300457]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10199] = {
+		Title = "Qpet 冰风",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9147]库佩特冰风\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet Kkobo<INFO>10197</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[1001245]x200, ^i[1001247]x150,\n\t\t^i[1001246]x150, ^i[300458]x1\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10200] = {
+		Title = "Qpet 黑暗领主",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9148]库佩特黑暗领主\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet黑暗幻象<INFO>10189</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4169]x10, ^i[4141]x10,\n\t\t^i[4171]x10, ^i[25375]x30\n\t\t\n\t\t▶ 食品\n\t\t^i[25377]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10201] = {
+		Title = "Qpet冰海马",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9157]Qpet冰海马\n\t\t▶ 获得方法：驯服\n\t\t테이밍 아이템:^i[102869]\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10202] = {
+		Title = "杯蜂",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9155]丘比特大黄蜂\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[102723]\n\t\t\n\t\t▶ 食品\n\t\t^i[6108]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特大黄蜂<INFO>10203</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10203] = {
+		Title = "丘比特大黄蜂",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9192]丘比特大黄蜂\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷ 库佩特大黄蜂<INFO>10202</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[518]x80, ^i[526]x50, ^i[7121]x200,\n\t\t^i[7163]x300, ^i[4019]x10\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷库佩特情妇<INFO>10204</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10204] = {
+		Title = "Qpet情妇",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9193]杯子女主人\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩特大黄蜂<INFO>10203</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4180]x10, ^i[4079]x10,\n\t\t^i[4117]x10, ^i[25375]x30\n\t\t\n\t\t▶ 食品\n\t\t^i[25377]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10205] = {
+		Title = "杯子钟",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9190]杯子时钟\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[103219]\n\t\t\n\t\t▶ 食品\n\t\t^i[6111]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet钟楼管理员<INFO>10206</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10206] = {
+		Title = "Qpet 钟楼经理",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9169]Cupet钟楼管理员\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩克拉克<INFO>10205</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[7512]x100, ^i[1095]x200,\n\t\t^i[7317]x300, ^i[4299]x10\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Qpet 计时器<INFO>10209</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10207] = {
+		Title = "Qpet 斯卡戈尔德",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9187]库佩·斯凯戈尔德\n\t\t▶ 获得方法：驯服\n\t\t驯服物品：^i[103218]\n\t\t\n\t\t▶ 食品\n\t\t^i[6105]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t<TIPBOX>▷Cupet 天使金<INFO>10208</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10208] = {
+		Title = "Qpet天使金",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9170]库佩天使高特\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷库佩斯卡戈尔德<INFO>10207</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[25767]x50, ^i[7063]x100,\n\t\t^i[7511]x100, ^i[4406]x10\n\t\t\n\t\t▶ 食品\n\t\t^i[537]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[10209] = {
+		Title = "Qpet 时间持有人",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^i[9171]Qpet 时间持有人\n\t\t▶ 如何获得\n\t\t<TIPBOX>▷Qpet钟楼管理员<INFO>10206</INFO></TIPBOX>进化\n\t\t▷ 灭火材料：\n\t\t^i[4626]x10, ^i[4627]x10,\n\t\t^i[4628]x10, ^i[25375]x30\n\t\t\n\t\t▶ 食品\n\t\t^i[25377]\n\t\t\n\t\t▶ 配件\n\t\t[不存在]\n\t\t\n\t\t▶ 进化信息\n\t\t[不存在]\n\t\t\n\t\t<TIPBOX>▶查看Qpet列表<INFO>10089</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看Qpet系统<INFO>47</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
+	[11000] = {
+		Title = "Q 未知蓝洞数据收集（260）",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"据说，如果跳进科莫多南部海域的巨大漩涡，就可以到达可以在水下呼吸的区域。被派去调查的菲利普表示，他需要收集怪物数据进行研究。\n\t\t\n\t\t^663399◈260级以上^000000\n\t\t\n\t\t▶<NAVI>[菲利普]<INFO>comodo,178,80,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>▶按等级查看任务<INFO>4115</INFO></TIPBOX>\n\t\t<TIPBOX>▶查看提示列表<INFO>1000</INFO></TIPBOX>",
+		},
+	},
