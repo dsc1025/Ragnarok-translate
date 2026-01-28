@@ -4,12 +4,11 @@
 # custom UI tags, color/format codes, and escape sequences.
 
 import re
-import io
 import os
 import argparse
 from deep_translator import GoogleTranslator
 from tqdm import tqdm
-from typing import List, Tuple
+from typing import List, Tuple, Dict
 
 
 def read_text(path: str) -> str:
@@ -65,28 +64,13 @@ def extract_braced_inner(block: str, key: str) -> str:
 	return ''
 
 
-def parse_title_and_pages(block: str):
-	title = None
-	m = re.search(r'Title\s*=\s*"((?:\\.|[^"\\])*)"', block)
-	if m:
-		title = m.group(1)
-	pages = []
-	m = re.search(r'Page\s*=\s*\{([\s\S]*?)\}\s*(?:,|$)', block, flags=re.S)
-	if m:
-		pages = extract_string_literals(m.group(1))
-	return title, pages
-
-
-def translate_korean_preserve(text: str, translator) -> str:
+def translate_korean_preserve(text: str, translator, cache: Dict[str, str] = None) -> str:
 	if not text:
 		return text
-
-	# Build robust placeholders for tokens we must NOT translate:
-	# - literal escapes: \\n+    # - \n, \t
-	# - color codes like ^3b488c or ^ff0000
-	# - UI tags like <TIPBOX>...</TIPBOX> and any <...>
-	tokens = {}
-	token_seq = 0
+	
+	# Check cache first
+	if cache is not None and text in cache:
+		return cache[text]
 
 	# Split into protected tokens (escaped sequences, tags, color codes) and other text
 	parts = re.split(r'(\\n|\\t|<[^>]+>|\^[0-9a-fA-F]{6})', text)
@@ -112,25 +96,77 @@ def translate_korean_preserve(text: str, translator) -> str:
 			out_parts.append(part)
 
 	res = ''.join(out_parts)
+	if cache is not None:
+		cache[text] = res
 	return res
 
 
-def replace_title(block: str, new_title: str) -> str:
-	return re.sub(r'(Title\s*=\s*)"((?:\\.|[^"\\])*)"', lambda m: m.group(1) + '"' + new_title.replace('"', '\\"') + '"', block, count=1)
+def extract_fields(block: str) -> Dict[str, any]:
+	"""Extract all fields from a block for efficient processing."""
+	fields = {}
+	
+	# Title
+	m = re.search(r'Title\s*=\s*"((?:\\.|[^"\\])*)"', block)
+	if m:
+		fields['title'] = m.group(1)
+	
+	# Search
+	m = re.search(r'Search\s*=\s*([^,\n]+)', block)
+	if m:
+		fields['search'] = m.group(1).strip().rstrip(',')
+	
+	# Image
+	m = re.search(r'Image\s*=\s*"((?:\\.|[^"\\])*)"', block)
+	if m:
+		fields['image'] = m.group(1)
+	
+	# Imgcoord
+	m = re.search(r'Imgcoord\s*=\s*(\{[\s\S]*?\})', block)
+	if m:
+		fields['imgcoord'] = m.group(1).strip()
+	
+	# Page
+	m = re.search(r'Page\s*=\s*\{([\s\S]*?)\}\s*(?:,|$)', block, flags=re.S)
+	if m:
+		fields['pages'] = extract_string_literals(m.group(1))
+	
+	# PageEX
+	inner = extract_braced_inner(block, 'PageEX')
+	if inner:
+		fields['pageex'] = inner
+	
+	return fields
 
 
-def replace_page(block: str, new_pages: List[str]) -> str:
-	# build page block with same indentation
-	indent = '\t\t'
-	# ensure quotes are escaped and convert any real newlines/tabs into literal escape sequences
-	lines = []
-	for p in new_pages:
-		p2 = p.replace('\r\n', '\\n').replace('\r', '\\n').replace('\n', '\\n').replace('\t', '\\t')
-		lines.append(indent + '"' + p2.replace('"', '\\"') + '",')
-	inner = '\n'.join(lines)
-	replacement = 'Page = {\n' + inner + '\n\t\t},'
-	new_block = re.sub(r'Page\s*=\s*\{([\s\S]*?)\}\s*(,|\n)', replacement + '\n', block, flags=re.S)
-	return new_block
+def write_element(out, idx: int, fields: Dict[str, any]):
+	"""Write a translated element with proper indentation."""
+	out.write(f'\t[{idx}] = {{\n')
+	
+	if 'title' in fields:
+		out.write('\t\tTitle = "' + fields['title'].replace('"', '\\"') + '",\n')
+	if 'search' in fields:
+		out.write('\t\tSearch = ' + fields['search'] + ',\n')
+	if 'image' in fields:
+		out.write('\t\tImage = "' + fields['image'].replace('"', '\\"') + '",\n')
+	if 'imgcoord' in fields:
+		out.write('\t\tImgcoord = ' + fields['imgcoord'] + ',\n')
+	
+	if 'pages' in fields:
+		out.write('\t\tPage = {\n')
+		for p in fields['pages']:
+			p2 = p.replace('\r\n', '\\n').replace('\r', '\\n').replace('\n', '\\n').replace('\t', '\\t')
+			out.write('\t\t\t"' + p2.replace('"', '\\"') + '",\n')
+		out.write('\t\t},\n')
+	
+	if 'pageex' in fields:
+		out.write('\t\tPageEX = {\n')
+		for L in fields['pageex'].splitlines():
+			s = L.strip()
+			if s:
+				out.write('\t\t\t' + s + '\n')
+		out.write('\t\t},\n')
+	
+	out.write('\t},\n')
 
 
 def get_existing_max_index(out_path: str) -> int:
@@ -146,14 +182,14 @@ def build_translated_file(original_path: str, out_path: str, start_index: int = 
 	txt = read_text(original_path)
 	blocks = find_all_blocks(txt)
 	translator = GoogleTranslator(source='ko', target='zh-CN')
+	cache = {}  # Translation cache
 
 	# choose append vs overwrite
 	mode = 'a' if (start_index > 1 and os.path.exists(out_path)) else 'w'
 	with open(out_path, mode, encoding='utf-8') as out:
 		processed = 0
-		# prepare progress bar
-		remaining_blocks = [1 for idx0, _ in blocks if idx0 >= start_index]
-		total_to_process = len(remaining_blocks)
+		# Calculate total efficiently without creating list
+		total_to_process = sum(1 for idx0, _ in blocks if idx0 >= start_index)
 		if max_items and max_items > 0:
 			total_to_process = min(total_to_process, max_items)
 		pbar = tqdm(total=total_to_process, desc='Translating', unit='item', disable=not show_progress)
@@ -162,71 +198,19 @@ def build_translated_file(original_path: str, out_path: str, start_index: int = 
 			if idx < start_index:
 				continue
 
-			# Translate only inside string literals in the block (keep all other chars untouched)
-			def _replace_string_literal(m):
-				inner = m.group(1)
-				new_inner = translate_korean_preserve(inner, translator)
-				return '"' + new_inner + '"'
-
-			new_block = re.sub(r'"((?:\\.|[^"\\])*)"', _replace_string_literal, block)
-
-			# prepare lines and trim leading/trailing blank lines to avoid extra empty lines
-			lines = new_block.splitlines()
-			# remove leading empty lines
-			while lines and lines[0].strip() == '':
-				lines.pop(0)
-			# remove trailing empty lines
-			while lines and lines[-1].strip() == '':
-				lines.pop()
-
-			# write this element immediately using same style as source:
-			# element header indented with one tab, top-level fields two tabs,
-			# nested items (arrays/tables/strings in Page/PageEX) three tabs.
-			out.write(f'\t[{idx}] = {{\n')
-			# prefer reconstructing known fields to ensure consistent indentation
-			# Title
-			title_m = re.search(r'Title\s*=\s*"((?:\\.|[^"\\])*)"', block)
-			if title_m:
-				title_val = title_m.group(1)
-				# translate Title if contains Korean
-				title_trans = translate_korean_preserve(title_val, translator)
-				out.write('\t\tTitle = "' + title_trans.replace('"', '\\"') + '",\n')
-			# Search
-			search_m = re.search(r'Search\s*=\s*([^,\n]+)', block)
-			if search_m:
-				out.write('\t\tSearch = ' + search_m.group(1).strip().rstrip(',') + ',\n')
-			# Image
-			image_m = re.search(r'Image\s*=\s*"((?:\\.|[^"\\])*)"', block)
-			if image_m:
-				out.write('\t\tImage = "' + image_m.group(1).replace('"', '\\"') + '",\n')
-			# Imgcoord (write raw between braces)
-			img_m = re.search(r'Imgcoord\s*=\s*(\{[\s\S]*?\})', block)
-			if img_m:
-				img_txt = img_m.group(1).strip()
-				out.write('\t\tImgcoord = ' + img_txt + ',\n')
-			# Page: extract string literals and write with 3-tabs
-			page_m = re.search(r'Page\s*=\s*\{([\s\S]*?)\}\s*(?:,|$)', block, flags=re.S)
-			if page_m:
-				pages = extract_string_literals(page_m.group(1))
-				out.write('\t\tPage = {\n')
-				for p in pages:
-					# translate page content, preserving tokens
-					p_trans = translate_korean_preserve(p, translator)
-					p2 = p_trans.replace('\r\n', '\\n').replace('\r', '\\n').replace('\n', '\\n').replace('\t', '\\t')
-					out.write('\t\t\t"' + p2.replace('"', '\\"') + '",\n')
-				out.write('\t\t},\n')
-			# PageEX: extract using brace-matching to avoid premature '}' matches
-			inner = extract_braced_inner(block, 'PageEX')
-			if inner:
-				out.write('\t\tPageEX = {\n')
-				for L in inner.splitlines():
-					s = L.strip()
-					if not s:
-						continue
-					out.write('\t\t\t' + s + '\n')
-				out.write('\t\t},\n')
-			# end element
-			out.write('\t},\n')
+			# Extract fields once
+			fields = extract_fields(block)
+			
+			# Translate title
+			if 'title' in fields:
+				fields['title'] = translate_korean_preserve(fields['title'], translator, cache)
+			
+			# Translate pages
+			if 'pages' in fields:
+				fields['pages'] = [translate_korean_preserve(p, translator, cache) for p in fields['pages']]
+			
+			# Write element
+			write_element(out, idx, fields)
 			out.flush()
 
 			processed += 1
