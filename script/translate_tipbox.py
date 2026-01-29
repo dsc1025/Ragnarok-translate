@@ -224,6 +224,8 @@ if __name__ == '__main__':
 	p = argparse.ArgumentParser(description='Translate tipbox entries with auto-resume')
 	p.add_argument('--file', required=True, help='Path to the source Lua file to translate')
 	p.add_argument('--count', '-c', type=int, default=1, help='How many entries to translate this run (0 = no limit)')
+	p.add_argument('--start', '-s', type=int, default=None, help='Optional start index to override resume behavior')
+	p.add_argument('--end', '-e', type=int, default=None, help='Optional end index (inclusive) to limit translation range')
 	args = p.parse_args()
 
 	src_path = args.file
@@ -235,8 +237,23 @@ if __name__ == '__main__':
 		out_path = base + '_translated' + ext
 
 	existing_max = get_existing_max_index(out_path)
-	start = existing_max + 1
-	build_translated_file(src_path, out_path, start_index=start, max_items=(None if args.count == 0 else args.count))
+
+	# determine start index: use provided --start if set, otherwise resume after existing max
+	if args.start is not None:
+		start = args.start
+	else:
+		start = existing_max + 1
+
+	# determine max_items from --end or --count
+	max_items = None
+	if args.end is not None:
+		if args.end < start:
+			raise SystemExit('Error: --end must be >= start')
+		max_items = args.end - start + 1
+	elif args.count != 0:
+		max_items = args.count
+
+	build_translated_file(src_path, out_path, start_index=start, max_items=max_items)
 	print(f'Appended translated items starting at index {start} to {out_path}')
 
 
