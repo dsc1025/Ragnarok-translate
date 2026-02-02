@@ -1,4 +1,4 @@
-# Translate simplified
+# Translate simplified GBK
 
 ## twRO RAGNAROK_20251002 
 *https://ro.gnjoy.com.tw/download/program_download.aspx*
