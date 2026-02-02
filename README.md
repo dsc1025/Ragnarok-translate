@@ -1,4 +1,7 @@
-﻿繁体转简体
+# Translate simplified
 
-台服版本 RAGNAROK_20251002 更新到最新
-客户端版本 KRO Ragnarok2025-12-04
+## twRO RAGNAROK_20251002 
+*https://ro.gnjoy.com.tw/download/program_download.aspx*
+
+## KRO full client & ragexe
+*https://rathena.org/board/topic/144862-2025-06-04_ragexe-warp2025/*
