@@ -60064,3 +60064,20265 @@
 		ClassNum = 0,
 		costume = false
 	},
+	[17232] = {
+		unidentifiedDisplayName = "7 炼金券盒",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一个箱子, 内含1张武器7熔炼保证券和1张铠甲7熔炼保证券.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "7 炼金券盒",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一个箱子, 内含1张武器7熔炼保证券和1张铠甲7熔炼保证券.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12889] = {
+		unidentifiedDisplayName = "武器箱(矛)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(矛)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12890] = {
+		unidentifiedDisplayName = "武器箱(钝器)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(钝器)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12891] = {
+		unidentifiedDisplayName = "武器箱(匕首)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(匕首)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12892] = {
+		unidentifiedDisplayName = "武器箱(斧头)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(斧头)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12893] = {
+		unidentifiedDisplayName = "武器箱(弓)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(弓)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12894] = {
+		unidentifiedDisplayName = "武器箱(剑)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(剑)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12895] = {
+		unidentifiedDisplayName = "武器箱(指关节)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(指关节)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12896] = {
+		unidentifiedDisplayName = "武器箱(书本)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(书本)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12897] = {
+		unidentifiedDisplayName = "武器箱(其他)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(其他)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12898] = {
+		unidentifiedDisplayName = "武器箱(鞭子)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(鞭子)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12899] = {
+		unidentifiedDisplayName = "武器箱(手杖)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "武器箱(手杖)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"矮人的古老遗物之一,被称为武器铁匠. 据传它包含着一种非常强大且罕见的武器. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17241] = {
+		unidentifiedDisplayName = "扶手箱",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一顶帽子,包括一个扶手帽.",
+			"",
+			"以人造人‘阿米斯特’为原型的娃娃帽.",
+			"VIT+1, 每精炼2次额外增加VIT+1.",
+			"进行物理攻击时, 有高概率刺穿5级敌人.",
+			"装备草叶时, 反射受到的物理伤害的 1%. 每 2 帽子精炼度额外增加 1%. ",
+			"装备花瓣时, MSP+20. 每2帽子精炼度额外增加10点. ",
+			"装备深红玫瑰时, 帽子精炼度每上升1, 对所有职业的敌人造成1%的物理伤害, MATK+1%. (最多应用 10 项细化)",
+			"与吐司装备时, MHP+100.",
+			"精炼7顶帽子时, MHP+100.",
+			"精炼9顶帽子时, MHP+200.",
+			"系列 : ^777777投球^000000 防御 : ^7777774^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^77777750^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "扶手箱",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一顶帽子,包括一个扶手帽.",
+			"",
+			"以人造人‘阿米斯特’为原型的娃娃帽.",
+			"VIT+1, 每精炼2次额外增加VIT+1.",
+			"进行物理攻击时, 有高概率刺穿5级敌人.",
+			"装备草叶时, 反射受到的物理伤害的 1%. 每 2 帽子精炼度额外增加 1%. ",
+			"装备花瓣时, MSP+20. 每2帽子精炼度额外增加10点. ",
+			"装备深红玫瑰时, 帽子精炼度每上升1, 对所有职业的敌人造成1%的物理伤害, MATK+1%. (最多应用 10 项细化)",
+			"与吐司装备时, MHP+100.",
+			"精炼7顶帽子时, MHP+100.",
+			"精炼9顶帽子时, MHP+200.",
+			"系列 : ^777777投球^000000 防御 : ^7777774^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^77777750^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17244] = {
+		unidentifiedDisplayName = "活动万能宝箱",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有十个全能者和一个狼王卷轴.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"重量 : ^7777771^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "活动万能宝箱",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有十个全能者和一个狼王卷轴.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"重量 : ^7777771^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22510] = {
+		unidentifiedDisplayName = "狼王卷轴",
+		unidentifiedResourceName = "戳措空胶农费",
+		unidentifiedDescriptionName = {
+			"限时狼王卷轴.",
+			"铁匠祝福、游狼王帽、小鬼帽子、武器保证精炼到11、铠甲精炼到11保证、旧矿箱、魔法卡册等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "狼王卷轴",
+		identifiedResourceName = "戳措空胶农费",
+		identifiedDescriptionName = {
+			"限时狼王卷轴.",
+			"铁匠祝福、游狼王帽、小鬼帽子、武器保证精炼到11、铠甲精炼到11保证、旧矿箱、魔法卡册等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19579] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装红翼帽子",
+		identifiedResourceName = "橇府胶飘狼葛磊",
+		identifiedDescriptionName = {
+			"因其时尚的红色帽子和可爱的翅膀而受到各个年龄段和性别的人们的欢迎!只能通过运营团队活动获得.",
+			"HP和SP恢复量增加20%.",
+			"系列 : ^777777服装设备^000000",
+			"地点 : ^777777顶部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 613,
+		costume = true
+	},
+	[17246] = {
+		unidentifiedDisplayName = "30盒高浓度铼",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 30 颗高浓度铒和 1 颗铁匠的祝福.",
+			"",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"- 精炼等级+7以上的铠甲时, 即使失败, 铠甲也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "30盒高浓度铼",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一个盒子,内含 30 颗高浓度铒和 1 颗铁匠的祝福.",
+			"",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"- 精炼等级+7以上的铠甲时, 即使失败, 铠甲也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17247] = {
+		unidentifiedDisplayName = "30盒高浓缩Oridecon",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒含有 30 个高度浓缩的 Oridecon 和 1 个铁匠的祝福.",
+			"",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"- 即使精炼度+7以上的武器精炼失败,该武器也不会被破坏,现有的精炼度会降低至-1. 该矿石的精炼度不能超过 +10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "30盒高浓缩Oridecon",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒含有 30 个高度浓缩的 Oridecon 和 1 个铁匠的祝福.",
+			"",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"- 即使精炼度+7以上的武器精炼失败,该武器也不会被破坏,现有的精炼度会降低至-1. 该矿石的精炼度不能超过 +10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18629] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "埃伦德·冯·沃尔夫十一世",
+		identifiedResourceName = "单历飘匡橇葛磊",
+		identifiedDescriptionName = {
+			"纪念著名沙漠狼家族第11任族长埃伦斯特就职的帽子.",
+			"MDEF + 5, 远程攻击抗性5%",
+			"附加第一名韩国代表 : ATK、MATK + 5%",
+			"韩国国家队增加第二名 : 无属性攻击抗性5%.",
+			"韩国国家队第三名补充 : 远程攻击抗性5%.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 783,
+		costume = false
+	},
+	[22513] = {
+		unidentifiedDisplayName = "国王的礼盒",
+		unidentifiedResourceName = "pro急拱惑磊",
+		unidentifiedDescriptionName = {
+			"豪华包装盒. 还有传言称其中包含神秘彩蛋、旧卡牌相册、基尔-D-01卡牌和流星风暴卷轴. ",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "国王的礼盒",
+		identifiedResourceName = "pro急拱惑磊",
+		identifiedDescriptionName = {
+			"豪华包装盒. 还有传言称其中包含神秘彩蛋、旧卡牌相册、基尔-D-01卡牌和流星风暴卷轴. ",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17106] = {
+		unidentifiedDisplayName = "一盒 10 张健身房会员卡",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 10 张健身房会员卡,可增加您的承载能力.",
+			"当你将这个会员资格交给特定的NPC时, NPC会教你一项特殊的占有增加技能.",
+			"技能每升1级, 拥有量增加200, 可学习到10级.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "一盒 10 张健身房会员卡",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 10 张健身房会员卡,可增加您的承载能力.",
+			"当你将这个会员资格交给特定的NPC时, NPC会教你一项特殊的占有增加技能.",
+			"技能每升1级, 拥有量增加200, 可学习到10级.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12884] = {
+		unidentifiedDisplayName = "无限专注药水",
+		unidentifiedResourceName = "笼吝器记",
+		unidentifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"含有提高浓度成分的药水. 服用后,攻击速度会增加. 所有职业都可以使用. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "无限专注药水",
+		identifiedResourceName = "笼吝器记",
+		identifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"含有提高浓度成分的药水. 服用后,攻击速度会增加. 所有职业都可以使用. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12885] = {
+		unidentifiedDisplayName = "无限觉醒药水",
+		unidentifiedResourceName = "阿己器记",
+		unidentifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"服用后具有觉醒效果的神秘药剂. 服用后, 攻击速度会增加. 只有40级以上的角色可以使用它, 侍僧/牧师/吟游诗人/舞者不能使用它. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "无限觉醒药水",
+		identifiedResourceName = "阿己器记",
+		identifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"服用后具有觉醒效果的神秘药剂. 服用后, 攻击速度会增加. 只有40级以上的角色可以使用它, 侍僧/牧师/吟游诗人/舞者不能使用它. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12886] = {
+		unidentifiedDisplayName = "无限狂暴药水",
+		unidentifiedResourceName = "滚辑农器记",
+		unidentifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一种伟大的药剂,可以让全身的血液沸腾,让你进入狂暴状态. 服用后,攻击速度会增加. 只有85级以上的角色才能使用. ",
+			"只能使用剑士系列/盗贼系列/巫师/巫师系列/商人系列/跆拳道系列/枪手系列.",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "无限狂暴药水",
+		identifiedResourceName = "滚辑农器记",
+		identifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一种伟大的药剂,可以让全身的血液沸腾,让你进入狂暴状态. 服用后,攻击速度会增加. 只有85级以上的角色才能使用. ",
+			"只能使用剑士系列/盗贼系列/巫师/巫师系列/商人系列/跆拳道系列/枪手系列.",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17263] = {
+		unidentifiedDisplayName = "无限专注药水 3 天盒装",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一瓶无限专注药水,可以使用三天.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"含有提高浓度成分的药水. 服用后,攻击速度会增加. 所有职业都可以使用. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限专注药水 3 天盒装",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一瓶无限专注药水,可以使用三天.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"含有提高浓度成分的药水. 服用后,攻击速度会增加. 所有职业都可以使用. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17264] = {
+		unidentifiedDisplayName = "无限觉醒药水3天盒",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有可以使用三天的无限觉醒药水.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"服用后具有觉醒效果的神秘药剂. 服用后, 攻击速度会增加. 只有40级以上的角色可以使用它, 侍僧/牧师/吟游诗人/舞者不能使用它. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限觉醒药水3天盒",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有可以使用三天的无限觉醒药水.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"服用后具有觉醒效果的神秘药剂. 服用后, 攻击速度会增加. 只有40级以上的角色可以使用它, 侍僧/牧师/吟游诗人/舞者不能使用它. ",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17265] = {
+		unidentifiedDisplayName = "无限狂暴药水 3 天盒",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面装有一瓶无限狂暴药水,可以使用三天.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一种伟大的药剂,可以让全身的血液沸腾,让你进入狂暴状态. 服用后,攻击速度会增加. 只有85级以上的角色才能使用. ",
+			"只能使用剑士系列/盗贼系列/巫师/巫师系列/商人系列/跆拳道系列/枪手系列.",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限狂暴药水 3 天盒",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面装有一瓶无限狂暴药水,可以使用三天.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一种伟大的药剂,可以让全身的血液沸腾,让你进入狂暴状态. 服用后,攻击速度会增加. 只有85级以上的角色才能使用. ",
+			"只能使用剑士系列/盗贼系列/巫师/巫师系列/商人系列/跆拳道系列/枪手系列.",
+			"^ff0000神奇的是,无论你喝多少,只需 5 秒,它就又恢复如新了!^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17266] = {
+		unidentifiedDisplayName = "战斗手册限量版包",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒包含 10 本限量版战斗手册.",
+			"套装包含一盒 3 天的无限攻击速度药水(专注、觉醒、狂暴) 和一盒 3 天的无限飞翼.",
+			"^ffffff_^000000",
+			"战斗手册限量版 - 获得的经验增加60%,持续60分钟.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "战斗手册限量版包",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒包含 10 本限量版战斗手册.",
+			"套装包含一盒 3 天的无限攻击速度药水(专注、觉醒、狂暴) 和一盒 3 天的无限飞翼.",
+			"^ffffff_^000000",
+			"战斗手册限量版 - 获得的经验增加60%,持续60分钟.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6673] = {
+		unidentifiedDisplayName = "波斯尼亚门票",
+		unidentifiedResourceName = "焊胶聪酒涝厘鼻",
+		unidentifiedDescriptionName = { "进入波斯尼亚的门票", "重量 : ^7777770^000000" },
+		identifiedDisplayName = "波斯尼亚门票",
+		identifiedResourceName = "焊胶聪酒涝厘鼻",
+		identifiedDescriptionName = { "进入波斯尼亚的门票", "重量 : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19651] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "RWC服装大喊大嘴",
+		identifiedResourceName = "盒畴涝",
+		identifiedDescriptionName = {
+			"一张让你在不知不觉中大喊“RWC 2012 加油!!”的嘴.",
+			"进行物理或魔法攻击时, 一定概率会发动欢呼和各种辅助效果.",
+			"最大可用功率 5Lv.",
+			"RWC 结束后删除.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 194,
+		costume = true
+	},
+	[17270] = {
+		unidentifiedDisplayName = "一盒能量零食棒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 20 个电源棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,STR增加15,持续30分钟.",
+			"作为奖励,攻击力会在 10 分钟内增加 11 到 111.",
+			"^ff0000※ STR与缓存烹饪不重叠,并且应用于最高选项.",
+			"※ 奖励提升的攻击力与电脑房BUFF为同一种类,不重叠. 仅应用最终使用选项. 增加的值无法在基本状态窗口中确认. ",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ",
+			"^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "一盒能量零食棒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 20 个电源棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,STR增加15,持续30分钟.",
+			"作为奖励,攻击力会在 10 分钟内增加 11 到 111.",
+			"^ff0000※ STR与缓存烹饪不重叠,并且应用于最高选项.",
+			"※ 奖励提升的攻击力与电脑房BUFF为同一种类,不重叠. 仅应用最终使用选项. 增加的值无法在基本状态窗口中确认. ",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ",
+			"^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17271] = {
+		unidentifiedDisplayName = "一盒耐力棒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 20 根健康棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,VIT增加15,持续30分钟.",
+			"作为奖励,HP 会恢复 11% 到 33%.",
+			"^ff0000※ VIT与高速缓存菜品不重叠,适用于最高选项.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "一盒耐力棒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 20 根健康棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,VIT增加15,持续30分钟.",
+			"作为奖励,HP 会恢复 11% 到 33%.",
+			"^ff0000※ VIT与高速缓存菜品不重叠,适用于最高选项.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17272] = {
+		unidentifiedDisplayName = "敏捷棒饼干盒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有 20 根敏捷棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,AGI 增加 15,持续 30 分钟.",
+			"作为奖励,FLEE 会在 11 到 33 之间增加,持续 10 分钟.",
+			"^ff0000※ AGI 与缓存烹饪不重叠,并且应用在最高选项.",
+			"※ 作为奖励增加的 FLEE 不与同类型的 FLEE 增加选项重叠,而是作为最高选项应用.",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "敏捷棒饼干盒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有 20 根敏捷棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,AGI 增加 15,持续 30 分钟.",
+			"作为奖励,FLEE 会在 11 到 33 之间增加,持续 10 分钟.",
+			"^ff0000※ AGI 与缓存烹饪不重叠,并且应用在最高选项.",
+			"※ 作为奖励增加的 FLEE 不与同类型的 FLEE 增加选项重叠,而是作为最高选项应用.",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17273] = {
+		unidentifiedDisplayName = "知识栏盒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有20根知识棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,INT增加15,持续30分钟.",
+			"作为奖励,你的 MATK 会在 10 分钟内增加 11 到 111.",
+			"^ff0000※ INT 与缓存烹饪不重叠,并且作为最高选项应用.",
+			"※ 额外提高的MATK与PC室BUFF为同一类型,不重叠. 仅应用最终使用选项. 增加的值无法在基本状态窗口中确认. ",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "知识栏盒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"一盒装有20根知识棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,INT增加15,持续30分钟.",
+			"作为奖励,你的 MATK 会在 10 分钟内增加 11 到 111.",
+			"^ff0000※ INT 与缓存烹饪不重叠,并且作为最高选项应用.",
+			"※ 额外提高的MATK与PC室BUFF为同一类型,不重叠. 仅应用最终使用选项. 增加的值无法在基本状态窗口中确认. ",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17274] = {
+		unidentifiedDisplayName = "一盒精美零食棒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子里有 20 块精致的零食棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,DEX增加15,持续30分钟.",
+			"作为奖励,HIT 在 10 分钟内增加 11 到 33.",
+			"^ff0000※ DEX与Cash Cooking不重叠,适用于最高选项.",
+			"※ 作为奖励而提高的HIT不会与同类型的HIT增加选项重叠,而是作为最高选项应用.",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "一盒精美零食棒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"一个盒子里有 20 块精致的零食棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,DEX增加15,持续30分钟.",
+			"作为奖励,HIT 在 10 分钟内增加 11 到 33.",
+			"^ff0000※ DEX与Cash Cooking不重叠,适用于最高选项.",
+			"※ 作为奖励而提高的HIT不会与同类型的HIT增加选项重叠,而是作为最高选项应用.",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17275] = {
+		unidentifiedDisplayName = "幸运棒棒糖盒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有 20 块幸运零食棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,LUK增加15,持续30分钟.",
+			"作为奖励,CRI 在 10 分钟内增加到 11 到 33 之间.",
+			"^ff0000※ LUK 与高速缓存菜品不重叠,并作为最高选项应用.",
+			"※ 作为奖励而增加的 CRI 不会与同类型的 CRI 增加选项重叠,而是作为最高选项应用.",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "幸运棒棒糖盒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"一盒装有 20 块幸运零食棒.",
+			"^ffffff_^000000",
+			"为纪念一年中最重要的日子而制作的特殊粘性零食.",
+			"使用时,LUK增加15,持续30分钟.",
+			"作为奖励,CRI 在 10 分钟内增加到 11 到 33 之间.",
+			"^ff0000※ LUK 与高速缓存菜品不重叠,并作为最高选项应用.",
+			"※ 作为奖励而增加的 CRI 不会与同类型的 CRI 增加选项重叠,而是作为最高选项应用.",
+			"当被[驱散]击中时,该效果消失.",
+			"※ 死亡后所有效果消失. ^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[2874] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "傅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "水牛角",
+		identifiedResourceName = "拱家狼辉",
+		identifiedDescriptionName = {
+			"用野生水牛角制成的装饰品. 似乎传达出凶猛水牛的力量. ",
+			"ASPD + 1.",
+			"装备野牛角时,额外 ASPD + 1.",
+			"系列 : ^777777配件^000000 防御 : ^7777770^000000",
+			"重量 : ^77777710^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^77777710^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[13088] = {
+		unidentifiedDisplayName = "匕首",
+		unidentifiedResourceName = "唱捞橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "克里斯纳加",
+		identifiedResourceName = "纳饭胶",
+		identifiedDescriptionName = {
+			"最初的谷神星是由古代贾西人创造的. 它具有巨大的神奇力量潜力. ",
+			"MATK + 50.",
+			"精炼到5级以上时, MATK+30.",
+			"精炼到7以上时, MATK+40.",
+			"精炼到9以上时, MATK+50.",
+			"系列 : ^777777匕首^000000 攻击 : ^777777110^000000",
+			"重量 : ^77777750^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^77777730^000000",
+			"配备 : ^777777剑士职业/魔法师职业/弓箭手职业/商人职业/盗贼职业/灵魂链接者/忍者^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[14623] = {
+		unidentifiedDisplayName = "金色宝箱",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个我从未见过或听说过的华丽宝箱,完全镀金.",
+			"打开后可获得鬼戒卡、恶魔卡、天使卡、武器11精炼保证、防具11精炼保证、水牛角、恢复戒指、粉兔发带服装等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "金色宝箱",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个我从未见过或听说过的华丽宝箱,完全镀金.",
+			"打开后可获得鬼戒卡、恶魔卡、天使卡、武器11精炼保证、防具11精炼保证、水牛角、恢复戒指、粉兔发带服装等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[15070] = {
+		unidentifiedDisplayName = "盔甲",
+		unidentifiedResourceName = "内瓢寂明",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "幸福的衣服",
+		identifiedResourceName = "玫荤狼抗汗",
+		identifiedDescriptionName = {
+			"带有神秘感的衣服,穿上就会充满幸福感.",
+			"MDEF + 5.",
+			"每次精炼 LUK + 1.",
+			"系列 : ^777777盔甲^000000 防御 : ^7777775^000000",
+			"重量 : ^777777100^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[17277] = {
+		unidentifiedDisplayName = "无限盒子",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还包括一个金色宝箱. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限盒子",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还包括一个金色宝箱. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17278] = {
+		unidentifiedDisplayName = "无限10套盒",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 此外,还包括 11 个金色宝箱. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限10套盒",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 此外,还包括 11 个金色宝箱. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17279] = {
+		unidentifiedDisplayName = "无限20套盒",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 100 个 ASPD 增强药水和 200 个红色助推器. 此外,还包括 23 个金色宝箱. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限20套盒",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 100 个 ASPD 增强药水和 200 个红色助推器. 此外,还包括 23 个金色宝箱. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22528] = {
+		unidentifiedDisplayName = "宠物兑换票箱",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"装有“流浪者之卵”兑换券或“梦魇之卵”兑换券的盒子.",
+			"目前尚不清楚您会收到哪只宠物.",
+			"重量 : ^7777772^000000"
+		},
+		identifiedDisplayName = "宠物兑换票箱",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"装有“流浪者之卵”兑换券或“梦魇之卵”兑换券的盒子.",
+			"目前尚不清楚您会收到哪只宠物.",
+			"重量 : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14627] = {
+		unidentifiedDisplayName = "圣诞卷轴",
+		unidentifiedResourceName = "农府胶付胶舅",
+		unidentifiedDescriptionName = {
+			"华丽的卷轴装饰着圣诞精神.",
+			"铁匠的祝福、塔纳托斯(仇恨、绝望、痛苦、悲伤) 卡片、杰里米的美妆券、武器9级熔炼保证、铠甲9级熔炼保证、充满魔法的卡册、",
+			"可以获得服装红裙帽、服装节礼盒、服装结界石盒、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "圣诞卷轴",
+		identifiedResourceName = "农府胶付胶舅",
+		identifiedDescriptionName = {
+			"华丽的卷轴装饰着圣诞精神.",
+			"铁匠的祝福、塔纳托斯(仇恨、绝望、痛苦、悲伤) 卡片、杰里米的美妆券、武器9级熔炼保证、铠甲9级熔炼保证、充满魔法的卡册、",
+			"可以获得服装红裙帽、服装节礼盒、服装结界石盒、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14628] = {
+		unidentifiedDisplayName = "服装节礼盒",
+		unidentifiedResourceName = "贾肺狼急拱官备聪",
+		unidentifiedDescriptionName = {
+			"装有各种服装用具的盒子.",
+			"你不知道你会得到什么样的服装装备.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "服装节礼盒",
+		identifiedResourceName = "贾肺狼急拱官备聪",
+		identifiedDescriptionName = {
+			"装有各种服装用具的盒子.",
+			"你不知道你会得到什么样的服装装备.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14629] = {
+		unidentifiedDisplayName = "服装附魔石盒",
+		unidentifiedResourceName = "坷贰等颇鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有石头的盒子,可以为每一件服装装备附魔.",
+			"你可以获得以下其中一种:力量石(上) 、智力石(上) 、敏捷石(上) 、敏捷石(上) 、生命石(上) 、幸运石(上) 、攻击石(中) 、魔法石(中) 、精准石(下) 和闪避石(下) .",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "服装附魔石盒",
+		identifiedResourceName = "坷贰等颇鄂惑磊",
+		identifiedDescriptionName = {
+			"一个装有石头的盒子,可以为每一件服装装备附魔.",
+			"你可以获得以下其中一种:力量石(上) 、智力石(上) 、敏捷石(上) 、敏捷石(上) 、生命石(上) 、幸运石(上) 、攻击石(中) 、魔法石(中) 、精准石(下) 和闪避石(下) .",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17281] = {
+		unidentifiedDisplayName = "冶炼用矿箱Ⅳ",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还包括一张圣诞卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼用矿箱Ⅳ",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还包括一张圣诞卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17282] = {
+		unidentifiedDisplayName = "冶炼矿箱Ⅳ 10套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个圣诞卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿箱Ⅳ 10套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个圣诞卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17283] = {
+		unidentifiedDisplayName = "冶炼矿箱Ⅳ 20套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 100 粒. 此外, 还包括 23 个圣诞卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿箱Ⅳ 20套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 100 粒. 此外, 还包括 23 个圣诞卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17284] = {
+		unidentifiedDisplayName = "活动名称变更卡盒",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一张可以更改角色名字的卡片.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.",
+			"※ 该物品必须在退出队伍或公会后才能使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "活动名称变更卡盒",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一张可以更改角色名字的卡片.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.",
+			"※ 该物品必须在退出队伍或公会后才能使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17285] = {
+		unidentifiedDisplayName = "活动美容礼券盒",
+		unidentifiedResourceName = "急拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一张美容礼券. 这是一款适合想要与其他人不同的东西的您的产品. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "活动美容礼券盒",
+		identifiedResourceName = "急拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一张美容礼券. 这是一款适合想要与其他人不同的东西的您的产品. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17286] = {
+		unidentifiedDisplayName = "活动衣服染色优惠券盒",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有一张衣服染色优惠券.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "活动衣服染色优惠券盒",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有一张衣服染色优惠券.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17287] = {
+		unidentifiedDisplayName = "活动衣服染色优惠券盒Ⅱ",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有一张优惠券,可以将衣服染成原来的颜色.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "活动衣服染色优惠券盒Ⅱ",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有一张优惠券,可以将衣服染成原来的颜色.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17288] = {
+		unidentifiedDisplayName = "定制盒",
+		unidentifiedResourceName = "澜侥焊磊扁",
+		unidentifiedDescriptionName = {
+			"一个盒子, 内含一张活动更名卡、一张活动美容礼券卡和一张活动服装染料优惠券.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "定制盒",
+		identifiedResourceName = "澜侥焊磊扁",
+		identifiedDescriptionName = {
+			"一个盒子, 内含一张活动更名卡、一张活动美容礼券卡和一张活动服装染料优惠券.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22519] = {
+		unidentifiedDisplayName = "运动停止增益",
+		unidentifiedResourceName = "",
+		unidentifiedDescriptionName = { "当你吃这个东西时它就会停止." },
+		identifiedDisplayName = "运动停止增益",
+		identifiedResourceName = "",
+		identifiedDescriptionName = { "当你吃这个东西时它就会停止." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22520] = {
+		unidentifiedDisplayName = "动作停止释放buff",
+		unidentifiedResourceName = "",
+		unidentifiedDescriptionName = { "如果你吃了这个物品,运动停止增益将被取消." },
+		identifiedDisplayName = "动作停止释放buff",
+		identifiedResourceName = "",
+		identifiedDescriptionName = { "如果你吃了这个物品,运动停止增益将被取消." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6710] = {
+		unidentifiedDisplayName = "绑蛇",
+		unidentifiedResourceName = "赣府墨遏轨",
+		unidentifiedDescriptionName = { "假冒的郊游聚集了章鱼属下的第八师团.", "重量 : ^7777770^000000" },
+		identifiedDisplayName = "绑蛇",
+		identifiedResourceName = "赣府墨遏轨",
+		identifiedDescriptionName = { "假冒的郊游聚集了章鱼属下的第八师团.", "重量 : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19708] = {
+		unidentifiedDisplayName = "头巾",
+		unidentifiedResourceName = "赣府鹅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "伊丽莎白",
+		identifiedResourceName = "窍踞轨葛磊",
+		identifiedDescriptionName = {
+			"一顶白如雪的蛇帽. 我感觉优雅!",
+			"系列 : ^777777服装设备^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 413,
+		costume = true
+	},
+	[22533] = {
+		unidentifiedDisplayName = "新年礼盒",
+		unidentifiedResourceName = "货秦急拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子里装满了所有负责开发和服务 Ragnarok 的人的感激之情.",
+			"盒子外面贴满了各主管部门的新年祝福.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "新年礼盒",
+		identifiedResourceName = "货秦急拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子里装满了所有负责开发和服务 Ragnarok 的人的感激之情.",
+			"盒子外面贴满了各主管部门的新年祝福.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22539] = {
+		unidentifiedDisplayName = "特色什锦菜盒",
+		unidentifiedResourceName = "弧埃惑磊",
+		unidentifiedDescriptionName = {
+			"一套全面的礼品套装, 包括烤貂皮、鸡尾酒狼血、肉末牛腩、西罗马冰茶、蒸茅膏菜和小尾巴面条.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "特色什锦菜盒",
+		identifiedResourceName = "弧埃惑磊",
+		identifiedDescriptionName = {
+			"一套全面的礼品套装, 包括烤貂皮、鸡尾酒狼血、肉末牛腩、西罗马冰茶、蒸茅膏菜和小尾巴面条.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[5864] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "赣府鹅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "暗影助推器",
+		identifiedResourceName = "概瘤拿何胶磐",
+		identifiedDescriptionName = {
+			"通过控制脑电波来增强能力的工具.",
+			"ASPD+1, 全局冷却时间减少1%.",
+			"没有交易.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断 ^000000重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 873,
+		costume = false
+	},
+	[17292] = {
+		unidentifiedDisplayName = "阴影盒",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一个盒子, 可以让你获得一种类型的影子装备:物理影子包或魔法影子包.",
+			"您可以获得以下装备之一:物理装备(耳环、武器、吊坠)、魔法装备(耳环、武器、吊坠)、微风铠甲、冠军鞋子、雅典娜暗影盾装备.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "阴影盒",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一个盒子, 可以让你获得一种类型的影子装备:物理影子包或魔法影子包.",
+			"您可以获得以下装备之一:物理装备(耳环、武器、吊坠)、魔法装备(耳环、武器、吊坠)、微风铠甲、冠军鞋子、雅典娜暗影盾装备.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17293] = {
+		unidentifiedDisplayName = "物理阴影包",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"包含物理阴影集的盒子.",
+			"包括一件物理(武器、耳环、吊坠) 影子、微风盔甲影子、冠军鞋子影子和雅典娜盾牌影子.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "物理阴影包",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"包含物理阴影集的盒子.",
+			"包括一件物理(武器、耳环、吊坠) 影子、微风盔甲影子、冠军鞋子影子和雅典娜盾牌影子.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17294] = {
+		unidentifiedDisplayName = "魔法暗影套餐",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"装有魔法暗影套装的盒子.",
+			"包含一件魔法(武器、耳环、吊坠) 暗影、微风盔甲暗影、冠军鞋暗影和雅典娜盾影.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "魔法暗影套餐",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"装有魔法暗影套装的盒子.",
+			"包含一件魔法(武器、耳环、吊坠) 暗影、微风盔甲暗影、冠军鞋暗影和雅典娜盾影.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6709] = {
+		unidentifiedDisplayName = "脆丝",
+		unidentifiedResourceName = "富尔富尔茄玫",
+		unidentifiedDescriptionName = {
+			"它光滑、闪亮、有光泽 ",
+			"看起来很容易就会碎掉. (活动结束后消失)"
+		},
+		identifiedDisplayName = "脆丝",
+		identifiedResourceName = "富尔富尔茄玫",
+		identifiedDescriptionName = {
+			"它光滑、闪亮、有光泽 ",
+			"看起来很容易就会碎掉. (活动结束后消失)"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11570] = {
+		unidentifiedDisplayName = "[非卖品] 红色药水",
+		unidentifiedResourceName = "弧埃器记",
+		unidentifiedDescriptionName = {
+			"由细磨的红色草药制成的体力恢复剂 ^000088恢复约 45 HP^000000 让我来做吧.",
+			"^ffffff_^000000",
+			"重量 : ^7777777^000000"
+		},
+		identifiedDisplayName = "[非卖品] 红色药水",
+		identifiedResourceName = "弧埃器记",
+		identifiedDescriptionName = {
+			"由细磨的红色草药制成的体力恢复剂 ^000088恢复约 45 HP^000000 让我来做吧.",
+			"^ffffff_^000000",
+			"重量 : ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11571] = {
+		unidentifiedDisplayName = "[非卖品] 绿色药水",
+		unidentifiedResourceName = "檬废器记",
+		unidentifiedDescriptionName = {
+			"由精细研磨的绿色草药制成的药物 ^000088毒^000000班级 ^000088沉默^000000班级 ^000088黑暗的^000000班级 ^000088混乱^000000款待.",
+			"^ffffff_^000000",
+			"重量 : ^7777777^000000"
+		},
+		identifiedDisplayName = "[非卖品] 绿色药水",
+		identifiedResourceName = "檬废器记",
+		identifiedDescriptionName = {
+			"由精细研磨的绿色草药制成的药物 ^000088毒^000000班级 ^000088沉默^000000班级 ^000088黑暗的^000000班级 ^000088混乱^000000款待.",
+			"^ffffff_^000000",
+			"重量 : ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22541] = {
+		unidentifiedDisplayName = "机房优惠券盒Ⅵ",
+		unidentifiedResourceName = "某矫惑磊_踌祸",
+		unidentifiedDescriptionName = { "包装精美的礼品盒. 我不知道里面有什么. ", "重量 : ^7777771^000000" },
+		identifiedDisplayName = "机房优惠券盒Ⅵ",
+		identifiedResourceName = "某矫惑磊_踌祸",
+		identifiedDescriptionName = { "包装精美的礼品盒. 我不知道里面有什么. ", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22554] = {
+		unidentifiedDisplayName = "[非卖品] 急救箱",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装着紧急情况下使用的药水. 有时会出现一些不适合急救的奇怪事情. ",
+			"^ffffff_^000000",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "[非卖品] 急救箱",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装着紧急情况下使用的药水. 有时会出现一些不适合急救的奇怪事情. ",
+			"^ffffff_^000000",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22545] = {
+		unidentifiedDisplayName = "[非卖品] 移动速度改变药水",
+		unidentifiedResourceName = "捞加刘啊器记",
+		unidentifiedDescriptionName = {
+			"一种改变移动速度的神秘药剂. 相信你的运气并尝试一下. ",
+			"^ffffff_^000000",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "[非卖品] 移动速度改变药水",
+		identifiedResourceName = "捞加刘啊器记",
+		identifiedDescriptionName = {
+			"一种改变移动速度的神秘药剂. 相信你的运气并尝试一下. ",
+			"^ffffff_^000000",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22546] = {
+		unidentifiedDisplayName = "[非卖品] 移动速度改变药水",
+		unidentifiedResourceName = "捞加刘啊器记",
+		unidentifiedDescriptionName = {
+			"一种改变移动速度的神秘药剂. 相信你的运气并尝试一下. ",
+			"^ffffff_^000000",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "[非卖品] 移动速度改变药水",
+		identifiedResourceName = "捞加刘啊器记",
+		identifiedDescriptionName = {
+			"一种改变移动速度的神秘药剂. 相信你的运气并尝试一下. ",
+			"^ffffff_^000000",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22547] = {
+		unidentifiedDisplayName = "[非卖品] 止痛讯息",
+		unidentifiedResourceName = "救萍其牢膏飘",
+		unidentifiedDescriptionName = {
+			"Mentra 是一种以植物为主要成分制成的药物. 它也被称为止痛药,因为它可以帮助你在一段时间内忘记疼痛. ",
+			"^ffffff_^000000",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "[非卖品] 止痛讯息",
+		identifiedResourceName = "救萍其牢膏飘",
+		identifiedDescriptionName = {
+			"Mentra 是一种以植物为主要成分制成的药物. 它也被称为止痛药,因为它可以帮助你在一段时间内忘记疼痛. ",
+			"^ffffff_^000000",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22548] = {
+		unidentifiedDisplayName = "[非卖品] 男女",
+		unidentifiedResourceName = "鞠荐",
+		unidentifiedDescriptionName = {
+			"深紫色的诅咒之水.",
+			"^ffffff_^000000",
+			"重量 : ^7777773^000000"
+		},
+		identifiedDisplayName = "[非卖品] 男女",
+		identifiedResourceName = "鞠荐",
+		identifiedDescriptionName = {
+			"深紫色的诅咒之水.",
+			"^ffffff_^000000",
+			"重量 : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18870] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "非常甜的棒棒糖",
+		identifiedResourceName = "涝俊公绰阜措荤帕",
+		identifiedDescriptionName = {
+			"当你把它放进嘴里时,甜味就会蔓延到全身,你会感到精力充沛.",
+			"系列 : ^777777投球^000000 防御 : ^7777771^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777771^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 446,
+		costume = false
+	},
+	[18871] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "非常甜的糖果",
+		identifiedResourceName = "涝俊公绰阜措荤帕",
+		identifiedDescriptionName = {
+			"当你把它放进嘴里时,甜味就会蔓延到全身,你会感到精力充沛.",
+			"系列 : ^777777投球^000000 防御 : ^7777771^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777771^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 446,
+		costume = false
+	},
+	[22555] = {
+		unidentifiedDisplayName = "精美巧克力",
+		unidentifiedResourceName = "荐力檬妮房",
+		unidentifiedDescriptionName = {
+			"高品质巧克力,味道浓郁浓郁.",
+			"消耗后恢复5%HP和5%SP的奢侈品, 并保留购买时支付的价值.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "精美巧克力",
+		identifiedResourceName = "荐力檬妮房",
+		identifiedDescriptionName = {
+			"高品质巧克力,味道浓郁浓郁.",
+			"消耗后恢复5%HP和5%SP的奢侈品, 并保留购买时支付的价值.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22556] = {
+		unidentifiedDisplayName = "奢华巧克力",
+		unidentifiedResourceName = "荐力檬妮房_",
+		unidentifiedDescriptionName = {
+			"上层阶级聚会上使用的奢华巧克力.",
+			"消耗后恢复5%HP和5%SP的奢侈品, 并保留购买时支付的价值.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "奢华巧克力",
+		identifiedResourceName = "荐力檬妮房_",
+		identifiedDescriptionName = {
+			"上层阶级聚会上使用的奢华巧克力.",
+			"消耗后恢复5%HP和5%SP的奢侈品, 并保留购买时支付的价值.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22557] = {
+		unidentifiedDisplayName = "工匠奢华巧克力",
+		unidentifiedResourceName = "矾喉府檬内鸥福飘",
+		unidentifiedDescriptionName = {
+			"手工巧克力,工艺细腻.",
+			"它是一种奢侈品,消耗时恢复 5% HP 和 5% SP,并保留购买时支付的价值.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "工匠奢华巧克力",
+		identifiedResourceName = "矾喉府檬内鸥福飘",
+		identifiedDescriptionName = {
+			"手工巧克力,工艺细腻.",
+			"它是一种奢侈品,消耗时恢复 5% HP 和 5% SP,并保留购买时支付的价值.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14663] = {
+		unidentifiedDisplayName = "封印的黑暗领主卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"黑暗领主卷轴被限时封印.",
+			"封印的黑暗领主卡、黑暗幻象卡、武器精炼保证9级、防具精炼保证9级、免疫铠影、服装​​睡猫帽子、",
+			"您可以获得服装结界石盒、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "封印的黑暗领主卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"黑暗领主卷轴被限时封印.",
+			"封印的黑暗领主卡、黑暗幻象卡、武器精炼保证9级、防具精炼保证9级、免疫铠影、服装​​睡猫帽子、",
+			"您可以获得服装结界石盒、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17298] = {
+		unidentifiedDisplayName = "加油包",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一个盒子,上面写着这个.",
+			"内含战斗手册2本、泡泡糖2本、全能神药2本、精神药剂2本、神秘生命之水6本. 此外, 你还可以获得一本封印的黑暗魔王卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "加油包",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一个盒子,上面写着这个.",
+			"内含战斗手册2本、泡泡糖2本、全能神药2本、精神药剂2本、神秘生命之水6本. 此外, 你还可以获得一本封印的黑暗魔王卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17299] = {
+		unidentifiedDisplayName = "打气套餐10套",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一捆 10 个盒子,上面写着字.",
+			"内含战斗手册20本、泡泡糖20本、全能神器20本、精神药剂20本、神秘生命之水60本. 此外, 你还可以获得11张封印的黑暗魔王卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "打气套餐10套",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一捆 10 个盒子,上面写着字.",
+			"内含战斗手册20本、泡泡糖20本、全能神器20本、精神药剂20本、神秘生命之水60本. 此外, 你还可以获得11张封印的黑暗魔王卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14672] = {
+		unidentifiedDisplayName = "钢铁战士(20Lv)卷轴",
+		unidentifiedResourceName = "配磊府胶农费",
+		unidentifiedDescriptionName = {
+			"给达到钢铁战士20级的人的硬蛋.",
+			"包含 1 个不死核心和 1 个少女之心.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "钢铁战士(20Lv)卷轴",
+		identifiedResourceName = "配磊府胶农费",
+		identifiedDescriptionName = {
+			"给达到钢铁战士20级的人的硬蛋.",
+			"包含 1 个不死核心和 1 个少女之心.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14673] = {
+		unidentifiedDisplayName = "钢铁战士(25Lv)卷轴",
+		unidentifiedResourceName = "配磊府胶农费",
+		unidentifiedDescriptionName = {
+			"给达到钢铁战士20级的人的硬蛋.",
+			"包含 1 个不死核心、1 个少女之心和 1 个狼王卷轴.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "钢铁战士(25Lv)卷轴",
+		identifiedResourceName = "配磊府胶农费",
+		identifiedDescriptionName = {
+			"给达到钢铁战士20级的人的硬蛋.",
+			"包含 1 个不死核心、1 个少女之心和 1 个狼王卷轴.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19765] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装天使翅膀耳朵",
+		identifiedResourceName = "玫荤朝俺蓖",
+		identifiedDescriptionName = {
+			"仿照洁白美丽的天使翅膀而设计的耳饰. 佩戴后,仿佛从翅膀中获得了神秘的力量. ",
+			"(活动期间结束后,物品本身将全部删除.)",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 158,
+		costume = true
+	},
+	[22569] = {
+		unidentifiedDisplayName = "新开始的礼物",
+		unidentifiedResourceName = "pro急拱惑磊",
+		unidentifiedDescriptionName = {
+			"豪华包装盒. 还有传言称里面有神秘彩蛋、高品质武器箱、德古拉卡牌、流星风暴卷轴. ",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "新开始的礼物",
+		identifiedResourceName = "pro急拱惑磊",
+		identifiedDescriptionName = {
+			"豪华包装盒. 还有传言称里面有神秘彩蛋、高品质武器箱、德古拉卡牌、流星风暴卷轴. ",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14675] = {
+		unidentifiedDisplayName = "暗影盒II",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有暗影装备的盒子.",
+			"力量(耳环、吊坠)、智力(吊坠、耳环)、灵巧(防具、武器)、",
+			"你可以获得以下暗影装备之一:生命(鞋子、盾牌) 、运动(盾牌、鞋子) 或幸运(武器、盔甲) .",
+			"有时,服装可能会带有闪亮的金色翅膀.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "暗影盒II",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"一个装有暗影装备的盒子.",
+			"力量(耳环、吊坠)、智力(吊坠、耳环)、灵巧(防具、武器)、",
+			"你可以获得以下暗影装备之一:生命(鞋子、盾牌) 、运动(盾牌、鞋子) 或幸运(武器、盔甲) .",
+			"有时,服装可能会带有闪亮的金色翅膀.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17302] = {
+		unidentifiedDisplayName = "暗影盒Ⅱ盒",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"包含一个 Shadow Box II 的盒子.",
+			"力量(耳环、吊坠)、智力(吊坠、耳环)、灵巧(防具、武器)、",
+			"你可以获得以下暗影装备之一:生命(鞋子、盾牌) 、运动(盾牌、鞋子) 或幸运(武器、盔甲) .",
+			"有时,还会出现绚丽的金色翅膀.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "暗影盒Ⅱ盒",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"包含一个 Shadow Box II 的盒子.",
+			"力量(耳环、吊坠)、智力(吊坠、耳环)、灵巧(防具、武器)、",
+			"你可以获得以下暗影装备之一:生命(鞋子、盾牌) 、运动(盾牌、鞋子) 或幸运(武器、盔甲) .",
+			"有时,还会出现绚丽的金色翅膀.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17303] = {
+		unidentifiedDisplayName = "暗影盒Ⅱ套装",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有 10 个 Shadow Boxes II. 如果您成套购买,您可以额外收到一件. ",
+			"力量(耳环、吊坠)、智力(吊坠、耳环)、灵巧(防具、武器)、",
+			"你可以获得以下暗影装备之一:生命(鞋子、盾牌) 、运动(盾牌、鞋子) 或幸运(武器、盔甲) .",
+			"有时,还会出现绚丽的金色翅膀.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "暗影盒Ⅱ套装",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有 10 个 Shadow Boxes II. 如果您成套购买,您可以额外收到一件. ",
+			"力量(耳环、吊坠)、智力(吊坠、耳环)、灵巧(防具、武器)、",
+			"你可以获得以下暗影装备之一:生命(鞋子、盾牌) 、运动(盾牌、鞋子) 或幸运(武器、盔甲) .",
+			"有时,还会出现绚丽的金色翅膀.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17304] = {
+		unidentifiedDisplayName = "3盒闪光棒",
+		unidentifiedResourceName = "坷贰等焊扼惑磊",
+		unidentifiedDescriptionName = {
+			"包含 3 个闪光灯条的盒子. 小心损坏!",
+			"^ffffff_^000000",
+			"闪光棒 - 重置技能树.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "3盒闪光棒",
+		identifiedResourceName = "坷贰等焊扼惑磊",
+		identifiedDescriptionName = {
+			"包含 3 个闪光灯条的盒子. 小心损坏!",
+			"^ffffff_^000000",
+			"闪光棒 - 重置技能树.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6720] = {
+		unidentifiedDisplayName = "状态重置票",
+		unidentifiedResourceName = "捻迄",
+		unidentifiedDescriptionName = {
+			"",
+			"状态重置票证,允许 1 小时内重试 3 次.",
+			"拥有此重置权限的人可以重置他或她的状态.",
+			"",
+			"初始化状态时,权重必须设置为0.",
+			"所有的手推车和召唤物都必须被释放.",
+			"",
+			"^ffffff<NAVI>^4D4DFF[神秘的小丑]^000000<INFO>itemmall,35,63,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "状态重置票",
+		identifiedResourceName = "捻迄",
+		identifiedDescriptionName = {
+			"",
+			"状态重置票证,允许 1 小时内重试 3 次.",
+			"拥有此重置权限的人可以重置他或她的状态.",
+			"",
+			"初始化状态时,权重必须设置为0.",
+			"所有的手推车和召唤物都必须被释放.",
+			"",
+			"^ffffff<NAVI>^4D4DFF[神秘的小丑]^000000<INFO>itemmall,35,63,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6721] = {
+		unidentifiedDisplayName = "旧状态重置票",
+		unidentifiedResourceName = "捻迄",
+		unidentifiedDescriptionName = {
+			"",
+			"带有使用痕迹的状态重置票.",
+			"",
+			"您使用该物品已经超过 1 小时, 或者您在 1 小时内有 3 次重置机会.",
+			" 如果所有项目都被使用,则该项目将被删除.",
+			"",
+			"另外, 如果你拿着过期的物品试图与 NPC 交谈, ",
+			" 该项目将被删除, 并且状态重置将不再可能.",
+			"",
+			"初始化状态时,权重必须设置为0.",
+			"所有的手推车和召唤物都必须被释放.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "旧状态重置票",
+		identifiedResourceName = "捻迄",
+		identifiedDescriptionName = {
+			"",
+			"带有使用痕迹的状态重置票.",
+			"",
+			"您使用该物品已经超过 1 小时, 或者您在 1 小时内有 3 次重置机会.",
+			" 如果所有项目都被使用,则该项目将被删除.",
+			"",
+			"另外, 如果你拿着过期的物品试图与 NPC 交谈, ",
+			" 该项目将被删除, 并且状态重置将不再可能.",
+			"",
+			"初始化状态时,权重必须设置为0.",
+			"所有的手推车和召唤物都必须被释放.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17306] = {
+		unidentifiedDisplayName = "状态重置票箱",
+		unidentifiedResourceName = "坷贰等焊扼惑磊",
+		unidentifiedDescriptionName = {
+			"包含一张状态重置票的盒子.",
+			"^ffffff_^000000",
+			"状态重置票证 - 初始化状态.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "状态重置票箱",
+		identifiedResourceName = "坷贰等焊扼惑磊",
+		identifiedDescriptionName = {
+			"包含一张状态重置票的盒子.",
+			"^ffffff_^000000",
+			"状态重置票证 - 初始化状态.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22592] = {
+		unidentifiedDisplayName = "快乐的电话亭",
+		unidentifiedResourceName = "货秦急拱惑磊",
+		unidentifiedDescriptionName = {
+			"赠送给忠实响应 Happy Call 服务的客户的盒子. 盒子外面贴满了负责人的感谢信. ",
+			" ",
+			"包含以下物品:",
+			" ",
+			"1个药水盒",
+			"1个宝箱",
+			"1 国王令牌",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "快乐电话亭",
+		identifiedResourceName = "货秦急拱惑磊",
+		identifiedDescriptionName = {
+			"赠送给忠实响应 Happy Call 服务的客户的盒子. 盒子外面贴满了负责人的感谢信. ",
+			" ",
+			"包含以下物品:",
+			" ",
+			"1个药水盒",
+			"1个宝箱",
+			"1 国王令牌",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11588] = {
+		unidentifiedDisplayName = "新鲜草莓",
+		unidentifiedResourceName = "叠扁",
+		unidentifiedDescriptionName = {
+			"限时获得的芳香果实.",
+			"^000088恢复少量HP和SP^000000 让我来做吧.",
+			"活动结束后批量删除.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "新鲜草莓",
+		identifiedResourceName = "叠扁",
+		identifiedDescriptionName = {
+			"限时获得的芳香果实.",
+			"^000088恢复少量HP和SP^000000 让我来做吧.",
+			"活动结束后批量删除.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14679] = {
+		unidentifiedDisplayName = "封印的风暴骑士卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时封印的风暴骑士卷轴.",
+			"封印风暴骑士卡、武器9级熔炼保证、铠甲9级熔炼保证、急速暗影坠饰、服装风路标、",
+			"您可以获得服装结界石盒、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "封印的风暴骑士卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时封印的风暴骑士卷轴.",
+			"封印风暴骑士卡、武器9级熔炼保证、铠甲9级熔炼保证、急速暗影坠饰、服装风路标、",
+			"您可以获得服装结界石盒、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17315] = {
+		unidentifiedDisplayName = "幸运猕猴桃10盒",
+		unidentifiedResourceName = "咀技辑府惑磊",
+		unidentifiedDescriptionName = {
+			"一盒含有 10 个猕猴桃浆果. 少量罐头食品也作为奖励包括在内. 此外,你还可以获得1张风暴封印骑士卷轴. ",
+			"",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"重量 : ^7777770^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "幸运猕猴桃10盒",
+		identifiedResourceName = "咀技辑府惑磊",
+		identifiedDescriptionName = {
+			"一盒含有 10 个猕猴桃浆果. 少量罐头食品也作为奖励包括在内. 此外,你还可以获得1张风暴封印骑士卷轴. ",
+			"",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"重量 : ^7777770^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17316] = {
+		unidentifiedDisplayName = "幸运猕猴桃110盒",
+		unidentifiedResourceName = "咀技辑府惑磊",
+		unidentifiedDescriptionName = {
+			"一盒含有 110 个猕猴桃浆果. 还附赠大量罐头食品. 此外,你还可以获得11张风暴封印骑士卷轴. ",
+			"",
+			"",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"重量 : ^7777770^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "幸运猕猴桃110盒",
+		identifiedResourceName = "咀技辑府惑磊",
+		identifiedDescriptionName = {
+			"一盒含有 110 个猕猴桃浆果. 还附赠大量罐头食品. 此外,你还可以获得11张风暴封印骑士卷轴. ",
+			"",
+			"",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"重量 : ^7777770^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14682] = {
+		unidentifiedDisplayName = "封印的别西卜卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时封印的别西卜卷轴.",
+			"封印的别西卜卡、武器精炼保证9级、防具精炼保证9级、脑盾暗影、护盾暗影、",
+			"可以获得服装康乃馨头带、服装结界石盒II、服装兑换券等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "封印的别西卜卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时封印的别西卜卷轴.",
+			"封印的别西卜卡、武器精炼保证9级、防具精炼保证9级、脑盾暗影、护盾暗影、",
+			"可以获得服装康乃馨头带、服装结界石盒II、服装兑换券等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17321] = {
+		unidentifiedDisplayName = "三明水套餐",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得封印的别西卜卷轴一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "三明水套餐",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得封印的别西卜卷轴一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17322] = {
+		unidentifiedDisplayName = "三明水套餐10套",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子.",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 你可以获得11个封印的别西卜卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "三明水套餐10套",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子.",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 你可以获得11个封印的别西卜卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22610] = {
+		unidentifiedDisplayName = "新的开始的盒子",
+		unidentifiedResourceName = "pro急拱惑磊",
+		unidentifiedDescriptionName = {
+			"一套礼盒, 包含新手支援盒、时间守护盒和升级盒各一个.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "新的开始的盒子",
+		identifiedResourceName = "pro急拱惑磊",
+		identifiedDescriptionName = {
+			"一套礼盒, 包含新手支援盒、时间守护盒和升级盒各一个.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19853] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装 菲里尔之翼",
+		identifiedResourceName = "鞘府福狼朝俺",
+		identifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"可爱的头盔,以流行的鸟形人造人 Filir 的翅膀为模型.",
+			"击杀怪物时获得的经验值增加5%, ",
+			"ASPD+1, SP消耗减少5%.",
+			"系列 : ^777777服装设备^000000",
+			"地点 : ^777777中断 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 595,
+		costume = true
+	},
+	[22614] = {
+		unidentifiedDisplayName = "高级手册",
+		unidentifiedResourceName = "具啊且赣聪付过辑",
+		unidentifiedDescriptionName = {
+			"由资深冒险家撰写的更有效对抗怪物的指南.",
+			"^00008830分钟内获得的经验增加50%, 怪物掉落物品的概率增加100%.^000000",
+			"警告 - 该效果不会与其他具有相同效果的物品重叠, 例如战斗手册和泡泡糖.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "高级手册",
+		identifiedResourceName = "具啊且赣聪付过辑",
+		identifiedDescriptionName = {
+			"由资深冒险家撰写的更有效对抗怪物的指南.",
+			"^00008830分钟内获得的经验增加50%, 怪物掉落物品的概率增加100%.^000000",
+			"警告 - 该效果不会与其他具有相同效果的物品重叠, 例如战斗手册和泡泡糖.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22617] = {
+		unidentifiedDisplayName = "透明盒 S",
+		unidentifiedResourceName = "急拱惑磊_1",
+		unidentifiedDescriptionName = {
+			"完成 10 个新剧集任务即可获得奖励!",
+			"包装内含两本高级战斗手册和一张随机新 MVP boss 卡.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "透明盒 S",
+		identifiedResourceName = "急拱惑磊_1",
+		identifiedDescriptionName = {
+			"完成 10 个新剧集任务即可获得奖励!",
+			"包装内含两本高级战斗手册和一张随机新 MVP boss 卡.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22618] = {
+		unidentifiedDisplayName = "透明盒A",
+		unidentifiedResourceName = "急拱惑磊_3",
+		unidentifiedDescriptionName = {
+			"完成 5 个新剧集任务即可获得奖励!",
+			"包装内含高级战斗手册1本、旧卡册1册、旧卡册(头盔) 1本、旧卡册(武器) 1本.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "透明盒A",
+		identifiedResourceName = "急拱惑磊_3",
+		identifiedDescriptionName = {
+			"完成 5 个新剧集任务即可获得奖励!",
+			"包装内含高级战斗手册1本、旧卡册1册、旧卡册(头盔) 1本、旧卡册(武器) 1本.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14689] = {
+		unidentifiedDisplayName = "密封的基尔-D-01卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"基尔-D-01卷轴在有限时间内被密封.",
+			"封印的基尔-D-01卡, 武器精炼保证9级, 防具精炼保证9级, 血色鞋影, 解放鞋影, ",
+			"可以获得服装冰翼耳朵、服装结界石盒II、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "密封的基尔-D-01卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"基尔-D-01卷轴在有限时间内被密封.",
+			"封印的基尔-D-01卡, 武器精炼保证9级, 防具精炼保证9级, 血色鞋影, 解放鞋影, ",
+			"可以获得服装冰翼耳朵、服装结界石盒II、服装兑换券等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17331] = {
+		unidentifiedDisplayName = "活动万能宝箱",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 10 个全能者和 1 个密封的 Kiel-D-01 卷轴.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"重量 : ^7777771^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "活动万能宝箱",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,内含 10 个全能者和 1 个密封的 Kiel-D-01 卷轴.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"重量 : ^7777771^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17332] = {
+		unidentifiedDisplayName = "活动全能100盒",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 100 个全能卷轴和 11 个密封的基尔-D-01 卷轴.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"重量 : ^7777771^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "活动全能100盒",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,内含 100 个全能卷轴和 11 个密封的基尔-D-01 卷轴.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"重量 : ^7777771^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12863] = {
+		unidentifiedDisplayName = "宝箱召唤卷轴Ⅱ",
+		unidentifiedResourceName = "林巩辑促惯",
+		unidentifiedDescriptionName = {
+			"你可以召唤TE藏身处的宝箱.",
+			"(不能在村庄、村庄内部或仅限任务的地图上使用.)",
+			"^ff0000注意 : 该宝箱还可以攻击其他角色, 因此请确保附近没有其他角色.",
+			"使用前请检查.^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "宝箱召唤卷轴Ⅱ",
+		identifiedResourceName = "林巩辑促惯",
+		identifiedDescriptionName = {
+			"你可以召唤TE藏身处的宝箱.",
+			"(不能在村庄、村庄内部或仅限任务的地图上使用.)",
+			"^ff0000注意 : 该宝箱还可以攻击其他角色, 因此请确保附近没有其他角色.",
+			"使用前请检查.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22623] = {
+		unidentifiedDisplayName = "新的开始的盒子",
+		unidentifiedResourceName = "pro急拱惑磊",
+		unidentifiedDescriptionName = {
+			"一套礼盒, 包含新手支援盒、时间守护盒和升级盒各一个.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "新的开始的盒子",
+		identifiedResourceName = "pro急拱惑磊",
+		identifiedDescriptionName = {
+			"一套礼盒, 包含新手支援盒、时间守护盒和升级盒各一个.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17394] = {
+		unidentifiedDisplayName = "[活动]旧帽子盒",
+		unidentifiedResourceName = "坷贰等颇鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个古老的帽盒,散发着神秘的蓝色光芒.",
+			"你永远不知道你会得到什么样的推销.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "[活动]旧帽子盒",
+		identifiedResourceName = "坷贰等颇鄂惑磊",
+		identifiedDescriptionName = {
+			"一个古老的帽盒,散发着神秘的蓝色光芒.",
+			"你永远不知道你会得到什么样的推销.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6766] = {
+		unidentifiedDisplayName = "冰雪王国门票",
+		unidentifiedResourceName = "烹青刘",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "冰雪王国门票",
+		identifiedResourceName = "烹青刘",
+		identifiedDescriptionName = {
+			"前往冰岛的特快火车票,让你远离酷暑. 但你并没有乘坐真正的火车. 夏天过后门票就消失了. ",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6767] = {
+		unidentifiedDisplayName = "14周年纪念币",
+		unidentifiedResourceName = "器傅内牢_篮",
+		unidentifiedDescriptionName = {
+			"夏季节日使用的硬币. 它没有实际的货币价值. 它只能在夏天使用, 夏天过后就会消失. ",
+			"(该条将于2016年8月31日例行检查时批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "14周年纪念币",
+		identifiedResourceName = "器傅内牢_篮",
+		identifiedDescriptionName = {
+			"夏季节日使用的硬币. 它没有实际的货币价值. 它只能在夏天使用, 夏天过后就会消失. ",
+			"(该条将于2016年8月31日例行检查时批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6768] = {
+		unidentifiedDisplayName = "刨冰用红豆",
+		unidentifiedResourceName = "酒荤捞凯概",
+		unidentifiedDescriptionName = { "甜炖红豆. 刨冰中绝对不能缺少的重要成分!" },
+		identifiedDisplayName = "刨冰用红豆",
+		identifiedResourceName = "酒荤捞凯概",
+		identifiedDescriptionName = {
+			"甜炖红豆. 刨冰中绝对不能缺少的重要成分!",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6769] = {
+		unidentifiedDisplayName = "甜年糕",
+		unidentifiedResourceName = "葛骂",
+		unidentifiedDescriptionName = { "耐嚼又甜的年糕. 与刨冰一起吃可以缓解口腔寒冷. " },
+		identifiedDisplayName = "甜年糕",
+		identifiedResourceName = "葛骂",
+		identifiedDescriptionName = {
+			"耐嚼又甜的年糕. 与刨冰一起吃可以缓解口腔寒冷. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6770] = {
+		unidentifiedDisplayName = "鲨鱼",
+		unidentifiedResourceName = "惑绢",
+		unidentifiedDescriptionName = {
+			"鲨鱼, 海洋掠食者, 恐惧的代名词.",
+			"由于捕捞难度大且危险,鲨鱼菜肴被认为是美食家的最佳食物."
+		},
+		identifiedDisplayName = "鲨鱼",
+		identifiedResourceName = "惑绢",
+		identifiedDescriptionName = {
+			"鲨鱼, 海洋掠食者, 恐惧的代名词.",
+			"由于捕捞难度大且危险,鲨鱼菜肴被认为是美食家的最佳食物.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6771] = {
+		unidentifiedDisplayName = "蓝鳍金枪鱼",
+		unidentifiedResourceName = "曼促尔绢",
+		unidentifiedDescriptionName = { "各种菜肴中使用的最优质的鱼种.", "由于价格较高,很难经常吃到." },
+		identifiedDisplayName = "蓝鳍金枪鱼",
+		identifiedResourceName = "曼促尔绢",
+		identifiedDescriptionName = {
+			"各种菜肴中使用的最优质的鱼种.",
+			"由于价格较高,很难经常吃到.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6772] = {
+		unidentifiedDisplayName = "章鱼",
+		unidentifiedResourceName = "巩绢",
+		unidentifiedDescriptionName = {
+			"有八条腿的软体动物.",
+			"如果它感到受到威胁,就会喷出墨水,所以要小心.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "章鱼",
+		identifiedResourceName = "巩绢",
+		identifiedDescriptionName = {
+			"有八条腿的软体动物.",
+			"如果它感到受到威胁,就会喷出墨水,所以要小心.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6773] = {
+		unidentifiedDisplayName = "鲷鱼",
+		unidentifiedResourceName = "档固",
+		unidentifiedDescriptionName = { "鲷鱼颜色多样,味道极佳", "它是一种优质鱼类,用于各种菜肴中." },
+		identifiedDisplayName = "鲷鱼",
+		identifiedResourceName = "档固",
+		identifiedDescriptionName = {
+			"鲷鱼颜色多样,味道极佳",
+			"它是一种优质鱼类,用于各种菜肴中.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6774] = {
+		unidentifiedDisplayName = "食人鱼",
+		unidentifiedResourceName = "乔扼衬",
+		unidentifiedDescriptionName = { "一条长着可怕牙齿的鱼.", "鸽友也将其种植用于观赏目的." },
+		identifiedDisplayName = "食人鱼",
+		identifiedResourceName = "乔扼衬",
+		identifiedDescriptionName = {
+			"一条长着可怕牙齿的鱼.",
+			"鸽友也将其种植用于观赏目的.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6775] = {
+		unidentifiedDisplayName = "三文鱼",
+		unidentifiedResourceName = "楷绢",
+		unidentifiedDescriptionName = {
+			"鲑鱼有回到出生地的本能.",
+			"它颜色漂亮,味道好,深受女性喜爱."
+		},
+		identifiedDisplayName = "三文鱼",
+		identifiedResourceName = "楷绢",
+		identifiedDescriptionName = {
+			"鲑鱼有回到出生地的本能.",
+			"它颜色漂亮,味道好,深受女性喜爱.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6776] = {
+		unidentifiedDisplayName = "鳗鱼",
+		unidentifiedResourceName = "厘绢",
+		unidentifiedDescriptionName = { "以力量而闻名的鳗鱼.", "对于耐力来说,没有比这更好的了." },
+		identifiedDisplayName = "鳗鱼",
+		identifiedResourceName = "厘绢",
+		identifiedDescriptionName = {
+			"以力量而闻名的鳗鱼.",
+			"对于耐力来说,没有比这更好的了.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6777] = {
+		unidentifiedDisplayName = "鲤鱼",
+		unidentifiedResourceName = "雷绢",
+		unidentifiedDescriptionName = {
+			"鲤鱼具有食用、药用、观赏等多种用途, 深受人们喜爱.",
+			"在一些地区,它也被用作吉兆."
+		},
+		identifiedDisplayName = "鲤鱼",
+		identifiedResourceName = "雷绢",
+		identifiedDescriptionName = {
+			"鲤鱼具有食用、药用、观赏等多种用途, 深受人们喜爱.",
+			"在一些地区,它也被用作吉兆.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6778] = {
+		unidentifiedDisplayName = "鱿鱼",
+		unidentifiedResourceName = "坷隆绢",
+		unidentifiedDescriptionName = { "鱿鱼可用于制作和食用各种菜肴.", "有时也用作钓鱼饵." },
+		identifiedDisplayName = "鱿鱼",
+		identifiedResourceName = "坷隆绢",
+		identifiedDescriptionName = {
+			"鱿鱼可用于制作和食用各种菜肴.",
+			"有时也用作钓鱼饵.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6779] = {
+		unidentifiedDisplayName = "鲭鱼",
+		unidentifiedResourceName = "咐亮篮拱绊扁",
+		unidentifiedDescriptionName = { "鲭鱼,一种富含DHA的蓝背鱼.", "有时也用作钓鱼饵." },
+		identifiedDisplayName = "鲭鱼",
+		identifiedResourceName = "咐亮篮拱绊扁",
+		identifiedDescriptionName = {
+			"鲭鱼,一种富含DHA的蓝背鱼.",
+			"有时也用作钓鱼饵.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6780] = {
+		unidentifiedDisplayName = "鲫鱼",
+		unidentifiedResourceName = "贺绢",
+		unidentifiedDescriptionName = { "一种小型普通鲤鱼,在任何地方都可以轻松捕获.", "有时也用作钓鱼饵." },
+		identifiedDisplayName = "鲫鱼",
+		identifiedResourceName = "贺绢",
+		identifiedDescriptionName = {
+			"一种小型普通鲤鱼,在任何地方都可以轻松捕获.",
+			"有时也用作钓鱼饵.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6781] = {
+		unidentifiedDisplayName = "活蚯蚓",
+		unidentifiedResourceName = "配角配角瘤贩捞",
+		unidentifiedDescriptionName = { "一条胖虫子", "非常适合钓鱼诱饵." },
+		identifiedDisplayName = "活蚯蚓",
+		identifiedResourceName = "配角配角瘤贩捞",
+		identifiedDescriptionName = { "一条胖虫子", "非常适合钓鱼诱饵.", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6782] = {
+		unidentifiedDisplayName = "鲜虾",
+		unidentifiedResourceName = "货快",
+		unidentifiedDescriptionName = { "虾看起来很新鲜", "非常适合钓鱼诱饵." },
+		identifiedDisplayName = "鲜虾",
+		identifiedResourceName = "货快",
+		identifiedDescriptionName = { "虾看起来很新鲜", "非常适合钓鱼诱饵.", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6784] = {
+		unidentifiedDisplayName = "鱿鱼串",
+		unidentifiedResourceName = "夸府侩艰部矛捞",
+		unidentifiedDescriptionName = { "专为烤整只鱿鱼而设计的串. 我们把它交给斯奎兹尔先生吧. " },
+		identifiedDisplayName = "鱿鱼串",
+		identifiedResourceName = "夸府侩艰部矛捞",
+		identifiedDescriptionName = {
+			"专为烤整只鱿鱼而设计的串. 我们把它交给斯奎兹尔先生吧. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6785] = {
+		unidentifiedDisplayName = "很棒的酱汁",
+		unidentifiedResourceName = "概款咐家胶",
+		unidentifiedDescriptionName = {
+			"斯奎兹尔先生的特制酱汁,让整条烤鱿鱼美味无比. 我们把它交给斯奎兹尔先生吧. "
+		},
+		identifiedDisplayName = "很棒的酱汁",
+		identifiedResourceName = "概款咐家胶",
+		identifiedDescriptionName = {
+			"斯奎兹尔先生的特制酱汁,让整条烤鱿鱼美味无比. 我们把它交给斯奎兹尔先生吧. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6786] = {
+		unidentifiedDisplayName = "整只烤鱿鱼",
+		unidentifiedResourceName = "坷隆绢",
+		unidentifiedDescriptionName = {
+			"新鲜鱿鱼空运过来,用于烤整只鱿鱼. 有点沙质,不过没关系. 我们把它交给斯奎兹尔先生吧. "
+		},
+		identifiedDisplayName = "整只烤鱿鱼",
+		identifiedResourceName = "坷隆绢",
+		identifiedDescriptionName = {
+			"新鲜鱿鱼空运过来,用于烤整只鱿鱼. 有点沙质,不过没关系. 我们把它交给斯奎兹尔先生吧. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6787] = {
+		unidentifiedDisplayName = "长期燃烧的柴火",
+		unidentifiedResourceName = "唱公炼阿",
+		unidentifiedDescriptionName = { "用于烤整条鱿鱼的木柴. 我们把它交给斯奎兹尔先生吧. " },
+		identifiedDisplayName = "长期燃烧的柴火",
+		identifiedResourceName = "唱公炼阿",
+		identifiedDescriptionName = {
+			"用于烤整条鱿鱼的木柴. 我们把它交给斯奎兹尔先生吧. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6788] = {
+		unidentifiedDisplayName = "玫瑰刀",
+		unidentifiedResourceName = "踌郊侥漠",
+		unidentifiedDescriptionName = {
+			"用于准备整条烤鱿鱼的刀. 它上面刻有美丽的玫瑰图案. 我们把它交给斯奎兹尔先生吧. "
+		},
+		identifiedDisplayName = "玫瑰刀",
+		identifiedResourceName = "踌郊侥漠",
+		identifiedDescriptionName = {
+			"用于准备整条烤鱿鱼的刀. 它上面刻有美丽的玫瑰图案. 我们把它交给斯奎兹尔先生吧. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6789] = {
+		unidentifiedDisplayName = "定制板",
+		unidentifiedResourceName = "窍踞立矫",
+		unidentifiedDescriptionName = { "一个定制的盘子,可以盛放整个烤鱿鱼. 我们把它交给斯奎兹尔先生吧. " },
+		identifiedDisplayName = "定制板",
+		identifiedResourceName = "窍踞立矫",
+		identifiedDescriptionName = {
+			"一个定制的盘子,可以盛放整个烤鱿鱼. 我们把它交给斯奎兹尔先生吧. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11590] = {
+		unidentifiedDisplayName = "串5号",
+		unidentifiedResourceName = "部摹备捞",
+		unidentifiedDescriptionName = {
+			"串烧界的麒麟!拥有20年经验的串烧大师Edward自信推荐的终极串烧店!关于烤串味道的讨论到此结束!",
+			"重量 : ^77777730^000000"
+		},
+		identifiedDisplayName = "串5号",
+		identifiedResourceName = "部摹备捞",
+		identifiedDescriptionName = {
+			"串烧界的麒麟!拥有20年经验的串烧大师Edward自信推荐的终极串烧店!关于烤串味道的讨论到此结束!",
+			"重量 : ^77777730^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18936] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "嘴里的金鱼",
+		identifiedResourceName = "涝俊巩炔陛拱绊扁",
+		identifiedDescriptionName = {
+			"海洋的能量遍布全身",
+			"我感觉一股巨大的能量会从我身上涌出.",
+			"系列 : ^777777投球^000000 防御 : ^7777771^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777771^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1081,
+		costume = false
+	},
+	[19857] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装小龙虾帽",
+		identifiedResourceName = "空货快葛磊",
+		identifiedDescriptionName = {
+			"它生活在玛琅岛附近的深海中.",
+			"由传说中的小龙虾制成的帽子",
+			"感觉就像还活着一样.",
+			"",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 728,
+		costume = true
+	},
+	[22045] = {
+		unidentifiedDisplayName = "鞋",
+		unidentifiedResourceName = "击甸",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "夏季凉鞋",
+		identifiedResourceName = "绊鞭击甸",
+		identifiedDescriptionName = {
+			"高品质、通风良好的夏季凉鞋. 它易于佩戴和携带. ",
+			"系列 : ^777777鞋^000000 防御 : ^7777775^000000",
+			"重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22619] = {
+		unidentifiedDisplayName = "幽灵召唤卷轴",
+		unidentifiedResourceName = "蜡飞家券辑",
+		unidentifiedDescriptionName = { "带有如何召唤鬼魂说明的卷轴.", "真的不会有鬼吗?" },
+		identifiedDisplayName = "幽灵召唤卷轴",
+		identifiedResourceName = "蜡飞家券辑",
+		identifiedDescriptionName = {
+			"带有如何召唤鬼魂说明的卷轴.",
+			"真的不会有鬼吗?",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22620] = {
+		unidentifiedDisplayName = "记忆之盒",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个旧盒子, 里面装满了充满回忆的物品. 这是一个丑陋的盒子, 里面装着很多各种各样的东西, 但当你打开它时, 却只有一件东西出来. "
+		},
+		identifiedDisplayName = "记忆之盒",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个旧盒子, 里面装满了充满回忆的物品. 这是一个丑陋的盒子, 里面装着很多各种各样的东西, 但当你打开它时, 却只有一件东西出来. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22621] = {
+		unidentifiedDisplayName = "烤整只鱿鱼",
+		unidentifiedResourceName = "坷隆绢烹备捞",
+		unidentifiedDescriptionName = {
+			"咸味全烤鱿鱼. 可以感受到工匠的汗水和诚意. ",
+			"恢复少量的Hp和Sp.",
+			"鱼类、贝类怪物获得的经验值增加25%,持续5分钟.",
+			"重量 : ^77777725^000000"
+		},
+		identifiedDisplayName = "烤整只鱿鱼",
+		identifiedResourceName = "坷隆绢烹备捞",
+		identifiedDescriptionName = {
+			"咸味全烤鱿鱼. 可以感受到工匠的汗水和诚意. ",
+			"恢复少量的Hp和Sp.",
+			"鱼类、贝类怪物获得的经验值增加25%,持续5分钟.",
+			"重量 : ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[5855] = {
+		unidentifiedDisplayName = "酒吧",
+		unidentifiedResourceName = "肺橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "钓竿",
+		identifiedResourceName = "拱狼盲嘛",
+		identifiedDescriptionName = {
+			"真正的专家不会责怪该工具.",
+			"就是一根普通的鱼竿,但是我感觉什么都能钓到.",
+			"系列 : ^777777配件^000000 防御 : ^7777770^000000",
+			"重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777770^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17429] = {
+		unidentifiedDisplayName = "十一周年纪念影盒",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"",
+			"一个盒子,里面有 11 周年影子礼包中的一种影子装备.",
+			" 你可以获得以下装备之一:精神装备(武器、耳环、吊坠) 或魔法装备(盾牌、盔甲、鞋子) .",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "十一周年纪念影盒",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"",
+			"一个盒子,里面有 11 周年影子礼包中的一种影子装备.",
+			" 你可以获得以下装备之一:精神装备(武器、耳环、吊坠) 或魔法装备(盾牌、盔甲、鞋子) .",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17430] = {
+		unidentifiedDisplayName = "11周年影子套餐",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"",
+			"一个盒子,里面装着灵影套装和魔影套装.",
+			"包括 1 个灵体(武器、耳环、吊坠) 暗影和 1 个魔力(盾牌、盔甲、鞋子) .",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "11周年影子套餐",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"",
+			"一个盒子,里面装着灵影套装和魔影套装.",
+			"包括 1 个灵体(武器、耳环、吊坠) 暗影和 1 个魔力(盾牌、盔甲、鞋子) .",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6732] = {
+		unidentifiedDisplayName = "怪物币",
+		unidentifiedResourceName = "榜靛内牢",
+		unidentifiedDescriptionName = { "由黄金制成的硬币,不用作货币.", "重量 : ^7777771^000000" },
+		identifiedDisplayName = "怪物币",
+		identifiedResourceName = "榜靛内牢",
+		identifiedDescriptionName = { "由黄金制成的硬币,不用作货币.", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19780] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装兔耳针织帽",
+		identifiedResourceName = "配尝蓖聪飘葛磊",
+		identifiedDescriptionName = {
+			"一款既可爱又戴起来舒适的针织帽.",
+			"松软的兔子耳朵令人印象深刻.",
+			"MHP +3%, MSP +3%.",
+			"系列 : ^777777服装设备^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 867,
+		costume = true
+	},
+	[22657] = {
+		unidentifiedDisplayName = "蜂蜜松饼",
+		unidentifiedResourceName = "价祈",
+		unidentifiedDescriptionName = {
+			"将粳米粉揉匀,切成适当大小,填入蜂蜜,捏成半月形,上面放松针蒸制而成的年糕.",
+			"它作为韩国传统节日食品之一而深受喜爱.",
+			"恢复最大HP的20%",
+			"(活动结束后该条目将被删除.)"
+		},
+		identifiedDisplayName = "蜂蜜松饼",
+		identifiedResourceName = "价祈",
+		identifiedDescriptionName = {
+			"将粳米粉揉匀,切成适当大小,填入蜂蜜,捏成半月形,上面放松针蒸制而成的年糕.",
+			"它作为韩国传统节日食品之一而深受喜爱.",
+			"恢复最大HP的20%",
+			"(活动结束后该条目将被删除.)",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17432] = {
+		unidentifiedDisplayName = "幸运猕猴桃10粒装Ⅱ",
+		unidentifiedResourceName = "咀技辑府惑磊",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "幸运猕猴桃10粒装Ⅱ",
+		identifiedResourceName = "咀技辑府惑磊",
+		identifiedDescriptionName = {
+			"一盒含有 10 个猕猴桃浆果. 附赠 30 个马兰多特色罐头食品. 此外,你还可以获得一张封印的腐化牧师卷轴. ",
+			"^ffffff_^000000",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17433] = {
+		unidentifiedDisplayName = "幸运猕猴桃110粒一盒Ⅱ",
+		unidentifiedResourceName = "咀技辑府惑磊",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "幸运猕猴桃110粒一盒Ⅱ",
+		identifiedResourceName = "咀技辑府惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一盒含有 110 个猕猴桃浆果. 附赠 330 个马兰多特色罐头食品. 此外,你可以获得 11 个封印的腐化牧师卷轴. ",
+			"^ffffff_^000000",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14705] = {
+		unidentifiedDisplayName = "密封的腐化高阶女祭司卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "密封的腐化高阶女祭司卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"腐化的牧师卷轴被封印了一段有限的时间.",
+			"可以获得密封的腐化大祭司卡、武器精炼9级保证、防具精炼9级保证、宝石暗影盒、服装瓦纳甘德头盔、服装附魔石盒3、服装兑换券等稀有物品之一.",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[2997] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "RWC扁充奇带飘",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "RWC 黄金胸针",
+		identifiedResourceName = "RWC陛宏肺摹",
+		identifiedDescriptionName = {
+			"赠送给 RWC 参与者的金胸针.",
+			"ATK + 20, MATK + 20.",
+			"装备RWC银胸针时, ATK+10%, MATK+10%.",
+			"系列 : ^777777配件^000000 防御 : ^7777770^000000",
+			"重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2999] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "RWC扁充奇带飘",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "RWC 银胸针",
+		identifiedResourceName = "RWC篮宏肺摹",
+		identifiedDescriptionName = {
+			"赠送给 RWC 参与者的银胸针.",
+			"MHP + 300, MSP + 30.",
+			"装备RWC金胸针时, ATK+10%, MATK+10%.",
+			"系列 : ^777777配件^000000 防御 : ^7777770^000000",
+			"重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22652] = {
+		unidentifiedDisplayName = "多彩帽盒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"我不知道它会包含什么样的帽子, 但盒子的包装非常精美. 据说里面有一顶令人惊讶的帽子. ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "多彩帽盒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"我不知道它会包含什么样的帽子, 但盒子的包装非常精美. 据说里面有一顶令人惊讶的帽子. ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22675] = {
+		unidentifiedDisplayName = "神秘卷轴",
+		unidentifiedResourceName = "箕刚狼绊巩辑",
+		unidentifiedDescriptionName = {
+			"带有世界上最神秘字母的卷轴.",
+			"使用时INT+30持续1小时.",
+			"^ff0000警告!使用现金烹饪时不会激活该效果.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "神秘卷轴",
+		identifiedResourceName = "箕刚狼绊巩辑",
+		identifiedDescriptionName = {
+			"带有世界上最神秘字母的卷轴.",
+			"使用时INT+30持续1小时.",
+			"^ff0000警告!使用现金烹饪时不会激活该效果.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22676] = {
+		unidentifiedDisplayName = "韩文日活动盒",
+		unidentifiedResourceName = "拳妨茄惑磊",
+		unidentifiedDescriptionName = {
+			"为纪念 10 月 9 日韩文日而制作的盒子.",
+			"包含 10 个神秘卷轴和 9 个 Yggdrasil 果实.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "韩文日活动盒",
+		identifiedResourceName = "拳妨茄惑磊",
+		identifiedDescriptionName = {
+			"为纪念 10 月 9 日韩文日而制作的盒子.",
+			"包含 10 个神秘卷轴和 9 个 Yggdrasil 果实.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17438] = {
+		unidentifiedDisplayName = "三明水套餐Ⅱ",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得一张密封的伊夫利特卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "三明水套餐Ⅱ",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得一张密封的伊夫利特卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17439] = {
+		unidentifiedDisplayName = "三明水套餐10套Ⅱ",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 您可以获得 11 个密封的伊夫利特卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "三明水套餐10套Ⅱ",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 您可以获得 11 个密封的伊夫利特卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14713] = {
+		unidentifiedDisplayName = "密封的伊弗里特卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "密封的伊弗里特卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"伊弗里特卷轴在有限时间内被密封.",
+			"可以获得封印伊夫利特卡、武器精炼9级保证、防具精炼9级保证、诺亚帽子、服装附魔石盒3、服装兑换券等稀有物品之一.",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6813] = {
+		unidentifiedDisplayName = "卡普拉门票",
+		unidentifiedResourceName = "墨橇扼捞侩鼻",
+		unidentifiedDescriptionName = {
+			"您可以免费使用所有 Capra 服务. 上面写着:“每人限购一张票. ”",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "卡普拉门票",
+		identifiedResourceName = "墨橇扼捞侩鼻",
+		identifiedDescriptionName = {
+			"您可以免费使用所有 Capra 服务. 上面写着:“每人限购一张票. ”",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13450] = {
+		unidentifiedDisplayName = "刀",
+		unidentifiedResourceName = "家靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "军刀",
+		identifiedResourceName = "技捞滚",
+		identifiedDescriptionName = {
+			"骑兵使用的单手剑. 有着强烈自觉的一面",
+			"系列 : ^777777刀^000000      攻击 : ^777777115^000000",
+			"重量 : ^777777100^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^77777727^000000",
+			"配备 : ^777777仅限剑士级/商人级/盗贼级^000000"
+		},
+		slotCount = 2,
+		ClassNum = 2,
+		costume = false
+	},
+	[17449] = {
+		unidentifiedDisplayName = "酒吧小吃套装",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "酒吧小吃套装",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"一套特别的酒吧小吃,旨在纪念一年中最重要的一天.",
+			"它包含 1 棒力量零食、1 棒耐力零食、1 棒敏捷零食、1 棒知识零食、1 棒敏捷零食和 1 棒运气零食.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17455] = {
+		unidentifiedDisplayName = "高级手动盒",
+		unidentifiedResourceName = "坷贰等焊扼惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一本可全天 24 小时使用的高级手册.",
+			"一个盒子,里面装着如何更有效地对付怪物的指南,由一位经验丰富的冒险家撰写.",
+			"30分钟内获得的经验增加50%, 怪物掉落物品的概率增加100%.",
+			"※注意 : 效果不会与战斗手册、泡泡糖等具有相同效果的其他物品重叠.",
+			"(2014年1月最后一周例行检查时批量删除)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高级手动盒",
+		identifiedResourceName = "坷贰等焊扼惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一本可全天 24 小时使用的高级手册.",
+			"一个盒子,里面装着如何更有效地对付怪物的指南,由一位经验丰富的冒险家撰写.",
+			"30分钟内获得的经验增加50%, 怪物掉落物品的概率增加100%.",
+			"※注意 : 效果不会与战斗手册、泡泡糖等具有相同效果的其他物品重叠.",
+			"(2014年1月最后一周例行检查时批量删除)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17456] = {
+		unidentifiedDisplayName = "加油套餐二",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "加油套餐二",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一个盒子,上面写着这个.",
+			"内含战斗手册2本、泡泡糖2本、全能神药2本、精神药剂2本、神秘生命之水6本. 此外, 您还可以获得2013年RWC卷轴一份. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17457] = {
+		unidentifiedDisplayName = "打气套餐10套Ⅱ",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "打气套餐10套Ⅱ",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一捆 10 个盒子,上面写着字.",
+			"内含战斗手册20本、泡泡糖20本、全能神器20本、精神药剂20本、神秘生命之水60本. 此外, 您还可以获得 11 个 2013 年 RWC 卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14717] = {
+		unidentifiedDisplayName = "2013 RWC 卷轴",
+		unidentifiedResourceName = "RWC漂荐胶农费",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "2013 RWC 卷轴",
+		identifiedResourceName = "RWC漂荐胶农费",
+		identifiedDescriptionName = {
+			"2013 RWC 限量纪念卷轴.",
+			"中性暗影套装、非定制暗影套装、武器精炼保证11级、护甲精炼保证11级、武器精炼保证9级、护甲精炼保证9级、梦魇宠物兑换券、时装胜利之翼、RWC重置券等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17440] = {
+		unidentifiedDisplayName = "改名卡盒",
+		unidentifiedResourceName = "坷贰等颇鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一张可以更改角色名字的卡片.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.",
+			"※ 该物品必须在退出队伍或公会后才能使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "改名卡盒",
+		identifiedResourceName = "坷贰等颇鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一张可以更改角色名字的卡片.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.",
+			"※ 该物品必须在退出队伍或公会后才能使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17441] = {
+		unidentifiedDisplayName = "骑马挂脖盒",
+		unidentifiedResourceName = "锅龋惑磊02",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一根骑马缰绳.",
+			"",
+			"神秘的缰绳,可以让你骑乘任何适合各职业的坐骑.",
+			"每个职业都有不同类型的坐骑, 当您转移或更换工作时, 车辆会发生变化以适应职业.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "骑马挂脖盒",
+		identifiedResourceName = "锅龋惑磊02",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一根骑马缰绳.",
+			"",
+			"神秘的缰绳,可以让你骑乘任何适合各职业的坐骑.",
+			"每个职业都有不同类型的坐骑, 当您转移或更换工作时, 车辆会发生变化以适应职业.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17442] = {
+		unidentifiedDisplayName = "Empelium G 盒",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有 1 个 Empelium. ",
+			"^ffffff_^000000",
+			"华丽的金属,散发着耀眼的光芒. 根据一份古老的古文献记载,它出现在一个能够改变这个世界命运的人面前,并与他分享这个命运. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "Empelium G 盒",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有 1 个 Empelium. ",
+			"^ffffff_^000000",
+			"华丽的金属,散发着耀眼的光芒. 根据一份古老的古文献记载,它出现在一个能够改变这个世界命运的人面前,并与他分享这个命运. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17443] = {
+		unidentifiedDisplayName = "加固圆盾盒",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一个强化小圆盾.",
+			"^ffffff_^000000",
+			"涂有铼和金的黄金比例混合物的圆盾.",
+			"MHP + 3%",
+			"系列 : ^777777盾^000000 防御 : ^77777745^000000",
+			"重量 : ^77777730^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777剑士职业/复制职业/商人职业/盗贼职业/吟游诗人、舞者^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "加固圆盾盒",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一个强化小圆盾.",
+			"^ffffff_^000000",
+			"涂有铼和金的黄金比例混合物的圆盾.",
+			"MHP + 3%",
+			"系列 : ^777777盾^000000 防御 : ^77777745^000000",
+			"重量 : ^77777730^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777剑士职业/复制职业/商人职业/盗贼职业/吟游诗人、舞者^000000",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19938] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装爱兔子兜帽",
+		identifiedResourceName = "配尝焊粗",
+		identifiedDescriptionName = {
+			"由著名娃娃制造商精心制作的兔子娃娃帽子. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 中间 底部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 549,
+		costume = true
+	},
+	[17465] = {
+		unidentifiedDisplayName = "冶炼矿箱Ⅵ",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 另外还附赠封印龟通卷一本. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿箱Ⅵ",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 另外还附赠封印龟通卷一本. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17466] = {
+		unidentifiedDisplayName = "冶炼矿箱Ⅵ 10套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 另外还附赠11张封印龟将卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿箱Ⅵ 10套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 另外还附赠11张封印龟将卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14718] = {
+		unidentifiedDisplayName = "封龟将军卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"龟将军卷轴限时封印. ",
+			"可获得封印龟将卡、武器精炼9级保证、防具精炼9级保证、服装光与暗安魂曲、服装结界石盒3、服装兑换券等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "封龟将军卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"龟将军卷轴限时封印. ",
+			"可获得封印龟将卡、武器精炼9级保证、防具精炼9级保证、服装光与暗安魂曲、服装结界石盒3、服装兑换券等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9068] = {
+		unidentifiedDisplayName = "蓝色独角兽蛋",
+		unidentifiedResourceName = "荐加己舅",
+		unidentifiedDescriptionName = {
+			"一颗 Qpet 蓝色独角兽正在睡觉的蛋. 你可以用[便携式孵化器] 唤醒沉睡的怪物. ",
+			"当您召唤Qpet时,您将获得在活动期间增加移动速度的选项."
+		},
+		identifiedDisplayName = "蓝色独角兽蛋",
+		identifiedResourceName = "荐加己舅",
+		identifiedDescriptionName = {
+			"Qpet 蓝色独角兽正在睡觉的蛋. 你可以用[便携式孵化器] 唤醒沉睡的怪物. ",
+			"当您召唤Qpet时,您将获得在活动期间增加移动速度的选项.",
+			"类型 : ^777777怪物蛋^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17472] = {
+		unidentifiedDisplayName = "加油套餐Ⅲ",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一个盒子,上面写着这个.",
+			"内含战斗手册2本、泡泡糖2本、全能神药2本、精神药剂2本、神秘生命之水6本. 此外, 您还可以获得封印的白宗神卷轴一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000"
+		},
+		identifiedDisplayName = "加油套餐Ⅲ",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一个盒子,上面写着这个.",
+			"内含战斗手册2本、泡泡糖2本、全能神药2本、精神药剂2本、神秘生命之水6本. 此外, 您还可以获得封印的白宗神卷轴一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17473] = {
+		unidentifiedDisplayName = "加油套餐Ⅲ 10套",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一捆 10 个盒子,上面写着字.",
+			"内含战斗手册20本、泡泡糖20本、全能神器20本、精神药剂20本、神秘生命之水60本. 此外, 你还可以获得11张封印的白素真卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000"
+		},
+		identifiedDisplayName = "加油套餐Ⅲ 10套",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一捆 10 个盒子,上面写着字.",
+			"内含战斗手册20本、泡泡糖20本、全能神器20本、精神药剂20本、神秘生命之水60本. 此外, 你还可以获得11张封印的白素真卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14725] = {
+		unidentifiedDisplayName = "封印的白素真卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"被封印一段时间的卷轴. ",
+			"可以获得封印白色疲惫卡、武器保炼9、防具保炼9、格子暗影盒、服装圣芙莉尔丝带、服装节礼盒Ⅱ、无限飞翼5日礼盒、金币等多种稀有物品之一. "
+		},
+		identifiedDisplayName = "封印的白素真卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"被封印一段时间的卷轴. ",
+			"可以获得封印白色疲惫卡、武器保炼9、防具保炼9、格子暗影盒、服装圣芙莉尔丝带、服装节礼盒Ⅱ、无限飞翼5日礼盒、金币等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14727] = {
+		unidentifiedDisplayName = "鞋跟阴影盒",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有山影装备的盒子. ",
+			"可以获得以下装备之一:影子跟甲、影子鞋子、影子盾、影子武器、影子耳环、影子吊坠."
+		},
+		identifiedDisplayName = "鞋跟阴影盒",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"一个装有山影装备的盒子. ",
+			"可以获得以下装备之一:影子跟甲、影子鞋子、影子盾、影子武器、影子耳环、影子吊坠.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14728] = {
+		unidentifiedDisplayName = "隐藏暗影盒",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有隐藏阴影装备的盒子. ",
+			"你可以获得以下装备之一:暗影铠甲、暗影鞋、暗影盾牌、暗影武器、暗影耳环、暗影吊坠."
+		},
+		identifiedDisplayName = "隐藏暗影盒",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"一个装有隐藏阴影装备的盒子. ",
+			"你可以获得以下装备之一:暗影铠甲、暗影鞋、暗影盾牌、暗影武器、暗影耳环、暗影吊坠.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14729] = {
+		unidentifiedDisplayName = "隐形暗影盒",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有隐身暗影装备的盒子. ",
+			"你可以获得以下装备之一:隐形盔甲影子、隐形鞋影子、隐形盾牌影子、隐形武器影子、隐形耳环影子、隐形吊坠影子."
+		},
+		identifiedDisplayName = "隐形暗影盒",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"一个装有隐身暗影装备的盒子. ",
+			"你可以获得以下装备之一:隐形盔甲影子、隐形鞋影子、隐形盾牌影子、隐形武器影子、隐形耳环影子、隐形吊坠影子.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14730] = {
+		unidentifiedDisplayName = "服装节盒子Ⅱ",
+		unidentifiedResourceName = "贾肺狼急拱官备聪",
+		unidentifiedDescriptionName = { "装有各种服装用具的盒子.", "你不知道你会得到什么样的服装装备." },
+		identifiedDisplayName = "服装节盒子Ⅱ",
+		identifiedResourceName = "贾肺狼急拱官备聪",
+		identifiedDescriptionName = {
+			"装有各种服装用具的盒子.",
+			"你不知道你会得到什么样的服装装备.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17475] = {
+		unidentifiedDisplayName = "(限量)10盒健身房会员卡",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 10 张健身房会员卡,可增加您的承载能力. ",
+			"^ffffff_^000000",
+			"当你将这个会员资格交给特定的NPC时, NPC会教你一项特殊的占有增加技能.",
+			"技能每升1级, 拥有量增加200, 可学习到10级.",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "(限量)10盒健身房会员卡",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 10 张健身房会员卡,可增加您的承载能力. ",
+			"^ffffff_^000000",
+			"当你将这个会员资格交给特定的NPC时, NPC会教你一项特殊的占有增加技能.",
+			"技能每升1级, 拥有量增加200, 可学习到10级.",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6846] = {
+		unidentifiedDisplayName = "(有限)健身房会员资格",
+		unidentifiedResourceName = "墨橇扼捞侩鼻",
+		unidentifiedDescriptionName = {
+			"健身房会员资格可以增加您的承载能力.",
+			"当你将这个会员资格交给特定的NPC时, NPC会教你一项特殊的占有增加技能.",
+			"技能每升1级, 拥有量增加200, 可学习到10级.",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "(有限)健身房会员资格",
+		identifiedResourceName = "墨橇扼捞侩鼻",
+		identifiedDescriptionName = {
+			"健身房会员资格可以增加您的承载能力.",
+			"当你将这个会员资格交给特定的NPC时, NPC会教你一项特殊的占有增加技能.",
+			"技能每升1级, 拥有量增加200, 可学习到10级.",
+			"^ffffff<NAVI>^4D4DFF[重力成人]^000000<INFO>itemmall,16,75,</INFO></NAVI>^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14731] = {
+		unidentifiedDisplayName = "传送暗影盒",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个装有隐形传送影子装备的盒子. ",
+			"可获得以下装备之一:传送铠影、传送鞋影、传送盾影、传送武器影、传送耳环影、传送坠影."
+		},
+		identifiedDisplayName = "传送暗影盒",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个装有隐形传送影子装备的盒子. ",
+			"可获得以下装备之一:传送铠影、传送鞋影、传送盾影、传送武器影、传送耳环影、传送坠影.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14732] = {
+		unidentifiedDisplayName = "钢制影子盒",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"装有钢影装备的盒子. ",
+			"可获得以下装备之一:钢甲影、钢鞋影、钢盾影、钢武器影、钢耳环影、钢坠影."
+		},
+		identifiedDisplayName = "钢制影子盒",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"装有钢影装备的盒子. ",
+			"可获得以下装备之一:钢甲影、钢鞋影、钢盾影、钢武器影、钢耳环影、钢坠影.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14733] = {
+		unidentifiedDisplayName = "密封的法老卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时封印的法老卷轴. ",
+			"可以获得封印法老卡、武器保炼9、防具保炼9、格子暗影盒、服装杰克城堡蝙蝠、无限飞翼5天盒、金币等多种稀有物品之一. "
+		},
+		identifiedDisplayName = "密封的法老卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时封印的法老卷轴. ",
+			"可以获得封印法老卡、武器保炼9、防具保炼9、格子暗影盒、服装杰克城堡蝙蝠、无限飞翼5天盒、金币等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17477] = {
+		unidentifiedDisplayName = "无限盒子Ⅱ",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还包括一本密封的法老古卷. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限盒子Ⅱ",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还包括一本密封的法老古卷. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17478] = {
+		unidentifiedDisplayName = "无限10套盒Ⅱ",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 此外,还包括 11 个密封的法老卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限10套盒Ⅱ",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 此外,还包括 11 个密封的法老卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17483] = {
+		unidentifiedDisplayName = "三明水套餐Ⅲ",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得封印月光花卷一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐Ⅲ",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得封印月光花卷一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17484] = {
+		unidentifiedDisplayName = "三明水套餐10组Ⅲ",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 另外, 你还可以获得11张封印月光花卷. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐10组Ⅲ",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 另外, 你还可以获得11张封印月光花卷. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22735] = {
+		unidentifiedDisplayName = "密封的周一夜卷",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"周一之夜的卷轴,限时密封. ",
+			"封印月光卡、武器保证精炼9级、护甲保证精炼9级、无限耳影、服装腾吉龙活火帽、无限飞翼五日礼盒、铁匠的祝福、金币等稀有物品均可获得其中之一. "
+		},
+		identifiedDisplayName = "密封的周一夜卷",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"周一之夜的卷轴,限时密封. ",
+			"封印月光卡、武器保证精炼9级、护甲保证精炼9级、无限耳影、服装腾吉龙活火帽、无限飞翼五日礼盒、铁匠的祝福、金币等稀有物品均可获得其中之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22757] = {
+		unidentifiedDisplayName = "神奇改造文档包",
+		unidentifiedResourceName = "林巩辑促惯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "神奇改造文档包",
+		identifiedResourceName = "林巩辑促惯",
+		identifiedDescriptionName = {
+			"包含死灵法师变身卷轴和风鬼变身卷轴的订购书捆绑包",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22758] = {
+		unidentifiedDisplayName = "拍摄转换文件捆绑包",
+		unidentifiedResourceName = "林巩辑促惯",
+		unidentifiedDescriptionName = { "包含 Geezti 变身卷轴和 Kobold Archer 变身卷轴的订单包" },
+		identifiedDisplayName = "拍摄转换文件捆绑包",
+		identifiedResourceName = "林巩辑促惯",
+		identifiedDescriptionName = {
+			"包含 Geezti 变身卷轴和 Kobold Archer 变身卷轴的订单包",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22759] = {
+		unidentifiedDisplayName = "速度转换文件捆绑包",
+		unidentifiedResourceName = "林巩辑促惯",
+		unidentifiedDescriptionName = { "一捆法术书,内含双角圣甲虫变身卷轴和流浪者变身卷轴." },
+		identifiedDisplayName = "速度转换文件捆绑包",
+		identifiedResourceName = "林巩辑促惯",
+		identifiedDescriptionName = {
+			"一捆法术书,内含双角圣甲虫变身卷轴和流浪者变身卷轴.",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14739] = {
+		unidentifiedDisplayName = "封印的 Boss 伊格宝石卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时密封的 Boss 伊格尼宝石卷轴. ",
+			"封印Boss伊格尼宝石卡、武器保证精炼9级、护甲保证精炼9级、行刑者武器暗影、套装风暴猎帽、金币等稀有物品均可获得其中之一. "
+		},
+		identifiedDisplayName = "封印的 Boss 伊格宝石卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时密封的 Boss 伊格尼宝石卷轴. ",
+			"封印Boss伊格尼宝石卡、武器保证精炼9级、护甲保证精炼9级、行刑者武器暗影、套装风暴猎帽、金币等稀有物品均可获得其中之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17491] = {
+		unidentifiedDisplayName = "熔炼矿石箱VII",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还包括一张密封的 Boss Igni 宝石卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "熔炼矿石箱VII",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还包括一张密封的 Boss Igni 宝石卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17492] = {
+		unidentifiedDisplayName = "冶炼矿石箱七 10套",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个密封的 Boss Ignigem 卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿石箱七 10套",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个密封的 Boss Ignigem 卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17495] = {
+		unidentifiedDisplayName = "幸运猕猴桃Ⅲ10粒装",
+		unidentifiedResourceName = "咀技辑府惑磊",
+		unidentifiedDescriptionName = {
+			"一盒含有 10 个猕猴桃浆果. 少量罐头食品也作为奖励包括在内. 此外,你还可以获得一张封印的腐化牧师卷轴. ",
+			"^ffffff_^000000",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "幸运猕猴桃Ⅲ10粒装",
+		identifiedResourceName = "咀技辑府惑磊",
+		identifiedDescriptionName = {
+			"一盒含有 10 个猕猴桃浆果. 少量罐头食品也作为奖励包括在内. 此外,你还可以获得一张密封的晚祷卷轴. ",
+			"^ffffff_^000000",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17496] = {
+		unidentifiedDisplayName = "幸运猕猴桃Ⅲ110粒一盒",
+		unidentifiedResourceName = "咀技辑府惑磊",
+		unidentifiedDescriptionName = {
+			"一盒含有 110 个猕猴桃浆果. 附赠 330 个马兰多特色罐头食品. 此外,您还可以获得 11 个密封的晚祷卷轴. ",
+			"^ffffff_^000000",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "幸运猕猴桃Ⅲ110粒一盒",
+		identifiedResourceName = "咀技辑府惑磊",
+		identifiedDescriptionName = {
+			"一盒含有 110 个猕猴桃浆果. 附赠 330 个马兰多特色罐头食品. 此外,您还可以获得 11 个密封的晚祷卷轴. ",
+			"^ffffff_^000000",
+			"椴树的成熟果实. 对于人类来说,它只是一种无味且普通的水果,但在玛琅岛,据说它的价值超乎任何人的想象. ",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14740] = {
+		unidentifiedDisplayName = "密封的晚祷卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时密封的晚祷卷轴. ",
+			"封印的晚祷卡、武器保证精炼9级、护甲保证精炼9级、狂风耳环暗影、狂风吊坠暗影、魔法行刑者武器暗影、服装巨型水织帽、无限飞翼日常盒子、铁匠祝福等稀有物品均可获得其中之一."
+		},
+		identifiedDisplayName = "密封的晚祷卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时密封的晚祷卷轴. ",
+			"封印的晚祷卡、武器保证精炼9级、护甲保证精炼9级、狂风耳环暗影、狂风吊坠暗影、魔法行刑者武器暗影、服装巨型水织帽、无限飞翼日常盒子、铁匠祝福等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17498] = {
+		unidentifiedDisplayName = "三明水套餐IV",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 您还可以获得一张密封的德古拉卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "三明水套餐IV",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 您还可以获得一张密封的德古拉卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17499] = {
+		unidentifiedDisplayName = "三明水套餐10套IV",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 您还可以获得 11 个密封的德古拉卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "三明水套餐10套IV",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 您还可以获得 11 个密封的德古拉卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22812] = {
+		unidentifiedDisplayName = "密封的德古拉卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"德古拉卷轴限时密封. ",
+			"封印德古拉卡、武器保证精炼9级、护甲保证精炼9级、持有者暗影盒、装装大地高顶礼帽、无限飞翼1日盒、铁匠的祝福等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "密封的德古拉卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"德古拉卷轴限时密封. ",
+			"封印德古拉卡、武器保证精炼9级、护甲保证精炼9级、持有者暗影盒、装装大地高顶礼帽、无限飞翼1日盒、铁匠的祝福等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22813] = {
+		unidentifiedDisplayName = "持有者的暗影盒",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有持有者之影装备的盒子.",
+			"您可以获得一件持有者(盔甲、鞋子、盾牌、武器、耳环、吊坠) 暗影装备.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "持有者的暗影盒",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"一个装有持有者之影装备的盒子.",
+			"您可以获得一件持有者(盔甲、鞋子、盾牌、武器、耳环、吊坠) 暗影装备.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17501] = {
+		unidentifiedDisplayName = "加油套餐四",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一个盒子,上面写着这个.",
+			"内含战斗手册2本、泡泡糖2本、全能神药2本、精神药剂2本、神秘生命之水6本. 此外, 您还可以获得一张密封的狙击卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "加油套餐四",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一个盒子,上面写着这个.",
+			"内含战斗手册2本、泡泡糖2本、全能神药2本、精神药剂2本、神秘生命之水6本. 此外, 您还可以获得一张密封的狙击卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17502] = {
+		unidentifiedDisplayName = "加油套餐IV 10套",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一捆 10 个盒子,上面写着字.",
+			"内含战斗手册20本、泡泡糖20本、全能神器20本、精神药剂20本、神秘生命之水60本. 此外, 你还可以获得11张密封狙击卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "加油套餐IV 10套",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"对于那些想在短短一小时内看到出色结果的人!”一捆 10 个盒子,上面写着字.",
+			"内含战斗手册20本、泡泡糖20本、全能神器20本、精神药剂20本、神秘生命之水60本. 此外, 你还可以获得11张密封狙击卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中,神秘生命之水无法在赫洛斯特拉亚之围中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22823] = {
+		unidentifiedDisplayName = "密封狙击卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时封印狙击卷轴. ",
+			"封印狙击卡、武器保证精炼9级、护甲保证精炼9级、冬冬鞋影、冬冬铠甲影、服装花港面具、无限飞翼5日礼盒、铁匠祝福等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "密封狙击卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时封印狙击卷轴. ",
+			"封印狙击卡、武器保证精炼9级、护甲保证精炼9级、冬冬鞋影、冬冬铠甲影、服装花港面具、无限飞翼5日礼盒、铁匠祝福等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17510] = {
+		unidentifiedDisplayName = "冶炼用矿箱八",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还包括一个密封的密封卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼用矿箱八",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还包括一个密封的密封卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17511] = {
+		unidentifiedDisplayName = "冶炼矿石箱八 10套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个密封的封印卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿石箱八 10套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个密封的封印卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22828] = {
+		unidentifiedDisplayName = "封印卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时密封封印卷轴. ",
+			"封印卡、武器9级炼制保证书、防具9级炼制保证书、专家鞋影、专家盾影、无限苍蝇之翼5天盒子、附魔介绍信等多种稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "封印卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时密封封印卷轴. ",
+			"封印卡、武器9级炼制保证书、防具9级炼制保证书、专家鞋影、专家盾影、无限苍蝇之翼5天盒子、附魔介绍信等多种稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17515] = {
+		unidentifiedDisplayName = "无限盒子III",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还附赠一张安全精炼卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限盒子III",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还附赠一张安全精炼卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17516] = {
+		unidentifiedDisplayName = "无限10集盒III",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 另外还附赠11个安全熔炼卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限10集盒III",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 另外还附赠11个安全熔炼卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14758] = {
+		unidentifiedDisplayName = "安全熔炼卷轴",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时滚动. ",
+			"可以获得武器11精炼保证书、铠甲11精炼保证书、武器9熔炼保证书、铠甲9熔炼保证书、攻击铠影、无限飞翼5天盒子、金币等多种稀有物品之一."
+		},
+		identifiedDisplayName = "安全熔炼卷轴",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时滚动. ",
+			"可以获得武器11精炼保证书、铠甲11精炼保证书、武器9熔炼保证书、铠甲9熔炼保证书、攻击铠影、无限飞翼5天盒子、金币等多种稀有物品之一.",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17520] = {
+		unidentifiedDisplayName = "限量版说明书盒",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒包含3本限量版战斗手册和2本限量版JOB战斗手册. ",
+			"",
+			"战斗手册限量版- ^00008860 分钟内获得的经验值增加 60%.^000000",
+			"JOB战斗手册限定版- ^00008860分钟获得的工作经验增加35%.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "限量版说明书盒",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒包含3本限量版战斗手册和2本限量版JOB战斗手册. ",
+			"",
+			"战斗手册限量版- ^00008860 分钟内获得的经验值增加 60%.^000000",
+			"JOB战斗手册限定版- ^00008860分钟获得的工作经验增加35%.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14765] = {
+		unidentifiedDisplayName = "JOB战斗手册限定版",
+		unidentifiedResourceName = "傈捧背裹",
+		unidentifiedDescriptionName = {
+			"限量版手册,包含更高效的战斗方法!",
+			"如果你按照别人告诉你的去做,你会以某种方式成长得更快.",
+			"^00008860分钟获得的工作经验增加35%.^000000",
+			"可与战斗手册结合使用"
+		},
+		identifiedDisplayName = "JOB战斗手册限定版",
+		identifiedResourceName = "傈捧背裹",
+		identifiedDescriptionName = {
+			"限量版手册,包含更高效的战斗方法!",
+			"如果你按照别人告诉你的去做,你会以某种方式成长得更快.",
+			"^00008860分钟获得的工作经验增加35%.^000000",
+			"可与战斗手册结合使用",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22842] = {
+		unidentifiedDisplayName = "封印的德古拉卷轴Ⅱ",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"德古拉卷轴限时密封. ",
+			"可以获得封印德古拉卡、武器精炼9级保证、护甲精炼9级保证、强化武力武器影子、强化精神武器影子、无限苍蝇之翼5天盒子、附魔介绍信等多种稀有物品之一. "
+		},
+		identifiedDisplayName = "封印的德古拉卷轴Ⅱ",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"德古拉卷轴限时密封. ",
+			"可以获得封印德古拉卡、武器精炼9级保证、护甲精炼9级保证、强化武力武器影子、强化精神武器影子、无限苍蝇之翼5天盒子、附魔介绍信等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22846] = {
+		unidentifiedDisplayName = "封印的德古拉卡",
+		unidentifiedResourceName = "捞抚绝绰墨靛",
+		unidentifiedDescriptionName = {
+			"我想我有一瞬间感受到了德古拉的力量. ",
+			"有一定概率(5%)对敌人造成的伤害的5%被吸收到自己的SP中. ",
+			"持续5分钟.",
+			"(活动结束后该商品将全部删除.)"
+		},
+		identifiedDisplayName = "封印的德古拉卡",
+		identifiedResourceName = "捞抚绝绰墨靛",
+		identifiedDescriptionName = {
+			"我想我有一瞬间感受到了德古拉的力量. ",
+			"有一定概率(5%)对敌人造成的伤害的5%被吸收到自己的SP中. ",
+			"持续5分钟.",
+			"(活动结束后该商品将全部删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22845] = {
+		unidentifiedDisplayName = "密封的神秘蛋",
+		unidentifiedResourceName = "濒娄胶农费",
+		unidentifiedDescriptionName = {
+			"一颗身份不明的小蛋. 透过外壳的裂缝,可以看到又一层彩色的贝壳!",
+			"你可以获得其中一本密封卷轴. ",
+			"- 黑暗领主、风暴骑士、别西卜、基尔-D-01、骑士麾下的新郎、腐败牧师、伊芙利特、海龟将军、白素镇、法老、月光、Boss 伊格尼杰姆、维斯帕、德古拉、狙击手"
+		},
+		identifiedDisplayName = "密封的神秘蛋",
+		identifiedResourceName = "濒娄胶农费",
+		identifiedDescriptionName = {
+			"一颗身份不明的小蛋. 透过外壳的裂缝,可以看到又一层彩色的贝壳!",
+			"你可以获得其中一本密封卷轴. ",
+			"- 黑暗领主、风暴骑士、别西卜、基尔-D-01、骑士麾下的新郎、腐败牧师、伊芙利特、海龟将军、白素镇、法老、月光、Boss 伊格尼杰姆、维斯帕、德古拉、狙击手",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22844] = {
+		unidentifiedDisplayName = "密封的德古拉卡册",
+		unidentifiedResourceName = "嘲篮墨靛酶",
+		unidentifiedDescriptionName = {
+			"一本卡片册,您可以在其中获得密封的德古拉卡片. 目前尚不清楚包含哪些卡. ",
+			"(活动结束后该商品将全部删除.)"
+		},
+		identifiedDisplayName = "密封的德古拉卡册",
+		identifiedResourceName = "嘲篮墨靛酶",
+		identifiedDescriptionName = {
+			"一本卡片册,您可以在其中获得密封的德古拉卡片. 目前尚不清楚包含哪些卡. ",
+			"(活动结束后该商品将全部删除.)",
+			"重量 : ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22843] = {
+		unidentifiedDisplayName = "超级明星零食",
+		unidentifiedResourceName = "箕况农覆埔纳捞农",
+		unidentifiedDescriptionName = {
+			"授予被选为Superstar R的怪物的奖品. 领略胜利者的优雅. ",
+			"ATK和MATK增加50, 持续5分钟.",
+			"※ ATK和MATK与机房buff是同一类型, 不重叠. 仅应用最终使用选项. 此外, 死亡后选项也会被删除. 增加的值无法在基本状态窗口中确认. ",
+			"(活动结束后该商品将全部删除.)"
+		},
+		identifiedDisplayName = "超级明星零食",
+		identifiedResourceName = "箕况农覆埔纳捞农",
+		identifiedDescriptionName = {
+			"授予被选为Superstar R的怪物的奖品. 领略胜利者的优雅. ",
+			"ATK和MATK增加50, 持续5分钟.",
+			"※ ATK和MATK与机房buff是同一类型, 不重叠. 仅应用最终使用选项. 此外, 死亡后选项也会被删除. 增加的值无法在基本状态窗口中确认. ",
+			"(活动结束后该商品将全部删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17522] = {
+		unidentifiedDisplayName = "三明水套餐10件套Ⅴ",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 您还可以获得 11 个密封的德古拉卷轴 II. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐10件套Ⅴ",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 您还可以获得 11 个密封的德古拉卷轴 II. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17521] = {
+		unidentifiedDisplayName = "三明水套餐Ⅴ",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 您还可以获得封印的德古拉卷轴II一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐Ⅴ",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 您还可以获得封印的德古拉卷轴II一本. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11599] = {
+		unidentifiedDisplayName = "超级明星药水",
+		unidentifiedResourceName = "浚俩傅器记",
+		unidentifiedDescriptionName = {
+			"授予被选为Superstar R的怪物的奖品. 由于是怪物药水,所以味道很糟糕. ",
+			"恢复一定量的HP和SP.",
+			"(活动结束后该商品将全部删除.)"
+		},
+		identifiedDisplayName = "超级明星药水",
+		identifiedResourceName = "浚俩傅器记",
+		identifiedDescriptionName = {
+			"授予被选为Superstar R的怪物的奖品. 由于是怪物药水,所以味道很糟糕. ",
+			"恢复一定量的HP和SP.",
+			"(活动结束后该商品将全部删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17524] = {
+		unidentifiedDisplayName = "电源升压箱",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 10 个能量增强器和 1 个密封的别西卜卷轴 II.",
+			"",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "电源升压箱",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一个盒子,内含 10 个能量增强器和 1 个密封的别西卜卷轴 II.",
+			"",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17525] = {
+		unidentifiedDisplayName = "100盒助力器",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 100 个能量增强器和 11 个密封的别西卜卷轴 II.",
+			"",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "100盒助力器",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一个盒子,内含 100 个能量增强器和 11 个密封的别西卜卷轴 II.",
+			"",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22875] = {
+		unidentifiedDisplayName = "封印的别西卜卡",
+		unidentifiedResourceName = "捞抚绝绰墨靛",
+		unidentifiedDescriptionName = {
+			"我想我有一瞬间感受到了别西卜的力量.",
+			"施放技能时,可变施法时间减少 15%.",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)"
+		},
+		identifiedDisplayName = "封印的别西卜卡",
+		identifiedResourceName = "捞抚绝绰墨靛",
+		identifiedDescriptionName = {
+			"我想我有一瞬间感受到了别西卜的力量.",
+			"施放技能时,可变施法时间减少 15%.",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22874] = {
+		unidentifiedDisplayName = "密封的别西卜卡片册",
+		unidentifiedResourceName = "嘲篮墨靛酶",
+		unidentifiedDescriptionName = {
+			"可以获得封印的别西卜卡的卡片册. 您可以获得消费卡或装备卡. ",
+			"(活动结束后该商品将全部删除.)"
+		},
+		identifiedDisplayName = "密封的别西卜卡片册",
+		identifiedResourceName = "嘲篮墨靛酶",
+		identifiedDescriptionName = {
+			"可以获得封印的别西卜卡的卡片册. 您可以获得消费卡或装备卡. ",
+			"(活动结束后该商品将全部删除.)",
+			"重量 : ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22873] = {
+		unidentifiedDisplayName = "封印的别西卜卷轴Ⅱ",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时封印的别西卜卷轴. ",
+			"封印魔王卡, 武器保证熔炼到11, 铠甲11熔炼保证, 武器9熔炼保证, 铠甲9熔炼保证, ",
+			"您可以获得闪电鞋之影、闪电之盾之影、无限飞翼5天盒、铁匠的祝福等稀有物品之一."
+		},
+		identifiedDisplayName = "封印的别西卜卷轴Ⅱ",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时封印的别西卜卷轴. ",
+			"封印魔王卡, 武器保证熔炼到11, 铠甲11熔炼保证, 武器9熔炼保证, 铠甲9熔炼保证, ",
+			"您可以获得闪电鞋之影、闪电之盾之影、无限飞翼5天盒、铁匠的祝福等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20230] = {
+		unidentifiedDisplayName = "面具",
+		unidentifiedResourceName = "胶付老",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装破产者面具",
+		identifiedResourceName = "颇魂磊狼啊搁",
+		identifiedDescriptionName = {
+			"表达失去一切并破产的人的深切悲伤的面具.",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒5.^000000",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中下层 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 936,
+		costume = true
+	},
+	[17573] = {
+		unidentifiedDisplayName = "一盒10只招财猫",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一盒装有 10 个油桃. ",
+			"附赠 30 个马兰多特色罐头食品.",
+			"此外,你还可以获得1张封印卷轴III.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "一盒10只招财猫",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一盒装有 10 个油桃. ",
+			"附赠 30 个马兰多特色罐头食品.",
+			"此外,你还可以获得1张封印卷轴III.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17544] = {
+		unidentifiedDisplayName = "冶炼矿箱Ⅸ",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还附赠一张新年卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "冶炼矿箱Ⅸ",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还附赠一张新年卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17545] = {
+		unidentifiedDisplayName = "冶炼矿箱Ⅸ 10套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个新年卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "冶炼矿箱Ⅸ 10套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个新年卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22888] = {
+		unidentifiedDisplayName = "春联",
+		unidentifiedResourceName = "怕剧舅",
+		unidentifiedDescriptionName = {
+			"限时新年卷轴. ",
+			"可以获得武器11精炼保证、防具11精炼保证、法师鞋影、法师盾影、法师铠影、无限飞翼5天盒等多种稀有物品之一."
+		},
+		identifiedDisplayName = "春联",
+		identifiedResourceName = "怕剧舅",
+		identifiedDescriptionName = {
+			"限时新年卷轴. ",
+			"可以获得武器11精炼保证、防具11精炼保证、法师鞋影、法师盾影、法师铠影、无限飞翼5天盒等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22893] = {
+		unidentifiedDisplayName = "新年影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = { "一个盒子,您可以在其中获得一种流行的影子物品." },
+		identifiedDisplayName = "新年影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = { "一个盒子,您可以在其中获得一种流行的影子物品.", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17567] = {
+		unidentifiedDisplayName = "活动万能宝箱",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有 10 个全能者和 1 个封印卷轴 II.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "活动万能宝箱",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有 10 个全能者和 1 个封印卷轴 II.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17568] = {
+		unidentifiedDisplayName = "活动全能100盒",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有100张全能者和11张封印卷轴II.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "活动全能100盒",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有100张全能者和11张封印卷轴II.",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴.",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22902] = {
+		unidentifiedDisplayName = "封印卷轴II",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时密封封印卷轴. ",
+			"可以获得封印卡、武器精炼保证11级、防具精炼保证11级、装弹鞋影、装弹盾影、装弹铠影、无限飞翼5天礼盒等稀有物品之一."
+		},
+		identifiedDisplayName = "封印卷轴II",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时密封封印卷轴. ",
+			"可以获得封印卡、武器精炼保证11级、防具精炼保证11级、装弹鞋影、装弹盾影、装弹铠影、无限飞翼5天礼盒等稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22906] = {
+		unidentifiedDisplayName = "封印卷轴Ⅲ",
+		unidentifiedResourceName = "瘤驱胶农费",
+		unidentifiedDescriptionName = {
+			"限时密封封印卷轴. ",
+			"封印卡、武器保炼9、防具保炼9、新年暗影方块、无限飞翼5天礼盒等稀有物品均可获得其中之一."
+		},
+		identifiedDisplayName = "封印卷轴Ⅲ",
+		identifiedResourceName = "瘤驱胶农费",
+		identifiedDescriptionName = {
+			"限时密封封印卷轴. ",
+			"封印卡、武器保炼9、防具保炼9、新年暗影方块、无限飞翼5天礼盒等稀有物品均可获得其中之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17574] = {
+		unidentifiedDisplayName = "100只一盒招财猫",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"一盒装有 100 个油桃果实. ",
+			"还附赠大量罐头食品.",
+			"另外,你还可以获得11张封印卷轴III.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "100只一盒招财猫",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"一盒装有 100 个油桃果实. ",
+			"还附赠大量罐头食品.",
+			"另外,你还可以获得11张封印卷轴III.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19080] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "涝俊巩浅急箔",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "内蒂心形泡泡糖",
+		identifiedResourceName = "涝救狼楷牢",
+		identifiedDescriptionName = {
+			"泡泡糖可以让您无需任何特殊技能即可吹出心形气球.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 720,
+		costume = false
+	},
+	[6995] = {
+		unidentifiedDisplayName = "温暖的石头",
+		unidentifiedResourceName = "橇饭烙窍飘",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "温暖的石头",
+		identifiedResourceName = "橇饭烙窍飘",
+		identifiedDescriptionName = {
+			"奇怪的是,这是一块摸起来感觉温暖的石头. 如果你把它带给能够处理它的人,他们也许能够创造出一些令人惊奇的东西. . . . . . ",
+			"(活动结束后, 该商品将被删除)",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6996] = {
+		unidentifiedDisplayName = "兔子娃娃",
+		unidentifiedResourceName = "豪力牢屈",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "兔子娃娃",
+		identifiedResourceName = "豪力牢屈",
+		identifiedDescriptionName = {
+			"兔子形状的玩偶. 孩子们非常喜欢. ",
+			"(活动结束后, 该商品将被删除) ",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6997] = {
+		unidentifiedDisplayName = "旧箭头",
+		unidentifiedResourceName = "踌郊拳混",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "旧箭头",
+		identifiedResourceName = "踌郊拳混",
+		identifiedDescriptionName = {
+			"已经使用了相当多的箭头. 怪物的唾液粘在各处,所以在使用之前必须将其擦干净. ",
+			"(活动结束后, 该商品将被删除) ",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25038] = {
+		unidentifiedDisplayName = "破陷阱",
+		unidentifiedResourceName = "汲摹侩飘乏",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "破陷阱",
+		identifiedResourceName = "汲摹侩飘乏",
+		identifiedDescriptionName = {
+			"这是在野外捕捉动物的陷阱,但已被损坏.",
+			"(活动结束后, 该商品将被删除) ",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25039] = {
+		unidentifiedDisplayName = "捕捉陷阱",
+		unidentifiedResourceName = "汲摹侩飘乏",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "捕捉陷阱",
+		identifiedResourceName = "汲摹侩飘乏",
+		identifiedDescriptionName = {
+			"用于捕捉野外动物的陷阱.",
+			"(活动结束后, 该商品将被删除) ",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17590] = {
+		unidentifiedDisplayName = "爱德华·风之子 Come EX Box",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒内含 1 个爱德华·霍诺拉 (Edward Honora),可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“爱德华”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000"
+		},
+		identifiedDisplayName = "爱德华·风之子 Come EX Box",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒内含 1 个爱德华·霍诺拉 (Edward Honora),可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“爱德华”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17591] = {
+		unidentifiedDisplayName = "Elise Zonda Come EX 盒装",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 1 个 Elise Honora,可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“Elise”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000"
+		},
+		identifiedDisplayName = "Elise Zonda Come EX 盒装",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 1 个 Elise Honora,可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“Elise”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17575] = {
+		unidentifiedDisplayName = "爱德华·宗达 来吧",
+		unidentifiedResourceName = "归陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒内含 1 个爱德华·霍诺拉 (Edward Honora),可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“爱德华”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000"
+		},
+		identifiedDisplayName = "爱德华·宗达 来吧",
+		identifiedResourceName = "归陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒内含 1 个爱德华·霍诺拉 (Edward Honora),可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“爱德华”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17576] = {
+		unidentifiedDisplayName = "Elise Zonda 来盒",
+		unidentifiedResourceName = "归陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 1 个 Elise Honora,可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“Elise”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000"
+		},
+		identifiedDisplayName = "Elise Zonda 来盒",
+		identifiedResourceName = "归陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 1 个 Elise Honora,可使用 30 天. ",
+			"^ffffff_^000000",
+			"出租物品",
+			"呼叫 Zonda 支持服务负责人“Elise”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22914] = {
+		unidentifiedDisplayName = "泡泡糖24小时",
+		unidentifiedResourceName = "浅急箔",
+		unidentifiedDescriptionName = { "泡泡糖24小时" },
+		identifiedDisplayName = "泡泡糖24小时",
+		identifiedResourceName = "浅急箔",
+		identifiedDescriptionName = { "泡泡糖24小时", "重量 : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22929] = {
+		unidentifiedDisplayName = "JOB实战手册24小时",
+		unidentifiedResourceName = "傈捧背裹",
+		unidentifiedDescriptionName = { "杂项课本25_24h" },
+		identifiedDisplayName = "JOB实战手册24小时",
+		identifiedResourceName = "傈捧背裹",
+		identifiedDescriptionName = {
+			"杂项课本25_24h",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22982] = {
+		unidentifiedDisplayName = "爱德华·风之子 Come EX",
+		unidentifiedResourceName = "瞒烙骇陛祸",
+		unidentifiedDescriptionName = {
+			"呼叫 Zonda 支持服务负责人“爱德华”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000"
+		},
+		identifiedDisplayName = "爱德华·风之子 Come EX",
+		identifiedResourceName = "瞒烙骇陛祸",
+		identifiedDescriptionName = {
+			"呼叫 Zonda 支持服务负责人“爱德华”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22983] = {
+		unidentifiedDisplayName = "伊莉丝·风之子 Come EX",
+		unidentifiedResourceName = "瞒烙骇陛祸",
+		unidentifiedDescriptionName = {
+			"呼叫 Zonda 支持服务负责人“Elise”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000"
+		},
+		identifiedDisplayName = "伊莉丝·风之子 Come EX",
+		identifiedResourceName = "瞒烙骇陛祸",
+		identifiedDescriptionName = {
+			"呼叫 Zonda 支持服务负责人“Elise”的铃声. 当铃声响起时,它随时随地出现在顾客面前. ",
+			"^ffffff_^000000",
+			"[基础服务]",
+			"为发展提供更高效的服务.",
+			"- 泡泡糖(持续 30 分钟, 每天两次)",
+			"- JOB实战手册(时长30分钟, 每天两次)",
+			"- 蝴蝶翅膀(无限)",
+			"- 可以购买消耗品",
+			"- 可以出售拥有的物品",
+			"^ff0000警告! - 无论拥有多少物品,都不可能获得重复的好处.^000000",
+			"^ffffff_^000000",
+			"[风之子特别服务]",
+			"我们以优惠价格提供以下服务. (吃蜗牛的果实)",
+			"- 泡泡糖(持续24小时)",
+			"- JOB战斗手册(持续24小时)",
+			"- 重置技能树",
+			"- 状态重置",
+			"^ffffff_^000000",
+			"[幸运蛋赠送服务]",
+			"每4天我手里就会有一个幸运蛋!",
+			"- 集齐4个神秘蛋碎片,即可获得1个幸运蛋.",
+			"- 神秘的鸡蛋碎片可以通过与Zonda支持人员对话获得. (每天 1 次)",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19096] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "特别卡普拉帽",
+		identifiedResourceName = "府府酒牢屈葛磊",
+		identifiedDescriptionName = {
+			"13周年限量特别卡普拉娃娃帽子.",
+			"每次精炼增加 MHP+130 和 MSP+13.",
+			"精炼到10级以上时, 对所有等级敌人的物理伤害增加3%, MATK+3%.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^77777750^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 581,
+		costume = false
+	},
+	[20371] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装特殊卡普拉帽",
+		identifiedResourceName = "府府酒牢屈葛磊",
+		identifiedDescriptionName = {
+			"13周年限量特别卡普拉娃娃帽子.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 581,
+		costume = true
+	},
+	[20787] = {
+		unidentifiedDisplayName = "穿上它",
+		unidentifiedResourceName = "噶配",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结的精密消声器",
+		identifiedResourceName = "搬加狼赣敲矾",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备. ",
+			"当BaseLV低于100时, ",
+			"每精炼 2 点, 经验值增加 +4%, CRI +2.",
+			"系列 : ^777777穿上它^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15152] = {
+		unidentifiedDisplayName = "盔甲",
+		unidentifiedResourceName = "快电皋老",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结邮件",
+		identifiedResourceName = "搬加狼皋老",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每精炼 2 次, STR +2、经验值 +4%、MHP +2%.",
+			"系列 : ^777777盔甲^000000 防御 : ^77777745^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15153] = {
+		unidentifiedDisplayName = "盔甲",
+		unidentifiedResourceName = "快电皋老",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结的斗篷",
+		identifiedResourceName = "搬加狼盖撇",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"AGI +2, 经验获得 +4%, 每 2 次精炼, FLEE +3.",
+			"系列 : ^777777盔甲^000000 防御 : ^77777745^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15154] = {
+		unidentifiedDisplayName = "盔甲",
+		unidentifiedResourceName = "快电皋老",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结套装",
+		identifiedResourceName = "搬加狼酱飘",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"DEX +2, 获得的经验值 +4%, CRI 每 2 次精炼 +2.",
+			"系列 : ^777777盔甲^000000 防御 : ^77777745^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15155] = {
+		unidentifiedDisplayName = "盔甲",
+		unidentifiedResourceName = "快电皋老",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结长袍",
+		identifiedResourceName = "搬加狼肺宏",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"智力+2, 经验值增加+4%, 每精炼2点SP消耗-1%.",
+			"系列 : ^777777盔甲^000000 防御 : ^77777745^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22078] = {
+		unidentifiedDisplayName = "鞋",
+		unidentifiedResourceName = "击甸",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结力量之靴",
+		identifiedResourceName = "搬加狼何明",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每精炼 2 点, 经验值 +4%, 力量 +1.",
+			"系列 : ^777777鞋^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22079] = {
+		unidentifiedDisplayName = "鞋",
+		unidentifiedResourceName = "击甸",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结之靴",
+		identifiedResourceName = "搬加狼何明",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每精炼 2 点, 经验值增加 +4%, AGI +1.",
+			"系列 : ^777777鞋^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22080] = {
+		unidentifiedDisplayName = "鞋",
+		unidentifiedResourceName = "击甸",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "精致的团结鞋",
+		identifiedResourceName = "搬加狼酱令",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每精炼 2 点, 获得经验 +4%, DEX +1.",
+			"系列 : ^777777鞋^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22081] = {
+		unidentifiedDisplayName = "鞋",
+		unidentifiedResourceName = "击甸",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结的聪明鞋",
+		identifiedResourceName = "搬加狼酱令",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每精炼 2 点, 经验值 +4%, 智力 +1.",
+			"系列 : ^777777鞋^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20780] = {
+		unidentifiedDisplayName = "穿上它",
+		unidentifiedResourceName = "噶配",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结力量斗篷",
+		identifiedResourceName = "搬加狼噶配",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每精炼 2 次, 获得经验 +4%, MHP +2%.",
+			"系列 : ^777777穿上它^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20781] = {
+		unidentifiedDisplayName = "穿上它",
+		unidentifiedResourceName = "噶配",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结斗篷",
+		identifiedResourceName = "搬加狼噶配",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每精炼 2 点, 经验值获得 +4%, 逃亡 +3.",
+			"系列 : ^777777穿上它^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20782] = {
+		unidentifiedDisplayName = "穿上它",
+		unidentifiedResourceName = "噶配",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结的聪明消声器",
+		identifiedResourceName = "搬加狼赣敲矾",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"经验获得+4%, 每2次精炼消耗SP-1%.",
+			"系列 : ^777777穿上它^000000 防御 : ^77777720^000000",
+			"重量 : ^77777730^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[28904] = {
+		unidentifiedDisplayName = "盾",
+		unidentifiedResourceName = "啊靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结卫士",
+		identifiedResourceName = "搬加狼啊靛",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每次精炼 DEF +12.",
+			"系列 : ^777777盾^000000 防御 : ^77777760^000000",
+			"重量 : ^77777730^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[28905] = {
+		unidentifiedDisplayName = "盾",
+		unidentifiedResourceName = "啊靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结圆盾",
+		identifiedResourceName = "搬加狼滚努矾",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"当BaseLV低于100时, ",
+			"每次精炼 MSP +2%.",
+			"系列 : ^777777盾^000000 防御 : ^77777760^000000",
+			"重量 : ^77777730^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[28110] = {
+		unidentifiedDisplayName = "斧头",
+		unidentifiedResourceName = "咀胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结的双刃斧",
+		identifiedResourceName = "搬加狼剧朝档尝",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777双手斧头^000000 攻击 : ^777777190^000000",
+			"重量 : ^777777100^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777检察官阶层、商人阶层^000000"
+		},
+		slotCount = 1,
+		ClassNum = 7,
+		costume = false
+	},
+	[2030] = {
+		unidentifiedDisplayName = "甘蔗",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "双手团结杖",
+		identifiedResourceName = "搬加狼剧颊瘤莆捞",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"MATK +135.",
+			"MATK额外增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777两只手杖^000000 攻击 : ^77777795^000000",
+			"重量 : ^77777750^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777巫师型、灵魂链接者^000000"
+		},
+		slotCount = 1,
+		ClassNum = 23,
+		costume = false
+	},
+	[28011] = {
+		unidentifiedDisplayName = "粘膜炎",
+		unidentifiedResourceName = "墨鸥福",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结的卡塔尔",
+		identifiedResourceName = "搬加狼墨鸥福",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777粘膜炎^000000 攻击 : ^777777123^000000",
+			"重量 : ^77777765^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777刺客系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 16,
+		costume = false
+	},
+	[13329] = {
+		unidentifiedDisplayName = "风魔手里剑",
+		unidentifiedResourceName = "浅付_祈劳",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "束缚手里剑",
+		identifiedResourceName = "搬加狼荐府八",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777风魔手里剑^000000 攻击 : ^77777795^000000",
+			"重量 : ^77777750^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777忍者系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 22,
+		costume = false
+	},
+	[18132] = {
+		unidentifiedDisplayName = "弓",
+		unidentifiedResourceName = "焊快",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结之弓",
+		identifiedResourceName = "搬加狼劝",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"",
+			"系列 : ^777777弓^000000 攻击 : ^777777114^000000",
+			"重量 : ^77777760^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777弓箭手系列、盗贼系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 73,
+		costume = false
+	},
+	[25051] = {
+		unidentifiedDisplayName = "联合的象征",
+		unidentifiedResourceName = "扁荤狼康抗",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "联合的象征",
+		identifiedResourceName = "扁荤狼康抗",
+		identifiedDescriptionName = {
+			"由米德加尔特大陆的一座主要城市认证的投资单. 如果你把它还给附近大城市的投资官员,你就能获得那个大城市的信任. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13129] = {
+		unidentifiedDisplayName = "左轮手枪",
+		unidentifiedResourceName = "侥胶酱磐",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结左轮手枪",
+		identifiedResourceName = "搬加狼府杭滚",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777手枪^000000 攻击 : ^77777795^000000",
+			"重量 : ^77777750^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777跨系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 17,
+		costume = false
+	},
+	[13456] = {
+		unidentifiedDisplayName = "刀",
+		unidentifiedResourceName = "家靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结之剑",
+		identifiedResourceName = "搬加狼八",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777刀^000000 攻击 : ^77777780^000000",
+			"重量 : ^77777742^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777检察官系列、新手系列、盗贼系列、商人系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2,
+		costume = false
+	},
+	[13457] = {
+		unidentifiedDisplayName = "匕首",
+		unidentifiedResourceName = "唱捞橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结匕首",
+		identifiedResourceName = "搬加狼措芭",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777匕首^000000 攻击 : ^77777752^000000",
+			"重量 : ^77777727^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777检察官系列、新手系列、盗贼系列、商人系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[1941] = {
+		unidentifiedDisplayName = "乐器",
+		unidentifiedResourceName = "官捞棵赴",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结的小提琴",
+		identifiedResourceName = "搬加狼官捞棵赴",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777乐器^000000 攻击 : ^77777776^000000",
+			"重量 : ^77777740^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777吟游诗人系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 13,
+		costume = false
+	},
+	[1997] = {
+		unidentifiedDisplayName = "鞭",
+		unidentifiedResourceName = "肺橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "束缚之鞭",
+		identifiedResourceName = "搬加狼盲嘛",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777鞭^000000 攻击 : ^77777776^000000",
+			"重量 : ^77777740^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777舞者系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 14,
+		costume = false
+	},
+	[28606] = {
+		unidentifiedDisplayName = "书",
+		unidentifiedResourceName = "合",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "团结圣经",
+		identifiedResourceName = "搬加狼己辑",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777书^000000 攻击 : ^77777742^000000",
+			"重量 : ^77777722^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777权城、贤者系列、祭司系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 15,
+		costume = false
+	},
+	[16048] = {
+		unidentifiedDisplayName = "钝器",
+		unidentifiedResourceName = "努反",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "束缚之锤",
+		identifiedResourceName = "搬加狼枚硼",
+		identifiedDescriptionName = {
+			"王国官方为冒险者准备的装备.",
+			"攻击力增加(精炼度*精炼度*1.25) .",
+			"系列 : ^777777钝器^000000 攻击 : ^77777776^000000",
+			"重量 : ^77777740^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777检察官系列、新手系列、副本系列、商人系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 8,
+		costume = false
+	},
+	[23096] = {
+		unidentifiedDisplayName = "MOBI支撑盒",
+		unidentifiedResourceName = "锅龋惑磊03",
+		unidentifiedDescriptionName = {
+			"使用饿了么App提供的MOBI应用程序时可以获得的优惠券.",
+			"[非卖品]内含100份白纤药水, 极少数情况下, 它不是药水, 而是11炼制券、7炼制券等.",
+			"据说出现了罕见的东西.",
+			"(该项目将于2016年4月第一次定期检查时全部删除.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "MOBI支撑盒",
+		identifiedResourceName = "锅龋惑磊03",
+		identifiedDescriptionName = {
+			"使用饿了么App提供的MOBI应用程序时可以获得的优惠券.",
+			"[非卖品]内含100份白纤药水, 极少数情况下, 它不是药水, 而是11炼制券、7炼制券等.",
+			"据说出现了罕见的东西.",
+			"(该项目将于2016年4月第一次定期检查时全部删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[28015] = {
+		unidentifiedDisplayName = "粘膜炎",
+		unidentifiedResourceName = "墨鸥福",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "卡塔尔强化金属",
+		identifiedResourceName = "皋呕墨鸥福",
+		identifiedDescriptionName = {
+			"卡塔尔通过将 Oridecon 添加到现有的金属卡塔尔中,为更有经验的冒险家提供帮助.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"滚刀伤害增加 10%.",
+			"每精炼一级攻击力+7, 暴击伤害+2%, 攻击速度增加(攻击后延迟减少2%).",
+			"BaseLv每增加10,攻击力+7(最多增加到BaseLv 150)",
+			"",
+			"系列 : ^777777粘膜炎^000000 攻击 : ^777777100^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777刺客系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 16,
+		costume = false
+	},
+	[26001] = {
+		unidentifiedDisplayName = "两手长矛",
+		unidentifiedResourceName = "鲤骇赴",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属喷枪",
+		identifiedResourceName = "皋呕罚胶",
+		identifiedDescriptionName = {
+			"在现有的金属枪上添加了 Oridecon,为更有经验的冒险家提供了一把枪.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"百矛、超烙印伤害增加 10%. 精炼度每提升一级, 攻击力+9. ",
+			"BaseLv每增加10,攻击力+8(最多增加到BaseLv 150)",
+			"系列 : ^777777两手长矛^000000 攻击 : ^777777125^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777检察官系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 5,
+		costume = false
+	},
+	[28113] = {
+		unidentifiedDisplayName = "双手斧头",
+		unidentifiedResourceName = "硅撇咀胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属双手斧",
+		identifiedResourceName = "皋呕捧勤靛咀胶",
+		identifiedDescriptionName = {
+			"通过在现有的金属双手斧中添加 Oridecon,为更有经验的冒险家提供双手斧.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"斧头卷伤害增加 10%.",
+			"坚不可摧.",
+			"精炼度每提升一级,攻击力+9.",
+			"BaseLv每增加10,攻击力+8(最多增加到BaseLv 150)",
+			"系列 : ^777777双手斧头^000000 攻击 : ^777777130^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777武侠系列/商人系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 7,
+		costume = false
+	},
+	[21023] = {
+		unidentifiedDisplayName = "双手剑",
+		unidentifiedResourceName = "官胶鸥靛家靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属双手剑",
+		identifiedResourceName = "皋呕捧勤靛家靛",
+		identifiedDescriptionName = {
+			"在现有的金属双手剑的基础上添加了Oridecon,为更有经验的冒险家提供了双手剑.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"点火中断伤害增加 10%.",
+			"攻击力+8, 攻击力+3, 精炼每级攻击速度增加(攻击后延迟减少2%).",
+			"BaseLv每增加10,攻击力+7(最多增加到BaseLv 150)",
+			"系列 : ^777777双手剑^000000 攻击 : ^777777120^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777检察官系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 49,
+		costume = false
+	},
+	[2033] = {
+		unidentifiedDisplayName = "双手拐杖",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属法杖",
+		identifiedResourceName = "皋呕胶怕橇",
+		identifiedDescriptionName = {
+			"通过在现有的金属杖中添加 Oridecon,为更有经验的冒险家提供杖.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"MATK +95.",
+			"灵魂扩张伤害增加10%,",
+			"每精炼等级MATK+8,",
+			"BaseLv每增加10,MATK就会增加+7(增加幅度最多适用于BaseLv 150)",
+			"术士系装备时, MATK+20.",
+			"魔法师系列装备时, MATK+15.",
+			"系列 : ^777777两只手杖^000000 攻击 : ^77777760^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777巫师系列、侍僧系列、灵魂链接者系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 23,
+		costume = false
+	},
+	[13330] = {
+		unidentifiedDisplayName = "风魔手里剑",
+		unidentifiedResourceName = "浅付_祈劳",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属风魔手里剑",
+		identifiedResourceName = "皋呕浅付荐府八",
+		identifiedDescriptionName = {
+			"通过在现有的金属风魔手里剑中添加 Oridecon,为更有经验的冒险家打造风魔手里剑.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"风魔手里剑火焰伤害增加 10%.",
+			"精炼度每提升一级,攻击力+7 / 攻击力+5 增加.",
+			"每精炼2级,远程物理攻击力增加2%.",
+			"基础等级每增加 10,攻击力 +5 / 攻击力 +3 也会额外增加(基础等级上限为 150)",
+			"系列 : ^777777风魔手里剑^000000 攻击 : ^77777775^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777忍者系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 22,
+		costume = false
+	},
+	[18141] = {
+		unidentifiedDisplayName = "弓",
+		unidentifiedResourceName = "焊快",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属弓",
+		identifiedResourceName = "皋呕焊快",
+		identifiedDescriptionName = {
+			"通过在现有金属弓上添加 Oridecon 来为更有经验的冒险家提供弓.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"箭矢风暴和烈性阵阵风暴伤害增加10%.",
+			"每精炼一级攻击力+5/远距离物理攻击力增加2%.",
+			"BaseLv每增加10,攻击力+6(最多增加到BaseLv 150)",
+			"猎人属性装备时攻击力+15.",
+			"系列 : ^777777弓^000000 攻击 : ^77777775^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777弓箭手系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 73,
+		costume = false
+	},
+	[13132] = {
+		unidentifiedDisplayName = "左轮手枪",
+		unidentifiedResourceName = "侥胶酱磐",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属左轮手枪",
+		identifiedResourceName = "皋呕府杭滚",
+		identifiedDescriptionName = {
+			"在现有的金属左轮手枪中添加了 Oridecon,为更有经验的冒险家提供了一款左轮手枪.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"火舞伤害增加10%.",
+			"每精炼一级攻击力+5/远距离物理攻击力增加2%.",
+			"BaseLv每增加10,攻击力+5(最多增加到BaseLv 150)",
+			"系列 : ^777777手枪^000000 攻击 : ^77777755^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777跨系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 17,
+		costume = false
+	},
+	[28607] = {
+		unidentifiedDisplayName = "书",
+		unidentifiedResourceName = "合",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属书",
+		identifiedResourceName = "皋呕合",
+		identifiedDescriptionName = {
+			"通过将 Oridecon 添加到现有的金属书中,为更有经验的冒险家提供了一本书籍.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"MATK +40.",
+			"治疗恢复+10%, 心灵波伤害+10%.",
+			"精炼度每提升一级,攻击力+7 / 攻击力+5 增加.",
+			"基础等级每增加 10,攻击力 +7 / 攻击力 +3 也会额外增加(基础等级上限为 150)",
+			"魔法师系列装备时, MATK+10.",
+			"系列 : ^777777书^000000 攻击 : ^77777770^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777贤者系列、牧师系列、权城系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 15,
+		costume = false
+	},
+	[16054] = {
+		unidentifiedDisplayName = "钝器",
+		unidentifiedResourceName = "努反",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属狼牙棒",
+		identifiedResourceName = "皋呕皋捞胶",
+		identifiedDescriptionName = {
+			"通过将 Oridecon 添加到现有的金属狼牙棒中,为更有经验的冒险家提供狼牙棒.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"Cheonrajimang, 车炮伤害增加10%.",
+			"精炼度每提升一级,攻击力+7.",
+			"BaseLv每增加10,攻击力+7(最多增加到BaseLv 150)",
+			"系列 : ^777777钝器^000000 攻击 : ^777777105^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777新手系列、剑客系列、商人系列、副本系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 8,
+		costume = false
+	},
+	[28714] = {
+		unidentifiedDisplayName = "匕首",
+		unidentifiedResourceName = "唱捞橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化金属匕首",
+		identifiedResourceName = "皋呕措芭",
+		identifiedDescriptionName = {
+			"在现有的金属匕首中添加了 Oridecon,为更有经验的冒险家提供了一把匕首.",
+			"^ffffff<NAVI>^4D4DFF[跳跃结界专家]^000000<INFO>prontera,151,187,0,100,0,0</INFO></NAVI>^000000 你可以从 处获得附魔.",
+			"ASPD +1, MATK +40.",
+			"每精炼一级攻击力+7/MATK+4增加/攻击速度增加(攻击后延迟减少2%).",
+			"基础等级每增加 10,攻击力 +7 / 攻击力 +3 也会额外增加(基础等级上限为 150)",
+			"系列 : ^777777匕首^000000 攻击 : ^77777790^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777新手系列、剑士系列、弓箭手系列、盗贼系列、巫师系列、商人系列、忍者系列、灵魂链接者系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[25200] = {
+		unidentifiedDisplayName = "云蓬松",
+		unidentifiedResourceName = "何靛矾款判",
+		unidentifiedDescriptionName = {
+			"像云一样轻盈柔软的绒毛.收集这些可以产生令人难以置信的变暖效应.",
+			"^ff0000活动结束后该项目将被删除.^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "云蓬松",
+		identifiedResourceName = "何靛矾款判",
+		identifiedDescriptionName = {
+			"像云一样轻盈柔软的绒毛.收集这些可以产生令人难以置信的变暖效应.",
+			"^ff0000活动结束后该项目将被删除.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25201] = {
+		unidentifiedDisplayName = "魔法利爪",
+		unidentifiedResourceName = "戳措狼惯砰",
+		unidentifiedDescriptionName = {
+			"那是一只带有魔力的爪子. 我们把它带到老虎面前,作为它被消灭的证据. ",
+			"^ff0000活动结束后该项目将被删除.^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "魔法利爪",
+		identifiedResourceName = "戳措狼惯砰",
+		identifiedDescriptionName = {
+			"那是一只带有魔力的爪子. 我们把它带到老虎面前,作为它被消灭的证据. ",
+			"^ff0000活动结束后该项目将被删除.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23137] = {
+		unidentifiedDisplayName = "Rebellion 跳跃支撑箱",
+		unidentifiedResourceName = "锅龋惑磊05",
+		unidentifiedDescriptionName = {
+			"(^ff0000这些项目将在2017年5月最后一周的定期维护期间被批量删除.^000000)",
+			"新叛乱的支持箱.",
+			"该盒子包含以下所有物品.",
+			"――――――――――――― ",
+			"学徒叛乱的左轮手枪",
+			"叛逆学徒的步枪",
+			"学徒叛乱的霰弹枪",
+			"学徒叛乱的加特林机枪",
+			"学徒叛乱的榴弹发射器",
+			"加固计时帽",
+			"强化时间守护者长袍",
+			"强化时空守护斗篷",
+			"强化时间守护者靴子",
+			"――――――――――――― ",
+			"所需级别 : ^777777100^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "Rebellion 跳跃支撑箱",
+		identifiedResourceName = "锅龋惑磊05",
+		identifiedDescriptionName = {
+			"(^ff0000这些项目将在2017年5月最后一周的定期维护期间被批量删除.^000000)",
+			"新叛乱的支持箱.",
+			"该盒子包含以下所有物品.",
+			"――――――――――――― ",
+			"学徒叛乱的左轮手枪",
+			"叛逆学徒的步枪",
+			"学徒叛乱的霰弹枪",
+			"学徒叛乱的加特林机枪",
+			"学徒叛乱的榴弹发射器",
+			"加固计时帽",
+			"强化时间守护者长袍",
+			"强化时空守护斗篷",
+			"强化时间守护者靴子",
+			"――――――――――――― ",
+			"所需级别 : ^777777100^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23171] = {
+		unidentifiedDisplayName = "骑士卡下封印新郎",
+		unidentifiedResourceName = "捞抚绝绰墨靛",
+		unidentifiedDescriptionName = {
+			"我想我有一瞬间感受到了夜下新郎的力量. ",
+			"对圣属性、暗属性、天使属性、恶魔属性怪物的物理攻击力增加20%.",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "骑士卡下封印新郎",
+		identifiedResourceName = "捞抚绝绰墨靛",
+		identifiedDescriptionName = {
+			"我想我有一瞬间感受到了夜下新郎的力量. ",
+			"对圣属性、暗属性、天使属性、恶魔属性怪物的物理攻击力增加20%.",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23172] = {
+		unidentifiedDisplayName = "封印的法老卡",
+		unidentifiedResourceName = "捞抚绝绰墨靛",
+		unidentifiedDescriptionName = {
+			"我想我有一瞬间能够感受到法老的强大.",
+			"使用技能时SP消耗减少15%. ",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "封印的法老卡",
+		identifiedResourceName = "捞抚绝绰墨靛",
+		identifiedDescriptionName = {
+			"我想我有一瞬间能够感受到法老的强大.",
+			"使用技能时SP消耗减少15%. ",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23173] = {
+		unidentifiedDisplayName = "密封的基尔-D-01 卡",
+		unidentifiedResourceName = "捞抚绝绰墨靛",
+		unidentifiedDescriptionName = {
+			"我想我有一瞬间能感受到Kiehl-D-01的力量. ",
+			"全局冷却时间减少 15%. ",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "密封的基尔-D-01 卡",
+		identifiedResourceName = "捞抚绝绰墨靛",
+		identifiedDescriptionName = {
+			"我想我有一瞬间能感受到Kiehl-D-01的力量. ",
+			"全局冷却时间减少 15%. ",
+			"持续5分钟.",
+			"(该项目将于2016年8月31日例行维护时删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25218] = {
+		unidentifiedDisplayName = "树肉",
+		unidentifiedResourceName = "绢赴唱沟啊瘤",
+		unidentifiedDescriptionName = {
+			"修剪得光滑的细树枝.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.) ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "树肉",
+		identifiedResourceName = "绢赴唱沟啊瘤",
+		identifiedDescriptionName = {
+			"修剪得光滑的细树枝.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.) ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25219] = {
+		unidentifiedDisplayName = "窗纸",
+		unidentifiedResourceName = "概馋茄辆捞",
+		unidentifiedDescriptionName = {
+			"一种坚固的韩国纸,主要用于粉刷门.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "窗纸",
+		identifiedResourceName = "概馋茄辆捞",
+		identifiedDescriptionName = {
+			"一种坚固的韩国纸,主要用于粉刷门.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000",
+			""
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25220] = {
+		unidentifiedDisplayName = "月光风筝",
+		unidentifiedResourceName = "角鸥贰",
+		unidentifiedDescriptionName = {
+			"由月光混合而成的坚韧的弦.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "月光风筝",
+		identifiedResourceName = "角鸥贰",
+		identifiedDescriptionName = {
+			"由月光混合而成的坚韧的弦.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25221] = {
+		unidentifiedDisplayName = "月香树肉",
+		unidentifiedResourceName = "郡歹狼啊瘤",
+		unidentifiedDescriptionName = {
+			"树的肉是从月光下生长的树枝上切下来的,树枝的形状优美.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "月香树肉",
+		identifiedResourceName = "郡歹狼啊瘤",
+		identifiedDescriptionName = {
+			"树的肉是从月光下生长的树枝上切下来的,树枝的形状优美.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25222] = {
+		unidentifiedDisplayName = "月亮图案窗纸",
+		unidentifiedResourceName = "富尔富尔茄玫",
+		unidentifiedDescriptionName = {
+			"窗纸充满了月亮的能量,发出柔和的光芒.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "月亮图案窗纸",
+		identifiedResourceName = "富尔富尔茄玫",
+		identifiedDescriptionName = {
+			"窗纸充满了月亮的能量,发出柔和的光芒.",
+			"(该项目将于2016年9月28日例行维护期间批量删除.)",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1317] = {
+		unidentifiedDisplayName = "一只手斧头",
+		unidentifiedResourceName = "咀胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "学院斧头",
+		identifiedResourceName = "滚胶磐",
+		identifiedDescriptionName = {
+			"斧头由学院提供.",
+			"攻击速度增加. (攻击后延迟减少5%)",
+			"MaxHP + 200.",
+			"BaseLV每增加10, 攻击速度就会降低(攻击后延迟增加1%), MaxHP - 40.",
+			"坚不可摧",
+			"系列 : ^777777一只手斧头^000000 攻击 : ^777777130^000000",
+			"重量 : ^777777160^000000",
+			"武器等级 : ^7777771^000000",
+			"所需级别 : ^77777730^000000",
+			"配备 : ^777777商户类^000000"
+		},
+		slotCount = 1,
+		ClassNum = 6,
+		costume = false
+	},
+	[19195] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(符文骑士)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时, ",
+			"[双手加速] 每2级暴击伤害增加5%.",
+			"当精炼到11时, ",
+			"武器没有被破坏,",
+			"物理攻击时,发动[双重攻击] 5Lv.",
+			"(双倍攻击适用于所有武器)",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777符文骑士^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19196] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(皇家卫队)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时,",
+			"[长矛训练] 每升一级,[狂暴攻击] 伤害增加10%.",
+			"当精炼到11时,",
+			"[大地驱动] 技能冷却时间减少1秒.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777皇家卫队^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19197] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(大主教)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"该物品不能与其他账户进行交易. ",
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼 2 点,MATK + 10 增加. ",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%). ",
+			"精炼到8时, 根据[狼牙棒训练] 的等级, [双光] 伤害增加10%. ",
+			"精炼到11级时, 使用普通物理攻击时, 有一定概率在5级发动[崇拜者] . ",
+			"(消耗蓝色宝石, 如果学习了更高的等级, 则根据学习的等级激活.)",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777大主教^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19198] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(苏拉)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时,",
+			"[修罗神谭] [斗龙与光] 每升一级,SP消耗减少1.",
+			"精炼到11级时, [修罗神弹] 伤害提升30%.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777苏拉系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19199] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(游骑兵)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时, ",
+			"[钢乌鸦] 每升一级,[瞄准箭] 伤害增加3%.",
+			"精炼到11级后,  ",
+			"全局冷却时间减少 15%.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777护林员^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19200] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(吟游诗人)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"该物品不能与其他账户进行交易. ",
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼 2 点,攻击力 + 10. ",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%). ",
+			"精炼到8时, 根据[乐器操作]的等级, 攻击力+5增加. ",
+			"精炼到11级时, [振动混响] Lv. 2 普通物理攻击时有一定概率发动. ",
+			"(如果已学习更高级别,则在已学习级别激活)",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777吟游诗人^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19201] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(流浪者)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时, ",
+			"[舞蹈练习] 每级ATK+5.",
+			"当精炼到11时,",
+			"物理攻击时,一定概率发动自动法术[震动回响] 2Lv. ",
+			"(如果已学习更高级别,则在已学习级别激活)",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777流浪者^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19202] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(枪手)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时,",
+			"[穿刺射击] [神之锤] 技能冷却时间每升一级减少2秒, ",
+			"[地漂移] [龙尾] 技能冷却时间每升一级减少0.2秒.",
+			"当精炼到11时, ",
+			"[猩红标记] 技能冷却时间减少1秒.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777叛乱^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19203] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(忍者)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时, ",
+			"[基础手里剑投掷] 每升一级,远程物理攻击力增加1%.",
+			"当精炼到11时, ",
+			"[风马手里剑燃烧] 伤害增加30%.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777阳炎郎、奥博罗^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19204] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(超级新手)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时,",
+			"[双重攻击] 每2级暴击伤害增加10%.",
+			"当精炼到11时, ",
+			"额外增加ASPD+1和ATK+20.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777超级新手^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19205] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(召唤师)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼 2 点, ATK 和 MATK+ 增加 5 点.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时, ",
+			"[疯狂胡萝卜鞭打] [野人之魂] 技能冷却时间每升一级减少4秒. ",
+			"[猫薄荷流星] [猫薄荷流星] [猫薄荷流星] [猫薄荷流星] 每升一级,技能冷却时间减少8秒. ",
+			"[虾群] 每升一级,[美味虾党] 技能冷却时间减少4秒.",
+			"当精炼到11时, ",
+			"全局冷却时间减少 15%.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777召唤师^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19189] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(机械师)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时,",
+			"[过度信任] 每升一级暴击伤害增加 5%.",
+			"当精炼到11时, ",
+			"进行物理攻击时,发动[双重攻击] Lv 5.",
+			"(双倍攻击适用于所有武器)",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777机械^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19190] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(通用)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时,",
+			"[斧头训练] 每级增加[车龙卷风] 伤害5%.",
+			"当精炼到11时, ",
+			"物理攻击时,一定概率发动自动法术[车龙卷风] 2Lv. ",
+			"(如果已经学习了更高的级别,则它会在学习的级别激活.)",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777通用的^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19191] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(断头台十字)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每精炼2次,攻击力+10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时, ",
+			"[左手训练] 每级暴击伤害增加5%.",
+			"当精炼到11时, ",
+			"物理攻击时,一定概率暴击伤害提升20%,持续5秒.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777断头台十字架^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19192] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(暗影追击者)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每 2 次精炼,MATK + 10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时, ",
+			"[Dojak] 每级MATK + 5.",
+			"当精炼到11时, ",
+			"物理攻击时,一定概率发动自动魔法[魔力增幅] Lv 5.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777暗影追击者 ^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19193] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(术士)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽. ",
+			"",
+			"每 2 次精炼,MATK + 10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%). ",
+			"当细化到8时, ",
+			"[流星风暴] 、[朱红之主] [四旋涡] 每升一级,技能冷却时间减少0.5秒.",
+			"当精炼到11时, ",
+			"[魔力增幅] 施法时间减少50%.",
+			"(不过, 与毁灭之杖的[魔力增幅] 施法时间缩短选项不重叠.)",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777术士^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19194] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(女巫)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每 2 次精炼,MATK + 10.",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%).",
+			"当细化到8时,",
+			"[自动法术] 每升一级, [雷霆风暴] 和[火球术] 伤害增加5%.",
+			"当精炼到11时,",
+			"[闪电箭] 、[火焰箭] 伤害增加50%.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777巫师^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[25273] = {
+		unidentifiedDisplayName = "神秘勋章",
+		unidentifiedResourceName = "规寒碍拳内牢",
+		unidentifiedDescriptionName = {
+			"怪物赛车协会颁发的特殊金属制成的奖牌.",
+			"",
+			"^ffffff<NAVI>^4D4DFF[欧佩尔]^000000<INFO>hugel,73,73,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[神秘勋章鹤]^000000<INFO>hugel,96,168,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[神秘勋章鹤]^000000<INFO>hugel,64,79,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "神秘勋章",
+		identifiedResourceName = "规寒碍拳内牢",
+		identifiedDescriptionName = {
+			"怪物赛车协会颁发的特殊金属制成的奖牌.",
+			"",
+			"^ffffff<NAVI>^4D4DFF[欧佩尔]^000000<INFO>hugel,73,73,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[神秘勋章鹤]^000000<INFO>hugel,96,168,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[神秘勋章鹤]^000000<INFO>hugel,64,79,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25274] = {
+		unidentifiedDisplayName = "赛车鉴赏券",
+		unidentifiedResourceName = "g公扁背券萍南",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"怪物赛车协会发行的感谢券.",
+			"",
+			"^ffffff<NAVI>^4D4DFF[韦恩]^000000<INFO>hugel,68,79,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "赛车鉴赏券",
+		identifiedResourceName = "g公扁背券萍南",
+		identifiedDescriptionName = {
+			"怪物赛车协会发行的感谢券.",
+			"",
+			"^ffffff<NAVI>^4D4DFF[韦恩]^000000<INFO>hugel,68,79,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23234] = {
+		unidentifiedDisplayName = "神秘勋章鹤",
+		unidentifiedResourceName = "去磊愁扁惑磊2",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "神秘勋章鹤",
+		identifiedResourceName = "去磊愁扁惑磊2",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[14826] = {
+		unidentifiedDisplayName = "地下城旅行票",
+		unidentifiedResourceName = "墨橇扼疙技辑",
+		unidentifiedDescriptionName = {
+			"怪物赛车协会发行的特别旅行票.",
+			"你可以移动到下面的地下城之一.",
+			"",
+			"“伊兹鲁德地下城第六层”、“龙之巢第二层”、",
+			"“格雷斯海姆地下墓穴”、“莫斯科森林深处”",
+			"",
+			"警告 - 如果使用后1分钟内没有选择任何内容, 效果将不会生效.",
+			"",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "地下城旅行票",
+		identifiedResourceName = "墨橇扼疙技辑",
+		identifiedDescriptionName = {
+			"怪物赛车协会发行的特别旅行票.",
+			"你可以移动到下面的地下城之一.",
+			"",
+			"“伊兹鲁德地下城第六层”、“龙之巢第二层”、",
+			"“格雷斯海姆地下墓穴”、“莫斯科森林深处”",
+			"",
+			"警告 - 如果使用后1分钟内没有选择任何内容, 效果将不会生效.",
+			"",
+			"重量 : ^77777710^000000",
+			""
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29310] = {
+		unidentifiedDisplayName = "竞速(符文骑士) 1Lv",
+		unidentifiedResourceName = "付过籍拳",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(符文骑士)时,以下选项适用.^000000",
+			"使用[双手加速] 时, 对所有体型敌人的物理伤害增加5%, 持续60秒."
+		},
+		identifiedDisplayName = "竞速(符文骑士) 1Lv",
+		identifiedResourceName = "付过籍拳",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(符文骑士)时,以下选项适用.^000000",
+			"使用[双手加速] 时, 对所有体型敌人的物理伤害增加5%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29311] = {
+		unidentifiedDisplayName = "竞速(符文骑士) 2Lv",
+		unidentifiedResourceName = "付过籍拳",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(符文骑士)时,以下选项适用.^000000",
+			"进行物理攻击时,有较低几率消除 3 秒的体型惩罚.",
+			"使用[双手加速] 时, 对所有体型敌人的物理伤害增加7%, 持续60秒."
+		},
+		identifiedDisplayName = "竞速(符文骑士) 2Lv",
+		identifiedResourceName = "付过籍拳",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(符文骑士)时,以下选项适用.^000000",
+			"进行物理攻击时,有较低几率消除 3 秒的体型惩罚.",
+			"使用[双手加速] 时, 对所有体型敌人的物理伤害增加7%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29312] = {
+		unidentifiedDisplayName = "竞速(符文骑士) 3Lv",
+		unidentifiedResourceName = "付过籍拳",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(符文骑士)时,以下选项适用.^000000",
+			"物理攻击时,一定概率消除体型惩罚5秒.",
+			"使用[双手加速] 时, 攻击力+40, 持续60秒, 对各种体型敌人的物理攻击力增加15%."
+		},
+		identifiedDisplayName = "竞速(符文骑士) 3Lv",
+		identifiedResourceName = "付过籍拳",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(符文骑士)时,以下选项适用.^000000",
+			"物理攻击时,一定概率消除体型惩罚5秒.",
+			"使用[双手加速] 时, 攻击力+40, 持续60秒, 对各种体型敌人的物理攻击力增加15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29313] = {
+		unidentifiedDisplayName = "竞速(皇家卫队) 1Lv",
+		unidentifiedResourceName = "付唱狼颇祈全访",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(皇家卫队)时,以下选项适用.^000000",
+			"[护盾压制] 技能冷却时间减少0.5秒."
+		},
+		identifiedDisplayName = "竞速(皇家卫队) 1Lv",
+		identifiedResourceName = "付唱狼颇祈全访",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(皇家卫队)时,以下选项适用.^000000",
+			"[护盾压制] 技能冷却时间减少0.5秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29314] = {
+		unidentifiedDisplayName = "竞速(皇家卫队) 2Lv",
+		unidentifiedResourceName = "付唱狼颇祈全访",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(皇家卫队)时,以下选项适用.^000000",
+			"[盾压] 技能冷却时间减少1秒,",
+			"使用[土驱] 时, [盾压] 伤害增加20%, 持续60秒."
+		},
+		identifiedDisplayName = "竞速(皇家卫队) 2Lv",
+		identifiedResourceName = "付唱狼颇祈全访",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(皇家卫队)时,以下选项适用.^000000",
+			"[盾压] 技能冷却时间减少1秒,",
+			"使用[土驱] 时, [盾压] 伤害增加20%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29315] = {
+		unidentifiedDisplayName = "竞速(皇家卫队) 3Lv",
+		unidentifiedResourceName = "付唱狼颇祈全访",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(皇家卫队)时,以下选项适用.^000000",
+			"[盾压] 技能冷却时间减少1.5秒,",
+			"使用[土驱] 时, [盾压] 伤害增加60%, 持续60秒."
+		},
+		identifiedDisplayName = "竞速(皇家卫队) 3Lv",
+		identifiedResourceName = "付唱狼颇祈全访",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(皇家卫队)时,以下选项适用.^000000",
+			"[盾压] 技能冷却时间减少1.5秒,",
+			"使用[土驱] 时, [盾压] 伤害增加60%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29316] = {
+		unidentifiedDisplayName = "赛车(机械) 1Lv",
+		unidentifiedResourceName = "付过籍瘤",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(机械师)附魔时,以下选项适用.^000000",
+			"使用[肾上腺素激增] 时, CRI + 5, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(机械) 1Lv",
+		identifiedResourceName = "付过籍瘤",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(机械师)附魔时,以下选项适用.^000000",
+			"使用[肾上腺素激增] 时, CRI + 5, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29317] = {
+		unidentifiedDisplayName = "赛车(机械) 2Lv",
+		unidentifiedResourceName = "付过籍瘤",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(机械师)附魔时,以下选项适用.^000000",
+			"进行物理攻击时,有小概率对各种体型的敌人物理攻击力增加10%,持续5秒.",
+			"使用[肾上腺素激增] 时, CRI+10, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(机械) 2Lv",
+		identifiedResourceName = "付过籍瘤",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(机械师)附魔时,以下选项适用.^000000",
+			"进行物理攻击时,有小概率对各种体型的敌人物理攻击力增加10%,持续5秒.",
+			"使用[肾上腺素激增] 时, CRI+10, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29318] = {
+		unidentifiedDisplayName = "赛车(机械) 3Lv",
+		unidentifiedResourceName = "付过籍瘤",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(机械师)附魔时,以下选项适用.^000000",
+			"进行物理攻击时,有一定概率对各种体型的敌人物理攻击力增加20%,持续10秒.",
+			"使用[肾上腺素激增] 时, CRI+20, 暴击伤害增加10%, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(机械) 3Lv",
+		identifiedResourceName = "付过籍瘤",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(机械师)附魔时,以下选项适用.^000000",
+			"进行物理攻击时,有一定概率对各种体型的敌人物理攻击力增加20%,持续10秒.",
+			"使用[肾上腺素激增] 时, CRI+20, 暴击伤害增加10%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29319] = {
+		unidentifiedDisplayName = "赛车(通用) 1Lv",
+		unidentifiedResourceName = "付唱狼颇祈辑堡",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(通用)时,以下选项适用.^000000",
+			"使用[推车强化] 时, 对各种体型的敌人的物理攻击力增加5%."
+		},
+		identifiedDisplayName = "赛车(通用) 1Lv",
+		identifiedResourceName = "付唱狼颇祈辑堡",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(通用)时,以下选项适用.^000000",
+			"使用[推车强化] 时, 对各种体型的敌人的物理攻击力增加5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29320] = {
+		unidentifiedDisplayName = "赛车(通用) 2Lv",
+		unidentifiedResourceName = "付唱狼颇祈辑堡",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(通用)时,以下选项适用.^000000",
+			"[曼陀罗之嚎] 技能冷却时间减少1秒,",
+			"使用[推车加速] 时, 对所有体型敌人的物理伤害增加7%, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(通用) 2Lv",
+		identifiedResourceName = "付唱狼颇祈辑堡",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(通用)时,以下选项适用.^000000",
+			"[曼陀罗之嚎] 技能冷却时间减少1秒,",
+			"使用[推车加速] 时, 对所有体型敌人的物理伤害增加7%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29321] = {
+		unidentifiedDisplayName = "赛车(通用) 3Lv",
+		unidentifiedResourceName = "付唱狼颇祈辑堡",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(通用)时,以下选项适用.^000000",
+			"[曼陀罗之嚎] 技能冷却时间减少5秒,",
+			"使用[推车强化] 时, 攻击力+40, 持续60秒, 对各种体型敌人的物理攻击力增加15%."
+		},
+		identifiedDisplayName = "赛车(通用) 3Lv",
+		identifiedResourceName = "付唱狼颇祈辑堡",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(通用)时,以下选项适用.^000000",
+			"[曼陀罗之嚎] 技能冷却时间减少5秒,",
+			"使用[推车强化] 时, 攻击力+40, 持续60秒, 对各种体型敌人的物理攻击力增加15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29322] = {
+		unidentifiedDisplayName = "竞速(断头台十字) 1Lv",
+		unidentifiedResourceName = "付过籍鞠",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(断头台十字)时,以下选项适用.^000000",
+			"使用[赋予致命毒药] 时, 60秒内攻击力+20."
+		},
+		identifiedDisplayName = "竞速(断头台十字) 1Lv",
+		identifiedResourceName = "付过籍鞠",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(断头台十字)时,以下选项适用.^000000",
+			"使用[赋予致命毒药] 时, 60秒内攻击力+20."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29323] = {
+		unidentifiedDisplayName = "竞速(断头台十字) 2Lv ",
+		unidentifiedResourceName = "付过籍鞠",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(断头台十字)时,以下选项适用.^000000",
+			"对各种体型的敌人的物理攻击力增加5%.",
+			"[赋予致命毒药] 使用时, 攻击力+30, 持续60秒."
+		},
+		identifiedDisplayName = "竞速(断头台十字) 2Lv ",
+		identifiedResourceName = "付过籍鞠",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(断头台十字)时,以下选项适用.^000000",
+			"对各种体型的敌人的物理攻击力增加5%.",
+			"[赋予致命毒药] 使用时, 攻击力+30, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29324] = {
+		unidentifiedDisplayName = "竞速(断头台十字) 3Lv ",
+		unidentifiedResourceName = "付过籍鞠",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(断头台十字)时,以下选项适用.^000000",
+			"对各种体型的敌人的物理攻击力增加10%.",
+			"[赋予致命毒药] 使用时攻击力+50、显色力+10, 持续60秒."
+		},
+		identifiedDisplayName = "竞速(断头台十字) 3Lv ",
+		identifiedResourceName = "付过籍鞠",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(断头台十字)时,以下选项适用.^000000",
+			"对各种体型的敌人的物理攻击力增加10%.",
+			"[赋予致命毒药] 使用时攻击力+50、显色力+10, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29325] = {
+		unidentifiedDisplayName = "赛车(暗影追击者) 1Lv",
+		unidentifiedResourceName = "付唱狼颇祈去捣",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(暗影追逐者)附魔时,以下选项适用.^000000",
+			"使用[自动暗影术] 时, CRI+5, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(暗影追击者) 1Lv",
+		identifiedResourceName = "付唱狼颇祈去捣",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(暗影追逐者)附魔时,以下选项适用.^000000",
+			"使用[自动暗影术] 时, CRI+5, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29326] = {
+		unidentifiedDisplayName = "赛车(暗影追击者) 2Lv",
+		unidentifiedResourceName = "付唱狼颇祈去捣",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(暗影追逐者)附魔时,以下选项适用.^000000",
+			"水、风、土、火魔法攻击力增加5%.",
+			"使用[自动暗影术] 时, CRI+10, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(暗影追击者) 2Lv",
+		identifiedResourceName = "付唱狼颇祈去捣",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(暗影追逐者)附魔时,以下选项适用.^000000",
+			"水、风、土、火魔法攻击力增加5%.",
+			"使用[自动暗影术] 时, CRI+10, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29327] = {
+		unidentifiedDisplayName = "赛车(暗影追击者) 3Lv",
+		unidentifiedResourceName = "付唱狼颇祈去捣",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(暗影追逐者)附魔时,以下选项适用.^000000",
+			"水、风、土、火魔法攻击力增加15%.",
+			"使用[自动暗影术] 时, CRI+20, MATK+30, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(暗影追击者) 3Lv",
+		identifiedResourceName = "付唱狼颇祈去捣",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(暗影追逐者)附魔时,以下选项适用.^000000",
+			"水、风、土、火魔法攻击力增加15%.",
+			"使用[自动暗影术] 时, CRI+20, MATK+30, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29328] = {
+		unidentifiedDisplayName = "竞速(术士) 1Lv",
+		unidentifiedResourceName = "付过籍荐",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(术士)附魔时,以下选项适用.^000000",
+			"[冰霜缥缈] 技能冷却时间减少1秒."
+		},
+		identifiedDisplayName = "竞速(术士) 1Lv",
+		identifiedResourceName = "付过籍荐",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(术士)附魔时,以下选项适用.^000000",
+			"[冰霜缥缈] 技能冷却时间减少1秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29329] = {
+		unidentifiedDisplayName = "赛车(术士) 2Lv",
+		unidentifiedResourceName = "付过籍荐",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(术士)附魔时,以下选项适用.^000000",
+			"[冰霜缥缈] 技能冷却时间减少3秒.",
+			"[冰霜杰克] 伤害增加30%."
+		},
+		identifiedDisplayName = "赛车(术士) 2Lv",
+		identifiedResourceName = "付过籍荐",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(术士)附魔时,以下选项适用.^000000",
+			"[冰霜缥缈] 技能冷却时间减少3秒.",
+			"[冰霜杰克] 伤害增加30%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29330] = {
+		unidentifiedDisplayName = "竞速(术士) 3Lv",
+		unidentifiedResourceName = "付过籍荐",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(术士)附魔时,以下选项适用.^000000",
+			"[冰霜缥缈] 技能冷却时间缩短5秒.",
+			"[冰霜杰克] 伤害增加60%."
+		},
+		identifiedDisplayName = "竞速(术士) 3Lv ",
+		identifiedResourceName = "付过籍荐",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(术士)附魔时,以下选项适用.^000000",
+			"[冰霜缥缈] 技能冷却时间缩短5秒.",
+			"[冰霜杰克] 伤害增加60%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29331] = {
+		unidentifiedDisplayName = "赛车(女巫) 1Lv",
+		unidentifiedResourceName = "倔绢嘿篮乔何炼阿",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(巫师)附魔时,以下选项适用.^000000",
+			"进行近战物理攻击时, 小概率会触发自动法术[冰霜新星] 1Lv."
+		},
+		identifiedDisplayName = "赛车(女巫) 1Lv",
+		identifiedResourceName = "倔绢嘿篮乔何炼阿",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(巫师)附魔时,以下选项适用.^000000",
+			"进行近战物理攻击时, 小概率会触发自动法术[冰霜新星] 1Lv."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29332] = {
+		unidentifiedDisplayName = "赛车(女巫) 2Lv",
+		unidentifiedResourceName = "倔绢嘿篮乔何炼阿",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(巫师)附魔时,以下选项适用.^000000",
+			"4级时, 进行近战物理攻击时, 小概率会发动自动法术[冰霜新星] .",
+			"使用[强击] 时, 弩箭技能伤害提升30%, 持续60秒. "
+		},
+		identifiedDisplayName = "赛车(女巫) 2Lv",
+		identifiedResourceName = "倔绢嘿篮乔何炼阿",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(巫师)附魔时,以下选项适用.^000000",
+			"4级时, 进行近战物理攻击时, 小概率会发动自动法术[冰霜新星] .",
+			"使用[强击] 时, 弩箭技能伤害提升30%, 持续60秒. "
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29333] = {
+		unidentifiedDisplayName = "赛车(巫师) 3Lv",
+		unidentifiedResourceName = "倔绢嘿篮乔何炼阿",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(巫师)附魔时,以下选项适用.^000000",
+			"物理攻击时, 一定概率发动自动法术[冰霜新星] 7Lv.",
+			"使用[强击] 时, 弩箭技能伤害提升60%, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(巫师) 3Lv",
+		identifiedResourceName = "倔绢嘿篮乔何炼阿",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(巫师)附魔时,以下选项适用.^000000",
+			"进行近战物理攻击时, 有一定概率发动自动法术[冰霜新星] 7Lv.",
+			"使用[强击] 时, 弩箭技能伤害提升60%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29334] = {
+		unidentifiedDisplayName = "赛车(大主教) 1Lv",
+		unidentifiedResourceName = "付过籍己",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(大主教)时,以下选项适用.^000000",
+			"[Adoramus] 伤害增加 20%."
+		},
+		identifiedDisplayName = "赛车(大主教) 1Lv",
+		identifiedResourceName = "付过籍己",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(大主教)时,以下选项适用.^000000",
+			"[Adoramus] 伤害增加 20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29335] = {
+		unidentifiedDisplayName = "赛车(大主教) 2Lv",
+		unidentifiedResourceName = "付过籍己",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(大主教)时,以下选项适用.^000000",
+			"物理攻击时, 小概率3秒内不消耗宝石.",
+			"[Adoramus] 伤害增加30%."
+		},
+		identifiedDisplayName = "赛车(大主教) 2Lv",
+		identifiedResourceName = "付过籍己",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(大主教)时,以下选项适用.^000000",
+			"物理攻击时, 小概率3秒内不消耗宝石.",
+			"[Adoramus] 伤害增加30%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29336] = {
+		unidentifiedDisplayName = "赛车(大主教) 3Lv",
+		unidentifiedResourceName = "付过籍己",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(大主教)时,以下选项适用.^000000",
+			"进行物理攻击时, 有一定概率5秒内不消耗宝石.",
+			"[Adoramus] 伤害增加60%."
+		},
+		identifiedDisplayName = "赛车(大主教) 3Lv",
+		identifiedResourceName = "付过籍己",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(大主教)时,以下选项适用.^000000",
+			"进行物理攻击时, 有一定概率5秒内不消耗宝石.",
+			"[Adoramus] 伤害增加60%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29337] = {
+		unidentifiedDisplayName = "赛车(苏拉) 1Lv",
+		unidentifiedResourceName = "付唱狼颇祈炔去",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽 (Sura) 时,以下选项适用.^000000",
+			"[修罗新谭] 伤害增加20%."
+		},
+		identifiedDisplayName = "赛车(苏拉) 1Lv",
+		identifiedResourceName = "付唱狼颇祈炔去",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽 (Sura) 时,以下选项适用.^000000",
+			"[修罗新谭] 伤害增加20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29338] = {
+		unidentifiedDisplayName = "赛车(苏拉) 2Lv",
+		unidentifiedResourceName = "付唱狼颇祈炔去",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽 (Sura) 时,以下选项适用.^000000",
+			"使用[素拉什子弹] 时, [聚光器] 有低概率被激活.",
+			"[修罗新谭] 伤害增加30%."
+		},
+		identifiedDisplayName = "赛车(苏拉) 2Lv",
+		identifiedResourceName = "付唱狼颇祈炔去",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽 (Sura) 时,以下选项适用.^000000",
+			"使用[素拉什子弹] 时, [聚光器] 有低概率被激活.",
+			"[修罗新谭] 伤害增加30%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29339] = {
+		unidentifiedDisplayName = "赛车(苏拉) 3Lv",
+		unidentifiedResourceName = "付唱狼颇祈炔去",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽 (Sura) 时,以下选项适用.^000000",
+			"使用[须神子弹] 时, 有一定概率启动[聚光器] .",
+			"[修罗新谭] 伤害增加60%."
+		},
+		identifiedDisplayName = "赛车(苏拉) 3Lv",
+		identifiedResourceName = "付唱狼颇祈炔去",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽 (Sura) 时,以下选项适用.^000000",
+			"使用[须神子弹] 时, 有一定概率启动[聚光器] .",
+			"[修罗新谭] 伤害增加60%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29340] = {
+		unidentifiedDisplayName = "赛车(游侠) 1Lv",
+		unidentifiedResourceName = "付过籍浅",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(游侠)时,以下选项适用.^000000",
+			"使用[恐惧微风] 时, 远程物理攻击力增加2%, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(游侠) 1Lv",
+		identifiedResourceName = "付过籍浅",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(游侠)时,以下选项适用.^000000",
+			"使用[恐惧微风] 时, 远程物理攻击力增加2%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29341] = {
+		unidentifiedDisplayName = "赛车(游侠) 2Lv",
+		unidentifiedResourceName = "付过籍浅",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(游侠)时,以下选项适用.^000000",
+			"[箭矢风暴] 技能冷却时间减少0.5秒.",
+			"使用[恐惧微风] 时, 远程物理攻击力增加4%, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(游侠) 2Lv",
+		identifiedResourceName = "付过籍浅",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(游侠)时,以下选项适用.^000000",
+			"[箭矢风暴] 技能冷却时间减少0.5秒.",
+			"使用[恐惧微风] 时, 远程物理攻击力增加4%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29342] = {
+		unidentifiedDisplayName = "赛车(游侠) 3Lv",
+		unidentifiedResourceName = "付过籍浅",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(游侠)时,以下选项适用.^000000",
+			"[箭矢风暴] 技能冷却时间减少1.5秒.",
+			"使用[恐惧微风] 时, 远程物理攻击力增加7%, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(游侠) 3Lv",
+		identifiedResourceName = "付过籍浅",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(游侠)时,以下选项适用.^000000",
+			"[箭矢风暴] 技能冷却时间减少1.5秒.",
+			"使用[恐惧微风] 时, 远程物理攻击力增加7%, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29343] = {
+		unidentifiedDisplayName = "赛车(流浪者和吟游诗人) 1Lv",
+		unidentifiedResourceName = "付唱狼颇祈归篮",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(流浪者)/赛车帽(吟游诗人)时,以下选项适用.^000000",
+			"ATK + 20."
+		},
+		identifiedDisplayName = "赛车(流浪者和吟游诗人) 1Lv",
+		identifiedResourceName = "付唱狼颇祈归篮",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(流浪者)/赛车帽(吟游诗人)时,以下选项适用.^000000",
+			"ATK + 20."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29344] = {
+		unidentifiedDisplayName = "赛车(流浪者和吟游诗人) 2Lv",
+		unidentifiedResourceName = "付唱狼颇祈归篮",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(流浪者)/赛车帽(吟游诗人)时,以下选项适用.^000000",
+			"ATK + 30.",
+			"使用[冲向风车] 或[月光小夜曲] 时, 无视普通敌人25%的物理防御, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(流浪者和吟游诗人) 2Lv",
+		identifiedResourceName = "付唱狼颇祈归篮",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(流浪者)/赛车帽(吟游诗人)时,以下选项适用.^000000",
+			"ATK + 30.",
+			"使用[冲向风车] 或[月光小夜曲] 时, 无视普通敌人25%的物理防御, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29345] = {
+		unidentifiedDisplayName = "赛车(流浪者和吟游诗人) 3Lv",
+		unidentifiedResourceName = "付唱狼颇祈归篮",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(流浪者)/赛车帽(吟游诗人)时,以下选项适用.^000000",
+			"ATK + 40.",
+			"使用[冲向风车] 或[月光小夜曲] 时, 无视普通敌人50%的物理防御, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(流浪者和吟游诗人) 3Lv",
+		identifiedResourceName = "付唱狼颇祈归篮",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(流浪者)/赛车帽(吟游诗人)时,以下选项适用.^000000",
+			"ATK + 40.",
+			"使用[冲向风车] 或[月光小夜曲] 时, 无视普通敌人50%的物理防御, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29346] = {
+		unidentifiedDisplayName = "赛车(枪手) 1Lv",
+		unidentifiedResourceName = "沥拳藕",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(枪手)附魔时,以下选项适用.^000000",
+			"使用[破碎风暴] 时, [驱逐破坏者] 伤害增加20%, 持续5秒."
+		},
+		identifiedDisplayName = "赛车(枪手) 1Lv",
+		identifiedResourceName = "沥拳藕",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(枪手)附魔时,以下选项适用.^000000",
+			"使用[破碎风暴] 时, [驱逐破坏者] 伤害增加20%, 持续5秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29347] = {
+		unidentifiedDisplayName = "赛车(枪手) 2Lv",
+		unidentifiedResourceName = "沥拳藕",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(枪手)附魔时,以下选项适用.^000000",
+			"[驱逐破坏者] 技能冷却时间减少1秒.",
+			"使用[破碎风暴] 时, [放逐破坏者] 伤害增加40%, 持续7秒."
+		},
+		identifiedDisplayName = "赛车(枪手) 2Lv",
+		identifiedResourceName = "沥拳藕",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(枪手)附魔时,以下选项适用.^000000",
+			"[驱逐破坏者] 技能冷却时间减少1秒.",
+			"使用[破碎风暴] 时, [放逐破坏者] 伤害增加40%, 持续7秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29348] = {
+		unidentifiedDisplayName = "赛车(枪手) 3Lv",
+		unidentifiedResourceName = "沥拳藕",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(枪手)附魔时,以下选项适用.^000000",
+			"[放逐克星] 技能冷却时间缩短1.5秒.",
+			"使用[粉碎风暴] 时, [放逐破坏者] 伤害增加60%, 持续10秒."
+		},
+		identifiedDisplayName = "赛车(枪手) 3Lv",
+		identifiedResourceName = "沥拳藕",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(枪手)附魔时,以下选项适用.^000000",
+			"[放逐克星] 技能冷却时间缩短1.5秒.",
+			"使用[粉碎风暴] 时, [放逐破坏者] 伤害增加60%, 持续10秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29349] = {
+		unidentifiedDisplayName = "赛车(忍者) 1Lv",
+		unidentifiedResourceName = "阂狼何利",
+		unidentifiedDescriptionName = {
+			"^800080为赛车帽(忍者)附魔时,适用以下选项.^000000",
+			"ATK + 10, MATK + 10.",
+			"使用[暗影武士] 时, 暴击伤害提升5%, 持续60秒.",
+			"[阴月幻象] 学习5级时,可变施法减少3%."
+		},
+		identifiedDisplayName = "赛车(忍者) 1Lv",
+		identifiedResourceName = "阂狼何利",
+		identifiedDescriptionName = {
+			"^800080为赛车帽(忍者)附魔时,适用以下选项.^000000",
+			"ATK + 10, MATK + 10.",
+			"使用[暗影武士] 时, 暴击伤害提升5%, 持续60秒.",
+			"[阴月幻象] 学习5级时,可变施法减少3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29350] = {
+		unidentifiedDisplayName = "赛车(忍者) 2Lv",
+		unidentifiedResourceName = "阂狼何利",
+		unidentifiedDescriptionName = {
+			"^800080为赛车帽(忍者)附魔时,适用以下选项.^000000",
+			"ATK + 15, MATK + 15.",
+			"进行物理攻击时,有较低几率消除 3 秒的体型惩罚.",
+			"使用[暗影武士] 时, 暴击伤害提升10%, 持续60秒.",
+			"[阴月幻象] 习得5级后,可变施法减少7%."
+		},
+		identifiedDisplayName = "赛车(忍者) 2Lv",
+		identifiedResourceName = "阂狼何利",
+		identifiedDescriptionName = {
+			"^800080为赛车帽(忍者)附魔时,适用以下选项.^000000",
+			"ATK + 15, MATK + 15.",
+			"进行物理攻击时,有较低几率消除 3 秒的体型惩罚.",
+			"使用[暗影武士] 时, 暴击伤害提升10%, 持续60秒.",
+			"[阴月幻象] 习得5级后,可变施法减少7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29351] = {
+		unidentifiedDisplayName = "赛车(忍者) 3Lv",
+		unidentifiedResourceName = "阂狼何利",
+		unidentifiedDescriptionName = {
+			"^800080为赛车帽(忍者)附魔时,适用以下选项.^000000",
+			"ATK + 20, MATK + 20.",
+			"物理攻击时,一定概率消除体型惩罚5秒.",
+			"使用[暗影武士] 时, 暴击伤害提升30%, 持续60秒.",
+			"[阴月幻象] 习得5级时,可变施法减少15%."
+		},
+		identifiedDisplayName = "赛车(忍者) 3Lv",
+		identifiedResourceName = "阂狼何利",
+		identifiedDescriptionName = {
+			"^800080为赛车帽(忍者)附魔时,适用以下选项.^000000",
+			"ATK + 20, MATK + 20.",
+			"物理攻击时,一定概率消除体型惩罚5秒.",
+			"使用[暗影武士] 时, 暴击伤害提升30%, 持续60秒.",
+			"[阴月幻象] 习得5级时,可变施法减少15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29352] = {
+		unidentifiedDisplayName = "赛车(超级新手) 1Lv",
+		unidentifiedResourceName = "厘固籍康",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(超级新手)时,以下选项适用.^000000",
+			"MHP + 500, ATK + 10."
+		},
+		identifiedDisplayName = "赛车(超级新手) 1Lv",
+		identifiedResourceName = "厘固籍康",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(超级新手)时,以下选项适用.^000000",
+			"MHP + 500, ATK + 10."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29353] = {
+		unidentifiedDisplayName = "赛车(超级新手) 2Lv",
+		unidentifiedResourceName = "厘固籍康",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(超级新手)时,以下选项适用.^000000",
+			"MHP +1000, ATK + 20.",
+			"[购物车提升] 1Lv可用.",
+			"使用[推车强化] 时, 攻击力+30额外增加, 持续60秒."
+		},
+		identifiedDisplayName = "赛车(超级新手) 2Lv",
+		identifiedResourceName = "厘固籍康",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(超级新手)时,以下选项适用.^000000",
+			"MHP +1000, ATK + 20.",
+			"[购物车提升] 1Lv可用.",
+			"使用[推车强化] 时, 攻击力+30额外增加, 持续60秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29354] = {
+		unidentifiedDisplayName = "赛车(超级新手) 3Lv",
+		unidentifiedResourceName = "厘固籍康",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(超级新手)时,以下选项适用.^000000",
+			"MHP + 1500, ATK + 40.",
+			"[购物车提升] Lv 3 可用.",
+			"使用[推车强化] 时, 攻击力+50额外增加, 持续120秒."
+		},
+		identifiedDisplayName = "赛车(超级新手) 3Lv",
+		identifiedResourceName = "厘固籍康",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(超级新手)时,以下选项适用.^000000",
+			"MHP + 1500, ATK + 40.",
+			"[购物车提升] Lv 3 可用.",
+			"使用[推车强化] 时, 攻击力+50额外增加, 持续120秒."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29355] = {
+		unidentifiedDisplayName = "竞速(召唤师) 1Lv",
+		unidentifiedResourceName = "喉发墓",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(召唤者)附魔时,以下选项适用.^000000",
+			"[猫薄荷流星] 、[疯狂胡萝卜鞭打] 伤害增加10%."
+		},
+		identifiedDisplayName = "竞速(召唤师) 1Lv",
+		identifiedResourceName = "喉发墓",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(召唤者)附魔时,以下选项适用.^000000",
+			"[猫薄荷流星] 、[疯狂胡萝卜鞭打] 伤害增加10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29356] = {
+		unidentifiedDisplayName = "竞速(召唤师) 2Lv",
+		unidentifiedResourceName = "喉发墓",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(召唤者)附魔时,以下选项适用.^000000",
+			"固定施法时间减少 0.2 秒.",
+			"[猫薄荷流星] 、[疯狂胡萝卜鞭打] 伤害增加20%."
+		},
+		identifiedDisplayName = "竞速(召唤师) 2Lv",
+		identifiedResourceName = "喉发墓",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(召唤者)附魔时,以下选项适用.^000000",
+			"固定施法时间减少 0.2 秒.",
+			"[猫薄荷流星] 、[疯狂胡萝卜鞭打] 伤害增加20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29357] = {
+		unidentifiedDisplayName = "竞速(召唤师) 3Lv",
+		unidentifiedResourceName = "喉发墓",
+		unidentifiedDescriptionName = {
+			"^800080当为赛车帽(召唤者)附魔时,以下选项适用.^000000",
+			"固定施法时间减少 0.5 秒.",
+			"[猫薄荷流星] 、[疯狂胡萝卜鞭打] 伤害增加60%."
+		},
+		identifiedDisplayName = "竞速(召唤师) 3Lv",
+		identifiedResourceName = "喉发墓",
+		identifiedDescriptionName = {
+			"^800080当为赛车帽(召唤者)附魔时,以下选项适用.^000000",
+			"固定施法时间减少 0.5 秒.",
+			"[猫薄荷流星] 、[疯狂胡萝卜鞭打] 伤害增加60%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25307] = {
+		unidentifiedDisplayName = "拉特朗怪物门票",
+		unidentifiedResourceName = "积疙焊氰刘辑",
+		unidentifiedDescriptionName = {
+			"这是由费率和公司提供的证明票,上面写有您在怪物比赛中下注的号码. ",
+			"它只能通过相关公司获得.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "拉特朗怪物门票",
+		identifiedResourceName = "积疙焊氰刘辑",
+		identifiedDescriptionName = {
+			"这是由费率和公司提供的证明票,上面写有您在怪物比赛中下注的号码. ",
+			"它只能通过相关公司获得.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23317] = {
+		unidentifiedDisplayName = "[非卖品]樱花年糕",
+		unidentifiedResourceName = "孩采蔓侗",
+		unidentifiedDescriptionName = {
+			"由樱花花瓣制成的零食,非常适合春季野餐.",
+			"使小型、中型、大型敌人受到的伤害减少 5%, 持续 5 分钟.",
+			"HP、SP恢复30%.",
+			"",
+			"重量 : ^7777773^000000"
+		},
+		identifiedDisplayName = "[非卖品]樱花年糕",
+		identifiedResourceName = "孩采蔓侗",
+		identifiedDescriptionName = {
+			"由樱花花瓣制成的零食,非常适合春季野餐.",
+			"使小型、中型、大型敌人受到的伤害减少 5%, 持续 5 分钟.",
+			"HP、SP恢复30%.",
+			"",
+			"重量 : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19256] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者马克",
+		identifiedResourceName = "厚扁呈付农",
+		identifiedDescriptionName = {
+			"诸神黄昏初学者佩戴的标记. 如果您找到了它,让我们引导您穿越 Ragnarok 的世界. ",
+			"据说,作为第三职业,当你熟悉它时,这个选择可能会消失.",
+			"",
+			"怪物获得经验+10%, 物品掉落率+10%.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"限制级别 : ^77777799^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1348,
+		costume = false
+	},
+	[23325] = {
+		unidentifiedDisplayName = "初学者升级包",
+		unidentifiedResourceName = "货秦急拱惑磊",
+		unidentifiedDescriptionName = {
+			"专为初次体验诸神黄昏的冒险家设计的盒子.",
+			"盒子外面写满了仙境传说官方的欢迎问候.",
+			"它充满了各种可以帮助您玩游戏的物品.",
+			" ",
+			"[非卖品]5本战斗手册",
+			"[非卖品]舌菜10盒",
+			"[非卖品]10盒沙漠蝎子沙蒸",
+			"[非卖品]鸡尾酒龙之息10盒",
+			"[非卖品]Hvergelmir酒10盒",
+			"[非卖品]仙炖10盒",
+			"[非卖品]九尾狐尾菜10盒",
+			"[非卖品]一盒10张祝福卷轴",
+			"[非卖品]一盒10张敏捷增加卷轴",
+			"[非卖品]泡泡糖10盒",
+			"[非卖品]小生命水10盒",
+			"[非卖品]磨料磨具10盒",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "初学者升级包",
+		identifiedResourceName = "货秦急拱惑磊",
+		identifiedDescriptionName = {
+			"专为初次体验诸神黄昏的冒险家设计的盒子.",
+			"盒子外面写满了仙境传说官方的欢迎问候.",
+			"它充满了各种可以帮助您玩游戏的物品.",
+			" ",
+			"[非卖品]5本战斗手册",
+			"[非卖品]舌菜10盒",
+			"[非卖品]10盒沙漠蝎子沙蒸",
+			"[非卖品]鸡尾酒龙之息10盒",
+			"[非卖品]Hvergelmir酒10盒",
+			"[非卖品]仙炖10盒",
+			"[非卖品]九尾狐尾菜10盒",
+			"[非卖品]一盒10张祝福卷轴",
+			"[非卖品]一盒10张敏捷增加卷轴",
+			"[非卖品]泡泡糖10盒",
+			"[非卖品]小生命水10盒",
+			"[非卖品]磨料磨具10盒",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[28534] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "匙努府胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "RKC参与纪念吊坠",
+		identifiedResourceName = "RKC_2017_Pendant",
+		identifiedDescriptionName = {
+			"一款充满神秘力量的铂金吊坠,专为纪念 2017 年 RKC 而设计.",
+			"_",
+			"使用技能时SP消耗减少3%.",
+			"增加攻击速度(攻击后延迟减少 5%).",
+			"变量铸造减少 5%.",
+			"ATK, MATK + 3%.",
+			"进行物理攻击时, 有一定概率(1%)将造成的伤害的3%吸收为生命值.",
+			"使用魔法攻击时, 有一定概率(1%)5次恢复每秒300生命值.",
+			"_ ",
+			"系列 : ^777777配件(左)^000000防御 : ^7777770^000000",
+			"重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[28535] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "傅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "RKC冠军戒指",
+		identifiedResourceName = "RKC_2017_Ring",
+		identifiedDescriptionName = {
+			"一款充满神秘力量的铂金吊坠,专为纪念 2017 年 RKC 而设计. ",
+			"_ ",
+			"使用技能时SP消耗减少7%. ",
+			"远程物理攻击力增加3%.",
+			"暴击伤害增加 3%.",
+			"所有属性魔法伤害增加3%.",
+			"进行物理攻击时, 有一定概率(1%)将造成的伤害的1%吸收为SP. ",
+			"进行魔法攻击时, 有一定概率(1%)5次每秒恢复100点SP.",
+			"_",
+			"配备RKC参与纪念吊坠时,",
+			"全局冷却时间减少 3%, 固定施法时间减少 0.1 秒.",
+			"_",
+			"系列 : ^777777配件(右)^000000防御 : ^7777770^000000",
+			"重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20142] = {
+		unidentifiedDisplayName = "眼镜",
+		unidentifiedResourceName = "臂贰胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装心基金会",
+		identifiedResourceName = "窍飘颇款单捞记",
+		identifiedDescriptionName = {
+			"这是有钱人家才会戴的太阳镜,但实际上,据说受到一定数量的老年女士的青睐,但原因不明.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 92,
+		costume = true
+	},
+	[20148] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装贵族帽子",
+		identifiedResourceName = "畴喉寝",
+		identifiedDescriptionName = {
+			"一顶让你想拿着步枪站在圆桌旁的帽子.",
+			"丰富、时尚的衣领装饰脱颖而出.",
+			"",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 466,
+		costume = true
+	},
+	[31182] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装侧帽",
+		identifiedResourceName = "荤捞靛母",
+		identifiedDescriptionName = {
+			"某个时代的军帽,略带倾斜的设计,时尚. 传闻有一套与帽子相配的制服. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 529,
+		costume = true
+	},
+	[20348] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装外出帽子",
+		identifiedResourceName = "唱甸捞葛磊",
+		identifiedDescriptionName = {
+			"这是一顶时尚的帽子,可以遮挡阳光,防止你外出玩耍时脸被晒伤.下雨天可能很难穿.",
+			"",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 117,
+		costume = true
+	},
+	[31157] = {
+		unidentifiedDisplayName = "头巾",
+		unidentifiedResourceName = "赣府鹅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装魂环",
+		identifiedResourceName = "康去绊府",
+		identifiedDescriptionName = {
+			"当死者升入天堂时,戴上一顶类似于头上出现的戒指的帽子并不能让你拥有隐形的能力.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 69,
+		costume = true
+	},
+	[17894] = {
+		unidentifiedDisplayName = "新的 Gitnaegra 包",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"“对于那些想在一小时内看到好结果的人!”一个盒子,上面写着这个. ",
+			"内含2本战斗手册、6张闪亮防御卷轴、6棵神秘生命树、1个小法力水、2个提尔的祝福和1个血色卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000组件中, 闪耀防御卷轴、神秘生命之水、小魔力水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "新的 Gitnaegra 包",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"“对于那些想在一小时内看到好结果的人!”一个盒子,上面写着这个. ",
+			"内含2本战斗手册、6张闪亮防御卷轴、6棵神秘生命树、1个小法力水、2个提尔的祝福和1个血色卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000组件中, 闪耀防御卷轴、神秘生命之水、小魔力水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17895] = {
+		unidentifiedDisplayName = "新Gitnaegra套餐10套",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"“对于那些想在一小时内看到好结果的人!”一个盒子,上面写着这个. ",
+			"包含20本战斗手册、60本闪亮防御卷轴、60本神秘生命树、10本小型法力树、20本提尔祝福、11本血色卷轴.  ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000组件中, 闪耀防御卷轴、神秘生命之水、小魔力水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "新Gitnaegra套餐10套",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"“对于那些想在一小时内看到好结果的人!”一个盒子,上面写着这个. ",
+			"包含20本战斗手册、60本闪亮防御卷轴、60本神秘生命树、10本小型法力树、20本提尔祝福、11本血色卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000组件中, 闪耀防御卷轴、神秘生命之水、小魔力水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23537] = {
+		unidentifiedDisplayName = "血腥卷轴",
+		unidentifiedResourceName = "侩堡券惯胶农费",
+		unidentifiedDescriptionName = {
+			"限时血色卷轴. ",
+			"可以获得武器11级精炼礼券、铠甲11级精炼礼券、诅咒骑士盾箱、远古英雄战靴、皇家弓、暗影法杖、铁钉等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "血腥卷轴",
+		identifiedResourceName = "侩堡券惯胶农费",
+		identifiedDescriptionName = {
+			"限时血色卷轴. ",
+			"可以获得武器11级精炼礼券、铠甲11级精炼礼券、诅咒骑士盾箱、远古英雄战靴、皇家弓、暗影法杖、铁钉等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19310] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者帽",
+		identifiedResourceName = "切积葛",
+		identifiedDescriptionName = {
+			"当初学者冒险家开始另一次冒险时给予他们的上限.",
+			"无法熔炼.",
+			"所有基本状态+1, MHP+200.",
+			"^ffffff_^000000 ",
+			"装备初学者套装、披风、靴子、戒指时, ",
+			"受到物理攻击时, 有小概率(2%)恢复500点生命值和50点SP.",
+			"进行魔法攻击时, 有较低几率(2%)恢复250点生命值和100点SP.",
+			"如果基础等级为125以上, 则ATK+10, MATK+10.",
+			"如果基础等级为130或更高, MHP + 1%, MSP + 1%",
+			"^ffffff_^000000 ",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777以前的工作^000000",
+			""
+		},
+		slotCount = 0,
+		ClassNum = 102,
+		costume = false
+	},
+	[15250] = {
+		unidentifiedDisplayName = "衣服",
+		unidentifiedResourceName = "内瓢寂明",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者套装",
+		identifiedResourceName = "叼官肺宏",
+		identifiedDescriptionName = {
+			"当另一场冒险开始时,送给初级冒险家的一套套装.",
+			"无法熔炼.",
+			"所有基础状态+1, MHP+400, MSP+100, ATK+2%, MATK+2%.",
+			"^ffffff_^000000",
+			"系列 : ^777777盔甲^000000 防御 : ^77777740^000000",
+			"重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777以前的工作^000000",
+			""
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20906] = {
+		unidentifiedDisplayName = "穿上它",
+		unidentifiedResourceName = "饶靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者斗篷",
+		identifiedResourceName = "叼官噶配",
+		identifiedDescriptionName = {
+			"当初级冒险家开始另一场冒险时赠送给他们的斗篷.",
+			"无法熔炼.",
+			"非属性攻击抗性+20%, 可变施法减少5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777穿上它^000000 防御 : ^77777710^000000",
+			"重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777以前的工作^000000",
+			""
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22173] = {
+		unidentifiedDisplayName = "鞋",
+		unidentifiedResourceName = "何明",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者靴子",
+		identifiedResourceName = "叼官酱令",
+		identifiedDescriptionName = {
+			"为初学者冒险家开始另一场冒险时提供的靴子.",
+			"无法熔炼.",
+			"MHP + 300, MSP + 50.",
+			"FLEE+15, HP、SP自然恢复量增加10%.",
+			"^ffffff_^000000",
+			"系列 : ^777777鞋^000000 防御 : ^77777715^000000",
+			"重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[28566] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "傅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者戒指",
+		identifiedResourceName = "葛福乔寂胶馆瘤",
+		identifiedDescriptionName = {
+			"新手冒险家开始另一次冒险时获得的戒指.",
+			"攻击速度增加(攻击后延迟减少10%), 可变施法减少10%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777配件(左)^000000防御 : ^7777770^000000",
+			"重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[21037] = {
+		unidentifiedDisplayName = "双手剑",
+		unidentifiedResourceName = "捧勤靛家靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级符文骑士双手剑",
+		identifiedResourceName = "叼官努饭捞葛绢",
+		identifiedDescriptionName = {
+			"适合刚成为符文骑士的初学者的双手剑.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"增加攻击速度(攻击后延迟减少 10%).",
+			"精炼到7时, 暴击伤害增加7%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"ASPD + 1, ATK + 5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777双手剑^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777符文骑士系列^000000",
+			""
+		},
+		slotCount = 1,
+		ClassNum = 49,
+		costume = false
+	},
+	[26015] = {
+		unidentifiedDisplayName = "两手长矛",
+		unidentifiedResourceName = "臂饭捞宏",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级皇家卫队的长枪",
+		identifiedResourceName = "叼官罚胶",
+		identifiedDescriptionName = {
+			"适合刚加入皇家卫队的初学者的长枪.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"增加攻击速度(攻击后延迟减少 10%).",
+			"精炼至 7 时, 过度烙印伤害增加 15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"ASPD + 1, ATK + 5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777两手长矛^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777皇家卫队系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 5,
+		costume = false
+	},
+	[28027] = {
+		unidentifiedDisplayName = "粘膜炎",
+		unidentifiedResourceName = "墨鸥福",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级断头台穿越卡塔尔",
+		identifiedResourceName = "蝴唱绰墨鸥福",
+		identifiedDescriptionName = {
+			"卡塔尔适合刚成为断头台十字架的初学者.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.增加攻击速度(攻击后延迟减少 10%).",
+			"精炼到7时, 暴击伤害增加7%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"ASPD + 1, ATK + 5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777粘膜炎^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777断头台十字系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 16,
+		costume = false
+	},
+	[2046] = {
+		unidentifiedDisplayName = "双手拐杖",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "新手术士的法杖",
+		identifiedResourceName = "叼官胶怕橇",
+		identifiedDescriptionName = {
+			"适合刚成为术士的初学者的法杖.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"坚不可摧.",
+			"MATK + 170, MATK + 5%.",
+			"精炼到7时, 红岩伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,MATK + 3就会增加(适用于150级),",
+			"变量施法减少15%, 火属性魔法伤害增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777两只手杖^000000 攻击 : ^77777770^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777术士系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 23,
+		costume = false
+	},
+	[13341] = {
+		unidentifiedDisplayName = "风魔手里剑",
+		unidentifiedResourceName = "浅付_祈劳",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级阳炎＆敖轰的风魔手里剑",
+		identifiedResourceName = "叼官浅付荐府八",
+		identifiedDescriptionName = {
+			"风魔手里剑, 适合已成为神阳炎郎和敖幌的初学者.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"坚不可摧.",
+			"MATK+130, 可变施法减少10%.",
+			"精炼到7级时, 火魔手里剑的火焰伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"变量施法减少10%, ATK+3%, MATK+3%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777风魔手里剑^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777阳炎系列、堕楼系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 22,
+		costume = false
+	},
+	[18165] = {
+		unidentifiedDisplayName = "弓",
+		unidentifiedResourceName = "焊快",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级游侠之弓",
+		identifiedResourceName = "蝴唱绰劝",
+		identifiedDescriptionName = {
+			"适合刚成为游侠的初学者的弓.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"远程物理攻击力增加5%.",
+			"精炼到7时, 箭矢风暴伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"攻击力+2%, 远距离物理攻击力增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777弓^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777游侠系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 73,
+		costume = false
+	},
+	[18166] = {
+		unidentifiedDisplayName = "弓",
+		unidentifiedResourceName = "焊快",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级流浪者和吟游诗人之弓",
+		identifiedResourceName = "蝴唱绰劝",
+		identifiedDescriptionName = {
+			"适合刚成为流浪者和吟游诗人的初学者的弓.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"远程物理攻击力增加5%.",
+			"精炼到7时, 暴雨伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10, 攻击力+3就会增加(适用于150级), ",
+			"可变施法减少10%, 远程物理攻击力增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777弓^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777流浪者系列、吟游诗人系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 73,
+		costume = false
+	},
+	[25427] = {
+		unidentifiedDisplayName = "初级装备兑换券",
+		unidentifiedResourceName = "g傅背券萍南",
+		unidentifiedDescriptionName = {
+			"一张兑换券,可以让您为即将开始另一次冒险的初级冒险者兑换符文米德加特王国支持的武器.",
+			"^ffffff<NAVI>^4D4DFF[新手武器管理器]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您将收到适合您工作的设备.",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "初级装备兑换券",
+		identifiedResourceName = "g傅背券萍南",
+		identifiedDescriptionName = {
+			"一张兑换券,可以让您为即将开始另一次冒险的初级冒险者兑换符文米德加特王国支持的武器.",
+			"^ffffff<NAVI>^4D4DFF[新手武器管理器]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您将收到适合您工作的设备.",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25428] = {
+		unidentifiedDisplayName = "初级武器7炼制券",
+		unidentifiedResourceName = "公扁力访鼻",
+		unidentifiedDescriptionName = {
+			"初学者专用的第七次武器炼制服务使用券.",
+			"^ffffff<NAVI>^4D4DFF[新手武器管理器]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000如果你把它交给他,他会将装备的初学者专用武器精炼到7级.",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "初级武器7炼制券",
+		identifiedResourceName = "公扁力访鼻",
+		identifiedDescriptionName = {
+			"初学者专用的第七次武器炼制服务使用券.",
+			"^ffffff<NAVI>^4D4DFF[新手武器管理器]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000如果你把它交给他,他会将装备的初学者专用武器精炼到7级.",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13144] = {
+		unidentifiedDisplayName = "左轮手枪",
+		unidentifiedResourceName = "侥胶酱磐",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者叛乱的左轮手枪",
+		identifiedResourceName = "叼官勤靛扒",
+		identifiedDescriptionName = {
+			"适合刚刚成为 Rebellion 的初学者的左轮手枪.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"增加攻击速度(攻击后延迟减少 10%).",
+			"精炼到7时, 火舞伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"ASPD+1, 远程物理攻击力增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777手枪^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777叛逆系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 17,
+		costume = false
+	},
+	[23575] = {
+		unidentifiedDisplayName = "冒险家支援箱 (1)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"1个宝箱",
+			"1个神秘蛋",
+			"[非卖品] 战斗手册+泡泡糖5个",
+			"[非卖品] 5份人寿保险单",
+			"[非卖品] 初学者药水100剂",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (15) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "冒险家支援箱 (1)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"1个宝箱",
+			"1个神秘蛋",
+			"[非卖品] 战斗手册+泡泡糖5个",
+			"[非卖品] 5份人寿保险单",
+			"[非卖品] 初学者药水100剂",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (15) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000",
+			""
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23576] = {
+		unidentifiedDisplayName = "冒险家支援箱 (15)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 150 初学者药水",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (30) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777715^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "冒险家支援箱 (15)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 150 初学者药水",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (30) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777715^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23577] = {
+		unidentifiedDisplayName = "冒险家支援箱 (30)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20盒20粒红药水",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (45) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777730^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "冒险家支援箱 (30)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20盒20粒红药水",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (45) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777730^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23578] = {
+		unidentifiedDisplayName = "冒险家支援箱 (45)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20红色药水25盒",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (60) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777745^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "冒险家支援箱 (45)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20红色药水25盒",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (60) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777745^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23579] = {
+		unidentifiedDisplayName = "冒险家支援箱 (60)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20 猩红药水,20 盒",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (75) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777760^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "冒险家支援箱 (60)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20 猩红药水,20 盒",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (75) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777760^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23580] = {
+		unidentifiedDisplayName = "冒险家支援箱 (75)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目:",
+			"^ffffff_^000000 ",
+			"[非卖品] 20 猩红药水,25 盒",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (90) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777775^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "冒险家支援箱 (75)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目:",
+			"^ffffff_^000000 ",
+			"[非卖品] 20 猩红药水,25 盒",
+			"[非卖品] 飞翼50个",
+			"冒险家支援箱 (90) x 1",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777775^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23581] = {
+		unidentifiedDisplayName = "冒险家支援箱 (90)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20盒20黄色药水",
+			"[非卖品] 飞翼50个",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777790^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "冒险家支援箱 (90)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为冒险者提供的箱子.",
+			"它包含以下项目.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20盒20黄色药水",
+			"[非卖品] 飞翼50个",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777790^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23583] = {
+		unidentifiedDisplayName = "初级护甲箱",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为即将踏上另一次冒险的初级冒险者提供的铠甲箱.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"1 顶初学者帽子",
+			"1套初学者套装",
+			"1 初学者斗篷",
+			"1 初学者靴子",
+			"1 初学者戒指",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777100^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "初级护甲箱",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为即将踏上另一次冒险的初级冒险者提供的铠甲箱.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"1 顶初学者帽子",
+			"1套初学者套装",
+			"1 初学者斗篷",
+			"1 初学者靴子",
+			"1 初学者戒指",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777100^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23584] = {
+		unidentifiedDisplayName = "影子盒仅供初学者使用",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"1 初学者铠甲影子",
+			"1 初学者盾影",
+			"1 初学者武器影子",
+			"1 初学者鞋影",
+			"1 初学者耳环阴影",
+			"1 初学者暗影吊坠",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777120^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "影子盒仅供初学者使用",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"1 初学者铠甲影子",
+			"1 初学者盾影",
+			"1 初学者武器影子",
+			"1 初学者鞋影",
+			"1 初学者耳环阴影",
+			"1 初学者暗影吊坠",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777120^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23585] = {
+		unidentifiedDisplayName = "初学者支持箱 (100)",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"它包含以下项目,",
+			"包括一个装有初学者盔甲的盒子和一张用于兑换初学者武器的兑换券.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20黄色药水25盒",
+			"[非卖品] 无限飞翼7天盒1个",
+			"1个初学者盔甲盒",
+			"1张初学者装备券",
+			"1 初学者支持箱 (110) ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777100^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "初学者支持箱 (100)",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"它包含以下项目,",
+			"包括一个装有初学者盔甲的盒子和一张用于兑换初学者武器的兑换券.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20黄色药水25盒",
+			"[非卖品] 无限飞翼7天盒1个",
+			"1个初学者盔甲盒",
+			"1张初学者装备券",
+			"1 初学者支持箱 (110) ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777100^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23586] = {
+		unidentifiedDisplayName = "初学者支持箱 (110)",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"它包含以下项目,",
+			"它甚至还包括一张精炼 7 种初学者武器的门票.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20支白色药水,20盒",
+			"[非卖品] 无限飞翼 7 天盒 (2 x)",
+			"1 初学者武器 7 精炼券",
+			"1 初学者支持箱 (120) ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777110^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "初学者支持箱 (110)",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"它包含以下项目,",
+			"它甚至还包括一张精炼 7 种初学者武器的门票.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20支白色药水,20盒",
+			"[非卖品] 无限飞翼 7 天盒 (2 x)",
+			"1 初学者武器 7 精炼券",
+			"1 初学者支持箱 (120) ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777110^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23587] = {
+		unidentifiedDisplayName = "初学者支持箱 (120)",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"它包含以下项目,",
+			"附带一个额外的盒子,其中包含专为初学者设计的全部 6 种阴影.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20支白色药水,25盒",
+			"[非卖品] 无限飞翼7天盒3个",
+			"1 个仅供初学者使用的影子盒",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777120^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "初学者支持箱 (120)",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"符文米德加尔特王国为初级冒险者提供的盒子,另一次冒险由此开始.",
+			"它包含以下项目,",
+			"附带一个额外的盒子,其中包含专为初学者设计的全部 6 种阴影.",
+			"^ffffff_^000000 ",
+			"[非卖品] 20支白色药水,25盒",
+			"[非卖品] 无限飞翼7天盒3个",
+			"1 个仅供初学者使用的影子盒",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^777777120^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[28740] = {
+		unidentifiedDisplayName = "匕首",
+		unidentifiedResourceName = "唱捞橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级暗影追击者匕首",
+		identifiedResourceName = "蝴唱绰措芭",
+		identifiedDescriptionName = {
+			"适合刚成为暗影追击者的初学者的匕首.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"MATK + 100.",
+			"增加攻击速度(攻击后延迟减少 10%).",
+			"精炼到7级时, 所有属性魔法伤害增加7%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,MATK + 3就会增加(适用于150级),",
+			"ASPD+1, 攻击速度额外增加(攻击后延迟额外减少5%).",
+			"^ffffff_^000000 ",
+			"系列 : ^777777匕首^000000 攻击 : ^777777120^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777追影者系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[16075] = {
+		unidentifiedDisplayName = "钝器",
+		unidentifiedResourceName = "努反",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级机械师的狼牙棒",
+		identifiedResourceName = "蝴唱绰枚硼",
+		identifiedDescriptionName = {
+			"适合刚成为机械师的初学者的钝器.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"坚不可摧.",
+			"增加攻击速度(攻击后延迟减少 10%).",
+			"精炼到7时, 强化指关节伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加. (适用于150级)",
+			"ASPD+1, 远程物理攻击力增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777钝器^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777机械系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 8,
+		costume = false
+	},
+	[13483] = {
+		unidentifiedDisplayName = "刀",
+		unidentifiedResourceName = "家靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者泛型之剑",
+		identifiedResourceName = "蝴唱绰八",
+		identifiedDescriptionName = {
+			"一把适合初学者的单手剑,刚刚变得通用.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"减少 10% 的变量铸造.",
+			"精炼到7时, 车炮伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"ASPD+1, 远程物理攻击力增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777刀^000000 攻击 : ^777777140^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777通用系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2,
+		costume = false
+	},
+	[26119] = {
+		unidentifiedDisplayName = "甘蔗",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "新手魔法师的法杖",
+		identifiedResourceName = "蝴唱绰瘤莆捞",
+		identifiedDescriptionName = {
+			"适合刚成为魔法师的初学者的法杖.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"坚不可摧, ",
+			"MATK + 130.",
+			"减少 10% 的变量铸造.",
+			"精炼到7级时, 精神波伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,MATK + 3就会增加(适用于150级),",
+			"变量施法减少10%, 非属性魔法伤害增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777一只手拐杖^000000 攻击 : ^77777770^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777魔法师系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 10,
+		costume = false
+	},
+	[28616] = {
+		unidentifiedDisplayName = "书",
+		unidentifiedResourceName = "合",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级大主教圣经",
+		identifiedResourceName = "蝴唱绰氓",
+		identifiedDescriptionName = {
+			"一本适合刚成为大主教的初学者的圣经.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"MATK + 130.",
+			"减少 10% 的变量铸造.",
+			"精炼到7时, 阿多拉玛斯伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,MATK + 3就会增加(适用于150级),",
+			"变化施法减少10%, 圣属性魔法伤害增加5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777书^000000 攻击 : ^777777100^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777大主教系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 15,
+		costume = false
+	},
+	[1848] = {
+		unidentifiedDisplayName = "指关节",
+		unidentifiedResourceName = "乔胶飘",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初级苏拉的指关节",
+		identifiedResourceName = "叼官农肺",
+		identifiedDescriptionName = {
+			"适合刚成为苏拉的初学者的指关节.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"增加攻击速度(攻击后延迟减少 10%).",
+			"精炼到7时, 枪械伤害增加15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"ASPD + 1, ATK + 5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777指关节^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777苏拉系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 12,
+		costume = false
+	},
+	[16076] = {
+		unidentifiedDisplayName = "钝器",
+		unidentifiedResourceName = "努反",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "初学者超级新手狼牙棒",
+		identifiedResourceName = "蝴唱绰枚硼",
+		identifiedDescriptionName = {
+			"适合刚达到100级的初学者和超级新手的狼牙棒.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"坚不可摧.",
+			"增加攻击速度(攻击后延迟减少 10%).",
+			"精炼到7时, 暴击伤害增加7%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,攻击力+3就会增加(适用于150级),",
+			"ASPD + 1, ATK + 40.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777钝器^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777超级新手系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 8,
+		costume = false
+	},
+	[26120] = {
+		unidentifiedDisplayName = "一只手拐杖",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "新手召唤师的狐尾",
+		identifiedResourceName = "碍酒瘤钱",
+		identifiedDescriptionName = {
+			"狐尾适合刚达到 100 级的新手召唤师.",
+			"与初学者盔甲一起使用时,隐藏的能力会被解锁.",
+			"坚不可摧, MATK+130.",
+			"减少 10% 的变量铸造.",
+			"精炼到 7 时, 猫薄荷流星伤害增加 15%.",
+			"^ffffff_^000000 ",
+			"装备初学者的帽子、套装、斗篷、靴子、戒指时, ",
+			"BaseLv每增加10,MATK + 3就会增加. (适用于150级)",
+			"减少变量施法10%, 增加MATK + 5%.",
+			"^ffffff_^000000 ",
+			"系列 : ^777777一只手拐杖^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777773^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777多拉姆人^000000"
+		},
+		slotCount = 1,
+		ClassNum = 99,
+		costume = false
+	},
+	[11614] = {
+		unidentifiedDisplayName = "鲜榨牛奶",
+		unidentifiedResourceName = "快蜡",
+		unidentifiedDescriptionName = {
+			"鲜榨牛奶. 广泛用作儿童生长期的营养食品. ^000088恢复少量HP^000000 让我来做吧.",
+			"^ffffff_^000000",
+			"重量 : ^7777773^000000"
+		},
+		identifiedDisplayName = "鲜榨牛奶",
+		identifiedResourceName = "快蜡",
+		identifiedDescriptionName = {
+			"鲜榨牛奶. 广泛用作儿童生长期的营养食品. ^000088恢复少量HP^000000 让我来做吧.",
+			"^ffffff_^000000",
+			"重量 : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11615] = {
+		unidentifiedDisplayName = "生红薯",
+		unidentifiedResourceName = "绊备付",
+		unidentifiedDescriptionName = {
+			"刚挖出来的紫色块茎. 它富含淀粉且甜,经常被用作食物. ^000088恢复少量HP^000000 让我来做吧.",
+			"^ffffff_^000000",
+			"重量 : ^7777772^000000"
+		},
+		identifiedDisplayName = "生红薯",
+		identifiedResourceName = "绊备付",
+		identifiedDescriptionName = {
+			"刚挖出来的紫色块茎. 它富含淀粉且甜,经常被用作食物. ^000088恢复少量HP^000000 让我来做吧.",
+			"^ffffff_^000000",
+			"重量 : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11518] = {
+		unidentifiedDisplayName = "适合初学者的蓝色药水",
+		unidentifiedResourceName = "颇鄂器记",
+		unidentifiedDescriptionName = {
+			"一种适合初学者的精神恢复剂,由细磨的蓝色草药制成. ^000088SP恢复约5点^000000 让我来做吧.",
+			"重量 : ^7777775^000000"
+		},
+		identifiedDisplayName = "适合初学者的蓝色药水",
+		identifiedResourceName = "颇鄂器记",
+		identifiedDescriptionName = {
+			"一种适合初学者的精神恢复剂,由细磨的蓝色草药制成. ^000088SP恢复约5点^000000 让我来做吧.",
+			"重量 : ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23484] = {
+		unidentifiedDisplayName = "急救箱 (5)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"包含简单药物的急救箱.",
+			"它包含以下项目:",
+			"――――――――――――― ",
+			"20 鲜榨牛奶",
+			"适合初学者的 10 种蓝色药水",
+			"15个适合初学者的放大镜",
+			"[非卖品] 1 瓶浓缩药水",
+			"1 急救箱 (10) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"^ffffff_^000000 ",
+			"所需级别 : ^7777775^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (5)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"包含简单药物的急救箱.",
+			"它包含以下项目:",
+			"――――――――――――― ",
+			"20 鲜榨牛奶",
+			"适合初学者的 10 种蓝色药水",
+			"15个适合初学者的放大镜",
+			"[非卖品] 1 瓶浓缩药水",
+			"1 急救箱 (10) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"^ffffff_^000000 ",
+			"所需级别 : ^7777775^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23485] = {
+		unidentifiedDisplayName = "急救箱 (10)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"40 鲜榨牛奶 ",
+			"15 种适合初学者的蓝色药水 ",
+			"15个适合初学者的放大镜",
+			"[非卖品] 1 瓶浓缩药水",
+			"1 急救箱 (15) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777710^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (10)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"40 鲜榨牛奶 ",
+			"15 种适合初学者的蓝色药水 ",
+			"15个适合初学者的放大镜",
+			"[非卖品] 1 瓶浓缩药水",
+			"1 急救箱 (15) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777710^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23486] = {
+		unidentifiedDisplayName = "急救箱 (15)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"60 鲜榨牛奶 ",
+			"20 种适合初学者的蓝色药水 ",
+			"10个适合初学者的放大镜",
+			"[非卖品] 2 瓶浓缩药水",
+			"1 急救箱 (20) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777715^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (15)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"60 鲜榨牛奶 ",
+			"20 种适合初学者的蓝色药水 ",
+			"10个适合初学者的放大镜",
+			"[非卖品] 2 瓶浓缩药水",
+			"1 急救箱 (20) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777715^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23487] = {
+		unidentifiedDisplayName = "急救箱 (20)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"―――――――――――――",
+			"80 个生红薯 ",
+			"15 种适合初学者的蓝色药水",
+			"10个适合初学者的放大镜",
+			"[非卖品] 2 瓶浓缩药水",
+			"1 急救箱 (25) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777720^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (20)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"―――――――――――――",
+			"80 个生红薯 ",
+			"15 种适合初学者的蓝色药水",
+			"10个适合初学者的放大镜",
+			"[非卖品] 2 瓶浓缩药水",
+			"1 急救箱 (25) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777720^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23488] = {
+		unidentifiedDisplayName = "急救箱 (25)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"100个生红薯 ",
+			"20 种适合初学者的蓝色药水 ",
+			"5个适合初学者的放大镜",
+			"[非卖品] 3 瓶浓缩药水",
+			"1 急救箱 (30) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777725^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (25)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"100个生红薯 ",
+			"20 种适合初学者的蓝色药水 ",
+			"5个适合初学者的放大镜",
+			"[非卖品] 3 瓶浓缩药水",
+			"1 急救箱 (30) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777725^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23489] = {
+		unidentifiedDisplayName = "急救箱 (30)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"120个生红薯 ",
+			"25 种适合初学者的蓝色药水 ",
+			"5个适合初学者的放大镜",
+			"[非卖品] 3 瓶浓缩药水",
+			"1 急救箱 (35) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777730^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (30)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"120个生红薯 ",
+			"25 种适合初学者的蓝色药水 ",
+			"5个适合初学者的放大镜",
+			"[非卖品] 3 瓶浓缩药水",
+			"1 急救箱 (35) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777730^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23490] = {
+		unidentifiedDisplayName = "急救箱(35)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 5盒20粒红色药水 ",
+			"[非卖品] 15 蓝色药水",
+			"[非卖品] 3 瓶浓缩药水 ",
+			"1 急救箱 (40) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777735^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱(35)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 5盒20粒红色药水 ",
+			"[非卖品] 15 蓝色药水",
+			"[非卖品] 3 瓶浓缩药水 ",
+			"1 急救箱 (40) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777735^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23491] = {
+		unidentifiedDisplayName = "急救箱 (40)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 6盒20粒红色药水 ",
+			"[非卖品] 15 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (45) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777740^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (40)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 6盒20粒红色药水 ",
+			"[非卖品] 15 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (45) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000 ",
+			"所需级别 : ^77777740^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23492] = {
+		unidentifiedDisplayName = "急救箱 (45)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20粒红色药水 ",
+			"[非卖品] 20 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (50) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777745^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (45)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20粒红色药水 ",
+			"[非卖品] 20 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (50) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777745^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23493] = {
+		unidentifiedDisplayName = "急救箱 (50)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20支猩红药水 ",
+			"[非卖品] 20 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (55) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777750^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (50)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20支猩红药水 ",
+			"[非卖品] 20 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (55) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777750^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23494] = {
+		unidentifiedDisplayName = "急救箱(55)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20支猩红药水 ",
+			"[非卖品] 25 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (60) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777755^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱(55)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20支猩红药水 ",
+			"[非卖品] 25 蓝色药水 ",
+			"[非卖品] 觉醒药水2个",
+			"1 急救箱 (60) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777755^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23495] = {
+		unidentifiedDisplayName = "急救箱 (60)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 9盒20支猩红药水 ",
+			"[非卖品] 25 蓝色药水 ",
+			"1 急救箱 (65) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777760^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (60)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 9盒20支猩红药水 ",
+			"[非卖品] 25 蓝色药水 ",
+			"1 急救箱 (65) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777760^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23496] = {
+		unidentifiedDisplayName = "急救箱 (65)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 5盒20黄色药水 ",
+			"[非卖品] 30 蓝色药水 ",
+			"1 急救箱 (70) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777765^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (65)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 5盒20黄色药水 ",
+			"[非卖品] 30 蓝色药水 ",
+			"1 急救箱 (70) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777765^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23497] = {
+		unidentifiedDisplayName = "急救箱 (70)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 6盒20粒黄色药水 ",
+			"[非卖品] 30 蓝色药水 ",
+			"1 急救箱 (75) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777770^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (70)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 6盒20粒黄色药水 ",
+			"[非卖品] 30 蓝色药水 ",
+			"1 急救箱 (75) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777770^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23498] = {
+		unidentifiedDisplayName = "急救箱 (75)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20黄色药水 ",
+			"[非卖品] 35 蓝色药水 ",
+			"1 急救箱 (80) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777775^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (75)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20黄色药水 ",
+			"[非卖品] 35 蓝色药水 ",
+			"1 急救箱 (80) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777775^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23499] = {
+		unidentifiedDisplayName = "急救箱 (80)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20黄色药水 ",
+			"[非卖品] 35 蓝色药水 ",
+			"1 急救箱 (85) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777780^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (80)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20黄色药水 ",
+			"[非卖品] 35 蓝色药水 ",
+			"1 急救箱 (85) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777780^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23500] = {
+		unidentifiedDisplayName = "急救箱(85)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20支白色药水 ",
+			"[非卖品] 40 蓝色药水 ",
+			"[非卖品] 2 狂暴药水 ",
+			"1 急救箱 (90) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777785^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱(85)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 7盒20支白色药水 ",
+			"[非卖品] 40 蓝色药水",
+			"[非卖品] 2 狂暴药水 ",
+			"1 急救箱 (90) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777785^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23501] = {
+		unidentifiedDisplayName = "急救箱 (90)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20支白色药水 ",
+			"[非卖品] 40 蓝色药水 ",
+			"[非卖品] 2 狂暴药水 ",
+			"1 急救箱 (95) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777790^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "急救箱 (90)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20支白色药水 ",
+			"[非卖品] 40 蓝色药水 ",
+			"[非卖品] 2 狂暴药水 ",
+			"1 急救箱 (95) ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777790^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23502] = {
+		unidentifiedDisplayName = "急救箱(95)",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20支白色药水 ",
+			"[非卖品] 45蓝色药水 ",
+			"[非卖品] 2 狂暴药水 ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777795^000000 ",
+			"重量 : ^7777770^000000 "
+		},
+		identifiedDisplayName = "急救箱(95)",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"含有简单药物的急救箱. ",
+			"它包含以下项目: ",
+			"――――――――――――― ",
+			"[非卖品] 8盒20支白色药水 ",
+			"[非卖品] 45蓝色药水 ",
+			"[非卖品] 2 狂暴药水 ",
+			"――――――――――――― ",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\" ",
+			"^ffffff_^000000",
+			"所需级别 : ^77777795^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23503] = {
+		unidentifiedDisplayName = "[非卖品] 红色药水20支一盒",
+		unidentifiedResourceName = "荐府侩虐飘",
+		unidentifiedDescriptionName = {
+			"[非卖品] 一盒,内含20支红色药水.",
+			"非常适合在需要时取出并使用.",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "[非卖品] 红色药水20支一盒",
+		identifiedResourceName = "荐府侩虐飘",
+		identifiedDescriptionName = {
+			"[非卖品] 一盒,内含20支红色药水.",
+			"非常适合在需要时取出并使用.",
+			"\"^ff0000注意 - 如果打开盒子时超出重量或持有限制, 物品可能会丢失!^000000\"",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17901] = {
+		unidentifiedDisplayName = "一盒 100 个功率增强器 IV",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 100 个能量增强器和 11 个 2017 年特殊卷轴.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "一盒 100 个功率增强器 IV",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一个盒子,内含 100 个能量增强器和 11 个 2017 年特殊卷轴.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17902] = {
+		unidentifiedDisplayName = "动力增强盒 IV",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 10 个能量增强器和 1 个 2017 年特殊卷轴.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "动力增强盒 IV",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一个盒子,内含 10 个能量增强器和 1 个 2017 年特殊卷轴.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23618] = {
+		unidentifiedDisplayName = "2017年特别卷轴",
+		unidentifiedResourceName = "2017_Special_Scroll",
+		unidentifiedDescriptionName = {
+			"2017年限时特别卷轴. ",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、2017年专用礼盒、新暗影魔方、高级驯服套装等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "2017年特别卷轴",
+		identifiedResourceName = "2017_Special_Scroll",
+		identifiedDescriptionName = {
+			"2017年限时特别卷轴. ",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、2017年专用礼盒、新暗影魔方、高级驯服套装等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23619] = {
+		unidentifiedDisplayName = "2017年特装盒",
+		unidentifiedResourceName = "篮焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"装有2017年幸运蛋热门商品的盒子.",
+			"您可以获得总共 19 种不同物品中的 1 种.",
+			"――――――――――――― ",
+			"诅咒骑士的盾牌盒",
+			"古代英雄的靴子",
+			"皇家弓",
+			"影子工作人员",
+			"铁钉",
+			"阿米斯特贝雷帽",
+			"愚蠢的军官",
+			"很酷的羽毛帽子",
+			"将军的头盔",
+			"新帽子盒 III",
+			"拼写电路",
+			"玩具注射器",
+			"魔法助推器盒",
+			"猫头饰包装篮",
+			"靛蓝色后饰带",
+			"罗萨里奥的项链",
+			"糖果袋盒(实体)",
+			"糖果袋盒(远程)",
+			"糖果袋盒(魔法)",
+			"――――――――――――― ",
+			"重量 : ^77777720^000000"
+		},
+		identifiedDisplayName = "2017年特装盒",
+		identifiedResourceName = "篮焊拱惑磊",
+		identifiedDescriptionName = {
+			"装有2017年幸运蛋热门商品的盒子.",
+			"您可以获得总共 19 种不同物品中的 1 种.",
+			"――――――――――――― ",
+			"诅咒骑士的盾牌盒",
+			"古代英雄的靴子",
+			"皇家弓",
+			"影子工作人员",
+			"铁钉",
+			"阿米斯特贝雷帽",
+			"愚蠢的军官",
+			"很酷的羽毛帽子",
+			"将军的头盔",
+			"新帽子盒 III",
+			"拼写电路",
+			"玩具注射器",
+			"魔法助推器盒",
+			"猫头饰包装篮",
+			"靛蓝色后饰带",
+			"罗萨里奥的项链",
+			"糖果袋盒(实体)",
+			"糖果袋盒(远程)",
+			"糖果袋盒(魔法)",
+			"――――――――――――― ",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17914] = {
+		unidentifiedDisplayName = "G-STAR 2017仙境传说纪念盒",
+		unidentifiedResourceName = "内胶鸥付俊弊47",
+		unidentifiedDescriptionName = {
+			"2017年G-Star纪念盒.",
+			"有机会在 11 月第一时间看到 4 件新 Nyandarae 服装! ",
+			"您可以从 22 种服装中随机获得一种.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "G-STAR 2017仙境传说纪念盒",
+		identifiedResourceName = "内胶鸥付俊弊47",
+		identifiedDescriptionName = {
+			"2017年G-Star纪念盒.",
+			"有机会在 11 月第一时间看到 4 件新 Nyandarae 服装! ",
+			"您可以从 22 种服装中随机获得一种.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17923] = {
+		unidentifiedDisplayName = "熔炼矿石箱XVIII",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还附赠一张冰卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "熔炼矿石箱XVIII",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还附赠一张冰卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17924] = {
+		unidentifiedDisplayName = "熔炼矿石箱十八 10套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个冰卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "熔炼矿石箱十八 10套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个冰卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17925] = {
+		unidentifiedDisplayName = "高精矿冶炼箱VI",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一盒含有高浓度铒和高浓度 Oridecon 各 13 颗. Additionally, it contains 11 ice scrolls and 6 mental potions. ",
+			"_ ",
+			"高浓度铒 - 增加装甲的熔炼概率.",
+			"高浓度 Oridecon - 增加武器的熔炼概率. ",
+			"- 精炼度+7以上的装备时, 即使失败, 装备也不会被破坏消失!但精炼度不能超过+10. - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高精矿冶炼箱VI",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一盒含有高浓度铒和高浓度 Oridecon 各 13 颗. Additionally, it contains 11 ice scrolls and 6 mental potions. ",
+			"_ ",
+			"高浓度铒 - 增加装甲的熔炼概率.",
+			"高浓度 Oridecon - 增加武器的熔炼概率. ",
+			"- 精炼度+7以上的装备时, 即使失败, 装备也不会被破坏消失!但精炼度不能超过+10. - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17926] = {
+		unidentifiedDisplayName = "高密度冶炼矿箱IV",
+		unidentifiedResourceName = "某矫惑磊_八沥",
+		unidentifiedDescriptionName = {
+			"一个盒子, 里面装有 13 个高密度钷和 13 个高密度钪. 此外, 它还包含 11 个冰卷轴和 6 个精神药剂. ",
+			"_ ",
+			"高密度钸 - 可以精炼精炼度+10以上的武器.",
+			"高密度Carnium - 可以精炼装甲,精炼等级为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.)",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高密度冶炼矿箱IV",
+		identifiedResourceName = "某矫惑磊_八沥",
+		identifiedDescriptionName = {
+			"一个盒子, 里面装有 13 个高密度钷和 13 个高密度钪. 此外, 它还包含 11 个冰卷轴和 6 个精神药剂. ",
+			"_ ",
+			"高密度钸 - 可以精炼精炼度+10以上的武器.",
+			"高密度Carnium - 可以精炼装甲,精炼等级为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23650] = {
+		unidentifiedDisplayName = "冰卷轴",
+		unidentifiedResourceName = "荐磊府胶农费",
+		unidentifiedDescriptionName = {
+			"Error 500 (Server Error)!!1500. That’s an error. There was an error. Please try again later. That’s all we know. ",
+			"可以获得武器11级炼制礼券、铠甲11级炼制礼券、铁杖、赤莲剑、东方宝剑、铁匠祝福等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冰卷轴",
+		identifiedResourceName = "荐磊府胶农费",
+		identifiedDescriptionName = {
+			"Error 500 (Server Error)!!1500. That’s an error. There was an error. Please try again later. That’s all we know. ",
+			"可以获得武器11级炼制礼券、铠甲11级炼制礼券、铁杖、赤莲剑、东方宝剑、铁匠祝福等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23160] = {
+		unidentifiedDisplayName = "影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的影子物品之一.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的影子物品之一.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25479] = {
+		unidentifiedDisplayName = "狗药瓶",
+		unidentifiedResourceName = "单甸府器捞琉捍",
+		unidentifiedDescriptionName = {
+			"瓶子里有狗非常喜欢的气味,以至于它们在不知不觉中就跟随了它.",
+			"据说里面的东西也非常美味.",
+			"(该项目将于2018年2月21日例行维护期间删除.)",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "狗药瓶",
+		identifiedResourceName = "单甸府器捞琉捍",
+		identifiedDescriptionName = {
+			"瓶子里有狗非常喜欢的气味,以至于它们在不知不觉中就跟随了它.",
+			"据说里面的东西也非常美味.",
+			"(该项目将于2018年2月21日例行维护期间删除.)",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11617] = {
+		unidentifiedDisplayName = "加埃塔雷巧克力球",
+		unidentifiedResourceName = "陛堡籍",
+		unidentifiedDescriptionName = {
+			"邪恶的黄瓜猫掉落的巧克力球.",
+			"柔软香甜的巧克力均匀地撒上葡萄干片.",
+			"恢复约 500 HP 和 25 SP.",
+			"",
+			"(该项目将于2018年2月21日例行维护期间删除.)",
+			"重量 : ^7777775^000000"
+		},
+		identifiedDisplayName = "加埃塔雷巧克力球",
+		identifiedResourceName = "陛堡籍",
+		identifiedDescriptionName = {
+			"邪恶的黄瓜猫掉落的巧克力球.",
+			"柔软香甜的巧克力均匀地撒上葡萄干片.",
+			"恢复约 500 HP 和 25 SP.",
+			"",
+			"(该项目将于2018年2月21日例行维护期间删除.)",
+			"重量 : ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23660] = {
+		unidentifiedDisplayName = "DOG 小瓶-Z",
+		unidentifiedResourceName = "单甸府器捞琉捍",
+		unidentifiedDescriptionName = {
+			"瓶子里有狗非常喜欢的气味,以至于它们在不知不觉中就跟随了它.",
+			"里面的内容物也是危险的美味,所以降低了风险,可以安全地享用.",
+			"HP、SP恢复18%",
+			"_",
+			"(该项目将于2018年2月21日例行维护期间删除.)",
+			"重量 : ^77777718^000000"
+		},
+		identifiedDisplayName = "DOG 小瓶-Z",
+		identifiedResourceName = "单甸府器捞琉捍",
+		identifiedDescriptionName = {
+			"瓶子里有狗非常喜欢的气味,以至于它们在不知不觉中就跟随了它.",
+			"里面的内容物也是危险的美味,所以降低了风险,可以安全地享用.",
+			"HP、SP恢复18%",
+			"_",
+			"(该项目将于2018年2月21日例行维护期间删除.)",
+			"重量 : ^77777718^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17935] = {
+		unidentifiedDisplayName = "新三明水套餐",
+		unidentifiedResourceName = "侵档弊惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个. ",
+			"包含 15 个小生命值、15 个中生命值和 5 个小法力值. 此外, 您还可以获得2018年新年卷轴一张. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "新三明水套餐",
+		identifiedResourceName = "侵档弊惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个. ",
+			"包含 15 个小生命值、15 个中生命值和 5 个小法力值. 此外, 您还可以获得2018年新年卷轴一张. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17936] = {
+		unidentifiedDisplayName = "新三明水套餐10套",
+		unidentifiedResourceName = "侵档弊惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个. ",
+			"包含 150 个小型生命数字、150 个中等生命数字和 50 个小型法力数字. 此外, 您还可以获得11张2018年新年卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "新三明水套餐10套",
+		identifiedResourceName = "侵档弊惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个. ",
+			"包含 150 个小型生命数字、150 个中等生命数字和 50 个小型法力数字. 此外, 您还可以获得11张2018年新年卷轴. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23661] = {
+		unidentifiedDisplayName = "2018年新年画卷",
+		unidentifiedResourceName = "怕剧舅",
+		unidentifiedDescriptionName = {
+			"2018年限时新年卷轴",
+			"可以获得武器11级精炼礼券、铠甲11级精炼礼券、力量溢出铠甲、强大魔力铠甲、物理魔法转换盒、铁匠祝福等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "2018年新年画卷",
+		identifiedResourceName = "怕剧舅",
+		identifiedDescriptionName = {
+			"2018年限时新年卷轴",
+			"可以获得武器11级精炼礼券、铠甲11级精炼礼券、力量溢出铠甲、强大魔力铠甲、物理魔法转换盒、铁匠祝福等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23662] = {
+		unidentifiedDisplayName = "新年影立方2018",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = { "一个盒子,您可以在其中获得一种流行的影子物品. ", "重量 : ^7777771^000000" },
+		identifiedDisplayName = "新年影立方2018",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = { "一个盒子,您可以在其中获得一种流行的影子物品. ", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23663] = {
+		unidentifiedDisplayName = "2018材质阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个收集阴影的立方体,用作组合阴影选择盒中的成分. ",
+			"您可以获得稳定性、种族、状态、组合、物理魔法、免疫雅典娜、硬冠军、远古王鸟和暴击命中框中使用的 2 个阴影. "
+		},
+		identifiedDisplayName = "2018材质阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个收集阴影的立方体,用作组合阴影选择盒中的成分. ",
+			"您可以获得稳定性、种族、状态、组合、物理魔法、免疫雅典娜、硬冠军、远古王鸟和暴击命中框中使用的 2 个阴影. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23664] = {
+		unidentifiedDisplayName = "[限量] Lapine's Snap Box 2018",
+		unidentifiedResourceName = "脚痹兑迭惑磊",
+		unidentifiedDescriptionName = {
+			"为纪念 2018 年初而推出的限量版 Lapine 流行音乐盒.",
+			"您可以获得迄今为止已发布的各种弹出框之一."
+		},
+		identifiedDisplayName = "[限量] Lapine's Snap Box 2018",
+		identifiedResourceName = "脚痹兑迭惑磊",
+		identifiedDescriptionName = {
+			"为纪念 2018 年初而推出的限量版 Lapine 流行音乐盒.",
+			"您可以获得迄今为止已发布的各种弹出框之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25502] = {
+		unidentifiedDisplayName = "有嚼劲的年糕",
+		unidentifiedResourceName = "啊贰侗",
+		unidentifiedDescriptionName = {
+			"年糕用来煮年糕汤. 令人惊讶的是,即使只是吃它也很美味. ",
+			"质感极佳!",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^7777775^000000"
+		},
+		identifiedDisplayName = "有嚼劲的年糕",
+		identifiedResourceName = "啊贰侗",
+		identifiedDescriptionName = {
+			"年糕用来煮年糕汤. 令人惊讶的是,即使只是吃它也很美味. ",
+			"质感极佳!",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6007] = {
+		unidentifiedDisplayName = "刚煮好的章鱼年糕汤",
+		unidentifiedResourceName = "侗惫",
+		unidentifiedDescriptionName = {
+			"它复制了学者赫母亲的品味.",
+			"记得这个味道的亲戚估计都会非常喜欢.",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "刚煮好的章鱼年糕汤",
+		identifiedResourceName = "侗惫",
+		identifiedDescriptionName = {
+			"它复制了学者赫母亲的品味.",
+			"记得这个味道的亲戚估计都会非常喜欢.",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23683] = {
+		unidentifiedDisplayName = "福袋",
+		unidentifiedResourceName = "绊鞭林赣聪",
+		unidentifiedDescriptionName = {
+			"由奢华丝绸制成的福袋.",
+			"包含各种类型的礼物之一.",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "福袋",
+		identifiedResourceName = "绊鞭林赣聪",
+		identifiedDescriptionName = {
+			"由奢华丝绸制成的福袋.",
+			"包含各种类型的礼物之一.",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17940] = {
+		unidentifiedDisplayName = "一盒10只招财猫 III",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一盒装有 10 个油桃. ",
+			"附赠 30 个马兰多特色罐头食品.",
+			"此外,您还可以获得贺年卷轴一张.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "一盒10只招财猫 III",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一盒装有 10 个油桃. ",
+			"附赠 30 个马兰多特色罐头食品.",
+			"此外,您还可以获得贺年卷轴一张.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17941] = {
+		unidentifiedDisplayName = "一盒100只招财猫III",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一盒装有 100 个油桃果实. ",
+			"附赠 300 个马兰多特色罐头食品.",
+			"此外,您还可以获得11张生肖卷轴.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "一盒100只招财猫III",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一盒装有 100 个油桃果实. ",
+			"附赠 300 个马兰多特色罐头食品.",
+			"此外,您还可以获得11张生肖卷轴.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23700] = {
+		unidentifiedDisplayName = "农历新年卷轴",
+		unidentifiedResourceName = "Lunar_New_Year_Scroll",
+		unidentifiedDescriptionName = {
+			"限时农历新年卷轴.",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、新帽盒、水仙弓、魔剑、复仇者等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "农历新年卷轴",
+		identifiedResourceName = "Lunar_New_Year_Scroll",
+		identifiedDescriptionName = {
+			"限时农历新年卷轴.",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、新帽盒、水仙弓、魔剑、复仇者等多种稀有物品之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25504] = {
+		unidentifiedDisplayName = "欢迎印章",
+		unidentifiedResourceName = "券康狼阿牢",
+		unidentifiedDescriptionName = {
+			"幻之鬼刻的印记.",
+			"据说这是进入迎宾大厅的资格.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "欢迎印章",
+		identifiedResourceName = "券康狼阿牢",
+		identifiedDescriptionName = {
+			"幻之鬼刻的印记.",
+			"据说这是进入迎宾大厅的资格.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23684] = {
+		unidentifiedDisplayName = "幻象之鬼",
+		unidentifiedResourceName = "炔陛牢厘墨靛",
+		unidentifiedDescriptionName = { "据说幻之鬼的口袋里藏着一张神秘的封印卡." },
+		identifiedDisplayName = "幻象之鬼",
+		identifiedResourceName = "炔陛牢厘墨靛",
+		identifiedDescriptionName = { "据说幻之鬼的口袋里藏着一张神秘的封印卡." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19364] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "工程师帽",
+		identifiedResourceName = "浚瘤聪绢母",
+		identifiedDescriptionName = {
+			"工匠的眼睛似乎透过工程师戴的破烂帽子闪闪发光.",
+			"每精炼2次, 攻击力+10, 魔法力+10.",
+			"精炼到7级时,来自无形魔物的物理/魔法伤害减少5%.",
+			"精炼到9时,对无形魔物的物理/魔法伤害增加10%.",
+			"精炼到11时, MATK+5%, ATK+5%",
+			"精炼度超过10时, 每次精炼对无形魔物的物理/魔法伤害额外增加2%(精炼度15以下)",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000 重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 608,
+		costume = false
+	},
+	[17944] = {
+		unidentifiedDisplayName = "全能加盒IV",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面有 10 个全能者和 1 个春天卷轴.",
+			"另外, 还有一份[非卖品]神秘粉、[非卖品]提尔的祝福、还有一份[非卖品]恢复强化药剂!",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "全能加盒IV",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面有 10 个全能者和 1 个春天卷轴.",
+			"另外, 还有一份[非卖品]神秘粉、[非卖品]提尔的祝福、还有一份[非卖品]恢复强化药剂!",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17945] = {
+		unidentifiedDisplayName = "全能加盒10组IV",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面有 100 个全能者和 11 个春天卷轴.",
+			"此外, 还有[非卖品]神秘粉、[非卖品]提尔的祝福、[非卖品]恢复强化药水十种!",
+			"还附赠[非卖品]Tok Tok 糖果一颗和[非卖品]魔法糖果一颗.",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "全能加盒10组IV",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面有 100 个全能者和 11 个春天卷轴.",
+			"此外, 还有[非卖品]神秘粉、[非卖品]提尔的祝福、[非卖品]恢复强化药水十种!",
+			"还附赠[非卖品]Tok Tok 糖果一颗和[非卖品]魔法糖果一颗.",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23710] = {
+		unidentifiedDisplayName = "春天的卷轴",
+		unidentifiedResourceName = "孩采胶农费",
+		unidentifiedDescriptionName = {
+			"限时春季卷轴. ",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、兑换影镐盒、意外幸运铠甲、坚固体力铠甲、霍格伦暗影熔炼锤、契约之心等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "春天的卷轴",
+		identifiedResourceName = "孩采胶农费",
+		identifiedDescriptionName = {
+			"限时春季卷轴. ",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、兑换影镐盒、意外幸运铠甲、坚固体力铠甲、霍格伦暗影熔炼锤、契约之心等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23708] = {
+		unidentifiedDisplayName = "二月特别盒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"Runmid Garts 里的帅哥就是我!!!一个盒子,里面装有可以领取的新服装.",
+			"除附魔石盒15个外, 随机附送四种假发中的一种. ",
+			"--------------------------",
+			"服装体积低双",
+			"服装红色非洲假发",
+			"服装大力士的头发",
+			"洛丽塔服装双面朝上",
+			"--------------------------",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "二月特别盒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"Runmid Garts 里的帅哥就是我!!!一个盒子,里面装有可以领取的新服装.",
+			"除附魔石盒15个外, 随机附送四种假发中的一种. ",
+			"--------------------------",
+			"服装体积低双",
+			"服装红色非洲假发",
+			"服装大力士的头发",
+			"洛丽塔服装双面朝上",
+			"--------------------------",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31494] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装体积低双",
+		identifiedResourceName = "Volume_Low_Twin",
+		identifiedDescriptionName = {
+			"一款让您在佩戴时感觉发型与平常不同的服装假发.",
+			"一条宽大的辫子,在低处扎成两条辫子.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1683,
+		costume = true
+	},
+	[31495] = {
+		unidentifiedDisplayName = "头巾",
+		unidentifiedResourceName = "赣府鹅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "洛丽塔服装双面朝上",
+		identifiedResourceName = "Lolita_Two_Side_Up",
+		identifiedDescriptionName = {
+			"一款让您在佩戴时感觉发型与平常不同的服装假发.",
+			"两侧向上的卷发,带有两种色调,感觉就像童话故事一样.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1713,
+		costume = true
+	},
+	[17948] = {
+		unidentifiedDisplayName = "冶炼矿箱十九 10套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个迎春卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿箱十九 10套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒. 此外, 还包括 11 个迎春卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17949] = {
+		unidentifiedDisplayName = "熔炼矿石箱XIX",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还附赠一张迎春卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "熔炼矿石箱XIX",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒. 此外, 还附赠一张迎春卷轴. ",
+			"^ffffff_^000000",
+			"浓缩铒 - 增加盔甲的熔炼概率.",
+			"浓缩Oridecon - 增加武器的精炼概率.",
+			"^ffffff_^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17950] = {
+		unidentifiedDisplayName = "高精矿冶炼箱VII",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一盒含有高浓度铒和高浓度 Oridecon 各 13 颗. 此外, 它还包含 11 个迎春卷轴和 6 个精神药水. ",
+			"_ ",
+			"高浓度铒 - 增加装甲的熔炼概率.",
+			"高浓度 Oridecon - 增加武器的熔炼概率. ",
+			"- 精炼度+7以上的装备时, 即使失败, 装备也不会被破坏消失!但精炼度不能超过+10. - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高精矿冶炼箱VII",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一盒含有高浓度铒和高浓度 Oridecon 各 13 颗. 此外, 它还包含 11 个迎春卷轴和 6 个精神药水. ",
+			"_ ",
+			"高浓度铒 - 增加装甲的熔炼概率.",
+			"高浓度 Oridecon - 增加武器的熔炼概率. ",
+			"- 精炼度+7以上的装备时, 即使失败, 装备也不会被破坏消失!但精炼度不能超过+10. - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17951] = {
+		unidentifiedDisplayName = "高密度冶炼矿箱V",
+		unidentifiedResourceName = "某矫惑磊_八沥",
+		unidentifiedDescriptionName = {
+			"一个盒子, 里面装有 13 个高密度钷和 13 个高密度钪. 此外, 它还包含 11 个迎春卷轴和 6 个精神药水. ",
+			"_ ",
+			"高密度钸 - 可以精炼精炼度+10以上的武器.",
+			"高密度Carnium - 可以精炼装甲,精炼等级为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.)",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高密度冶炼矿箱V",
+		identifiedResourceName = "某矫惑磊_八沥",
+		identifiedDescriptionName = {
+			"一个盒子, 里面装有 13 个高密度钷和 13 个高密度钪. 此外, 它还包含 11 个迎春卷轴和 6 个精神药水. ",
+			"_ ",
+			"高密度钸 - 可以精炼精炼度+10以上的武器.",
+			"高密度Carnium - 可以精炼装甲,精炼等级为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23718] = {
+		unidentifiedDisplayName = "春天卷轴",
+		unidentifiedResourceName = "脚厚狼舅",
+		unidentifiedDescriptionName = {
+			"限时春季卷轴. ",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、封印卡II、光速铠甲、灵巧铠甲、暗影随机选项盒、职业暗影挑选杰克盒(部分)、铁匠的祝福、霍格伦的暗影熔炼锤等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "春天卷轴",
+		identifiedResourceName = "脚厚狼舅",
+		identifiedDescriptionName = {
+			"限时春季卷轴. ",
+			"可以获得武器11级精炼礼券、防具11级精炼礼券、封印卡II、光速铠甲、灵巧铠甲、暗影随机选项盒、职业暗影挑选杰克盒(部分)、铁匠的祝福、霍格伦的暗影熔炼锤等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23719] = {
+		unidentifiedDisplayName = "封印卡II",
+		unidentifiedResourceName = "篮祸牢厘墨靛",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"卡用银装饰. 您可以获得密封卡系列之一. ",
+			"- 斯卡拉巴女王、巴风特、玛雅、乌鸦、教授、冠军、创造者、追猎者、圣骑士、吉普赛人、大贤将军、吉奥亚、堕落者普瑞尔、守护者萨卡德斯、时间持有者、埃德加、怀特史密斯、大祭司、兽人领主、亡灵战士、坦尼娅女士、兽人英雄、情妇、克苏拉克斯 "
+		},
+		identifiedDisplayName = "封印卡II",
+		identifiedResourceName = "篮祸牢厘墨靛",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"卡用银装饰. 您可以获得密封卡系列之一. ",
+			"- 斯卡拉巴女王、巴风特、玛雅、乌鸦、教授、冠军、创造者、追猎者、圣骑士、吉普赛人、大贤将军、吉奥亚、堕落者普瑞尔、守护者萨卡德斯、时间持有者、埃德加、怀特史密斯、大祭司、兽人领主、亡灵战士、坦尼娅女士、兽人英雄、情妇、克苏拉克斯 ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23724] = {
+		unidentifiedDisplayName = "纪念蛋",
+		unidentifiedResourceName = "炔陛器傅胶农费",
+		unidentifiedDescriptionName = {
+			"纪念世界诞生的祝福蛋.",
+			"鸡蛋里面好像有东西,我们小心点打开吧.",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "纪念蛋",
+		identifiedResourceName = "炔陛器傅胶农费",
+		identifiedDescriptionName = {
+			"纪念世界诞生的祝福蛋.",
+			"鸡蛋里面好像有东西,我们小心点打开吧.",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[32202] = {
+		unidentifiedDisplayName = "宽恕之戒",
+		unidentifiedResourceName = "救靛官府狼馆瘤",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "宽恕之戒",
+		identifiedResourceName = "救靛官府狼馆瘤",
+		identifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"蕴含着歉意的戒指.",
+			"所有基本状态+1. ",
+			"治疗, 可进行 1 级传送. ",
+			"铸件不会破裂. ",
+			"可变施法时间减少10%, 攻击速度增加(攻击后延迟减少10%). ",
+			"系列 : ^777777配件^000000",
+			"防御 : ^7777770^000000      重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"配备 : ^777777所有职业都可以装备^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23752] = {
+		unidentifiedDisplayName = "一份充满歉意的礼物",
+		unidentifiedResourceName = "盒全窍飘惑磊",
+		unidentifiedDescriptionName = {
+			"为了对掉落率错误表示歉意而创建的盒子.",
+			"以下每件礼物均包含在内.",
+			"^ffffff_^000000 ",
+			"埃莉斯·风之子 Come EX (30th)",
+			"高级重置石",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "一份充满歉意的礼物",
+		identifiedResourceName = "盒全窍飘惑磊",
+		identifiedDescriptionName = {
+			"为了对掉落率错误表示歉意而创建的盒子.",
+			"以下每件礼物均包含在内.",
+			"^ffffff_^000000 ",
+			"埃莉斯·风之子 Come EX (30th)",
+			"高级重置石",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23751] = {
+		unidentifiedDisplayName = "[非卖品] 高级buff盒",
+		unidentifiedResourceName = "急拱惑磊_5",
+		unidentifiedDescriptionName = {
+			"一个盒子,其中包含一个可应用高级增益的高级固定费率服务盒.",
+			"^ffffff_^000000",
+			"[基础服务] ",
+			"当您打开高级包租服务箱时, 服务器上所有使用该物品的角色都将获得30天的高级增益效果. ",
+			"-经验增加20% ",
+			"- 物品掉落率增加20% ",
+			"- 仓库限制增加300 ",
+			"^ffffff_^000000",
+			"[附加服务]",
+			"当你消耗Nyandarae时,一个服务器中的所有角色都会获得以下效果. ",
+			"- EXP UP(持续24小时, 4只蜗牛) ",
+			"经验增加30% ",
+			"- ITEM UP(持续24小时, 2只蜗牛) ",
+			"物品掉落率增加 30% ",
+			"- DEATH DOWN(持续 24 小时, 1 只猫) ",
+			"死刑减少50% ",
+			"- 高级套餐(持续24小时, 6只蜗牛) ",
+			"以上三种效果 ",
+			"警告! - 当增益效果处于活动状态时, 您无法选择与其重叠的增益效果或高级包.",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "[非卖品] 高级buff盒",
+		identifiedResourceName = "急拱惑磊_5",
+		identifiedDescriptionName = {
+			"一个盒子,其中包含一个可应用高级增益的高级固定费率服务盒.",
+			"^ffffff_^000000",
+			"[基础服务] ",
+			"当您打开高级包租服务箱时, 服务器上所有使用该物品的角色都将获得30天的高级增益效果. ",
+			"-经验增加20% ",
+			"- 物品掉落率增加20% ",
+			"- 仓库限制增加300 ",
+			"^ffffff_^000000",
+			"[附加服务]",
+			"当你消耗Nyandarae时,一个服务器中的所有角色都会获得以下效果. ",
+			"- EXP UP(持续24小时, 4只蜗牛) ",
+			"经验增加30% ",
+			"- ITEM UP(持续24小时, 2只蜗牛) ",
+			"物品掉落率增加 30% ",
+			"- DEATH DOWN(持续 24 小时, 1 只猫) ",
+			"死刑减少50% ",
+			"- 高级套餐(持续24小时, 6只蜗牛) ",
+			"以上三种效果 ",
+			"警告! - 当增益效果处于活动状态时, 您无法选择与其重叠的增益效果或高级包.",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23754] = {
+		unidentifiedDisplayName = "道歉戒指盒",
+		unidentifiedResourceName = "坷贰等颇鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子, 内含 1 个道歉戒指和 1 个放大镜. 开封后可使用30天. ",
+			"蕴含着歉意的戒指. ",
+			"提供 1 级治疗和传送. 铸件不会破裂. ",
+			"所有基本状态+1. ",
+			"可变施法时间减少10%, 攻击速度增加(攻击后延迟减少10%). "
+		},
+		identifiedDisplayName = "道歉戒指盒",
+		identifiedResourceName = "坷贰等颇鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子, 内含 1 个道歉戒指和 1 个放大镜. 开封后可使用30天. ",
+			"蕴含着歉意的戒指. ",
+			"提供 1 级治疗和传送. 铸件不会破裂. ",
+			"所有基本状态+1. ",
+			"可变施法时间减少10%, 攻击速度增加(攻击后延迟减少10%). ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23763] = {
+		unidentifiedDisplayName = "神秘蛋III",
+		unidentifiedResourceName = "濒娄胶农费",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一颗身份不明的小蛋. ",
+			"包含 2 个 2015 年至 2017 年期间释放的幸运蛋.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "神秘蛋III",
+		identifiedResourceName = "濒娄胶农费",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一颗身份不明的小蛋. ",
+			"包含 2 个 2015 年至 2017 年期间释放的幸运蛋.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23764] = {
+		unidentifiedDisplayName = "一份充满歉意的礼物",
+		unidentifiedResourceName = "眠籍急拱惑磊",
+		unidentifiedDescriptionName = {
+			"创建此框是为了对掉落率错误表示歉意.",
+			"附赠以下礼物.",
+			"^ffffff_^000000 ",
+			"1 神秘蛋 III",
+			"[非卖品]战斗手册+泡泡糖5个",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "一份充满歉意的礼物",
+		identifiedResourceName = "眠籍急拱惑磊",
+		identifiedDescriptionName = {
+			"创建此框是为了对掉落率错误表示歉意.",
+			"附赠以下礼物.",
+			"^ffffff_^000000 ",
+			"1 神秘蛋 III",
+			"[非卖品]战斗手册+泡泡糖5个",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17959] = {
+		unidentifiedDisplayName = "防御卷轴盒 III",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 5 个小法力和 30 个发光防御卷轴.",
+			"购买防御卷轴盒即可获得5月1日彩虹卷轴!",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "防御卷轴盒 III",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 5 个小法力和 30 个发光防御卷轴.",
+			"购买防御卷轴盒即可获得5月1日彩虹卷轴!",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17960] = {
+		unidentifiedDisplayName = "防御卷轴盒III 10套",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 50 个小法力和 300 个发光防御卷轴.",
+			"购买防御卷轴盒套装后,您将收到 5 月 11 日彩虹卷轴! ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "防御卷轴盒III 10套",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 50 个小法力和 300 个发光防御卷轴.",
+			"购买防御卷轴盒套装后,您将收到 5 月 11 日彩虹卷轴! ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23761] = {
+		unidentifiedDisplayName = "高级驯服礼品套装 II",
+		unidentifiedResourceName = "抛捞怪技飘",
+		unidentifiedDescriptionName = {
+			"包装精美的驯服物品套装. 包含 3 件礼物计时物品. ",
+			"包括新的驯服物品, 可以驯服墓碑、魔像、梦魇恐惧、雅娃娃和石射手.",
+			"重量 : 20"
+		},
+		identifiedDisplayName = "高级驯服礼品套装 II",
+		identifiedResourceName = "抛捞怪技飘",
+		identifiedDescriptionName = {
+			"包装精美的驯服物品套装. 包含 3 件礼物计时物品. ",
+			"包括新的驯服物品, 可以驯服墓碑、魔像、梦魇恐惧、雅娃娃和石射手.",
+			"重量 : 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23765] = {
+		unidentifiedDisplayName = "五月的彩虹卷轴",
+		unidentifiedResourceName = "Costama_EggV02",
+		unidentifiedDescriptionName = {
+			"限时五月彩虹卷轴. ",
+			"可获得武器11炼制礼券、铠甲11炼制礼券、强效灵魂精华、新帽盒、天使波利靴盒、波利墨镜、高级驯服礼包II等稀有物品任选其一. ",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "五月的彩虹卷轴",
+		identifiedResourceName = "Costama_EggV02",
+		identifiedDescriptionName = {
+			"限时五月彩虹卷轴. ",
+			"可获得武器11炼制礼券、铠甲11炼制礼券、强效灵魂精华、新帽盒、天使波利靴盒、波利墨镜、高级驯服礼包II等稀有物品任选其一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23766] = {
+		unidentifiedDisplayName = "时间的盔甲盒",
+		unidentifiedResourceName = "锅龋惑磊04",
+		unidentifiedDescriptionName = {
+			"装有时之靴和共鸣盔甲的盒子.",
+			"包含 6 种盔甲中的 1 种.",
+			"力量溢出的铠甲[1]",
+			"强大的魔法铠甲[1]",
+			"意想不到的幸运铠甲[1]",
+			"坚固耐力铠甲[1]",
+			"速度银甲[1]",
+			"灵巧的铠甲[1]",
+			"重量 : ^777777200^000000"
+		},
+		identifiedDisplayName = "时间的盔甲盒",
+		identifiedResourceName = "锅龋惑磊04",
+		identifiedDescriptionName = {
+			"装有时之靴和共鸣盔甲的盒子.",
+			"包含 6 种盔甲中的 1 种.",
+			"力量溢出的铠甲[1]",
+			"强大的魔法铠甲[1]",
+			"意想不到的幸运铠甲[1]",
+			"坚固耐力铠甲[1]",
+			"速度银甲[1]",
+			"灵巧的铠甲[1]",
+			"重量 : ^777777200^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23767] = {
+		unidentifiedDisplayName = "一盒强力头盔",
+		unidentifiedResourceName = "锅龋惑磊02",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装着一系列能力强大、外观酷炫的头盔.",
+			"包括 5 种头盔中的 1 种.",
+			"愚蠢的军官",
+			"拼写电路",
+			"将军的头盔",
+			"很酷的羽毛帽子",
+			"阿米斯特贝雷帽",
+			"重量 : ^77777780^000000"
+		},
+		identifiedDisplayName = "一盒强力头盔",
+		identifiedResourceName = "锅龋惑磊02",
+		identifiedDescriptionName = {
+			"一个盒子,里面装着一系列能力强大、外观酷炫的头盔.",
+			"包括 5 种头盔中的 1 种.",
+			"愚蠢的军官",
+			"拼写电路",
+			"将军的头盔",
+			"很酷的羽毛帽子",
+			"阿米斯特贝雷帽",
+			"重量 : ^77777780^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[5412] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "甜蜜的糖果",
+		identifiedResourceName = "涝俊公绰阜措荤帕",
+		identifiedDescriptionName = {
+			"据说拥有连老师都不知道的神秘力量的甜蜜糖果. ",
+			"从怪物身上获得的经验增加10%.",
+			"ASPD + 1.",
+			"ATK, MATK + 5.",
+			"治疗量增加5%.",
+			"固定施法时间减少 0.1 秒.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 446,
+		costume = false
+	},
+	[23784] = {
+		unidentifiedDisplayName = "甜蜜的糖果盒",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒装有 1 颗糖果. 可以使用7天. ",
+			"^000088出租物品^000000",
+			"据说拥有连老师都不知道的神秘力量的甜蜜糖果. ",
+			"从怪物身上获得的经验增加10%. ",
+			"ASPD + 1. ",
+			"ATK, MATK + 5. ",
+			"治疗量增加5%. ",
+			"固定施法时间减少 0.1 秒.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000 ",
+			"配备 : ^777777以前的工作^000000 "
+		},
+		identifiedDisplayName = "甜蜜的糖果盒",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒装有 1 颗糖果. 可以使用7天. ",
+			"^000088出租物品^000000",
+			"据说拥有连老师都不知道的神秘力量的甜蜜糖果. ",
+			"从怪物身上获得的经验增加10%. ",
+			"ASPD + 1. ",
+			"ATK, MATK + 5. ",
+			"治疗量增加5%. ",
+			"固定施法时间减少 0.1 秒.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000 ",
+			"配备 : ^777777以前的工作^000000 ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19389] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "付胶农",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "高级氧气面罩",
+		identifiedResourceName = "魂家付胶农",
+		identifiedDescriptionName = {
+			"^000088出租物品^000000",
+			"一种面罩,前面附有一个装置,可以过滤掉有害空气,让您在任何地方都能呼吸新鲜空气.",
+			"佩戴后可以安全地处理细尘团, 消除细尘团时会有一定概率掉落神秘塑料袋.",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 90,
+		costume = false
+	},
+	[23771] = {
+		unidentifiedDisplayName = "神秘的塑料袋",
+		unidentifiedResourceName = "浚俩傅菩虐瘤",
+		unidentifiedDescriptionName = { "在一团细尘中发现的神秘塑料袋." },
+		identifiedDisplayName = "神秘的塑料袋",
+		identifiedResourceName = "浚俩傅菩虐瘤",
+		identifiedDescriptionName = { "在一团细尘中发现的神秘塑料袋.", "重量 : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17961] = {
+		unidentifiedDisplayName = "三明水套餐 XII",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得1张穿魂卷轴II. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐 XII",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. 此外, 你还可以获得1张穿魂卷轴II. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17962] = {
+		unidentifiedDisplayName = "三明水套餐10套XII",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 你还可以获得11张穿魂卷轴II. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐10套XII",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. 此外, 你还可以获得11张穿魂卷轴II. ",
+			"^ff0000如果您打开此项目,您将无法取消订阅. ^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23804] = {
+		unidentifiedDisplayName = "穿魂卷轴 II",
+		unidentifiedResourceName = "酒府何鸥胶农费",
+		unidentifiedDescriptionName = {
+			"限时穿魂卷轴II.",
+			"可以获得武器11级精炼礼券、铠甲11级精炼礼券、水生枪、驱魔圣经、颤抖之刃、叛逆之影、阳炎、敖幌之影等多种稀有物品之一. "
+		},
+		identifiedDisplayName = "穿魂卷轴 II",
+		identifiedResourceName = "酒府何鸥胶农费",
+		identifiedDescriptionName = {
+			"限时穿魂卷轴II.",
+			"可以获得武器11级精炼礼券、铠甲11级精炼礼券、水生枪、驱魔圣经、颤抖之刃、叛逆之影、阳炎、敖幌之影等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23805] = {
+		unidentifiedDisplayName = "灵魂帽盒",
+		unidentifiedResourceName = "快匡茄惑磊",
+		unidentifiedDescriptionName = {
+			"打开盒子后,您可以获得以下帽子之一.",
+			"――――――――――――― ",
+			"西格伦之翼、机器眼 ",
+			"天使之魂, 青伊之魂",
+			"伊芙利特的耳朵、小鸡帽 ",
+			"暗影助推器 ",
+			"堕落天使的祝福 ",
+			"精神冠 ",
+			"兔子魔术帽 ",
+			"阿努比斯头盔 ",
+			"新浪潮太阳镜 ",
+			"――――――――――――― "
+		},
+		identifiedDisplayName = "灵魂帽盒",
+		identifiedResourceName = "快匡茄惑磊",
+		identifiedDescriptionName = {
+			"打开盒子后,您可以获得以下帽子之一.",
+			"――――――――――――― ",
+			"西格伦之翼、机器眼 ",
+			"天使之魂, 青伊之魂",
+			"伊芙利特的耳朵、小鸡帽 ",
+			"暗影助推器 ",
+			"堕落天使的祝福 ",
+			"精神冠 ",
+			"兔子魔术帽 ",
+			"阿努比斯头盔 ",
+			"新浪潮太阳镜 ",
+			"――――――――――――― ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19396] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(权成)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"该物品不能与其他账户进行交易. ",
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼 2 点,攻击力 + 10. ",
+			"每 3 次精炼提高攻击速度(攻击后延迟减少 2%). ",
+			"精炼到8级时, [轻松休息] 每升一级攻击力+5. ",
+			"精炼到11级时, 使用[赤焰号角] 时, [日爆] 伤害提升30%, 持续10秒.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777权成系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[19397] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "赛车帽(灵魂链接者)",
+		identifiedResourceName = "焊胶海饭葛",
+		identifiedDescriptionName = {
+			"该物品不能与其他账户进行交易. ",
+			"怪物种族协会为使用怪物种族的顾客制作的非常有价值的纪念帽.",
+			"",
+			"每精炼 2 点,MATK + 10 增加. ",
+			"每 3 次精炼,变量铸造减少 2%.",
+			"精炼到8级时, [快乐休息] 每升一级MSP+100.",
+			"精炼到11级时, 使用[埃斯玛] 、[埃斯帕] 、[埃术] 时伤害提升30%, 持续10秒.",
+			"",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777灵魂链接者系列^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1134,
+		costume = false
+	},
+	[29579] = {
+		unidentifiedDisplayName = "赛车(权成) 1Lv",
+		unidentifiedResourceName = "仟弗具堡籍",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(Kwon Seong)时,以下选项适用.^000000 ",
+			"[日爆] 、[满月] 、[流星坠落] 伤害提升10%."
+		},
+		identifiedDisplayName = "赛车(权成) 1Lv",
+		identifiedResourceName = "仟弗具堡籍",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(Kwon Seong)时,以下选项适用.^000000 ",
+			"[日爆] 、[满月] 、[流星坠落] 伤害提升10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29580] = {
+		unidentifiedDisplayName = "赛车(权成) 2Lv",
+		unidentifiedResourceName = "仟弗具堡籍",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(Kwon Seong)时,以下选项适用.^000000 ",
+			"[日月星辰的记录] 技能冷却时间缩短10秒.",
+			"[日爆] 、[满月] 、[流星坠落] 伤害提升20%."
+		},
+		identifiedDisplayName = "赛车(权成) 2Lv",
+		identifiedResourceName = "仟弗具堡籍",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(Kwon Seong)时,以下选项适用.^000000 ",
+			"[日月星辰的记录] 技能冷却时间缩短10秒.",
+			"[日爆] 、[满月] 、[流星坠落] 伤害提升20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29581] = {
+		unidentifiedDisplayName = "赛车(权成) 3Lv",
+		unidentifiedResourceName = "仟弗具堡籍",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(Kwon Seong)时,以下选项适用.^000000 ",
+			"[日月星辰的记录] 技能冷却时间减少30秒.",
+			"[日爆] 、[满月] 、[流星坠落] 伤害提升40%."
+		},
+		identifiedDisplayName = "赛车(权成) 3Lv",
+		identifiedResourceName = "仟弗具堡籍",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(Kwon Seong)时,以下选项适用.^000000 ",
+			"[日月星辰的记录] 技能冷却时间减少30秒.",
+			"[日爆] 、[满月] 、[流星坠落] 伤害提升40%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29582] = {
+		unidentifiedDisplayName = "竞速(灵魂链接者) 1Lv",
+		unidentifiedResourceName = "档柄厚阂",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(灵魂链接者)时,以下选项适用.^000000",
+			"[埃斯玛] 、[埃斯帕] 、[埃舒] 伤害增加10%."
+		},
+		identifiedDisplayName = "竞速(灵魂链接者) 1Lv",
+		identifiedResourceName = "档柄厚阂",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(灵魂链接者)时,以下选项适用.^000000",
+			"[埃斯玛] 、[埃斯帕] 、[埃舒] 伤害增加10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29583] = {
+		unidentifiedDisplayName = "竞速(灵魂链接者) 2Lv",
+		unidentifiedResourceName = "档柄厚阂",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(灵魂链接者)时,以下选项适用.^000000",
+			"[灵魂收割] 技能冷却时间缩短10秒.",
+			"[埃斯玛] 、[埃斯帕] 、[埃舒] 伤害增加20%."
+		},
+		identifiedDisplayName = "竞速(灵魂链接者) 2Lv",
+		identifiedResourceName = "档柄厚阂",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(灵魂链接者)时,以下选项适用.^000000",
+			"[灵魂收割] 技能冷却时间缩短10秒.",
+			"[埃斯玛] 、[埃斯帕] 、[埃舒] 伤害增加20%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29584] = {
+		unidentifiedDisplayName = "竞速(灵魂链接者) 3Lv",
+		unidentifiedResourceName = "档柄厚阂",
+		unidentifiedDescriptionName = {
+			"^800080当附魔赛车帽(灵魂链接者)时,以下选项适用.^000000",
+			"[灵魂收割] 技能冷却时间缩短30秒.",
+			"[埃斯玛] 、[埃斯帕] 、[埃舒] 伤害增加40%."
+		},
+		identifiedDisplayName = "竞速(灵魂链接者) 3Lv",
+		identifiedResourceName = "档柄厚阂",
+		identifiedDescriptionName = {
+			"^800080当附魔赛车帽(灵魂链接者)时,以下选项适用.^000000",
+			"[灵魂收割] 技能冷却时间缩短30秒.",
+			"[埃斯玛] 、[埃斯帕] 、[埃舒] 伤害增加40%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20533] = {
+		unidentifiedDisplayName = "穿上它",
+		unidentifiedResourceName = "饶靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装粉色蝴蝶翅膀",
+		identifiedResourceName = "C_PinkButterfly_Wing",
+		identifiedDescriptionName = {
+			"粉红色的服装翅膀看起来像蝴蝶的翅膀. ",
+			"据说它被制成仙女翅膀的形状.",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒16.^000000 ",
+			"系列 : ^777777服装设备^000000",
+			"地点 : ^777777穿上它 ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 38,
+		costume = true
+	},
+	[25658] = {
+		unidentifiedDisplayName = "面条汁液",
+		unidentifiedResourceName = "付墨仟畴",
+		unidentifiedDescriptionName = {
+			"可以从一些面条中获得少量的汁液.",
+			"其特点是口感柔和、香甜.",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.) ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "面条汁液",
+		identifiedResourceName = "付墨仟畴",
+		identifiedDescriptionName = {
+			"可以从一些面条中获得少量的汁液.",
+			"其特点是口感柔和、香甜.",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.) ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23743] = {
+		unidentifiedDisplayName = "节日纪念罐头",
+		unidentifiedResourceName = "脚功_烹炼覆",
+		unidentifiedDescriptionName = {
+			"为纪念面条节而专门生产的罐头食品.",
+			"里面有各种奖品.",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.)",
+			"重量 : 5"
+		},
+		identifiedDisplayName = "节日纪念罐头",
+		identifiedResourceName = "脚功_烹炼覆",
+		identifiedDescriptionName = {
+			"为纪念面条节而专门生产的罐头食品.",
+			"里面有各种奖品.",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.) ",
+			"重量 : ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23744] = {
+		unidentifiedDisplayName = "奶油面条",
+		unidentifiedResourceName = "绢龙夸府06",
+		unidentifiedDescriptionName = {
+			"用带状面条制成的虾奶油意大利面;",
+			"虾和奶油的味道温和,可以感受到深沉浓郁的大海风味.",
+			"使用时, 生命值恢复15%, 攻击力+5%, 持续10分钟. ",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.) ",
+			"重量 : ^7777774^000000"
+		},
+		identifiedDisplayName = "奶油面条",
+		identifiedResourceName = "绢龙夸府06",
+		identifiedDescriptionName = {
+			"用带状面条制成的虾奶油意大利面;",
+			"虾和奶油的味道温和,可以感受到深沉浓郁的大海风味.",
+			"使用时, 生命值恢复15%, 攻击力+5%, 持续10分钟. ",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.) ",
+			"重量 : ^7777774^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17967] = {
+		unidentifiedDisplayName = "无限盒子II",
+		unidentifiedResourceName = "气快狼惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 10 杯无限饮料和 1 个星辰与灵魂卷轴.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "无限盒子II",
+		identifiedResourceName = "气快狼惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,内含 10 杯无限饮料和 1 个星辰与灵魂卷轴.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17968] = {
+		unidentifiedDisplayName = "Infinity Box II 10套",
+		unidentifiedResourceName = "气快狼惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有 100 杯无限饮料和 11 个星与魂卷轴.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "Infinity Box II 10套",
+		identifiedResourceName = "气快狼惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有 100 杯无限饮料和 11 个星与魂卷轴.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23878] = {
+		unidentifiedDisplayName = "星辰与灵魂卷轴",
+		unidentifiedResourceName = "StarSoul_Scroll",
+		unidentifiedDescriptionName = {
+			"星星与灵魂的限时卷轴.",
+			"可以获得武器11级炼制礼券、铠甲11级炼制礼券、一千零一个太阳、灵摆、狐尾、圣影(铠甲、鞋子)、死神影(铠甲、鞋子)、多拉姆影子(铠甲、鞋子)等多种稀有物品之一. "
+		},
+		identifiedDisplayName = "星辰与灵魂卷轴",
+		identifiedResourceName = "StarSoul_Scroll",
+		identifiedDescriptionName = {
+			"星星与灵魂的限时卷轴.",
+			"可以获得武器11级炼制礼券、铠甲11级炼制礼券、一千零一个太阳、灵摆、狐尾、圣影(铠甲、鞋子)、死神影(铠甲、鞋子)、多拉姆影子(铠甲、鞋子)等多种稀有物品之一. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23896] = {
+		unidentifiedDisplayName = "重新认证感谢信箱",
+		unidentifiedResourceName = "坷贰等焊扼惑磊",
+		unidentifiedDescriptionName = {
+			"对于限制 i-PIN 订户的访问, 我们深表歉意, 并感谢您重新对我们进行身份验证.",
+			" - 1 张高级 7 天通行证",
+			" - 10张世界旅行门票",
+			" - 1本高级战斗手册",
+			" - [非卖品] 泡泡糖2个"
+		},
+		identifiedDisplayName = "重新认证感谢信箱",
+		identifiedResourceName = "坷贰等焊扼惑磊",
+		identifiedDescriptionName = {
+			"对于限制 i-PIN 订户的访问, 我们深表歉意, 并感谢您重新对我们进行身份验证.",
+			" - 1 个高级统一费率 7 天盒",
+			" - 10张世界旅行门票",
+			" - 1本高级战斗手册",
+			" - [非卖品] 泡泡糖2个",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25733] = {
+		unidentifiedDisplayName = "剧集任务清除优惠券",
+		unidentifiedResourceName = "捻迄",
+		unidentifiedDescriptionName = {
+			"完成第17.1集任务时可以获得的优惠券.",
+			"据说每张优惠券价值8个神秘配饰.",
+			"^ffffff_^000000",
+			"^ff0000该项目将于2018年8月29日定期维护期间删除.^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "剧集任务清除优惠券",
+		identifiedResourceName = "捻迄",
+		identifiedDescriptionName = {
+			"完成第17.1集任务时可以获得的优惠券.",
+			"据说每张优惠券价值8个神秘配饰.",
+			"^ffffff_^000000",
+			"^ff0000该项目将于2018年8月29日定期维护期间删除.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25735] = {
+		unidentifiedDisplayName = "古代英雄印章-年份",
+		unidentifiedResourceName = "券康狼阿牢",
+		unidentifiedDescriptionName = {
+			"能够唤醒古代英雄封印武器的封印.",
+			"^ffffff<NAVI>^4D4DFF[设备保障人员]^000000<INFO>prontera,157,279,0,100,0,0</INFO></NAVI>^000000让我们把它带到.",
+			"^ff0000(该项目将于2018年8月22日例行维护期间删除.)^000000",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "古代英雄印章-年份",
+		identifiedResourceName = "券康狼阿牢",
+		identifiedDescriptionName = {
+			"能够唤醒古代英雄封印武器的封印.",
+			"^ffffff<NAVI>^4D4DFF[设备保障人员]^000000<INFO>prontera,157,279,0,100,0,0</INFO></NAVI>^000000让我们把它带到.",
+			"^ff0000(该项目将于2018年8月22日例行维护期间删除.)^000000",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22700] = {
+		unidentifiedDisplayName = "跳跃支撑箱",
+		unidentifiedResourceName = "急拱惑磊_2",
+		unidentifiedDescriptionName = {
+			"一盒内含时光超越盒1个、白色纤细药水盒1个、[非卖品]苍蝇翅膀200个、初级蝴蝶翅膀50个、初级放大镜50个、奥里迪奥康箭袋5个. ",
+			"^ff0000(该项目将于2019年1月第一周定期维护时删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "跳跃支撑箱",
+		identifiedResourceName = "急拱惑磊_2",
+		identifiedDescriptionName = {
+			"一盒内含时光超越盒1个、白色纤细药水盒1个、[非卖品]苍蝇翅膀200个、初级蝴蝶翅膀50个、初级放大镜50个、奥里迪奥康箭袋5个. ",
+			"^ff0000(该项目将于2019年1月第一周定期维护时删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23897] = {
+		unidentifiedDisplayName = "2018年跳跃预登记感谢箱",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"“感谢您预注册 2018 年 Ragnarok 在线跳跃活动.”",
+			"一个金色的盒子,底部刻着几个字.",
+			"[非卖品] 包含10个全能, [非卖品] 20个小型生命水, [非卖品] 20个中型生命水, [非卖品] 10个力量助推器, [非卖品] 10个小型法力水和20个世界通行证.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "2018年跳跃预登记感谢箱",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"“感谢您预注册 2018 年 Ragnarok 在线跳跃活动.”",
+			"一个金色的盒子,底部刻着几个字.",
+			"[非卖品] 包含10个全能, [非卖品] 20个小型生命水, [非卖品] 20个中型生命水, [非卖品] 10个力量助推器, [非卖品] 10个小型法力水和20个世界通行证.",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23901] = {
+		unidentifiedDisplayName = "升级箱 (110)",
+		unidentifiedResourceName = "锅龋惑磊05",
+		unidentifiedDescriptionName = {
+			"一盒用于快速升级的必需品.",
+			"[非卖品]内含战斗手册和泡泡糖2本, [非卖品]JOB战斗手册2本, [非卖品]小型生命树30棵, [非卖品]中型生命树30棵.",
+			"现在打开还可以获得10张世界旅行券和一个升级宝箱(120)!",
+			"",
+			"^ff0000(该物品将于2019年1月第一周例行维护时批量删除.)^000000",
+			"所需级别 : ^777777110^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "升级箱 (110)",
+		identifiedResourceName = "锅龋惑磊05",
+		identifiedDescriptionName = {
+			"一盒用于快速升级的必需品.",
+			"[非卖品]内含战斗手册和泡泡糖2本, [非卖品]JOB战斗手册2本, [非卖品]小型生命树30棵, [非卖品]中型生命树30棵.",
+			"现在打开还可以获得10张世界旅行券和一个升级宝箱(120)!",
+			"",
+			"^ff0000(该物品将于2019年1月第一周例行维护时批量删除.)^000000",
+			"所需级别 : ^777777110^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22524] = {
+		unidentifiedDisplayName = "升级箱 (130)",
+		unidentifiedResourceName = "锅龋惑磊05",
+		unidentifiedDescriptionName = {
+			"一盒用于快速升级的必需品.",
+			"[非卖品]内含战斗手册和泡泡糖2本, [非卖品]JOB战斗手册2本, [非卖品]小型生命树30棵, [非卖品]中型生命树30棵.",
+			"现在打开还可以获得10张世界旅行券和一个升级宝箱(140)!",
+			"^ff0000(该物品将于2019年1月第一周例行维护时批量删除.)^000000",
+			"所需级别 : ^777777130^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "升级箱 (130)",
+		identifiedResourceName = "锅龋惑磊05",
+		identifiedDescriptionName = {
+			"一盒用于快速升级的必需品.",
+			"[非卖品]内含战斗手册和泡泡糖2本, [非卖品]JOB战斗手册2本, [非卖品]小型生命树30棵, [非卖品]中型生命树30棵.",
+			"现在打开还可以获得10张世界旅行券和一个升级宝箱(140)!",
+			"^ff0000(该物品将于2019年1月第一周例行维护时批量删除.)^000000",
+			"所需级别 : ^777777130^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22526] = {
+		unidentifiedDisplayName = "升级箱 (150)",
+		unidentifiedResourceName = "锅龋惑磊05",
+		unidentifiedDescriptionName = {
+			"一盒用于快速升级的必需品.",
+			"[非卖品]战斗手册+3个泡泡糖, [非卖品]小型生命水30个, [非卖品]中型生命水30个, [非卖品]小型法力水15个.",
+			"现在打开可以获得30个[非卖品]闪亮防御卷轴和一个升级箱(160) !",
+			"",
+			"^ff0000(该物品将于2019年1月第一周例行维护时批量删除.)^000000 ",
+			"所需级别 : ^777777150^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "升级箱 (150)",
+		identifiedResourceName = "锅龋惑磊05",
+		identifiedDescriptionName = {
+			"一盒用于快速升级的必需品.",
+			"[非卖品]战斗手册+3个泡泡糖, [非卖品]小型生命水30个, [非卖品]中型生命水30个, [非卖品]小型法力水15个.",
+			"现在打开可以获得30个[非卖品]闪亮防御卷轴和一个升级箱(160) !",
+			"",
+			"^ff0000(该物品将于2019年1月第一周例行维护时批量删除.)^000000 ",
+			"所需级别 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			""
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20940] = {
+		unidentifiedDisplayName = "穿上它",
+		unidentifiedResourceName = "饶靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "紫色光环",
+		identifiedResourceName = "Violet_Halo",
+		identifiedDescriptionName = {
+			"闪烁的紫色翅膀漂浮在它的背后.",
+			"现实似乎是一个小型全息投影仪.",
+			"坚不可摧.",
+			"MATK+20, 远程物理伤害增加3%, 暴击伤害增加3%.",
+			"每精炼3级, MATK+20, 远程物理伤害增加3%, 暴击伤害增加3%.",
+			"精炼到11级时, 全局冷却时间减少4%.",
+			" ",
+			"装备魔法助推器[1]时, 可变施法减少30%.",
+			"与猩红助推器[1]一起装备时, 远距离物理伤害增加14%.",
+			"与西格伦之翼或西格伦之翼[1]一起装备时, 暴击伤害增加14%.",
+			"装备黑色眼罩或黑色眼罩[1]时, 全局冷却时间减少6%.",
+			"系列 : ^777777穿上它^000000 防御 : ^7777770^000000",
+			"重量 : ^77777710^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 39,
+		costume = false
+	},
+	[17920] = {
+		unidentifiedDisplayName = "工具商呼叫铃箱",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含一个工具商人呼叫铃,可以使用 30 天. ",
+			"^ffffff_^000000 ",
+			"如果你有这个, 你可以打电话给任何地方的工具商人并购买有用的消耗品或出售你拥有的物品."
+		},
+		identifiedDisplayName = "工具商呼叫铃箱",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,内含一个工具商人呼叫铃,可以使用 30 天. ",
+			"^ffffff_^000000 ",
+			"如果你有这个, 你可以打电话给任何地方的工具商人并购买有用的消耗品或出售你拥有的物品.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17921] = {
+		unidentifiedDisplayName = "卡普拉仓库钟箱",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一个卡普拉仓库钟,可以使用 30 天. ",
+			"^ffffff_^000000 ",
+			"只要在任何地方摇一摇, 卡普拉的工作人员就会打开仓库."
+		},
+		identifiedDisplayName = "卡普拉仓库钟箱",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一个卡普拉仓库钟,可以使用 30 天. ",
+			"^ffffff_^000000 ",
+			"只要在任何地方摇一摇, 卡普拉的工作人员就会打开仓库.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23922] = {
+		unidentifiedDisplayName = "糖果袋盒",
+		unidentifiedResourceName = "葛裹积急拱惑磊",
+		unidentifiedDescriptionName = {
+			"包含以下三种物品之一的盒子:糖果袋盒(物理) 、糖果袋盒(远程) 和糖果袋盒(魔法) .",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "糖果袋盒",
+		identifiedResourceName = "葛裹积急拱惑磊",
+		identifiedDescriptionName = {
+			"包含以下三种物品之一的盒子:糖果袋盒(物理) 、糖果袋盒(远程) 和糖果袋盒(魔法) .",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23923] = {
+		unidentifiedDisplayName = "波瑞太阳镜盒",
+		unidentifiedResourceName = "器傅惑磊",
+		unidentifiedDescriptionName = {
+			"装有波利太阳镜的盒子.",
+			"有低概率获得波利太阳镜+.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "波瑞太阳镜盒",
+		identifiedResourceName = "器傅惑磊",
+		identifiedDescriptionName = {
+			"装有波利太阳镜的盒子.",
+			"有低概率获得波利太阳镜+.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23924] = {
+		unidentifiedDisplayName = "西格伦暗影盒",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一个装有 Cygrun Shield Shadow 或 Cygrun Armor Shadow 的盒子.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "西格伦暗影盒",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一个装有 Cygrun Shield Shadow 或 Cygrun Armor Shadow 的盒子.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23925] = {
+		unidentifiedDisplayName = "马达巴尼盒",
+		unidentifiedResourceName = "盔茄狼惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有玛德瓦尼或被诅咒的玛德瓦尼的盒子.",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "马达巴尼盒",
+		identifiedResourceName = "盔茄狼惑磊",
+		identifiedDescriptionName = {
+			"一个装有玛德瓦尼或被诅咒的玛德瓦尼的盒子.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23647] = {
+		unidentifiedDisplayName = "工具商呼叫铃",
+		unidentifiedResourceName = "瞒烙骇陛祸",
+		unidentifiedDescriptionName = {
+			"当你摇动铃铛时,就会有流浪商人从任何地方出现并出售或购买商品.",
+			"有了这个,你就不用进城了!",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000"
+		},
+		identifiedDisplayName = "工具商呼叫铃",
+		identifiedResourceName = "瞒烙骇陛祸",
+		identifiedDescriptionName = {
+			"当你摇动铃铛时,就会有流浪商人从任何地方出现并出售或购买商品.",
+			"有了这个,你就不用进城了!",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23648] = {
+		unidentifiedDisplayName = "卡普拉仓库贝尔",
+		unidentifiedResourceName = "瞒烙骇篮祸",
+		unidentifiedDescriptionName = {
+			"方便进入卡普拉仓库的门铃.",
+			"只要在任何地方摇一摇, 卡普拉的工作人员就会打开仓库.",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "卡普拉仓库贝尔",
+		identifiedResourceName = "瞒烙骇篮祸",
+		identifiedDescriptionName = {
+			"方便进入卡普拉仓库的门铃.",
+			"只要在任何地方摇一摇, 卡普拉的工作人员就会打开仓库.",
+			"^ff0000警告! - 不能在纪念地牢(MD)中使用.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23949] = {
+		unidentifiedDisplayName = "等级成就纪念盒",
+		unidentifiedResourceName = "锅龋惑磊04",
+		unidentifiedDescriptionName = {
+			"致2018年将跳跃角色提升至170级的冒险家 ",
+			"提供盒子. ",
+			"以下所有项目都包括在内. ",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"―――――――――――――"
+		},
+		identifiedDisplayName = "等级成就纪念盒",
+		identifiedResourceName = "锅龋惑磊04",
+		identifiedDescriptionName = {
+			"致2018年将跳跃角色提升至170级的冒险家 ",
+			"提供盒子. ",
+			"以下所有项目都包括在内. ",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"―――――――――――――",
+			"重量 : ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23952] = {
+		unidentifiedDisplayName = "肛交乒乓球盒",
+		unidentifiedResourceName = "抗贱绵力急拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有肛交乒乓球的盒子.",
+			"^ff0000警告! - 打开盒子后, 无法与其他账户进行交易.^000000"
+		},
+		identifiedDisplayName = "肛交乒乓球盒",
+		identifiedResourceName = "抗贱绵力急拱惑磊",
+		identifiedDescriptionName = {
+			"一个装有肛交乒乓球的盒子.",
+			"^ff0000警告! - 打开盒子后, 无法与其他账户进行交易.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31606] = {
+		unidentifiedDisplayName = "头巾",
+		unidentifiedResourceName = "赣府鹅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装秋季发带",
+		identifiedResourceName = "啊阑赣府鹅",
+		identifiedDescriptionName = {
+			"带有一系列秋季枫叶的发带. 它表达了每个人都可以看到的秋天森林的美丽. ",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒16.^000000 ",
+			"系列 : ^777777服装设备^000000防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1119,
+		costume = true
+	},
+	[23967] = {
+		unidentifiedDisplayName = "九月的服装附魔石镐盒",
+		unidentifiedResourceName = "脚痹兑迭惑磊",
+		unidentifiedDescriptionName = {
+			"一个可以用服装交换随机服装附魔石盒子的流行盒子.",
+			"9月份, 您可以获得20种可以用Nyandarae作为材料购买的服装, 并获得以下结界石盒子之一.",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"――――――――――――― "
+		},
+		identifiedDisplayName = "九月的服装附魔石镐盒",
+		identifiedResourceName = "脚痹兑迭惑磊",
+		identifiedDescriptionName = {
+			"一个可以用服装交换随机服装附魔石盒子的流行盒子.",
+			"9月份, 您可以获得20种可以用Nyandarae作为材料购买的服装, 并获得以下结界石盒子之一.",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"――――――――――――― ",
+			"可更换服装列表如下:",
+			"――――――――――――― ",
+			"服装链条木偶",
+			"阿吉奥夫的衣服下垂了",
+			"服装小企鹅",
+			"服装法师兜帽",
+			"服装毛茸茸的心形耳罩",
+			"服装浮冰",
+			"服装 幽麻的假期",
+			"服装祈福天灯",
+			"服装天环",
+			"服装象牙",
+			"古装小型侦察机",
+			"服装花束帽子",
+			"服装消声器",
+			"服装快乐兔丝带",
+			"服装棕褐色帽子",
+			"天堂里的服装鸟笼",
+			"服装评委",
+			"服装白兔耳",
+			"服装秋季发带",
+			"服装兔子帽子",
+			"――――――――――――― ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11010] = {
+		unidentifiedDisplayName = "目录",
+		unidentifiedResourceName = "",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "目录",
+		identifiedResourceName = "",
+		identifiedDescriptionName = {},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19429] = {
+		unidentifiedDisplayName = "查拉图斯特拉",
+		unidentifiedResourceName = "盼荐堪",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "查拉图斯特拉",
+		identifiedResourceName = "盼荐堪",
+		identifiedDescriptionName = { "如果你想知道的话,这是危险物品" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20395] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装黑色女巫的帽子",
+		identifiedResourceName = "八篮付赤狼葛磊",
+		identifiedDescriptionName = {
+			"当戴上帽子时,你仿佛被黑女巫的神秘魔力所控制.",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒16.^000000 ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1006,
+		costume = true
+	},
+	[23919] = {
+		unidentifiedDisplayName = "卡图亚的秘密钥匙",
+		unidentifiedResourceName = "扁父狼凯艰",
+		unidentifiedDescriptionName = {
+			"打开卡图亚秘密盒子的钥匙. ",
+			"包含各种宝物! ",
+			"^ff0000秘密盒子的内容每月都会变化, 因此请在使用前检查.^000000 "
+		},
+		identifiedDisplayName = "卡图亚的秘密钥匙",
+		identifiedResourceName = "扁父狼凯艰",
+		identifiedDescriptionName = {
+			"打开卡图亚秘密盒子的钥匙. ",
+			"包含各种宝物! ",
+			"^ff0000秘密盒子的内容每月都会变化, 因此请在使用前检查.^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		PackageID = 23914
+	},
+	[9530] = {
+		unidentifiedDisplayName = "300点服装盒",
+		unidentifiedResourceName = "锅龋惑磊03",
+		unidentifiedDescriptionName = { "电脑房300点奖励服装箱" },
+		identifiedDisplayName = "300点服装盒",
+		identifiedResourceName = "锅龋惑磊03",
+		identifiedDescriptionName = { "电脑房300点奖励服装箱", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17999] = {
+		unidentifiedDisplayName = "1盒库存扩充券",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"包含一张票的盒子,可用于扩展您拥有的最大物品数量.",
+			"^ffffff<TIPBOX>[使用方法]<INFO>65</INFO></TIPBOX>^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "1盒库存扩充券",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"包含一张票的盒子,可用于扩展您拥有的最大物品数量.",
+			"^ffffff<TIPBOX>[使用方法]<INFO>65</INFO></TIPBOX>^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200001] = {
+		unidentifiedDisplayName = "库存扩充券10盒",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"包含 10 张门票的盒子,可用于扩展您拥有的最大物品数量.",
+			"^ffffff<TIPBOX>[使用方法]<INFO>65</INFO></TIPBOX>^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "库存扩充券10盒",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"包含 10 张门票的盒子,可用于扩展您拥有的最大物品数量.",
+			"^ffffff<TIPBOX>[使用方法]<INFO>65</INFO></TIPBOX>^000000",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7804] = {
+		unidentifiedDisplayName = "章鱼的腿",
+		unidentifiedResourceName = "农扼乃狼促府",
+		unidentifiedDescriptionName = {
+			"章鱼的腿修剪得很整齐.",
+			"他们说很快就会长回来,所以不用太担心.",
+			"",
+			"……但是它能用来做什么呢?",
+			"^ffffff_^000000 ",
+			"(活动结束后该物品将被删除.)",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "章鱼的腿",
+		identifiedResourceName = "农扼乃狼促府",
+		identifiedDescriptionName = {
+			"章鱼的腿修剪得很整齐.",
+			"他们说很快就会长回来,所以不用太担心.",
+			"",
+			"……但是它能用来做什么呢?",
+			"^ffffff_^000000 ",
+			"(活动结束后该物品将被删除.)",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11629] = {
+		unidentifiedDisplayName = "橡子巧克力球",
+		unidentifiedResourceName = "陛堡籍",
+		unidentifiedDescriptionName = {
+			"与小章鱼一起长途旅行时必备的零食.",
+			"融化你脸颊的甜蜜让你的抱怨消失了!",
+			"恢复约 600 HP 和 100 SP. ",
+			"^ffffff_^000000 ",
+			"(活动结束后该物品将被删除.)",
+			"重量 : ^7777773^000000"
+		},
+		identifiedDisplayName = "橡子巧克力球",
+		identifiedResourceName = "陛堡籍",
+		identifiedDescriptionName = {
+			"与小章鱼一起长途旅行时必备的零食.",
+			"融化你脸颊的甜蜜让你的抱怨消失了!",
+			"恢复约 600 HP 和 100 SP. ",
+			"^ffffff_^000000 ",
+			"(活动结束后该物品将被删除.)",
+			"重量 : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11630] = {
+		unidentifiedDisplayName = "我们出去吧",
+		unidentifiedResourceName = "澜侥焊磊扁",
+		unidentifiedDescriptionName = {
+			"章鱼外出时吃的营养饭盒.",
+			"章鱼每小时进食一次,据说它们会携带大量盒装午餐.",
+			"恢复25%HP和SP, 增加移动速度1分钟.",
+			"(该速度不与其他移动速度增加效果叠加.)",
+			"^ffffff_^000000 ",
+			"(活动结束后该物品将被删除.)"
+		},
+		identifiedDisplayName = "我们出去吧",
+		identifiedResourceName = "澜侥焊磊扁",
+		identifiedDescriptionName = {
+			"章鱼外出时吃的营养饭盒. ",
+			"章鱼每小时进食一次,据说它们会携带大量盒装午餐. ",
+			"恢复50%HP和SP, 增加移动速度1分钟. ",
+			"(该速度不与其他移动速度增加效果叠加.) ",
+			"^ffffff_^000000 ",
+			"(活动结束后该物品将被删除.)",
+			"重量 : ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9553] = {
+		unidentifiedDisplayName = "无限猫手票7日盒",
+		unidentifiedResourceName = "琶硅惑磊",
+		unidentifiedDescriptionName = {
+			"一盒内含一张无限猫手券,可使用一周.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"猫手票由猫手托发行. ",
+			"猫山山顶的改造服务,随着岁月的流逝,这里的生意蒸蒸日上. ",
+			"使用时可以使用猫手仓服务. ",
+			"重量 : ^7777771^000000",
+			"^ffffff_^000000",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限猫手票7日盒",
+		identifiedResourceName = "琶硅惑磊",
+		identifiedDescriptionName = {
+			"一盒内含一张无限猫手券,可使用一周.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"猫手票由猫手托发行. ",
+			"猫山山顶的改造服务,随着岁月的流逝,这里的生意蒸蒸日上. ",
+			"使用时可以使用猫手仓服务. ",
+			"重量 : ^7777771^000000",
+			"^ffffff_^000000",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31689] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "满卷卷发的服装",
+		identifiedResourceName = "C_Piamette_Roll_Hair",
+		identifiedDescriptionName = {
+			"当你把它戴在头上时,会让你感觉你的发型与平时不同. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1775,
+		costume = true
+	},
+	[400000] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "哨",
+		identifiedResourceName = "戎颇恩",
+		identifiedDescriptionName = {
+			"似乎你能听到 Jitterbug 的钢琴演奏和 Per 的口哨声.",
+			"ATK +1%, MATK +1%",
+			"装备大漩涡吊坠时,",
+			"暴击伤害增加 10%, 可变施法减少 10%.",
+			"装备混沌坠饰时,",
+			"暴击伤害增加 10%.",
+			"装备和谐吊坠时, ",
+			"减少 10% 的变量铸造.",
+			"系列 : ^777777投球^000000防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^77777710^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^777777120^000000",
+			"配备 : ^777777仅适用于第三职业^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1478,
+		costume = false
+	},
+	[400001] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "胜利之翼",
+		identifiedResourceName = "铰府狼蓖厘侥",
+		identifiedDescriptionName = {
+			"据说是送给胜利者的耳饰.",
+			"装饰你的耳朵,展示你华丽的外表.",
+			"ATK +10, MATK +10.",
+			"全局冷却时间减少 8%.",
+			"系列 : ^777777投球^000000防御 : ^7777770^000000",
+			"地点 : ^777777中断 ^000000重量 : ^77777710^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1185,
+		costume = false
+	},
+	[25041] = {
+		unidentifiedDisplayName = "灵魂中的一个洞",
+		unidentifiedResourceName = "康去狼墩绢唤",
+		unidentifiedDescriptionName = {
+			"用于在头盔物品上创建插槽的工具. 它是一次性使用物品,并会随着结界尝试而消失. ",
+			"可以插入以下物品.",
+			"――――――――――――― ",
+			"西格伦之翼、机器眼 ",
+			"天使的幽灵、望远镜 ",
+			"眼罩、报警面罩 ",
+			"歌剧幻影面具、微笑",
+			"旋转玻璃、心形基础",
+			"伊芙利特的耳朵、小鸡帽",
+			"雄伟的大山羊",
+			"青伊的灵魂, 蝴蝶面具",
+			"暗影助推器",
+			"堕落天使的祝福",
+			"灵魂之冠、阿努比斯头盔",
+			"兔子魔术帽",
+			"新浪潮太阳镜",
+			"胜利之翼",
+			"塔纳托斯的仇恨面具",
+			"塔纳托斯的绝望面具",
+			"塔纳托斯的悲伤面具",
+			"战斗处理器",
+			"经验顾问",
+			"深蓝色太阳镜",
+			"赌徒印章",
+			"――――――――――――― ",
+			"成功率为25%, 如果失败, 尝试投掷的物品也会消失.",
+			"^ff0000警告! - 即使成功刺穿插槽, 精炼度也会重置为0.^000000",
+			"^ffffff<NAVI>^4D4DFF[穿刺工匠]^000000<INFO>itemmall,18,66,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "灵魂中的一个洞",
+		identifiedResourceName = "康去狼墩绢唤",
+		identifiedDescriptionName = {
+			"用于在头盔物品上创建插槽的工具. 它是一次性使用物品,并会随着结界尝试而消失. ",
+			"可以插入以下物品.",
+			"――――――――――――― ",
+			"西格伦之翼、机器眼 ",
+			"天使的幽灵、望远镜 ",
+			"眼罩、报警面罩 ",
+			"歌剧幻影面具、微笑",
+			"旋转玻璃、心形基础",
+			"伊芙利特的耳朵、小鸡帽",
+			"雄伟的大山羊",
+			"青伊的灵魂, 蝴蝶面具",
+			"暗影助推器",
+			"堕落天使的祝福",
+			"灵魂之冠、阿努比斯头盔",
+			"兔子魔术帽",
+			"新浪潮太阳镜",
+			"胜利之翼",
+			"塔纳托斯的仇恨面具",
+			"塔纳托斯的绝望面具",
+			"塔纳托斯的悲伤面具",
+			"战斗处理器",
+			"经验顾问",
+			"深蓝色太阳镜",
+			"赌徒印章",
+			"――――――――――――― ",
+			"成功率为25%, 如果失败, 尝试投掷的物品也会消失.",
+			"^ff0000警告! - 即使成功刺穿插槽, 精炼度也会重置为0.^000000",
+			"^ffffff<NAVI>^4D4DFF[穿刺工匠]^000000<INFO>itemmall,18,66,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25840] = {
+		unidentifiedDisplayName = "1月服装兑换券",
+		unidentifiedResourceName = "捻迄",
+		unidentifiedDescriptionName = {
+			"可兑换一月特别服装的优惠券",
+			" ^ffffff<NAVI>^4D4DFF[春天诗人阿尔海德]^000000<INFO>malangdo,114,160,0,100,0,0</INFO></NAVI>^000000如果您将其带到,它将随机兑换以下服装之一. ",
+			"如果您收集了 4 张卡片并拿走它们, 您就可以选择获得一套您喜欢的服装. ",
+			"--------------------------",
+			"服装仙子长(金发)",
+			"服装仙女长(银发)",
+			"服装金牌男子奖牌",
+			"服装爱丽丝假发(桃色)",
+			"洛丽塔服装双面朝上",
+			"服装体积低双",
+			"服装红色非洲假发",
+			"--------------------------",
+			"(该条将于2019年6月26日例行检查时批量删除) ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "1月服装兑换券",
+		identifiedResourceName = "捻迄",
+		identifiedDescriptionName = {
+			"可兑换一月特别服装的优惠券",
+			" ^ffffff<NAVI>^4D4DFF[春天诗人阿尔海德]^000000<INFO>malangdo,114,160,0,100,0,0</INFO></NAVI>^000000如果您将其带到,它将随机兑换以下服装之一. ",
+			"如果您收集了 4 张卡片并拿走它们, 您就可以选择获得一套您喜欢的服装. ",
+			"--------------------------",
+			"服装仙子长(金发)",
+			"服装仙女长(银发)",
+			"服装金牌男子奖牌",
+			"服装爱丽丝假发(桃色)",
+			"洛丽塔服装双面朝上",
+			"服装体积低双",
+			"服装红色非洲假发",
+			"--------------------------",
+			"(该条将于2019年6月26日例行检查时批量删除) ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100002] = {
+		unidentifiedDisplayName = "付款促销奖励箱",
+		unidentifiedResourceName = "檬废惑磊",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "付款促销奖励箱",
+		identifiedResourceName = "檬废惑磊",
+		identifiedDescriptionName = { "" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19617] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装狗耳朵",
+		identifiedResourceName = "碍酒瘤蓖",
+		identifiedDescriptionName = {
+			"以可爱的狗耳朵为模型的帽子. 给人一种可爱又天真无邪的感觉. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 199,
+		costume = true
+	},
+	[20138] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装海獭帽子",
+		identifiedResourceName = "秦崔葛磊",
+		identifiedDescriptionName = {
+			"这顶帽子的造型是可爱的海獭,拥有未知的能力,或许是因为制作过程很神秘.",
+			"",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 162,
+		costume = true
+	},
+	[20178] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装足爱",
+		identifiedResourceName = "遣荤尔",
+		identifiedDescriptionName = {
+			"用草地上的花朵编织而成的花帽. 一顶帽子,蕴含着少女对男孩的新鲜爱意. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 94,
+		costume = true
+	},
+	[20388] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装雄鸡",
+		identifiedResourceName = "酒句",
+		identifiedDescriptionName = {
+			"红色丝绸制成的女式帽子. 作为装饰品垂下来的大旗和流苏很漂亮. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 228,
+		costume = true
+	},
+	[31036] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装佐藤帽子",
+		identifiedResourceName = "荤肚葛磊",
+		identifiedDescriptionName = {
+			"古代东方官员所戴的帽子,称为“佐藤”. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 227,
+		costume = true
+	},
+	[21300] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "秋抚",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装狮子面具",
+		identifiedResourceName = "荤磊呕",
+		identifiedDescriptionName = {
+			"狮子形状的东方面具. 狮子睁大眼睛,好像是在吓唬它,很吓人. ",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777上中 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 231,
+		costume = true
+	},
+	[200002] = {
+		unidentifiedDisplayName = "(限量)10盒库存扩充券",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"包含 10 张库存扩展优惠券的盒子,可增加您拥有的最大物品类型.",
+			"^ffffff_^000000",
+			"^ffffff<TIPBOX>[使用方法]<INFO>65</INFO></TIPBOX>^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "(限量)10盒库存扩充券",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"包含 10 张库存扩展优惠券的盒子,可增加您拥有的最大物品类型.",
+			"^ffffff_^000000",
+			"^ffffff<TIPBOX>[使用方法]<INFO>65</INFO></TIPBOX>^000000",
+			"^ff0000如果您打开此商品,则您不符合取消或退款的资格.^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31707] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装九尾狐假发",
+		identifiedResourceName = "C_Nine_Tail_Fox_Hair",
+		identifiedDescriptionName = {
+			"充满神秘感的九尾狐假发.",
+			"由 Baphomet 服务器上的冒险家 Danyi Kim 设计.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1884,
+		costume = true
+	},
+	[31708] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装哥特骷髅丝带",
+		identifiedResourceName = "C_Gothic_Skull_Ribbon",
+		identifiedDescriptionName = {
+			"与古堡氛围很相配的骷髅丝带.",
+			"由 Baphomet 服务器的冒险家 Park Dong-dong ♥ 设计.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1885,
+		costume = true
+	},
+	[31709] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装金紫罗兰",
+		identifiedResourceName = "C_Golden_Violet",
+		identifiedDescriptionName = {
+			"一顶华丽而奢华的王冠.",
+			"由 Baphomet 服务器上的冒险家、棺材里熟睡的男孩设计.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1886,
+		costume = true
+	},
+	[25820] = {
+		unidentifiedDisplayName = "金属武器券",
+		unidentifiedResourceName = "捻迄",
+		unidentifiedDescriptionName = {
+			"兑换钢铁武器的券.",
+			"^ffffff<NAVI>^4D4DFF[中心]^000000<INFO>prontera,166,300,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您可以将其兑换为以下物品之一.",
+			"^ffffff_^000000 ",
+			"金属双手剑 [1]",
+			"金属枪[1]",
+			"金属狼牙棒[1]",
+			"金属双手斧 [1]",
+			"金属匕首[1]",
+			"金属书[1]",
+			"金属法杖[1]",
+			"金属卡塔尔[1]",
+			"金属弓[1]",
+			"金属小狗池 [1]",
+			"金属左轮手枪[1]",
+			"金属风魔手里剑 [1]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2022年2月第一次定期维护时删除.)^000000"
+		},
+		identifiedDisplayName = "金属武器券",
+		identifiedResourceName = "捻迄",
+		identifiedDescriptionName = {
+			"兑换钢铁武器的券.",
+			"^ffffff<NAVI>^4D4DFF[中心]^000000<INFO>prontera,166,300,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您可以将其兑换为以下物品之一.",
+			"^ffffff_^000000 ",
+			"金属双手剑 [1]",
+			"金属枪[1]",
+			"金属狼牙棒[1]",
+			"金属双手斧 [1]",
+			"金属匕首[1]",
+			"金属书[1]",
+			"金属法杖[1]",
+			"金属卡塔尔[1]",
+			"金属弓[1]",
+			"金属小狗池 [1]",
+			"金属左轮手枪[1]",
+			"金属风魔手里剑 [1]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2022年2月第一次定期维护时删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000001] = {
+		unidentifiedDisplayName = "第一张换乘票",
+		unidentifiedResourceName = "g傅背券萍南",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"一张特殊的门票,可以让您轻松地进行第一次换工作.",
+			"(可能的清单 : 第一份工作和扩大的工作变动)",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但是, 继承新手和婴儿职业不包括在内.^000000 ",
+			"^ffffff_^000000 ",
+			"(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "第一张换乘票",
+		identifiedResourceName = "g傅背券萍南",
+		identifiedDescriptionName = {
+			"一张特殊的门票,可以让您轻松地进行第一次换工作.",
+			"(可能的清单 : 第一份工作和扩大的工作变动)",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但是, 继承新手和婴儿职业不包括在内.^000000 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000002] = {
+		unidentifiedDisplayName = "第二张换乘票",
+		unidentifiedResourceName = "g傅背券萍南",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"一张特殊的门票,可以让您轻松地进行第二次工作变动.",
+			"(可能的列表 : 第二次转职和Gwonseong/Soul Linker)",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但第一级继承职业和婴儿职业除外.^000000 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "第二张换乘票",
+		identifiedResourceName = "g傅背券萍南",
+		identifiedDescriptionName = {
+			"一张特殊的门票,可以让您轻松地进行第二次工作变动.",
+			"(可能的列表 : 第二次转职和Gwonseong/Soul Linker)",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但第一级继承职业和婴儿职业除外.^000000 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000003] = {
+		unidentifiedDisplayName = "胜利券",
+		unidentifiedResourceName = "g傅背券萍南",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"一张特殊的门票,可以让你轻松地完成故事.",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但扩展职业和婴儿职业除外, 只能使用一般的次要职业.^000000 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "胜利券",
+		identifiedResourceName = "g傅背券萍南",
+		identifiedDescriptionName = {
+			"一张特殊的门票,可以让你轻松地完成故事.",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但扩展职业和婴儿职业除外, 只能使用一般的次要职业.^000000 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000004] = {
+		unidentifiedDisplayName = "热门换工作票",
+		unidentifiedResourceName = "g傅背券萍南",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"可以切换到第3职业及更高等级的扩展职业的特别券.",
+			"(可能的列表 : 第三次工作变动和更高级别的扩大工作变动)",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但一般次要职业和婴儿职业除外, 只能使用次要职业.^000000 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "热门换工作票",
+		identifiedResourceName = "g傅背券萍南",
+		identifiedDescriptionName = {
+			"可以切换到第3职业及更高等级的扩展职业的特别券.",
+			"(可能的列表 : 第三次工作变动和更高级别的扩大工作变动)",
+			"^ffffff<NAVI>^4D4DFF[曾经的万能者]^000000<INFO>prontera,146,281,0,100,0,0</INFO></NAVI>^000000您可以从 换工作.",
+			"^ff0000但一般次要职业和婴儿职业除外, 只能使用次要职业.^000000 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000005] = {
+		unidentifiedDisplayName = "强化武器兑换券",
+		unidentifiedResourceName = "墨橇扼捞侩鼻",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"可以兑换助推武器的兑换券.",
+			"^ffffff<NAVI>^4D4DFF[无贡献]^000000<INFO>prontera,148,282,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您可以将其兑换为以下物品之一.",
+			"^ffffff_^000000 ",
+			"强化双手剑[2]",
+			"强化斧 [2]",
+			"推动卡塔尔[2]",
+			"扩充人员[2]",
+			"升压孔[2]",
+			"助推弓[2]",
+			"强化长矛[2]",
+			"强化剑[2]",
+			"强化匕首[2]",
+			"提升法术书[2]",
+			"增强指关节[2]",
+			"增强吉他[2]",
+			"强化鞭子[2]",
+			"推动任天堂[2]",
+			"提升加特林[2]",
+			"增强文本[2]",
+			"升魂之路[2]",
+			"增强狐尾[2]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "强化武器兑换券",
+		identifiedResourceName = "墨橇扼捞侩鼻",
+		identifiedDescriptionName = {
+			"可以兑换助推武器的兑换券.",
+			"^ffffff<NAVI>^4D4DFF[无贡献]^000000<INFO>prontera,148,282,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您可以将其兑换为以下物品之一.",
+			"^ffffff_^000000 ",
+			"强化双手剑[2]",
+			"强化斧 [2]",
+			"推动卡塔尔[2]",
+			"扩充人员[2]",
+			"升压孔[2]",
+			"助推弓[2]",
+			"强化长矛[2]",
+			"强化剑[2]",
+			"强化匕首[2]",
+			"提升法术书[2]",
+			"增强指关节[2]",
+			"增强吉他[2]",
+			"强化鞭子[2]",
+			"推动任天堂[2]",
+			"提升加特林[2]",
+			"增强文本[2]",
+			"升魂之路[2]",
+			"增强狐尾[2]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000006] = {
+		unidentifiedDisplayName = "强化装甲兑换券",
+		unidentifiedResourceName = "g公扁背券萍南",
+		unidentifiedDescriptionName = {
+			"可以兑换强化装甲套装的兑换券.",
+			"^ffffff<NAVI>^4D4DFF[中心]^000000<INFO>prontera,166,300,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您可以将其兑换为以下物品之一.",
+			"^ffffff_^000000",
+			"攻击者助推器盒",
+			"射程增强盒",
+			"元素助推器盒",
+			"反抗助推器盒",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.)^000000"
+		},
+		identifiedDisplayName = "强化装甲兑换券",
+		identifiedResourceName = "g公扁背券萍南",
+		identifiedDescriptionName = {
+			"可以兑换强化装甲套装的兑换券.",
+			"^ffffff<NAVI>^4D4DFF[中心]^000000<INFO>prontera,166,300,0,100,0,0</INFO></NAVI>^000000如果您将其带到 ,您可以将其兑换为以下物品之一.",
+			"^ffffff_^000000",
+			"攻击者助推器盒",
+			"射程增强盒",
+			"元素助推器盒",
+			"反抗助推器盒",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9523] = {
+		unidentifiedDisplayName = "金属冶炼票",
+		unidentifiedResourceName = "惑牢康荐刘",
+		unidentifiedDescriptionName = {
+			"可以强化钢铁武器的券.",
+			"插入下面的武器, 可以获得一把7级精炼的金属武器.",
+			"^ffffff_^000000 ",
+			"金属匕首[1]",
+			"金属双手剑 [1]",
+			"金属双手斧 [1]",
+			"金属枪[1]",
+			"金属卡塔尔[1]",
+			"金属书[1]",
+			"金属弓[1]",
+			"金属法杖[1]",
+			"金属狼牙棒[1]",
+			"金属左轮手枪[1]",
+			"金属风魔手里剑 [1]",
+			"金属狐尾[1]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "金属冶炼票",
+		identifiedResourceName = "惑牢康荐刘",
+		identifiedDescriptionName = {
+			"可以强化钢铁武器的券.",
+			"插入下面的武器, 可以获得一把7级精炼的金属武器.",
+			"^ffffff_^000000 ",
+			"金属匕首[1]",
+			"金属双手剑 [1]",
+			"金属双手斧 [1]",
+			"金属枪[1]",
+			"金属卡塔尔[1]",
+			"金属书[1]",
+			"金属弓[1]",
+			"金属法杖[1]",
+			"金属狼牙棒[1]",
+			"金属左轮手枪[1]",
+			"金属风魔手里剑 [1]",
+			"金属狐尾[1]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100044] = {
+		unidentifiedDisplayName = "强化武器升级包",
+		unidentifiedResourceName = "檬废惑磊",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"一个可让您轻松精炼助推武器的软件包.",
+			"强化武器可以升级为精炼到10级的武器.",
+			"^ffffff_^000000 ",
+			"强化双手剑[2]",
+			"强化斧 [2]",
+			"推动卡塔尔[2]",
+			"扩充人员[2]",
+			"升压孔[2]",
+			"助推弓[2]",
+			"强化长矛[2]",
+			"强化剑[2]",
+			"强化匕首[2]",
+			"提升法术书[2]",
+			"增强指关节[2]",
+			"增强吉他[2]",
+			"强化鞭子[2]",
+			"推动任天堂[2]",
+			"提升加特林[2]",
+			"增强文本[2]",
+			"升魂之路[2]",
+			"增强狐尾[2]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "强化武器升级包",
+		identifiedResourceName = "檬废惑磊",
+		identifiedDescriptionName = {
+			"一个可让您轻松精炼助推武器的软件包.",
+			"强化武器可以升级为精炼到10级的武器.",
+			"^ffffff_^000000 ",
+			"强化双手剑[2]",
+			"强化斧 [2]",
+			"推动卡塔尔[2]",
+			"扩充人员[2]",
+			"升压孔[2]",
+			"助推弓[2]",
+			"强化长矛[2]",
+			"强化剑[2]",
+			"强化匕首[2]",
+			"提升法术书[2]",
+			"增强指关节[2]",
+			"增强吉他[2]",
+			"强化鞭子[2]",
+			"推动任天堂[2]",
+			"提升加特林[2]",
+			"增强文本[2]",
+			"升魂之路[2]",
+			"增强狐尾[2]",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100046] = {
+		unidentifiedDisplayName = "攻击者助推器盒",
+		unidentifiedResourceName = "坷贰等焊扼惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有专门用于近战物理攻击的攻击者助推器装甲.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"攻击者助推器板[1]",
+			"攻击者助推斗篷[1]",
+			"攻击者助推护腿 [1]",
+			"攻击者助推环[1]",
+			"^ffffff_^000000 "
+		},
+		identifiedDisplayName = "攻击者助推器盒",
+		identifiedResourceName = "坷贰等焊扼惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有专门用于近战物理攻击的攻击者助推器装甲.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"攻击者助推器板[1]",
+			"攻击者助推斗篷[1]",
+			"攻击者助推护腿 [1]",
+			"攻击者助推环[1]",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100047] = {
+		unidentifiedDisplayName = "射程增强盒",
+		unidentifiedResourceName = "侵档弊惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有专门用于远距离物理攻击的射程增强装甲.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"射程增强套装[1]",
+			"射程助推斗篷[1]",
+			"射程助推靴[1]",
+			"范围助推器胸针 [1]",
+			"^ffffff_^000000 "
+		},
+		identifiedDisplayName = "射程增强盒",
+		identifiedResourceName = "侵档弊惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有专门用于远距离物理攻击的射程增强装甲.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"射程增强套装[1]",
+			"射程助推斗篷[1]",
+			"射程助推靴[1]",
+			"范围助推器胸针 [1]",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100048] = {
+		unidentifiedDisplayName = "元素助推器盒",
+		unidentifiedResourceName = "弧埃惑磊",
+		unidentifiedDescriptionName = {
+			"装有专门用于水、风、土、火和无属性魔法攻击的元素强化装甲的盒子.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"元素助推长袍[1]",
+			"元素助推器消音器 [1]",
+			"元素助推鞋[1]",
+			"元素助推器耳环[1]",
+			"^ffffff_^000000 "
+		},
+		identifiedDisplayName = "元素助推器盒",
+		identifiedResourceName = "弧埃惑磊",
+		identifiedDescriptionName = {
+			"装有专门用于水、风、土、火和无属性魔法攻击的元素强化装甲的盒子.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000 ",
+			"元素助推长袍[1]",
+			"元素助推器消音器 [1]",
+			"元素助推鞋[1]",
+			"元素助推器耳环[1]",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100049] = {
+		unidentifiedDisplayName = "反抗助推器盒",
+		unidentifiedResourceName = "檬废惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子, 里面装有专门用于火、城堡、癌症、永生和毒魔法攻击的默认增强装甲.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000",
+			"反抗助推长袍[1]",
+			"Defant 增压消声器[1]",
+			"Defant 增高鞋[1]",
+			"Defant 助推器耳环[1]",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "反抗助推器盒",
+		identifiedResourceName = "檬废惑磊",
+		identifiedDescriptionName = {
+			"一个盒子, 里面装有专门用于火、城堡、癌症、永生和毒魔法攻击的默认增强装甲.",
+			"以下所有项目都包括在内.",
+			"^ffffff_^000000",
+			"反抗助推长袍[1]",
+			"Defant 增压消声器[1]",
+			"Defant 增高鞋[1]",
+			"Defant 助推器耳环[1]",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100050] = {
+		unidentifiedDisplayName = "目标达成礼盒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"未评价. 您可以使用[放大镜] 进行鉴定. ",
+			"送给达成目标的冒险者的盒子. ",
+			"您可以获得以下六件服装中的一件. ",
+			"^ffffff_^000000 ",
+			"服装宫娃娃长发 ",
+			"服装伊甸园 ",
+			"服装毛茸茸的天使斗篷 ",
+			"服装 Vesper 头饰 ",
+			"服装强化耳语面具 ",
+			"服装绅士波利的耳朵装饰 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "目标达成礼盒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"送给达成目标的冒险者的盒子. ",
+			"您可以获得以下六件服装中的一件. ",
+			"^ffffff_^000000 ",
+			"服装宫娃娃长发 ",
+			"服装伊甸园 ",
+			"服装毛茸茸的天使斗篷 ",
+			"服装 Vesper 头饰 ",
+			"服装强化耳语面具 ",
+			"服装绅士波利的耳朵装饰 ",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2019年6月5日例行检查时全部删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[600001] = {
+		unidentifiedDisplayName = "双手剑",
+		unidentifiedResourceName = "官胶鸥靛家靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化双手剑",
+		identifiedResourceName = "FullForce",
+		identifiedDescriptionName = {
+			"为你的快速成长而准备的特殊双手剑.",
+			"",
+			"CRI + 10, MHP + 3%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"精炼到7时, 双手加速每升一级, 攻击速度就会增加(攻击后的延迟时间减少1%).",
+			"精炼到9时, 暴击伤害增加10%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"ASPD + 2, 暴击伤害增加10%, ",
+			"每基础等级 15 级,声波伤害增加 2%(适用于 180 级),",
+			"使用集中时, 声波伤害额外增加35%, 持续60秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"MHP + 10%, 全局冷却时间减少 15%, ",
+			"龙息和龙息-水伤害每基础等级 15 增加 1%(适用于 180 级), ",
+			"使用专注时, 龙息和龙息-水伤害额外增加20%, 持续60秒.",
+			"系列 : ^777777双手剑^000000 攻击 : ^777777250^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777符文骑士系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 49,
+		costume = false
+	},
+	[610000] = {
+		unidentifiedDisplayName = "粘膜炎",
+		unidentifiedResourceName = "墨鸥福",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "推动卡塔尔",
+		identifiedResourceName = "Blut_Katar",
+		identifiedDescriptionName = {
+			"特别卡塔尔为您的快速成长做好准备",
+			"",
+			"攻击力+2%, 暴击伤害增加3%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"精炼到 7 级时, 卡萨训练每升一级, 暴击伤害额外增加 1%.",
+			"精炼到9时, 攻击力+10%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"ASPD + 2, 暴击伤害增加10%, ",
+			"每基础等级 15 级,对所有属性的敌人造成的物理伤害增加 1%(最高适用于 180 级),",
+			"使用致命之毒时, 对所有属性敌人的物理伤害额外增加10%, 持续60秒. ",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"攻击力+10%, 全局冷却时间减少15%, ",
+			"每基础等级 15 级,滚刀伤害增加 1%(最高适用于 180 级),",
+			"使用致命毒药时, 滚刀伤害额外增加 20%, 持续 60 秒. ",
+			"系列 : ^777777粘膜炎^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777断头台十字系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 16,
+		costume = false
+	},
+	[640000] = {
+		unidentifiedDisplayName = "甘蔗",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "加强员工队伍",
+		identifiedResourceName = "Blut_Wand",
+		identifiedDescriptionName = {
+			"专门的员工为您的快速成长做好准备",
+			"",
+			"MATK + 200.",
+			"坚不可摧, MATK+2%, 火属性魔法伤害增加3%.",
+			"每次精炼增加MATK + 3.",
+			"每 15 个基础等级,MATK + 3 增加. (适用于180级)",
+			"精炼到7级时, 魔力增幅每提升一级, 火属性魔法伤害额外增加1%.",
+			"精炼到9级时, 火属性、风属性、水属性魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK+20, 对各种体型的敌人魔法伤害增加10%, ",
+			"每基础等级 15 级,猩红岩石伤害增加 1%(最高适用于 180 级),",
+			"使用魔力增幅时, 红岩伤害额外增加20%, 持续60秒.",
+			"",
+			"配备默认助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK + 20, 全局冷却时间减少10%, ",
+			"每基础等级 15 级,灵魂扩张伤害增加 1%(适用于 180 级),",
+			"使用魔力增幅时, 灵魂膨胀伤害额外增加20%, 持续60秒.",
+			"系列 : ^777777两只手杖^000000 攻击 : ^777777100^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777术士系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 23,
+		costume = false
+	},
+	[700001] = {
+		unidentifiedDisplayName = "弓",
+		unidentifiedResourceName = "焊快",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "助推弓",
+		identifiedResourceName = "Blut_Bow",
+		identifiedDescriptionName = {
+			"为你的快速成长准备的特殊弓",
+			"",
+			"CRI + 10, MHP + 3%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"精炼到7时, 风行每升一级, 攻击速度就会增加(攻击后的延迟时间减少1%).",
+			"精炼到9级时, 远距离物理伤害增加10%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"ASPD + 2, 暴击伤害增加10%, ",
+			"每基础等级 15 级,锐利射击伤害增加 1%(适用于 180 级),",
+			"使用真实瞄准时, 锐利射击伤害额外增加 20%, 持续 60 秒. ",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"MHP + 10%, 全局冷却时间减少 15%, ",
+			"每基础等级 15 级,瞄准螺栓伤害增加 2%(最高适用于 180 级),",
+			"使用真实瞄准时, 瞄准箭伤害额外增加 35%, 持续 60 秒.",
+			"系列 : ^777777弓^000000 攻击 : ^777777160^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777游侠系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 73,
+		costume = false
+	},
+	[830000] = {
+		unidentifiedDisplayName = "加特林机枪",
+		unidentifiedResourceName = "靛府橇磐",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "提升加特林",
+		identifiedResourceName = "Blut_Gatling",
+		identifiedDescriptionName = {
+			"为你的快速成长准备的特制加特林枪",
+			"",
+			"ATK + 5%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"精炼到7级时, 单次每升一级, 远程物理伤害增加1%.",
+			"精炼到9级时, 远距离物理伤害额外增加10%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"攻击力+20, 对各种体型的敌人物理伤害增加10%.",
+			"每基础等级 15 级,往返伤害增加 1%(最高适用于 180 级),",
+			"使用财富币时, 往返伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"攻击力+20, 火雨技能冷却时间减少1秒.",
+			"每基础等级 15 级,火雨伤害增加 2%(最高适用于 180 级).",
+			"使用财富币时, 火雨伤害额外增加 35%, 持续 60 秒.",
+			"系列 : ^777777加特林机枪^000000 攻击 : ^777777170^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777神枪手系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 19,
+		costume = false
+	},
+	[500001] = {
+		unidentifiedDisplayName = "一只手剑",
+		unidentifiedResourceName = "家靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化剑",
+		identifiedResourceName = "蝴唱绰八",
+		identifiedDescriptionName = {
+			"为你的快速成长准备的一把特殊的单手剑",
+			"",
+			"攻击力+2%, 可变施法减少3%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"当精炼到 7 级时, 每升一级运行药水, 可变施法额外减少 1%.",
+			"精炼到9级时, 远距离物理伤害增加10%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"ASPD+2, 对各种体型的敌人物理伤害增加10%.",
+			"每基础等级 15 级,购物车龙卷风伤害增加 1%(最高适用于 180 级),",
+			"使用卡丁车加速时, 卡丁车龙卷风伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"MHP + 10%, 可变施法减少10%, ",
+			"每基础等级 15 级,车炮伤害增加 1%(最高适用于 180 级),",
+			"使用推车加速时, 推车加农炮的伤害额外增加 20%, 持续 60 秒.",
+			"系列 : ^777777刀^000000 攻击 : ^777777160^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777通用系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 2,
+		costume = false
+	},
+	[510001] = {
+		unidentifiedDisplayName = "匕首",
+		unidentifiedResourceName = "唱捞橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化匕首",
+		identifiedResourceName = "Blut_Dagger",
+		identifiedDescriptionName = {
+			"为你快速成长而准备的特殊匕首",
+			"",
+			"MATK + 160.",
+			"火属性魔法伤害增加3%, 攻击力+3%.",
+			"每精炼一次, ATK+2、MATK+2增加.",
+			"每基础等级15级, 攻击力+3、攻击力+3增加. (适用于180级)",
+			"精炼到7级时, 多雅克每升一级, 火属性魔法伤害额外增加1%.",
+			"精炼到9时, 对所有体型敌人的物理/魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK+20, 对各种体型的敌人魔法伤害增加10%, ",
+			"每基础等级 15 级,流星风暴伤害增加 2%(最高适用于 180 级),",
+			"使用保护时, 流星风暴伤害额外增加 35%, 持续 60 秒.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"攻击力+5%, 全局冷却时间减少15%.",
+			"每基础等级 15 致命威胁伤害增加 1%(最高适用于 180 级),",
+			"使用保护时, 致命威胁伤害额外增加 20%, 持续 60 秒.",
+			"系列 : ^777777匕首^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777追影者系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 1,
+		costume = false
+	},
+	[510002] = {
+		unidentifiedDisplayName = "匕首",
+		unidentifiedResourceName = "唱捞橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "促进宁多",
+		identifiedResourceName = "蝴唱绰措芭",
+		identifiedDescriptionName = {
+			"为你的快速成长而准备的特殊nindo",
+			"",
+			"MATK + 160.",
+			"水、风、火属性魔法伤害增加3%, 攻击力+3%.",
+			"每精炼一次, ATK+2、MATK+2增加.",
+			"每基础等级15级, 攻击力+3、攻击力+3增加. (适用于180级)",
+			"精炼到7级时, 忍术修炼每升一级, 可变施法减少1%.",
+			"精炼到9时, 对所有体型敌人的物理/魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK + 20, 全局冷却时间减少10%, ",
+			"每基础等级 15 级, 红炎、冰矛和风刃伤害增加 2%(最高适用于 180 级), ",
+			"使用盐时, 红炎、冰闪、风伤害额外增加35%, 持续60秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"攻击力+20, 十字斩技能冷却时间减少1秒, ",
+			"八方苦无伤害每基础等级 15 增加 1%(适用于 180 级),",
+			"使用盐时, 苦无的全方位伤害额外增加 20%, 持续 60 秒.",
+			"系列 : ^777777匕首^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777忍者系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 1,
+		costume = false
+	},
+	[520000] = {
+		unidentifiedDisplayName = "一只手斧头",
+		unidentifiedResourceName = "咀胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化斧头",
+		identifiedResourceName = "Blut_Axe",
+		identifiedDescriptionName = {
+			"为你的快速成长准备的一把特殊的单手斧头",
+			"",
+			"坚不可摧, 攻击力+5%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"精炼到7时, 武器研究等级每提升1级, 攻击力+3.",
+			"精炼到9时, 对所有体型敌人的物理伤害增加15%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"全局冷却时间减少 10%, 斧龙卷风冷却时间减少 1 秒, ",
+			"每基础等级 15 级,斧头龙卷风伤害增加 1%(最高适用于 180 级),",
+			"使用武器完美时, 斧头龙卷风伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"可变施法减少 10%, 全局冷却时间减少 15%, ",
+			"每基础等级 15,武器加农炮伤害增加 1%(最高适用于 180 级),",
+			"使用武器完美时, 武器加农炮伤害额外增加 20%, 持续 60 秒.",
+			"系列 : ^777777一只手斧头^000000 攻击 : ^777777200^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777机械系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 6,
+		costume = false
+	},
+	[530000] = {
+		unidentifiedDisplayName = "窗户",
+		unidentifiedResourceName = "鲤骇赴",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "强化长矛",
+		identifiedResourceName = "Blut_Spear",
+		identifiedDescriptionName = {
+			"为你的快速成长而准备的特殊单手矛",
+			"",
+			"MATK + 160.",
+			"圣属性魔法伤害增加3%, 攻击力+3%.",
+			"每精炼一次, ATK+2、MATK+2增加.",
+			"每基础等级15级, 攻击力+3、攻击力+3增加. (适用于180级)",
+			"精炼到7级时, 信仰每升一级, 圣属性魔法伤害额外增加1%.",
+			"精炼到9级时, 远距离物理伤害增加10%.",
+			"",
+			"配备默认助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK + 20, 全局冷却时间减少10%, ",
+			"每基础等级 15,创世之光伤害增加 1%(最高适用于 180 级),",
+			"使用治疗时, 创世射线伤害额外增加 20%, 持续 60 秒. ",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"ASPD + 2, 远程物理伤害增加10%, ",
+			"每基础等级 15,抛光点伤害增加 2%(最高适用于 180 级),",
+			"使用矛加速时, 消失点伤害额外增加 35%, 持续 60 秒.",
+			"系列 : ^777777一只手长矛^000000 攻击 : ^777777160^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777皇家卫队系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 4,
+		costume = false
+	},
+	[540000] = {
+		unidentifiedDisplayName = "书",
+		unidentifiedResourceName = "合",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "提升法术书",
+		identifiedResourceName = "蝴唱绰氓",
+		identifiedDescriptionName = {
+			"为你快速成长准备的一本特殊魔法书",
+			"",
+			"MATK + 165.",
+			"MATK+2%, 非属性魔法伤害增加3%.",
+			"每次精炼增加MATK + 3.",
+			"每 15 个基础等级,MATK + 3 增加. (适用于180级)",
+			"精炼到7级时, 生命替换每升一级, 非属性魔法伤害额外增加2%.",
+			"精炼到9时, 对所有体型敌人的魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK+20, 对各种体型的敌人魔法伤害增加10%, ",
+			"每基础等级 15 级,心灵波伤害增加 1%(适用于 180 级),",
+			"使用记忆时, 心灵波伤害额外增加20%, 持续60秒.",
+			"",
+			"配备默认助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK + 20, ASPD + 2.",
+			"每基础等级 15 级, 火焰、寒冷和闪电伤害增加 2%(适用于 180 级), ",
+			"使用双重施法时, 火焰、寒冷和闪电伤害额外增加 35%, 持续 60 秒.",
+			"系列 : ^777777书^000000 攻击 : ^777777165^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777魔法师系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 15,
+		costume = false
+	},
+	[540001] = {
+		unidentifiedDisplayName = "书",
+		unidentifiedResourceName = "合",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "增强文本",
+		identifiedResourceName = "碍拳合",
+		identifiedDescriptionName = {
+			"为你的快速成长准备的一本特别的书",
+			"",
+			"ATK + 5%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"精炼至 7 时, 每升一级, 攻击速度就会增加(攻击后的延迟减少 1%).",
+			"精炼到9时, 攻击力+10%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"攻击力+20, 对各种体型的敌人物理伤害增加10%.",
+			"每基础等级 15 级,满月伤害增加 1%(最高适用于 180 级).",
+			"使用新月角度时, 满月角度伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"ATK + 20, ASPD + 2.",
+			"每基础等级 15 级,流星坠落伤害增加 2%(最高适用于 180 级),",
+			"使用闪光角度时, 流星坠落伤害额外增加35%, 持续60秒.",
+			"系列 : ^777777书^000000 攻击 : ^777777160^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777仅限神圣仪式^000000"
+		},
+		slotCount = 2,
+		ClassNum = 15,
+		costume = false
+	},
+	[550001] = {
+		unidentifiedDisplayName = "甘蔗",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "助推灵魂之路",
+		identifiedResourceName = "蝴唱绰瘤莆捞",
+		identifiedDescriptionName = {
+			"为您的快速成长准备的特殊手杖",
+			"",
+			"MATK + 170.",
+			"坚不可摧, MATK+2%, 暗属性魔法伤害增加3%.",
+			"每次精炼增加MATK + 3.",
+			"每 15 个基础等级,MATK + 3 增加. (适用于180级)",
+			"精炼到7级时, 每跑一级, 暗属性魔法伤害额外增加1%.",
+			"精炼到9时, 对所有体型敌人的魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK+20, 对各种体型的敌人魔法伤害增加10%, ",
+			"每基础等级 15,Eshu 伤害增加 1%(最高适用于 180 级),",
+			"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+			"",
+			"配备默认助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK+20, 可变施法减少10%.",
+			"每基础等级 15 级,灵魂爆炸伤害增加 1%(适用于 180 级),",
+			"使用邪魂诅咒时, 邪灵爆炸伤害额外增加20%, 持续60秒.",
+			"系列 : ^777777一只手拐杖^000000 攻击 : ^777777120^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777仅限灵魂收割者^000000"
+		},
+		slotCount = 2,
+		ClassNum = 10,
+		costume = false
+	},
+	[550002] = {
+		unidentifiedDisplayName = "甘蔗",
+		unidentifiedResourceName = "吩靛",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "增强狐尾草",
+		identifiedResourceName = "Diva_Foxtail",
+		identifiedDescriptionName = {
+			"为您的快速成长准备的特殊单手手杖",
+			"",
+			"MATK + 260.",
+			"坚不可摧, 攻击+5%, 魔法+5%.",
+			"每精炼一次, ATK+2、MATK+2增加.",
+			"每基础等级15级, 攻击力+3、攻击力+3增加. (适用于180级)",
+			"精炼到7级时, 尼阳格拉斯每升一级, 可变施法减少2%, 狂野之魂每升一级, 远程物理伤害增加2%.",
+			"精炼到9时, 对所有体型敌人的物理/魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK+20, 对各种体型的敌人魔法伤害增加10%, ",
+			"每基础等级 15 级,猫薄荷流星伤害增加 2%(最高适用于 180 级),",
+			"使用猫薄荷茎矛时, 猫薄荷流星伤害额外增加 35%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"ATK+20, 全局冷却时间减少10%, ",
+			"每基础等级 15 级,啄食伤害增加 2%(最高适用于 180 级),",
+			"使用粗暴冲刺时, 啄食伤害额外增加 35%, 持续 60 秒.",
+			"系列 : ^777777一只手拐杖^000000 攻击 : ^777777250^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777召唤师(多拉姆部落)^000000"
+		},
+		slotCount = 2,
+		ClassNum = 99,
+		costume = false
+	},
+	[560000] = {
+		unidentifiedDisplayName = "指甲",
+		unidentifiedResourceName = "官弊倡",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "增强指关节",
+		identifiedResourceName = "叼官农肺",
+		identifiedDescriptionName = {
+			"为您的快速成长准备的特殊指关节",
+			"",
+			"ATK + 2%, MHP + 3%.",
+			"每次精炼攻击力+3.",
+			"每基础等级 15,攻击力 + 3 增加. (适用于 180 级)",
+			"当精炼到 7 时, 每通气一级, MHP + 2% 增加.",
+			"精炼到9时, 对所有体型敌人的物理伤害增加10%.",
+			"",
+			"装备攻击者助推器(板甲/斗篷/荆棘/戒指)时, ",
+			"MHP + 10%, ATK + 10%,",
+			"每基础等级 15 级,大炮伤害增加 1%(最高适用于 180 级).",
+			"使用光学聚光镜时, 枪支伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"MSP + 10%, 全局冷却时间减少 15%, ",
+			"Surashin 子弹伤害每基础等级 15 增加 2%(最高适用于 180 级).",
+			"使用光学聚光镜时, Surashin 子弹伤害额外增加 35%, 持续 60 秒.",
+			"系列 : ^777777指关节^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777苏拉系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 12,
+		costume = false
+	},
+	[570000] = {
+		unidentifiedDisplayName = "乐器",
+		unidentifiedResourceName = "扁鸥",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "增强吉他",
+		identifiedResourceName = "Blut_Guiter",
+		identifiedDescriptionName = {
+			"为您快速成长而准备的特殊工具",
+			"",
+			"MATK + 160.",
+			"非属性魔法伤害增加3%, 攻击力+3%.",
+			"每精炼一次, ATK+2、MATK+2增加.",
+			"每基础等级15级, 攻击力+3、攻击力+3增加. (适用于180级)",
+			"当精炼到 7 时, 仪器处理每提升一级, 变量投射就会减少 1%.",
+			"精炼到9时, 对所有体型敌人的物理/魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK + 20, 全局冷却时间减少10%, ",
+			"每基础等级 15 级,振动混响伤害增加 1%(最高适用于 180 级),",
+			"使用专注力提升时, 振动混响伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"攻击力+20, 暴雨技能冷却时间减少2秒.",
+			"每基础等级 15 级,暴雨伤害增加 1%(最高适用于 180 级),",
+			"使用专注力提升时, 暴雨伤害额外增加 20%, 持续 60 秒.",
+			"系列 : ^777777乐器^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777吟游诗人系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 13,
+		costume = false
+	},
+	[580000] = {
+		unidentifiedDisplayName = "鞭",
+		unidentifiedResourceName = "肺橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "增强鞭子",
+		identifiedResourceName = "Blut_Whip",
+		identifiedDescriptionName = {
+			"为你快速成长准备的特制鞭子",
+			"",
+			"MATK + 160.",
+			"非属性魔法伤害增加3%, 攻击力+3%.",
+			"每精炼一次, ATK+2、MATK+2增加.",
+			"每基础等级15级, 攻击力+3、攻击力+3增加. (适用于180级)",
+			"精炼到 7 级时, 舞蹈练习每升一级, 变量投射就会减少 1%.",
+			"精炼到9时, 对所有体型敌人的物理/魔法伤害增加10%.",
+			"",
+			"当装备元素助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK + 20, 全局冷却时间减少10%, ",
+			"每基础等级 15 级,振动混响伤害增加 1%(最高适用于 180 级),",
+			"使用专注力提升时, 振动混响伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"攻击力+20, 暴雨技能冷却时间减少2秒.",
+			"每基础等级 15 级,暴雨伤害增加 1%(最高适用于 180 级),",
+			"使用专注力提升时, 暴雨伤害额外增加 20%, 持续 60 秒.",
+			"系列 : ^777777鞭^000000 攻击 : ^777777150^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777流浪者系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 14,
+		costume = false
+	},
+	[590000] = {
+		unidentifiedDisplayName = "钝器",
+		unidentifiedResourceName = "努反",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "升压孔",
+		identifiedResourceName = "惯虐府秦赣",
+		identifiedDescriptionName = {
+			"为您的快速成长准备的特殊钝器",
+			"",
+			"MATK+160, 坚不可摧.",
+			"圣属性魔法伤害增加3%, 攻击力+3%.",
+			"每精炼一次, ATK+2、MATK+2增加.",
+			"每基础等级15级, 攻击力+3、攻击力+3增加. (适用于180级)",
+			"精炼到7级时, 冥想每升一级, 圣属性魔法伤害额外增加1%.",
+			"精炼到9时, 对所有体型敌人的物理/魔法伤害增加10%.",
+			"",
+			"配备默认助推器(长袍/围巾/鞋子/耳环)时,",
+			"MATK+20, Judex伤害增加30%, ",
+			"Adoramus 伤害每基础等级 15 增加 1%(适用于 180 级),",
+			"使用 Magnificat 时, Adoramus 伤害额外增加 20%, 持续 60 秒.",
+			"",
+			"当装备射程增强器(套装/斗篷/靴子/胸针)时, ",
+			"ASPD + 2, 暴击伤害增加10%, ",
+			"每基础等级 15,双重光伤害增加 2%(适用于 180 级),",
+			"使用Magnificat时, 双光伤害额外增加35%, 持续60秒.",
+			"系列 : ^777777钝器^000000 攻击 : ^777777160^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777大主教系列^000000"
+		},
+		slotCount = 2,
+		ClassNum = 8,
+		costume = false
+	},
+	[25863] = {
+		unidentifiedDisplayName = "2019 Superstar R 门票",
+		unidentifiedResourceName = "2019_SStarR_Ticket",
+		unidentifiedDescriptionName = {
+			"门票在 2019 年 Superstar R 活动期间发售. ",
+			"您可以收集多张纸并兑换特殊奖品.",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "2019 Superstar R 门票",
+		identifiedResourceName = "2019_SStarR_Ticket",
+		identifiedDescriptionName = {
+			"门票在 2019 年 Superstar R 活动期间发售. ",
+			"您可以收集多张纸并兑换特殊奖品.",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9581] = {
+		unidentifiedDisplayName = "浸水密封",
+		unidentifiedResourceName = "Wet_Sealed_Card",
+		unidentifiedDescriptionName = {
+			"由于被水弄湿而变得糊状的卡片. 我想我必须小心地打开它,以免撕破它. ",
+			"",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "浸水密封",
+		identifiedResourceName = "Wet_Sealed_Card",
+		identifiedDescriptionName = {
+			"由于被水弄湿而变得糊状的卡片. 我想我必须小心地打开它,以免撕破它. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9586] = {
+		unidentifiedDisplayName = "2019 Superstar R 票盒",
+		unidentifiedResourceName = "2019_SStarR_Tbox",
+		unidentifiedDescriptionName = {
+			"装有 2019 年 Superstar R 门票的盒子. ",
+			"它是经过特殊密封的,所以不打开它你无法知道里面有多少张.",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "2019 Superstar R 票盒",
+		identifiedResourceName = "2019_SStarR_Tbox",
+		identifiedDescriptionName = {
+			"装有 2019 年 Superstar R 门票的盒子. ",
+			"它是经过特殊密封的,所以不打开它你无法知道里面有多少张.",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9589] = {
+		unidentifiedDisplayName = "[非卖品]全能10盒",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = { "[非卖品]内含10个全能. ", "", "重量 : ^7777770^000000" },
+		identifiedDisplayName = "[非卖品]全能10盒",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = { "[非卖品]内含10个全能. ", "重量 : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9590] = {
+		unidentifiedDisplayName = "[非卖品]一盒10个功率增强器",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = { "[非卖品] 包含 10 个能量增强器. ", "", "重量 : ^7777770^000000" },
+		identifiedDisplayName = "[非卖品]一盒10个功率增强器",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = { "[非卖品] 包含 10 个能量增强器. ", "重量 : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100020] = {
+		unidentifiedDisplayName = "唐·克里斯塔西诺的盒子",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"装有唐·克里斯塔西诺的宝藏的盒子.",
+			"您可以获得以下物品之一.",
+			"_ ",
+			"[可获得物品] ",
+			"服装 poring 贝雷帽",
+			"服装心形发夹",
+			"服装外出帽子",
+			"服装 Critura 学院帽子",
+			"2019 Superstar R 门票",
+			"2019 Superstar R 票盒",
+			"[非卖品]白色细长药水盒",
+			"水晶蓝",
+			"奥利德康宝石",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "唐·克里斯塔西诺的盒子",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"装有唐·克里斯塔西诺的宝藏的盒子.",
+			"您可以获得以下物品之一.",
+			"_ ",
+			"[可获得物品] ",
+			"服装 poring 贝雷帽",
+			"服装心形发夹",
+			"服装外出帽子",
+			"服装 Critura 学院帽子",
+			"2019 Superstar R 门票",
+			"2019 Superstar R 票盒",
+			"[非卖品]白色细长药水盒",
+			"水晶蓝",
+			"奥利德康宝石",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100021] = {
+		unidentifiedDisplayName = "一盒家庭水晶",
+		unidentifiedResourceName = "柳林焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"装有家族水晶宝藏的盒子 ",
+			"您可以获得以下物品之一.",
+			"_ ",
+			"[可获得物品] ",
+			"服装心形发夹",
+			"服装外出帽子",
+			"服装 Critura 学院帽子",
+			"2019 Superstar R 门票",
+			"2019 Superstar R 票盒",
+			"[非卖品]白色细长药水盒",
+			"水晶蓝",
+			"奥利德康宝石",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "一盒家庭水晶",
+		identifiedResourceName = "柳林焊拱惑磊",
+		identifiedDescriptionName = {
+			"装有家族水晶宝藏的盒子 ",
+			"您可以获得以下物品之一.",
+			"_ ",
+			"[可获得物品] ",
+			"服装心形发夹",
+			"服装外出帽子",
+			"服装 Critura 学院帽子",
+			"2019 Superstar R 门票",
+			"2019 Superstar R 票盒",
+			"[非卖品]白色细长药水盒",
+			"水晶蓝",
+			"奥利德康宝石",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100022] = {
+		unidentifiedDisplayName = "一盒附属水晶",
+		unidentifiedResourceName = "枚焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有次级水晶的宝物. ",
+			"您可以获得以下物品之一.",
+			"_ ",
+			"[可获得物品] ",
+			"服装心形发夹",
+			"服装外出帽子",
+			"服装 Critura 学院帽子",
+			"2019 Superstar R 门票",
+			"2019 Superstar R 票盒",
+			"[非卖品]白色细长药水盒",
+			"水晶蓝",
+			"奥利德康宝石",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "一盒附属水晶",
+		identifiedResourceName = "枚焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有次级水晶的宝物. ",
+			"您可以获得以下物品之一.",
+			"_ ",
+			"[可获得物品] ",
+			"服装心形发夹",
+			"服装外出帽子",
+			"服装 Critura 学院帽子",
+			"2019 Superstar R 门票",
+			"2019 Superstar R 票盒",
+			"[非卖品]白色细长药水盒",
+			"水晶蓝",
+			"奥利德康宝石",
+			"_",
+			"^ff0000(该条将于2019年5月2日例行检查时批量删除.)^000000 ",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200003] = {
+		unidentifiedDisplayName = "[优惠]30盒高浓缩Oridecon(铁匠)",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"(折扣)一盒包含 30 个高浓度 Oridecon 和 3 个铁匠的祝福.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "[优惠]30盒高浓缩Oridecon(铁匠)",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"(折扣)一盒包含 30 个高浓度 Oridecon 和 3 个铁匠的祝福.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200004] = {
+		unidentifiedDisplayName = "[优惠]30盒高浓缩铒(铁匠)",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"(折扣)一盒含有 30 个高浓度铒和 3 个铁匠的祝福.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "[优惠]30盒高浓缩铒(铁匠)",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"(折扣)一盒含有 30 个高浓度铒和 3 个铁匠的祝福.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200005] = {
+		unidentifiedDisplayName = "[优惠]30盒高密度钷(铁匠)",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"(优惠)一盒含有30个高密度钷和3个铁匠的祝福.",
+			"^ffffff_^000000",
+			"经过米德加尔特学者的反复研究,其密度和强度都有所增加. 看来武器的炼制变得更加困难了. ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "[优惠]30盒高密度钷(铁匠)",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"(优惠)一盒含有30个高密度钷和3个铁匠的祝福.",
+			"^ffffff_^000000",
+			"经过米德加尔特学者的反复研究,其密度和强度都有所增加. 看来武器的炼制变得更加困难了. ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200006] = {
+		unidentifiedDisplayName = "[优惠]30盒高密度卡尼姆(铁匠)",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"(优惠)一盒内含30个高密度卡尼姆和3个铁匠的祝福.",
+			"^ffffff_^000000",
+			"它经过长时间的压缩,其密度和强度都增加了. 看来炼制铠甲变得更加困难了. ",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "[优惠]30盒高密度卡尼姆(铁匠)",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"(优惠)一盒内含30个高密度卡尼姆和3个铁匠的祝福.",
+			"^ffffff_^000000",
+			"它经过长时间的压缩,其密度和强度都增加了. 看来炼制铠甲变得更加困难了. ",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100060] = {
+		unidentifiedDisplayName = "四月的服装附魔石镐盒",
+		unidentifiedResourceName = "脚痹兑迭惑磊",
+		unidentifiedDescriptionName = {
+			"一个可以用服装交换随机服装附魔石盒子的流行盒子.",
+			"您可以获得 4 月份通过 Nyandarae 购买的 21 种服装作为材料, 并获得以下附魔石盒子之一.",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"服装附魔石盒17",
+			"服装附魔石盒18 ",
+			"服装附魔石盒19 ",
+			"――――――――――――― ",
+			"可更换服装列表如下:",
+			"――――――――――――― ",
+			"服装白兔耳",
+			"服装秋季发带",
+			"服装兔子帽子",
+			"服装橙色万圣节帽子",
+			"服装吸血鬼头带",
+			"服装黑色女巫的帽子",
+			"服装恶魔耳机",
+			"服装流行消音器",
+			"服装公主丝带皇冠",
+			"服装疯狂围巾",
+			"服装雪兔针织帽",
+			"服装雪熊兜帽",
+			"服装三色猫咖啡杯",
+			"服装猫耳时髦诗",
+			"服装猫心",
+			"服装双胞胎玛格丽特",
+			"服装黑兔帽子",
+			"服装白九",
+			"服装熊猫兔",
+			"服装狐狸",
+			"樱花盛开",
+			"――――――――――――― "
+		},
+		identifiedDisplayName = "四月的服装附魔石镐盒",
+		identifiedResourceName = "脚痹兑迭惑磊",
+		identifiedDescriptionName = {
+			"一个可以用服装交换随机服装附魔石盒子的流行盒子.",
+			"您可以获得 4 月份通过 Nyandarae 购买的 21 种服装作为材料, 并获得以下附魔石盒子之一.",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"服装附魔石盒17",
+			"服装附魔石盒18 ",
+			"服装附魔石盒19 ",
+			"――――――――――――― ",
+			"可更换服装列表如下:",
+			"――――――――――――― ",
+			"服装白兔耳",
+			"服装秋季发带",
+			"服装兔子帽子",
+			"服装橙色万圣节帽子",
+			"服装吸血鬼头带",
+			"服装黑色女巫的帽子",
+			"服装恶魔耳机",
+			"服装流行消音器",
+			"服装公主丝带皇冠",
+			"服装疯狂围巾",
+			"服装雪兔针织帽",
+			"服装雪熊兜帽",
+			"服装三色猫咖啡杯",
+			"服装猫耳时髦诗",
+			"服装猫心",
+			"服装双胞胎玛格丽特",
+			"服装黑兔帽子",
+			"服装白九",
+			"服装熊猫兔",
+			"服装狐狸",
+			"樱花盛开",
+			"――――――――――――― ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23914] = {
+		unidentifiedDisplayName = "卡图亚的秘密盒子",
+		unidentifiedResourceName = "坷贰等颇鄂惑磊",
+		unidentifiedDescriptionName = { "本服务器专属幸运箱", "重量 : ^7777771^000000" },
+		identifiedDisplayName = "卡图亚的秘密盒子",
+		identifiedResourceName = "坷贰等颇鄂惑磊",
+		identifiedDescriptionName = { "本服务器专属幸运箱", "重量 : ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19176] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "秋抚",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "堕落天使的祝福",
+		identifiedResourceName = "鸥玫荤狼绵汗",
+		identifiedDescriptionName = {
+			"据说过去统治天界的天使被放逐到魔界时失去的翅膀. 当佩戴时, 一个人会对其他天使产生强烈的仇恨. ",
+			"对天使系魔物的物理伤害增加5%. ",
+			"来自天使系魔物的伤害减少5%.",
+			"系列 : ^777777投球^000000 防御 : ^7777771^000000",
+			"地点 : ^777777中断 ^000000重量 : ^77777720^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^77777710^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1250,
+		costume = false
+	},
+	[19177] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "秋抚",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "精神冠",
+		identifiedResourceName = "沥飞狼空包",
+		identifiedDescriptionName = {
+			"受到神灵祝福的王冠. 据说佩戴者可以解读自然的流动. ",
+			"DEX +3. ",
+			"远程物理攻击力增加4%. ",
+			"每 2 次改进增加 DEX +1. ",
+			"装备“烈焰之弓”、“冷却之弓”、“大地之弓”、“疾风之弓”时, ",
+			"远距离物理攻击力额外增加45%.",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^77777750^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^77777750^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1219,
+		costume = false
+	},
+	[19178] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "秋抚",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "精神冠",
+		identifiedResourceName = "沥飞狼空包",
+		identifiedDescriptionName = {
+			"受到神灵祝福的王冠. 据说佩戴者可以解读自然的流动. ",
+			"DEX +3. ",
+			"远程物理攻击力增加4%. ",
+			"每 2 次改进增加 DEX +1. ",
+			"装备“烈焰之弓”、“冷却之弓”、“大地之弓”、“疾风之弓”时, ",
+			"远距离物理攻击力额外增加45%.",
+			"系列 : ^777777投球^000000 防御 : ^77777710^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^77777750^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^77777750^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1219,
+		costume = false
+	},
+	[100100] = {
+		unidentifiedDisplayName = "时间的斗篷盒",
+		unidentifiedResourceName = "柳林焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一件特殊的斗篷,可以对时间的力量做出反应.",
+			"随机包含以下项目之一.",
+			"时间之力披风[1] ",
+			"时空敏捷披风[1] ",
+			"时空耐力斗篷[1] ",
+			"时空智慧斗篷[1] ",
+			"时间灵巧斗篷[1] ",
+			"时运斗篷[1] ",
+			"重量 : ^77777710^000000"
+		},
+		identifiedDisplayName = "时间的斗篷盒",
+		identifiedResourceName = "柳林焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一件特殊的斗篷,可以对时间的力量做出反应.",
+			"随机包含以下项目之一.",
+			"时间之力披风[1] ",
+			"时空敏捷披风[1] ",
+			"时空耐力斗篷[1] ",
+			"时空智慧斗篷[1] ",
+			"时间灵巧斗篷[1] ",
+			"时运斗篷[1] ",
+			"重量 : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100109] = {
+		unidentifiedDisplayName = "拉平的选择盒 II",
+		unidentifiedResourceName = "扼乔匙兑迭惑磊",
+		unidentifiedDescriptionName = {
+			"拉平的选择盒 II.",
+			"拉派恩养老金协会[真理之门]为了压缩多余物品而制作的神秘盒子.",
+			"您可以获得两个组合弹出框,可用于组合各种项目.",
+			"^ff0000警告! - 拉派恩挑选盒中的内容如有更改,恕不另行通知.^000000"
+		},
+		identifiedDisplayName = "拉平的选择盒 II",
+		identifiedResourceName = "扼乔匙兑迭惑磊",
+		identifiedDescriptionName = {
+			"拉平的选择盒 II.",
+			"拉派恩养老金协会[真理之门]为了压缩多余物品而制作的神秘盒子.",
+			"您可以获得两个组合弹出框,可用于组合各种项目.",
+			"^ff0000警告! - 拉派恩挑选盒中的内容如有更改,恕不另行通知.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17969] = {
+		unidentifiedDisplayName = "打气套餐10套",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"适合那些希望在狩猎时获得出色结果的人的包装盒!",
+			"包含20本战斗手册、60张闪亮防御卷轴、60棵神秘生命树、10棵小型法力树和20个提尔的祝福.  ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"^ff0000其中, 闪耀防御卷轴、小型魔力水、神秘生命水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "打气套餐10套",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"适合那些希望在狩猎时获得出色结果的人的包装盒!",
+			"包含20本战斗手册、60张闪亮防御卷轴、60棵神秘生命树、10棵小型法力树和20个提尔的祝福.  ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"^ff0000其中, 闪耀防御卷轴、小型魔力水、神秘生命水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17970] = {
+		unidentifiedDisplayName = "加油包",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"适合那些希望在狩猎时获得出色结果的人的包装盒! ",
+			"包含2本战斗手册、6个闪亮防御卷轴、6个神秘生命之水、1个小法力水和2个提尔祝福.  ",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"^ff0000其中, 闪耀防御卷轴、小型魔力水、神秘生命水无法在英雄围攻中使用.^000000"
+		},
+		identifiedDisplayName = "加油包",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"适合那些希望在狩猎时获得出色结果的人的包装盒!",
+			"包含2本战斗手册、6个闪亮防御卷轴、6个神秘生命之水、1个小法力水和2个提尔祝福.  ",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"^ff0000其中, 闪耀防御卷轴、小型魔力水、神秘生命水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17971] = {
+		unidentifiedDisplayName = "三明水套餐10套",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐10套",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!! 10套写有字的盒子. ",
+			"包含200棵小型生命树、200棵中型生命树、200棵神秘生命树. ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17972] = {
+		unidentifiedDisplayName = "三明水套餐",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. ",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "三明水套餐",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"延年益寿的梦想, 传说中的三明水!!!一个盒子, 上面写着这个.",
+			"包含20棵小型生命树、20棵中型生命树、20棵神秘生命树. ",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17973] = {
+		unidentifiedDisplayName = "全能套餐10套",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有100个全能者.",
+			"此外, 还有[非卖品]神秘粉、[非卖品]提尔的祝福、[非卖品]恢复强化药水十种!",
+			"还附赠[非卖品]Tok Tok 糖果一颗和[非卖品]魔法糖果一颗.",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000"
+		},
+		identifiedDisplayName = "全能套餐10套",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一盒装有100个全能者.",
+			"此外, 还有[非卖品]神秘粉、[非卖品]提尔的祝福、[非卖品]恢复强化药水十种!",
+			"还附赠[非卖品]Tok Tok 糖果一颗和[非卖品]魔法糖果一颗.",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17974] = {
+		unidentifiedDisplayName = "全能套餐",
+		unidentifiedResourceName = "坷贰等畴鄂惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子里有 10 个全能者.",
+			"另外, 还有一份[非卖品]神秘粉、[非卖品]提尔的祝福、还有一份[非卖品]恢复强化药剂!",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000"
+		},
+		identifiedDisplayName = "全能套餐",
+		identifiedResourceName = "坷贰等畴鄂惑磊",
+		identifiedDescriptionName = {
+			"一个盒子里有 10 个全能者.",
+			"另外, 还有一份[非卖品]神秘粉、[非卖品]提尔的祝福、还有一份[非卖品]恢复强化药剂!",
+			"",
+			"浓缩了所有已知对健康有益的菜肴的终极菜肴. ",
+			"30分钟内所有基础状态+10、攻击+30、MATK+30.",
+			"",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17975] = {
+		unidentifiedDisplayName = "冶炼矿包10套",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒.",
+			"^ffffff_^000000",
+			"浓缩铒 - 可以熔炼1级铠甲和暗影铠甲, 熔炼概率增加.",
+			"浓缩Oridecon - 可以熔炼1~4级武器和暗影武器, 熔炼概率增加.",
+			"^ffffff_^000000",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿包10套",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 50 粒.",
+			"^ffffff_^000000",
+			"浓缩铒 - 可以熔炼1级铠甲和暗影铠甲, 熔炼概率增加.",
+			"浓缩Oridecon - 可以熔炼1~4级武器和暗影武器, 熔炼概率增加.",
+			"^ffffff_^000000",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17976] = {
+		unidentifiedDisplayName = "冶炼矿石包",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒.",
+			"^ffffff_^000000",
+			"浓缩铒 - 可以熔炼1级铠甲和暗影铠甲, 熔炼概率增加.",
+			"浓缩Oridecon - 可以熔炼1~4级武器和暗影武器, 熔炼概率增加.",
+			"^ffffff_^000000",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "冶炼矿石包",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 5 粒.",
+			"^ffffff_^000000",
+			"浓缩铒 - 可以熔炼1级铠甲和暗影铠甲, 熔炼概率增加.",
+			"浓缩Oridecon - 可以熔炼1~4级武器和暗影武器, 熔炼概率增加.",
+			"^ffffff_^000000",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17977] = {
+		unidentifiedDisplayName = "高精矿冶炼包",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一盒含有高浓度铒和高浓度 Oridecon 各 13 颗. 此外, 还包括 6 种精神药剂. ",
+			" ",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. - ",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高精矿冶炼包",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一盒含有高浓度铒和高浓度 Oridecon 各 13 颗. 此外, 还包括 6 种精神药剂. ",
+			" ",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. - ",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17978] = {
+		unidentifiedDisplayName = "高密度冶炼矿包",
+		unidentifiedResourceName = "某矫惑磊_八沥",
+		unidentifiedDescriptionName = {
+			"一个盒子, 里面装有 13 个高密度钷和 13 个高密度钪. 此外, 还包括 6 种精神药剂. ",
+			"_ ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高密度冶炼矿包",
+		identifiedResourceName = "某矫惑磊_八沥",
+		identifiedDescriptionName = {
+			"一个盒子, 里面装有 13 个高密度钷和 13 个高密度钪. 此外, 还包括 6 种精神药剂. ",
+			"_ ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			"_ ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17979] = {
+		unidentifiedDisplayName = "动力增强包10套",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一个装有 100 个能量增强器的盒子.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000"
+		},
+		identifiedDisplayName = "动力增强包10套",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一个装有 100 个能量增强器的盒子.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17980] = {
+		unidentifiedDisplayName = "功率增强包",
+		unidentifiedResourceName = "某矫惑磊_焊扼",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有 10 个能量增强器.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000"
+		},
+		identifiedDisplayName = "功率增强包",
+		identifiedResourceName = "某矫惑磊_焊扼",
+		identifiedDescriptionName = {
+			"一个盒子,里面有 10 个能量增强器.",
+			"",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"激活体内能量并显着提高力量的助推器. ",
+			"30분간 ATK、MATK + 30、ATK、MATK + 1%、",
+			"HIT、FLEE + 30、ASPD + 1、SP消耗减少5%, ",
+			"固定施法减少 30%.",
+			"(固定施法的%增减效果仅适用最大的效果.)",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17981] = {
+		unidentifiedDisplayName = "无限套餐10套",
+		unidentifiedResourceName = "气快狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有 100 杯 Infinity 饮料.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000"
+		},
+		identifiedDisplayName = "无限套餐10套",
+		identifiedResourceName = "气快狼惑磊",
+		identifiedDescriptionName = {
+			"一盒装有 100 杯 Infinity 饮料.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17982] = {
+		unidentifiedDisplayName = "无限套餐",
+		unidentifiedResourceName = "气快狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有 10 杯 Infinity 饮料.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000"
+		},
+		identifiedDisplayName = "无限套餐",
+		identifiedResourceName = "气快狼惑磊",
+		identifiedDescriptionName = {
+			"一盒装有 10 杯 Infinity 饮料.",
+			"",
+			"无限畅饮,暂时给您带来无限能量的感觉.",
+			"MaxHP + 5%、MaxSP + 5%, 持续 30 分钟.",
+			"暴击伤害、远距离物理攻击力、全属性魔法攻击力增加5%.",
+			"铸造从未停止.",
+			"^000088如果角色无法战斗,该物品效果就会消失.^000000",
+			"",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17983] = {
+		unidentifiedDisplayName = "防御卷轴套装10套",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 50 个小法力和 300 个发光防御卷轴.",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "防御卷轴套装10套",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 50 个小法力和 300 个发光防御卷轴.",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17984] = {
+		unidentifiedDisplayName = "防御卷轴包",
+		unidentifiedResourceName = "凉赴惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 5 个小法力和 30 个发光防御卷轴.",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "防御卷轴包",
+		identifiedResourceName = "凉赴惑磊",
+		identifiedDescriptionName = {
+			"一个盒子, 里面装有卷轴, 可以暂时增加防御力并有助于生存.",
+			"包含 5 个小法力和 30 个发光防御卷轴.",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17985] = {
+		unidentifiedDisplayName = "无限套餐10套",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 另外,还附赠[非卖品]11张闪亮防御卷轴. ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限套餐10套",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 50 个 ASPD 增强药水和 100 个红色助推器. 另外,还附赠[非卖品]11张闪亮防御卷轴. ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[17986] = {
+		unidentifiedDisplayName = "无限套餐",
+		unidentifiedResourceName = "寝蝴狼惑磊",
+		unidentifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还附赠[非卖品]闪耀防御卷轴一张. ",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限套餐",
+		identifiedResourceName = "寝蝴狼惑磊",
+		identifiedDescriptionName = {
+			"一盒包含 5 个 ASPD 增强药水和 10 个红色助推器. 此外,还附赠[非卖品]闪耀防御卷轴一张. ",
+			"^ff0000附上 Kathua 的一把秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9569] = {
+		unidentifiedDisplayName = "盛宴面条",
+		unidentifiedResourceName = "悔鹅部府惫荐",
+		unidentifiedDescriptionName = {
+			"白色光滑的面条煮熟后浇上肉汤和各种配料. 在特别的日子制作并分享. ",
+			"^ffffff_^000000",
+			"15分钟内,来自火属性敌人的物理/魔法伤害减少7%.",
+			"攻击速度增加(攻击后延迟减少 7%), 可变施法减少 7%.",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.) ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "盛宴面条",
+		identifiedResourceName = "悔鹅部府惫荐",
+		identifiedDescriptionName = {
+			"白色光滑的面条煮熟后浇上肉汤和各种配料. 在特别的日子制作并分享. ",
+			"^ffffff_^000000",
+			"15分钟内,来自火属性敌人的物理/魔法伤害减少7%.",
+			"攻击速度增加(攻击后延迟减少 7%), 可变施法减少 7%.",
+			"^ffffff_^000000",
+			"(活动结束后该物品将被删除.) ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100152] = {
+		unidentifiedDisplayName = "金色PC机房屏蔽盒",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一个充满神秘力量的特殊盾牌.",
+			"您可以随机获得以下物品之一.",
+			"―――――――――――――",
+			"共享盾牌[1]",
+			"松布尔盾[1]",
+			"地板护罩[1]",
+			"毒盾[1]",
+			"卢米尔之盾[1]",
+			"连盾[1]",
+			"鲁班盾牌[1]",
+			"―――――――――――――",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "金色PC机房屏蔽盒",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一个充满神秘力量的特殊盾牌.",
+			"您可以随机获得以下物品之一.",
+			"―――――――――――――",
+			"共享盾牌[1]",
+			"松布尔盾[1]",
+			"地板护罩[1]",
+			"毒盾[1]",
+			"卢米尔之盾[1]",
+			"连盾[1]",
+			"鲁班盾牌[1]",
+			"―――――――――――――",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100170] = {
+		unidentifiedDisplayName = "电脑房里程服装盒",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个装有衣物的盒子,只有经过长时间的耐心才能获得.",
+			"您可以随机获得以下物品之一.",
+			"―――――――――――――",
+			"水之服装大师",
+			"服装亮蓝色天使翅膀",
+			"服装:深黑色邪恶德鲁伊帽子",
+			"服装 菲亚梅特的红头罩",
+			"服装菲亚梅特的红色领结",
+			"服装白兔",
+			"火焰服装大师",
+			"服装深红色翅膀",
+			"与服饰产生共鸣的远古时代",
+			"服装两色贝雷帽",
+			"服装变体的面纱",
+			"服装 赤川的花环",
+			"古装风大师",
+			"服装拉斐尔的翅膀",
+			"化装糖果派对",
+			"服装过度保护",
+			"服装嘴里的月亮灯",
+			"服装耳朵",
+			"―――――――――――――",
+			"^ff0000(该条目将于2021年1月6日删除.)^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "电脑房里程服装盒",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个装有衣物的盒子,只有经过长时间的耐心才能获得.",
+			"您可以随机获得以下物品之一.",
+			"―――――――――――――",
+			"水之服装大师",
+			"服装亮蓝色天使翅膀",
+			"服装:深黑色邪恶德鲁伊帽子",
+			"服装 菲亚梅特的红头罩",
+			"服装菲亚梅特的红色领结",
+			"服装白兔",
+			"火焰服装大师",
+			"服装深红色翅膀",
+			"与服饰产生共鸣的远古时代",
+			"服装两色贝雷帽",
+			"服装变体的面纱",
+			"服装 赤川的花环",
+			"古装风大师",
+			"服装拉斐尔的翅膀",
+			"化装糖果派对",
+			"服装过度保护",
+			"服装嘴里的月亮灯",
+			"服装耳朵",
+			"―――――――――――――",
+			"^ff0000(该条目将于2021年1月6日删除.)^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100151] = {
+		unidentifiedDisplayName = "技能武器暗影组合书",
+		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "技能武器暗影组合书",
+		identifiedResourceName = "Bs_Shadow_M_Scroll",
+		identifiedDescriptionName = {
+			"一本组合书,解释了如何组合武器之影,从而增加特定技能的统计数据.",
+			"组合材料时可以获得一种技能武器“暗影”.",
+			" ",
+			"[所需材料] ",
+			"50 暗影督导员",
+			"50 颗老鹳草",
+			" ",
+			"[可获得物品]",
+			"点火、火焰吐息、瞄准、射击、回旋镖、武器、春罗、霍尔波、阿多拉、马格努斯、箭火神、振动、暗影法术、佯攻、卡塔尔、死神斩击者、坟墓、巴雷提尔、应变、链条、加农炮车、疯狂、链压、创世武器暗影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100209] = {
+		unidentifiedDisplayName = "技能盾影组合书",
+		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "技能盾影组合书",
+		identifiedResourceName = "Bs_Shadow_M_Scroll",
+		identifiedDescriptionName = {
+			"一本组合书,解释了如何组合盾影,从而增加特定技能的统计数据.",
+			"组合材料时, 可以获得一种技能盾影.",
+			" ",
+			"[所需材料] ",
+			"50 暗影督导员",
+			"50 颗老鹳草",
+			" ",
+			"[可获得物品]",
+			"音速、冷息、集群、箭、龙卷风、火神、曝气、神炭、双重、Judex、暴雨、金属、三角形、梅纳斯、滚动、斩击、尘埃、灵能、杰克、猩红、龙卷风卡丁车、孢子炸弹、烙印、消失炮盾暗影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100210] = {
+		unidentifiedDisplayName = "技能坠饰暗影组合书",
+		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "技能坠饰暗影组合书",
+		identifiedResourceName = "Bs_Shadow_M_Scroll",
+		identifiedDescriptionName = {
+			"一本组合书,解释了如何组合吊坠阴影来增加特定技能的统计数据.",
+			"组合材料时, 可以获得一种技能挂饰影子.",
+			" ",
+			"[所需材料] ",
+			"50 暗影督导员",
+			" ",
+			"[可获得物品]",
+			"点火、火焰吐息、瞄准、射击、回旋镖、武器、春拉、霍尔波、阿多拉、马格努斯、箭火神、振动、暗影法术、佯攻、卡塔尔、死神斩击者、坟墓、巴雷提尔、应变、锁链、加农炮车、疯狂、链压、创世吊坠暗影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100211] = {
+		unidentifiedDisplayName = "技能耳环暗影组合书",
+		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "技能耳环暗影组合书",
+		identifiedResourceName = "Bs_Shadow_M_Scroll",
+		identifiedDescriptionName = {
+			"一本组合书,解释了如何组合耳环阴影来增加特定技能的统计数据.",
+			"组合材料时可以获得一种技能耳影.",
+			" ",
+			"[所需材料] ",
+			"50 暗影督导员",
+			" ",
+			"[可获得物品]",
+			"点火、火焰吐息、瞄准、射击、回旋镖、武器、春拉、霍尔波、阿多拉、马格努斯、箭火神、振动、暗影法术、佯攻、卡塔尔、死神斩击者、坟墓、巴雷提尔、应变、链条、加农炮车、疯狂、链压、创世耳环暗影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100212] = {
+		unidentifiedDisplayName = "技能鞋影组合书",
+		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "技能鞋影组合书",
+		identifiedResourceName = "Bs_Shadow_M_Scroll",
+		identifiedDescriptionName = {
+			"一本组合书,解释了如何组合鞋影,从而增加特定技能的统计数据.",
+			"组合材料时可以获得一种技能鞋影.",
+			" ",
+			"[所需材料] ",
+			"50 颗老鹳草",
+			" ",
+			"[可获得物品]",
+			"音速、冷息、集群、箭、龙卷风、火神、曝气、神炭、双重、Judex、暴雨、金属、三角形、梅纳斯、滚动、斩击、灰尘、通灵、杰克、猩红、龙卷风卡丁车、孢子炸弹、烙印、消失炮鞋暗影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100213] = {
+		unidentifiedDisplayName = "技能铠影组合书",
+		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "技能铠影组合书",
+		identifiedResourceName = "Bs_Shadow_M_Scroll",
+		identifiedDescriptionName = {
+			"一本组合书,解释了如何组合铠甲之影,从而增加特定技能的统计数据.",
+			"组合材料时, 可以获得一种技能铠影.",
+			" ",
+			"[所需材料] ",
+			"50 颗老鹳草",
+			" ",
+			"[可获得物品]",
+			"音速、冷息、集束、箭、龙卷风、火神、曝气、神炭、双重、Judex、暴雨、金属、三角形、梅纳斯、滚动、斩击、尘埃、灵能、杰克、猩红、龙卷风卡丁车、孢子炸弹、烙印、消失炮甲暗影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31735] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "古装八卦的凤州",
+		identifiedResourceName = "FortunetellinSealed",
+		identifiedDescriptionName = {
+			"一种封印八卦力量的服装围巾,以天、地、自然为模型.",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒20.^000000",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1901,
+		costume = true
+	},
+	[31841] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装 OnAir BJ 耳机",
+		identifiedResourceName = "BJ_HeadsetB",
+		identifiedDescriptionName = {
+			"专为 Ragnarok BJ 官方制作的服装耳机.",
+			"添加了发光效果,让您知道您当前正在从事 BJ 活动.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1943,
+		costume = true
+	},
+	[31817] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装兔子两侧朝上",
+		identifiedResourceName = "C_Rabbit_Two_Side_Up",
+		identifiedDescriptionName = {
+			"一款让您在佩戴时感觉发型与平常不同的服装假发.",
+			"独特的颜色让你感觉像一只兔子.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1927,
+		costume = true
+	},
+	[100269] = {
+		unidentifiedDisplayName = "格芬魔法大赛12精炼魔方",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个神秘的立方体,可以将格芬魔法锦标赛的护甲精炼 12 点.",
+			"",
+			"[目标项目]",
+			"吉芬魔法长袍、吉芬魔法围巾、反魔法套装、反魔法披风"
+		},
+		identifiedDisplayName = "格芬魔法大赛12精炼魔方",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个神秘的立方体,可以将格芬魔法锦标赛的护甲精炼 12 点.",
+			"",
+			"[目标项目]",
+			"吉芬魔法长袍、吉芬魔法围巾、反魔法套装、反魔法披风",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100272] = {
+		unidentifiedDisplayName = "古代英雄之靴9炼金券",
+		unidentifiedResourceName = "惑牢康荐刘",
+		unidentifiedDescriptionName = {
+			"一张炼金券,可以一次性将古代英雄的战靴炼化9级.",
+			"注意 - 伟大英雄的靴子无法熔炼."
+		},
+		identifiedDisplayName = "古代英雄之靴9炼金券",
+		identifiedResourceName = "惑牢康荐刘",
+		identifiedDescriptionName = {
+			"一张炼金券,可以一次性将古代英雄的战靴炼化9级.",
+			"注意 - 伟大英雄的靴子无法熔炼.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31685] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装蓬松半长",
+		identifiedResourceName = "C_Fluffy_Semi_Long",
+		identifiedDescriptionName = {
+			"服装用头发,光看就显得蓬松丰盈.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1874,
+		costume = true
+	},
+	[1000274] = {
+		unidentifiedDisplayName = "[卡丘亚]里程优惠券",
+		unidentifiedResourceName = "Cachua_Coupon",
+		unidentifiedDescriptionName = {
+			"每次使用 Kathua 的密钥即可获赠一张优惠券.",
+			"您可以收集它们并用它们兑换各种物品.",
+			"^ffffff<NAVI>^4D4DFF[马卡罗姆]^000000<INFO>itemmall,41,54,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[猫手店员 Nyarom]^000000<INFO>itemmall,41,50,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "[卡丘亚]里程优惠券",
+		identifiedResourceName = "Cachua_Coupon",
+		identifiedDescriptionName = {
+			"每次使用 Kathua 的密钥即可获赠一张优惠券.",
+			"您可以收集它们并用它们兑换各种物品.",
+			"^ffffff<NAVI>^4D4DFF[马卡罗姆]^000000<INFO>itemmall,41,54,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[猫手店员 Nyarom]^000000<INFO>itemmall,41,50,0,100,0,0</INFO></NAVI>^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[400055] = {
+		unidentifiedDisplayName = "投球",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装闪亮圣诞老人波利帽",
+		identifiedResourceName = "惯堡魂鸥器傅",
+		identifiedDescriptionName = {
+			"波利戴着闪闪发光的圣诞帽,在头上跳跃,令人惊叹.",
+			"从怪物身上获得的经验值+10%",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 961,
+		costume = true
+	},
+	[100332] = {
+		unidentifiedDisplayName = "圣诞礼品盒",
+		unidentifiedResourceName = "农府胶付胶菩虐瘤",
+		unidentifiedDescriptionName = {
+			"为纪念 2020 年圣诞节而发送的礼盒.",
+			"圣诞快乐!",
+			"",
+			" * 成分",
+			"[非卖品]全能10枚",
+			"[非卖品] 10个强力增强器",
+			"[非卖品]10杯无限畅饮",
+			"[非卖品] 小法力值:20",
+			"[非卖品]20种神秘生命之水",
+			"[非卖品]20小生命之水",
+			"[非卖品]中型生命之水20个",
+			"[非卖品] 20 个红色助推器",
+			"5本高级战斗手册",
+			"穿着闪亮服装的圣诞老人(24 小时)",
+			"(该项目将于2021年1月6日例行维护时批量删除.)"
+		},
+		identifiedDisplayName = "圣诞礼品盒",
+		identifiedResourceName = "农府胶付胶菩虐瘤",
+		identifiedDescriptionName = {
+			"为纪念 2020 年圣诞节而发送的礼盒.",
+			"圣诞快乐!",
+			"",
+			" * 成分",
+			"[非卖品]全能10枚",
+			"[非卖品] 10个强力增强器",
+			"[非卖品]10杯无限畅饮",
+			"[非卖品] 小法力值:20",
+			"[非卖品]20种神秘生命之水",
+			"[非卖品]20小生命之水",
+			"[非卖品]中型生命之水20个",
+			"[非卖品] 20 个红色助推器",
+			"5本高级战斗手册",
+			"穿着闪亮服装的圣诞老人(24 小时)",
+			"(该项目将于2021年1月6日例行维护时批量删除.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100322] = {
+		unidentifiedDisplayName = "赛车帽11精炼方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个神秘的立方体,可将赛车上限精炼至 11.",
+			"",
+			"[目标项目]",
+			"赛车帽(机械师)、赛车帽(通用)、赛车帽(断头十字)、赛车帽(追影者)、赛车帽(术士)、赛车帽(女术士)、赛车帽(符文骑士)、赛车帽(皇家卫队)、赛车帽(大主教)、赛车帽(苏拉)、赛车帽(游侠)、赛车帽(吟游诗人)、赛车帽(流浪者)、赛车帽(枪手)、赛车帽(忍者)、赛车帽(超级新手)、赛车帽(召唤师)、赛车帽(权成)、赛车帽(灵魂链接者)"
+		},
+		identifiedDisplayName = "赛车帽11精炼方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个神秘的立方体,可将赛车上限精炼至 11.",
+			"",
+			"[目标项目]",
+			"赛车帽(机械师)、赛车帽(通用)、赛车帽(断头十字)、赛车帽(追影者)、赛车帽(术士)、赛车帽(女术士)、赛车帽(符文骑士)、赛车帽(皇家卫队)、赛车帽(大主教)、赛车帽(苏拉)、赛车帽(游侠)、赛车帽(吟游诗人)、赛车帽(流浪者)、赛车帽(枪手)、赛车帽(忍者)、赛车帽(超级新手)、赛车帽(召唤师)、赛车帽(权成)、赛车帽(灵魂链接者)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[21205] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "胡桃夹子",
+		identifiedResourceName = "Nut_Cracker",
+		identifiedDescriptionName = {
+			"由胡桃夹子毛皮制成的面具.",
+			"两颊都塞满了美味的坚果,以增加体积.",
+			"缺点是有点动物气味,但非常柔软温暖,据说非常适合冬天使用.",
+			"",
+			"^ff0000(活动结束后该选项将被删除.)^000000",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中下层^000000 重量 : ^77777710^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1991,
+		costume = false
+	},
+	[766] = {
+		unidentifiedDisplayName = "光滑的毛皮束",
+		unidentifiedResourceName = "陛蝴判",
+		unidentifiedDescriptionName = {
+			"胡桃夹子掉落的头发被收集起来并绑起来.",
+			"还残留着一点点动物的气味.",
+			"",
+			"非常适合消灭核桃!",
+			"^ff0000(活动结束后该物品将被删除.)^000000"
+		},
+		identifiedDisplayName = "光滑的毛皮束",
+		identifiedResourceName = "陛蝴判",
+		identifiedDescriptionName = {
+			"胡桃夹子掉落的头发被收集起来并绑起来.",
+			"还残留着一点点动物的气味.",
+			"",
+			"非常适合消灭核桃!",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1991,
+		costume = false
+	},
+	[500] = {
+		unidentifiedDisplayName = "巧克力江正",
+		unidentifiedResourceName = "陛堡籍",
+		unidentifiedDescriptionName = {
+			"将胡桃片与巧克力混合并形成球制成的小吃.",
+			"我不知道为什么沃纳特带着这个.",
+			"^ffffff_^000000 ",
+			"HP恢复10%, SP恢复10%.",
+			"^ffffff_^000000 ",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"^ffffff_^000000 "
+		},
+		identifiedDisplayName = "巧克力江正",
+		identifiedResourceName = "陛堡籍",
+		identifiedDescriptionName = {
+			"将胡桃片与巧克力混合并形成球制成的小吃.",
+			"我不知道为什么沃纳特带着这个.",
+			"^ffffff_^000000 ",
+			"HP恢复10%, SP恢复10%.",
+			"^ffffff_^000000 ",
+			"^ff0000(活动结束后该物品将被删除.)^000000",
+			"^ffffff_^000000 ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[700017] = {
+		unidentifiedDisplayName = "弓",
+		unidentifiedResourceName = "焊快",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "暴雨助推弓",
+		identifiedResourceName = "RS_B_Bow",
+		identifiedDescriptionName = {
+			"旨在帮助冒险者成长的弓.",
+			"^000088无法进行正常熔炼.^000000",
+			"ATK + 2%.",
+			"每次精炼时攻击力+3.",
+			"每基础等级 15,攻击力 + 3. (适用于 195 级)",
+			"精炼至 7 时, 舞蹈练习/乐器操作每提升一级, 远程物理伤害就会增加 2%.",
+			"精炼到9级时, 暴雨技能冷却时间减少1秒, 暴雨伤害增加25%.",
+			"精炼到11级时, 暴雨技能冷却时间额外减少1秒, 对大小敌人的物理伤害增加15%.",
+			"精炼到13级时, 暴雨伤害额外增加15%.",
+			"^ffffff_^000000",
+			"系列 : ^777777弓^000000 攻击 : ^777777200^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777吟游诗人系列、流浪者系列^000000"
+		},
+		slotCount = 0,
+		ClassNum = 73,
+		costume = false
+	},
+	[510017] = {
+		unidentifiedDisplayName = "匕首",
+		unidentifiedResourceName = "唱捞橇",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "反突击助推器匕首",
+		identifiedResourceName = "CA_B_Dagger",
+		identifiedDescriptionName = {
+			"为帮助冒险者成长而准备的匕首.",
+			"^000088无法进行正常熔炼.^000000",
+			"ATK + 2%.",
+			"每次精炼时攻击力+3.",
+			"每基础等级 15,攻击力 + 3. (适用于 195 级)",
+			"精炼至 7 时, 左手训练每升一级, 全局冷却时间减少 1%.",
+			"精炼到9时, 近战物理伤害增加10%, 流星袭击和反击斩伤害增加25%.",
+			"精炼到11级时, 全局冷却时间额外减少10%, 对各种体型敌人的物理伤害增加15%.",
+			"精炼到13级时, 流星突袭和反击斩伤害额外增加15%.",
+			"^ffffff_^000000",
+			"系列 : ^777777匕首^000000 攻击 : ^777777180^000000",
+			"重量 : ^7777770^000000",
+			"武器等级 : ^7777774^000000",
+			"所需级别 : ^777777100^000000",
+			"配备 : ^777777断头台十字系列^000000"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = false
+	},
+	[100125] = {
+		unidentifiedDisplayName = "金属武器7炼金券",
+		unidentifiedResourceName = "惑牢康荐刘",
+		unidentifiedDescriptionName = {
+			"可以强化钢铁武器的券.",
+			"插入下面的武器, 可以获得一把7级精炼的金属武器.",
+			"^ffffff_^000000 ",
+			"金属双手剑 [1]",
+			"金属枪[1]",
+			"金属狼牙棒[1]",
+			"金属双手斧 [1]",
+			"金属匕首[1]",
+			"金属书[1]",
+			"金属法杖[1]",
+			"金属卡塔尔[1]",
+			"金属弓[1]",
+			"金属小狗池 [1]",
+			"金属左轮手枪[1]",
+			"金属风魔手里剑 [1]",
+			"^ffffff_^000000 "
+		},
+		identifiedDisplayName = "金属武器7炼金券",
+		identifiedResourceName = "惑牢康荐刘",
+		identifiedDescriptionName = {
+			"可以强化钢铁武器的券.",
+			"插入下面的武器, 可以获得一把7级精炼的金属武器.",
+			"^ffffff_^000000 ",
+			"金属双手剑 [1]",
+			"金属枪[1]",
+			"金属狼牙棒[1]",
+			"金属双手斧 [1]",
+			"金属匕首[1]",
+			"金属书[1]",
+			"金属法杖[1]",
+			"金属卡塔尔[1]",
+			"金属弓[1]",
+			"金属小狗池 [1]",
+			"金属左轮手枪[1]",
+			"金属风魔手里剑 [1]",
+			"^ffffff_^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100342] = {
+		unidentifiedDisplayName = "成长药水(等级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "成长药水(等级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"限制级别 : ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100343] = {
+		unidentifiedDisplayName = "成长药水(中级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"当你喝了它,你就会获得一定的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "成长药水(中级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"当你喝了它,你就会获得一定的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^77777750^000000",
+			"限制级别 : ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100344] = {
+		unidentifiedDisplayName = "成长药水(高级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"喝了它会给你很多经验值.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "成长药水(高级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"喝了它会给你很多经验值.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777100^000000",
+			"限制级别 : ^777777160^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100345] = {
+		unidentifiedDisplayName = "成长药水(高级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"如果你喝了它,你将获得大量的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "成长药水(高级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"如果你喝了它,你将获得大量的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777160^000000",
+			"限制级别 : ^777777199^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100346] = {
+		unidentifiedDisplayName = "工作药水",
+		unidentifiedResourceName = "弥窍鞭流诀厚距",
+		unidentifiedDescriptionName = {
+			"喝了它,你会获得少量的工作经验.",
+			"使用此时获得的工作经验升级的次数仅限一次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "工作药水",
+		identifiedResourceName = "弥窍鞭流诀厚距",
+		identifiedDescriptionName = {
+			"喝了它,你会获得少量的工作经验.",
+			"使用此时获得的工作经验升级的次数仅限一次.",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^77777710^000000",
+			"限制级别 : ^777777200^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100347] = {
+		unidentifiedDisplayName = "2021 年助推器目标成就礼盒",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"送给达成目标的冒险者的盒子.",
+			"您可以获得以下物品之一.",
+			"――――――――――――― ",
+			"服装大天使翅膀",
+			"服装长波(金发)",
+			"服装长波(银发)",
+			"服装联谊会的守护者",
+			"服装豹纹耳朵帽子",
+			"服装棕色猫耳发带",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期维护时删除.)^000000"
+		},
+		identifiedDisplayName = "2021 年助推器目标成就礼盒",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"送给达成目标的冒险者的盒子.",
+			"您可以获得以下物品之一.",
+			"――――――――――――― ",
+			"服装大天使翅膀",
+			"服装长波(金发)",
+			"服装长波(银发)",
+			"服装联谊会的守护者",
+			"服装豹纹耳朵帽子",
+			"服装棕色猫耳发带",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期维护时删除.)^000000",
+			"重量: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200031] = {
+		unidentifiedDisplayName = "(限量)Nyandarae水果套餐一",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"一盒装有 100 个油桃果实. ",
+			"此外,你可以获得 Kathua 的 11 把秘密钥匙."
+		},
+		identifiedDisplayName = "(限量)Nyandarae水果套餐一",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"一盒装有 100 个油桃果实. ",
+			"此外,你可以获得 Kathua 的 11 把秘密钥匙.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200049] = {
+		unidentifiedDisplayName = "石币套餐一",
+		unidentifiedResourceName = "悼焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有 100 个油桃.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "石币套餐一",
+		identifiedResourceName = "悼焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒装有 100 个油桃.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200050] = {
+		unidentifiedDisplayName = "石币套餐二",
+		unidentifiedResourceName = "篮焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子, 内含 100 颗 Nantarae 果实、200 颗小型生命树、200 颗中型生命树和 200 颗神秘生命树.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "石币套餐二",
+		identifiedResourceName = "篮焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子, 内含 100 颗 Nantarae 果实、200 颗小型生命树、200 颗中型生命树和 200 颗神秘生命树.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200051] = {
+		unidentifiedDisplayName = "石币套餐三",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子, 内含 200 个 Nantarae 水果、100 个无限饮料、300 个闪亮防御卷轴和 50 个小型法力水.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中, 闪亮防御卷轴和小型魔力水无法在英雄围攻中使用.^000000"
+		},
+		identifiedDisplayName = "石币套餐三",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子, 内含 200 个 Nantarae 水果、100 个无限饮料、300 个闪亮防御卷轴和 50 个小型法力水.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000其中, 闪亮防御卷轴和小型魔力水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100433] = {
+		unidentifiedDisplayName = "三月的服装附魔石镐盒",
+		unidentifiedResourceName = "脚痹兑迭惑磊",
+		unidentifiedDescriptionName = {
+			"一个可以用服装交换随机服装附魔石盒子的流行盒子.",
+			"您可以获得3月份用Nyandarae购买的21种服装作为材料, 并获得以下结界石盒子之一.",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"服装附魔石盒17",
+			"服装附魔石盒18 ",
+			"服装附魔石盒19 ",
+			"服装附魔石盒20",
+			"服装附魔石盒 21 ",
+			"――――――――――――― ",
+			"可更换服装列表如下:",
+			"――――――――――――― ",
+			"服装漂亮的白熊",
+			"古装八卦的凤州",
+			"服装漂浮太极珠",
+			"服装黑死病国王的披肩",
+			"服装女巫猫帽子",
+			"服装双炮",
+			"服装野餐篮",
+			"服装魔法头盔",
+			"服装小鹿耳朵",
+			"服装快乐猫",
+			"服装守护骑士项链",
+			"服装记忆的夜空",
+			"服装底框眼镜(蓝色)",
+			"服装单色帽",
+			"服装怀表头饰",
+			"服装波利交通灯",
+			"服装猫爪装饰针织帽",
+			"服装褶边领口斗篷",
+			"服装玫瑰哥特式帽子",
+			"服装小花园",
+			"服装闪烁红眼睛",
+			"――――――――――――― "
+		},
+		identifiedDisplayName = "三月的服装附魔石镐盒",
+		identifiedResourceName = "脚痹兑迭惑磊",
+		identifiedDescriptionName = {
+			"一个可以用服装交换随机服装附魔石盒子的流行盒子.",
+			"您可以获得3月份用Nyandarae购买的21种服装作为材料, 并获得以下结界石盒子之一.",
+			"――――――――――――― ",
+			"服装附魔石盒13 ",
+			"服装附魔石盒14 ",
+			"服装附魔石盒15 ",
+			"服装附魔石盒16 ",
+			"服装附魔石盒17",
+			"服装附魔石盒18 ",
+			"服装附魔石盒19 ",
+			"服装附魔石盒20",
+			"服装附魔石盒 21 ",
+			"――――――――――――― ",
+			"可更换服装列表如下:",
+			"――――――――――――― ",
+			"服装漂亮的白熊",
+			"古装八卦的凤州",
+			"服装漂浮太极珠",
+			"服装黑死病国王的披肩",
+			"服装女巫猫帽子",
+			"服装双炮",
+			"服装野餐篮",
+			"服装魔法头盔",
+			"服装小鹿耳朵",
+			"服装快乐猫",
+			"服装守护骑士项链",
+			"服装记忆的夜空",
+			"服装底框眼镜(蓝色)",
+			"服装单色帽",
+			"服装怀表头饰",
+			"服装波利交通灯",
+			"服装猫爪装饰针织帽",
+			"服装褶边领口斗篷",
+			"服装玫瑰哥特式帽子",
+			"服装小花园",
+			"服装闪烁红眼睛",
+			"――――――――――――― ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19802] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "九尾狐下垂的服装",
+		identifiedResourceName = "疵绢柳备固龋",
+		identifiedDescriptionName = {
+			"九尾狐形状的帽子. 它具有相当大的隔热能力. ",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒21.^000000",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 296,
+		costume = true
+	},
+	[100442] = {
+		unidentifiedDisplayName = "新武器暗影方块",
+		unidentifiedResourceName = "焊扼溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的武器影子之一.",
+			"",
+			"[获得的物品]",
+			"强制执行者武器阴影",
+			"灵魂魔法刽子手武器暗影",
+			"灵器暗影II",
+			"闪电战武器阴影",
+			"张力武器阴影",
+			"优雅的武器影子",
+			"致命一击武器暗影",
+			"感伤武器影子",
+			"附魔武器之影"
+		},
+		identifiedDisplayName = "新武器暗影方块",
+		identifiedResourceName = "焊扼溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的武器影子之一.",
+			"",
+			"[获得的物品]",
+			"强制执行者武器阴影",
+			"灵魂魔法刽子手武器暗影",
+			"灵器暗影II",
+			"闪电战武器阴影",
+			"张力武器阴影",
+			"优雅的武器影子",
+			"致命一击武器暗影",
+			"感伤武器影子",
+			"附魔武器之影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100443] = {
+		unidentifiedDisplayName = "新盾影立方体",
+		unidentifiedResourceName = "焊扼溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的盾影之盾.",
+			"",
+			"[获得的物品]",
+			"法术流护盾暗影 II",
+			"西格伦盾影",
+			"暴击盾影",
+			"风暴之盾暗影",
+			"治愈之盾暗影",
+			"穿透盾影"
+		},
+		identifiedDisplayName = "新盾影立方体",
+		identifiedResourceName = "焊扼溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的盾影之盾.",
+			"",
+			"[获得的物品]",
+			"法术流护盾暗影 II",
+			"西格伦盾影",
+			"暴击盾影",
+			"风暴之盾暗影",
+			"治愈之盾暗影",
+			"穿透盾影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100444] = {
+		unidentifiedDisplayName = "新装甲暗影立方体",
+		unidentifiedResourceName = "焊扼溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的盔甲阴影之一.",
+			"",
+			"[获得的物品]",
+			"凶恶铠影II",
+			"西格伦铠甲影子",
+			"施法者装甲暗影 II",
+			"重装装甲暗影 II",
+			"闪电战装甲阴影",
+			"魔法刽子手圣水铠影",
+			"驱魔师 腐化铠甲 暗影",
+			"魔振杀龙铠影",
+			"魔法凯撒狩猎铠甲暗影",
+			"魔钓虫网甲影",
+			"刽子手圣水铠影",
+			"驱魔者腐化铠甲暗影",
+			"振动屠龙铠甲暗影",
+			"凯撒狩猎铠甲影子",
+			"渔虫网甲影"
+		},
+		identifiedDisplayName = "新装甲暗影立方体",
+		identifiedResourceName = "焊扼溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的盔甲阴影之一.",
+			"",
+			"[获得的物品]",
+			"凶恶铠影II",
+			"西格伦铠甲影子",
+			"施法者装甲暗影 II",
+			"重装装甲暗影 II",
+			"闪电战装甲阴影",
+			"魔法刽子手圣水铠影",
+			"驱魔师 腐化铠甲 暗影",
+			"魔振杀龙铠影",
+			"魔法凯撒狩猎铠甲暗影",
+			"魔钓虫网甲影",
+			"刽子手圣水铠影",
+			"驱魔者腐化铠甲暗影",
+			"振动屠龙铠甲暗影",
+			"凯撒狩猎铠甲影子",
+			"渔虫网甲影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100445] = {
+		unidentifiedDisplayName = "新鞋暗影魔方",
+		unidentifiedResourceName = "焊扼溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的鞋影.",
+			"",
+			"[获得的物品]",
+			"冬鞋暗影II",
+			"关键鞋子阴影",
+			"暴风雨鞋影",
+			"穿透鞋影",
+			"治愈鞋影"
+		},
+		identifiedDisplayName = "新鞋暗影魔方",
+		identifiedResourceName = "焊扼溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的鞋影.",
+			"",
+			"[获得的物品]",
+			"冬鞋暗影II",
+			"关键鞋子阴影",
+			"暴风雨鞋影",
+			"穿透鞋影",
+			"治愈鞋影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100446] = {
+		unidentifiedDisplayName = "新耳环阴影立方体",
+		unidentifiedResourceName = "焊扼溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的耳环阴影之一.",
+			"",
+			"[获得的物品]",
+			"宝石耳环影子 II",
+			"张力耳环阴影",
+			"优雅的耳环阴影",
+			"恢复耳环阴影",
+			"致命打击耳环阴影",
+			"感伤耳环阴影",
+			"迷人的耳环阴影"
+		},
+		identifiedDisplayName = "新耳环阴影立方体",
+		identifiedResourceName = "焊扼溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的耳环阴影之一.",
+			"",
+			"[获得的物品]",
+			"宝石耳环影子 II",
+			"张力耳环阴影",
+			"优雅的耳环阴影",
+			"恢复耳环阴影",
+			"致命打击耳环阴影",
+			"感伤耳环阴影",
+			"迷人的耳环阴影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100447] = {
+		unidentifiedDisplayName = "新款暗影立方体吊坠",
+		unidentifiedResourceName = "焊扼溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的吊坠眼影之一.",
+			"",
+			"[获得的物品]",
+			"暗影持有者吊坠 II",
+			"张力吊坠阴影",
+			"优雅吊坠阴影",
+			"恢复吊坠阴影",
+			"致命一击吊坠暗影",
+			"感伤吊坠阴影",
+			"迷人吊坠暗影"
+		},
+		identifiedDisplayName = "新款暗影立方体吊坠",
+		identifiedResourceName = "焊扼溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个盒子,您可以在其中获得各种类型的吊坠眼影之一.",
+			"",
+			"[获得的物品]",
+			"暗影持有者吊坠 II",
+			"张力吊坠阴影",
+			"优雅吊坠阴影",
+			"恢复吊坠阴影",
+			"致命一击吊坠暗影",
+			"感伤吊坠阴影",
+			"迷人吊坠暗影",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000320] = {
+		unidentifiedDisplayName = "卡普拉币",
+		unidentifiedResourceName = "墨橇扼内牢",
+		unidentifiedDescriptionName = {
+			"通过收集卡普拉积分可以获得的硬币. 据说可以用来在Aldebaran的Capra自动售货机购买物品. ",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "卡普拉币",
+		identifiedResourceName = "墨橇扼内牢",
+		identifiedDescriptionName = {
+			"通过收集卡普拉积分可以获得的硬币. 据说可以用来在Aldebaran的Capra自动售货机购买物品. ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200032] = {
+		unidentifiedDisplayName = "萨姆纳苏套餐",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"传说中的三明水升级套餐!!!一个盒子,上面写着这个.",
+			"包含50棵小型法力树、100棵小型生命树、100棵中型生命树、100棵神秘生命树. ",
+			"此外,你可以获得 Kathua 的 13 个秘密密钥.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "(限定)萨姆那苏套餐",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"传说中的三明水升级套餐!!!一个盒子,上面写着这个.",
+			"包含50棵小型法力树、100棵小型生命树、100棵中型生命树、100棵神秘生命树. ",
+			"此外,你可以获得 Kathua 的 13 个秘密密钥.",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[410016] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "战斗处理器",
+		identifiedResourceName = "啊叼攫橇肺技辑",
+		identifiedDescriptionName = {
+			"专门用于提高战斗功能的处理器.",
+			"ATK + 20, MATK + 20.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断 ^000000 重量 : ^7777770^000000",
+			"护甲等级 : ^7777771^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1552,
+		costume = false
+	},
+	[100470] = {
+		unidentifiedDisplayName = "百变帽盒",
+		unidentifiedResourceName = "康盔胶农费",
+		unidentifiedDescriptionName = {
+			"装有各种帽子物品的盒子. ",
+			"包含以下项目之一.",
+			"[可获得物品]",
+			"巨蛇之息",
+			"新浪潮太阳镜",
+			"门盘含在嘴里",
+			"魔法助推器",
+			"心形翅膀发带",
+			"席琳的胸针",
+			"胜利之翼",
+			"塔纳托斯的悲伤面具",
+			"塔纳托斯的绝望面具",
+			"塔纳托斯的仇恨面具",
+			"塔纳托斯的痛苦",
+			"愚蠢的军官",
+			"拼写电路",
+			"将军的头盔",
+			"很酷的羽毛帽子",
+			"阿米斯特贝雷帽"
+		},
+		identifiedDisplayName = "百变帽盒",
+		identifiedResourceName = "康盔胶农费",
+		identifiedDescriptionName = {
+			"装有各种帽子物品的盒子. ",
+			"包含以下项目之一.",
+			"[可获得物品]",
+			"巨蛇之息",
+			"新浪潮太阳镜",
+			"门盘含在嘴里",
+			"魔法助推器",
+			"心形翅膀发带",
+			"席琳的胸针",
+			"胜利之翼",
+			"塔纳托斯的悲伤面具",
+			"塔纳托斯的绝望面具",
+			"塔纳托斯的仇恨面具",
+			"塔纳托斯的痛苦",
+			"愚蠢的军官",
+			"拼写电路",
+			"将军的头盔",
+			"很酷的羽毛帽子",
+			"阿米斯特贝雷帽",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100468] = {
+		unidentifiedDisplayName = "埃吉尔尼亚盒子",
+		unidentifiedResourceName = "抗贱绵力急拱惑磊",
+		unidentifiedDescriptionName = {
+			"您可以获得一件基于艾吉尔装备的新打造的装备.",
+			"^ffffff_^000000",
+			"[配置项列表]",
+			"埃吉尔尼亚头盔[1]",
+			"埃吉尼亚鞋[1]",
+			"埃吉尔尼亚斗篷[1]",
+			"埃吉尼亚盔甲[1]",
+			"埃吉尼亚环[1]",
+			"埃吉尼亚项链[1]",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "埃吉尔尼亚盒子",
+		identifiedResourceName = "抗贱绵力急拱惑磊",
+		identifiedDescriptionName = {
+			"您可以获得一件基于艾吉尔装备的新打造的装备.",
+			"^ffffff_^000000",
+			"[配置项列表]",
+			"埃吉尔尼亚头盔[1]",
+			"埃吉尼亚鞋[1]",
+			"埃吉尔尼亚斗篷[1]",
+			"埃吉尼亚盔甲[1]",
+			"埃吉尼亚环[1]",
+			"埃吉尼亚项链[1]",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31497] = {
+		unidentifiedDisplayName = "玻璃",
+		unidentifiedResourceName = "臂贰胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装花卉装饰眼镜",
+		identifiedResourceName = "Flowery_Vision_TH",
+		identifiedDescriptionName = {
+			"带有彩色花朵装饰的眼镜. ",
+			"我不知道你是否能看清楚前面,但据说有很多人因为它的美丽而来到这里.",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒21.^000000",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1744,
+		costume = true
+	},
+	[400056] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装蓝色波浪长发",
+		identifiedResourceName = "VIP_Hair_Female",
+		identifiedDescriptionName = {
+			"适合服装的长发,让你穿上它时感觉自己的发型与平时的发型不同.",
+			"它的颜色为略深的青色.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1990,
+		costume = true
+	},
+	[400057] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装阴影烫发",
+		identifiedResourceName = "VIP_Hair_Male",
+		identifiedDescriptionName = {
+			"服装上的阴影头发,让您在穿着时感觉自己的发型与平时的发型不同.",
+			"蓬松的头发变得更加蓬松.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1989,
+		costume = true
+	},
+	[100452] = {
+		unidentifiedDisplayName = "减少战俘药水",
+		unidentifiedResourceName = "荐惑茄弧埃器记",
+		unidentifiedDescriptionName = {
+			"将 POW 减少 1 并将其转换为状态点.",
+			"当POW为0时,使用时不再减少.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "减少战俘药水",
+		identifiedResourceName = "荐惑茄弧埃器记",
+		identifiedDescriptionName = {
+			"将 POW 减少 1 并将其转换为状态点.",
+			"当POW为0时,使用时不再减少.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100453] = {
+		unidentifiedDisplayName = "声压级降低药水",
+		unidentifiedResourceName = "荐惑茄林全器记",
+		unidentifiedDescriptionName = {
+			"将 SPL 减少 1 并将其转换为状态点.",
+			"当 SPL 为 0 时,它不再随着使用而降低.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "声压级降低药水",
+		identifiedResourceName = "荐惑茄林全器记",
+		identifiedDescriptionName = {
+			"将 SPL 减少 1 并将其转换为状态点.",
+			"当 SPL 为 0 时,它不再随着使用而降低.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100454] = {
+		unidentifiedDisplayName = "STA减少药水",
+		unidentifiedResourceName = "荐惑茄畴尔器记",
+		unidentifiedDescriptionName = {
+			"将 STA 减 1 并将其转换为状态点.",
+			"当STA为0时,使用时不再减少.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "STA减少药水",
+		identifiedResourceName = "荐惑茄畴尔器记",
+		identifiedDescriptionName = {
+			"将 STA 减 1 并将其转换为状态点.",
+			"当STA为0时,使用时不再减少.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100455] = {
+		unidentifiedDisplayName = "WIS 减少药水",
+		unidentifiedResourceName = "荐惑茄窍踞器记",
+		unidentifiedDescriptionName = {
+			"将 WIS 减少 1 并将其转换为状态点.",
+			"当WIS为0时,使用时不再减少.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "WIS 减少药水",
+		identifiedResourceName = "荐惑茄窍踞器记",
+		identifiedDescriptionName = {
+			"将 WIS 减少 1 并将其转换为状态点.",
+			"当WIS为0时,使用时不再减少.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100456] = {
+		unidentifiedDisplayName = "CON减少药水",
+		unidentifiedResourceName = "荐惑茄颇鄂器记",
+		unidentifiedDescriptionName = {
+			"将 CON 减 1 并将其转换为状态点.",
+			"当CON为0时,它不再随着使用而减少.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "CON减少药水",
+		identifiedResourceName = "荐惑茄颇鄂器记",
+		identifiedDescriptionName = {
+			"将 CON 减 1 并将其转换为状态点.",
+			"当CON为0时,它不再随着使用而减少.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100457] = {
+		unidentifiedDisplayName = "CRT 减少药水",
+		unidentifiedResourceName = "荐惑茄檬废器记",
+		unidentifiedDescriptionName = {
+			"将 CRT 减少 1 并将其转换为状态点.",
+			"当CRT为0时,它不再随着使用而减少.",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "CRT 减少药水",
+		identifiedResourceName = "荐惑茄檬废器记",
+		identifiedDescriptionName = {
+			"将 CRT 减少 1 并将其转换为状态点.",
+			"当CRT为0时,它不再随着使用而减少.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100534] = {
+		unidentifiedDisplayName = "会员信息更新活动框",
+		unidentifiedResourceName = "措包恩瞒苞磊惑磊",
+		unidentifiedDescriptionName = {
+			"奖励更新会员信息的冒险者的奖励箱.",
+			"包括以下项目.",
+			" ",
+			"[非卖品]战斗手册+泡泡糖5个",
+			"[非卖品]10杯无限畅饮",
+			" ",
+			"^ff0000(该条目将在2024年2月第一周例行检查时批量删除.)^000000"
+		},
+		identifiedDisplayName = "会员信息更新活动框",
+		identifiedResourceName = "措包恩瞒苞磊惑磊",
+		identifiedDescriptionName = {
+			"奖励更新会员信息的冒险者的奖励箱.",
+			"包括以下项目.",
+			" ",
+			"[非卖品]战斗手册+泡泡糖5个",
+			"[非卖品]10杯无限畅饮",
+			" ",
+			"^ff0000(该条目将在2024年2月第一周例行检查时批量删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100515] = {
+		unidentifiedDisplayName = "卡图亚的服装盒",
+		unidentifiedResourceName = "归陛焊拱惑磊",
+		unidentifiedDescriptionName = { "一个盒子,里面装着卡图亚的秘密收藏品." },
+		identifiedDisplayName = "卡图亚的服装盒",
+		identifiedResourceName = "归陛焊拱惑磊",
+		identifiedDescriptionName = { "一个盒子,里面装着卡图亚的秘密收藏品.", "重量 : ^7777770^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100508] = {
+		unidentifiedDisplayName = "特殊成长药水(等级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "特殊成长药水(等级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^77777735^000000",
+			"限制级别 : ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100509] = {
+		unidentifiedDisplayName = "特殊成长药水(中级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"当你喝了它,你就会获得一定的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "特殊成长药水(中级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"当你喝了它,你就会获得一定的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^77777785^000000",
+			"限制级别 : ^77777799^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100510] = {
+		unidentifiedDisplayName = "特殊成长药水(高级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"喝了它会给你很多经验值.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "特殊成长药水(高级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"喝了它会给你很多经验值.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777130^000000",
+			"限制级别 : ^777777160^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100511] = {
+		unidentifiedDisplayName = "特殊成长药水(最高等级)",
+		unidentifiedResourceName = "弥窍鞭己厘厚距",
+		unidentifiedDescriptionName = {
+			"如果你喝了它,你将获得大量的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000"
+		},
+		identifiedDisplayName = "特殊成长药水(最高等级)",
+		identifiedResourceName = "弥窍鞭己厘厚距",
+		identifiedDescriptionName = {
+			"如果你喝了它,你将获得大量的经验.",
+			"此时使用获得的经验值升级的次数仅限1次.",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除.) ^000000",
+			"重量 : ^7777770^000000",
+			"所需级别 : ^777777175^000000",
+			"限制级别 : ^777777190^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31944] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "寝",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装优雅波浪",
+		identifiedResourceName = "C_Elegant_Wave",
+		identifiedDescriptionName = {
+			"优雅引人注目的服装用假发.",
+			"当我戴上它时,我不知何故感觉我必须把手放在一起.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2011,
+		costume = true
+	},
+	[100553] = {
+		unidentifiedDisplayName = "叶卷轴",
+		unidentifiedResourceName = "弊赴胶农费",
+		unidentifiedDescriptionName = {
+			"含有世界树幼叶的蛋. 据说,世界树的嫩叶会与时间的装备产生共鸣,从中汲取力量. "
+		},
+		identifiedDisplayName = "叶卷轴",
+		identifiedResourceName = "弊赴胶农费",
+		identifiedDescriptionName = {
+			"含有世界树幼叶的蛋. 据说,世界树的嫩叶会与时间的装备产生共鸣,从中汲取力量. ",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100573] = {
+		unidentifiedDisplayName = "Ragnarok Inven 活动支持箱",
+		unidentifiedResourceName = "锅龋惑磊03",
+		unidentifiedDescriptionName = {
+			"为支持 Ragnarok Inven 举办的各种活动而创建的盒子.",
+			"您可以获得对使用游戏有帮助的各种物品.",
+			"",
+			"[非卖品] 50 10级祝福卷轴",
+			"[非卖品] 50 敏捷提升10级卷轴",
+			"[非卖品]30小生命之水",
+			"[非卖品]中型生命之水30个",
+			"[非卖品]30种神秘生命之水",
+			"[非卖品] 小法力值:30",
+			"[非卖品]全能10枚",
+			"[非卖品] 10个强力增强器",
+			"[非卖品]10杯无限畅饮",
+			"30张世界旅行门票"
+		},
+		identifiedDisplayName = "Ragnarok Inven 活动支持箱",
+		identifiedResourceName = "锅龋惑磊03",
+		identifiedDescriptionName = {
+			"为支持 Ragnarok Inven 举办的各种活动而创建的盒子.",
+			"您可以获得对使用游戏有帮助的各种物品.",
+			"",
+			"[非卖品] 50 10级祝福卷轴",
+			"[非卖品] 50 敏捷提升10级卷轴",
+			"[非卖品]30小生命之水",
+			"[非卖品]中型生命之水30个",
+			"[非卖品]30种神秘生命之水",
+			"[非卖品] 小法力值:30",
+			"[非卖品]全能10枚",
+			"[非卖品] 10个强力增强器",
+			"[非卖品]10杯无限畅饮",
+			"30张世界旅行门票",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200074] = {
+		unidentifiedDisplayName = "(限量)战斗手册包盒",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒里面有40本战斗手册.",
+			"另外还附赠5本[非卖品]高级战斗手册.",
+			"",
+			"Kathua 的 15 个秘密钥匙已附上!",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000"
+		},
+		identifiedDisplayName = "(限量)战斗手册包盒",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒里面有40本战斗手册.",
+			"另外还附赠5本[非卖品]高级战斗手册.",
+			"",
+			"Kathua 的 15 个秘密钥匙已附上!",
+			"^ff0000如果您打开此项目,您将无法取消订阅.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100569] = {
+		unidentifiedDisplayName = "特殊服装盒",
+		unidentifiedResourceName = "凯赴角滚癌渴惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面装有一套服装,只有经过长时间的耐心才能获得.",
+			"您可以获得以下物品之一.",
+			"",
+			"水之服装大师",
+			"火焰服装大师",
+			"古装风大师",
+			"地球服装大师",
+			"黑暗服装大师",
+			"服装亮蓝色天使翅膀",
+			"服装深红色翅膀",
+			"与服饰产生共鸣的远古时代",
+			"服装拉斐尔的翅膀",
+			"化装糖果派对",
+			"服装 拉格尔之翼",
+			"服装奇迹植物",
+			"路西法之翼服装",
+			"服装雪冰头发",
+			"服装:深黑色邪恶德鲁伊帽子",
+			"服装 菲亚梅特的红头罩",
+			"服装菲亚梅特的红色领结",
+			"服装白兔",
+			"服装变体的面纱",
+			"服装两色贝雷帽",
+			"服装 赤川的花环",
+			"服装过度保护",
+			"服装耳朵",
+			"服装嘴里的月亮灯",
+			"服装吉特巴帽",
+			"服装伟大的德古拉角",
+			"服装橙色兔子",
+			"服装卫士的帽子",
+			"服装猫爪装饰针织帽(棕色)",
+			"衣服上磨损的哥特式丝带"
+		},
+		identifiedDisplayName = "特殊服装盒",
+		identifiedResourceName = "凯赴角滚癌渴惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子,里面装有一套服装,只有经过长时间的耐心才能获得.",
+			"您可以获得以下物品之一.",
+			"",
+			"水之服装大师",
+			"火焰服装大师",
+			"古装风大师",
+			"地球服装大师",
+			"黑暗服装大师",
+			"服装亮蓝色天使翅膀",
+			"服装深红色翅膀",
+			"与服饰产生共鸣的远古时代",
+			"服装拉斐尔的翅膀",
+			"化装糖果派对",
+			"服装 拉格尔之翼",
+			"服装奇迹植物",
+			"路西法之翼服装",
+			"服装雪冰头发",
+			"服装:深黑色邪恶德鲁伊帽子",
+			"服装 菲亚梅特的红头罩",
+			"服装菲亚梅特的红色领结",
+			"服装白兔",
+			"服装变体的面纱",
+			"服装两色贝雷帽",
+			"服装 赤川的花环",
+			"服装过度保护",
+			"服装耳朵",
+			"服装嘴里的月亮灯",
+			"服装吉特巴帽",
+			"服装伟大的德古拉角",
+			"服装橙色兔子",
+			"服装卫士的帽子",
+			"服装猫爪装饰针织帽(棕色)",
+			"衣服上磨损的哥特式丝带",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100570] = {
+		unidentifiedDisplayName = "特别服装盒+",
+		unidentifiedResourceName = "凯赴榜靛癌渴惑磊",
+		unidentifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子, 里面只装着从特殊服装盒中精心挑选的服装头盔清单.",
+			"您可以获得以下物品之一.",
+			"",
+			"水之服装大师",
+			"火焰服装大师",
+			"古装风大师",
+			"地球服装大师",
+			"黑暗服装大师",
+			"服装亮蓝色天使翅膀",
+			"服装深红色翅膀",
+			"与服饰产生共鸣的远古时代",
+			"服装拉斐尔的翅膀",
+			"化装糖果派对",
+			"服装 拉格尔之翼",
+			"服装奇迹植物",
+			"路西法之翼服装",
+			"服装雪冰头发"
+		},
+		identifiedDisplayName = "特别服装盒+",
+		identifiedResourceName = "凯赴榜靛癌渴惑磊",
+		identifiedDescriptionName = {
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"一个盒子, 里面只装着从特殊服装盒中精心挑选的服装头盔清单.",
+			"您可以获得以下物品之一.",
+			"",
+			"水之服装大师",
+			"火焰服装大师",
+			"古装风大师",
+			"地球服装大师",
+			"黑暗服装大师",
+			"服装亮蓝色天使翅膀",
+			"服装深红色翅膀",
+			"与服饰产生共鸣的远古时代",
+			"服装拉斐尔的翅膀",
+			"化装糖果派对",
+			"服装 拉格尔之翼",
+			"服装奇迹植物",
+			"路西法之翼服装",
+			"服装雪冰头发",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200069] = {
+		unidentifiedDisplayName = "高浓度铪包",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒含有 26 颗高浓度铒. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高浓度铪包",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒含有 26 颗高浓度铒. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200070] = {
+		unidentifiedDisplayName = "高浓度 Oridecon 包装",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒含有 26 颗高浓度 Oridecon. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高浓度 Oridecon 包装",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒含有 26 颗高浓度 Oridecon. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200071] = {
+		unidentifiedDisplayName = "高密度Carnium封装",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒内含26颗高密度卡尼. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高密度Carnium封装",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒内含26颗高密度卡尼. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200072] = {
+		unidentifiedDisplayName = "高密度钇封装",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒装有26颗高密度钷. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高密度钇封装",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒装有26颗高密度钷. 此外,还包括 6 种精神药剂. ",
+			" ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"- 即使炼制失败,装备也不会被破坏消失! - ",
+			"(如果精炼失败,精炼等级降低1.) ",
+			" ",
+			"^ff0000附上 Kathua 的 11 个秘密钥匙!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100600] = {
+		unidentifiedDisplayName = "新影镐盒",
+		unidentifiedResourceName = "扼乔匙兑迭惑磊",
+		unidentifiedDescriptionName = {
+			"新的影子选择盒.",
+			"使用 3 个随机阴影作为成分, 您将收到 1 个随机阴影.",
+			"有低概率获得组合暗影、大师暗影、M.暗影.",
+			"^ff00002024 年之后,将不再添加更多材料和可交付成果清单.^000000"
+		},
+		identifiedDisplayName = "新影镐盒",
+		identifiedResourceName = "扼乔匙兑迭惑磊",
+		identifiedDescriptionName = {
+			"新的影子选择盒.",
+			"使用 3 个随机阴影作为成分, 您将收到 1 个随机阴影.",
+			"有低概率获得组合暗影、大师暗影、M.暗影.",
+			"^ff00002024 年之后,将不再添加更多材料和可交付成果清单.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100603] = {
+		unidentifiedDisplayName = "New Lapine 的精选盒",
+		unidentifiedResourceName = "扼乔匙兑迭惑磊",
+		unidentifiedDescriptionName = {
+			"New Lapine 的流行音乐盒. ",
+			"拉派恩养老金协会[真理之门]为了压缩多余物品而制作的神秘盒子. ",
+			"您可以获得两个组合弹出框,可用于组合各种项目. ",
+			"包括一个新的 Shadow 组合盒和一个新的组合盒.",
+			"^ff0000警告! - 拉派恩挑选盒中的内容如有更改,恕不另行通知.^000000"
+		},
+		identifiedDisplayName = "New Lapine 的精选盒",
+		identifiedResourceName = "扼乔匙兑迭惑磊",
+		identifiedDescriptionName = {
+			"New Lapine 的流行音乐盒. ",
+			"拉派恩养老金协会[真理之门]为了压缩多余物品而制作的神秘盒子. ",
+			"您可以获得两个组合弹出框,可用于组合各种项目. ",
+			"包括一个新的 Shadow 组合盒和一个新的组合盒.",
+			"^ff0000警告! - 拉派恩挑选盒中的内容如有更改,恕不另行通知.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200090] = {
+		unidentifiedDisplayName = "(限定)法力水箱",
+		unidentifiedResourceName = "气快狼惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面有 125 个小法力. ",
+			"此外,你可以获得 Kathua 的 11 把秘密钥匙.",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000"
+		},
+		identifiedDisplayName = "(限定)法力水箱",
+		identifiedResourceName = "气快狼惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面有 125 个小法力. ",
+			"此外,你可以获得 Kathua 的 11 把秘密钥匙.",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200091] = {
+		unidentifiedDisplayName = "(限量)Nantarae水果套餐二",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"一个盒子, 内含 100 颗 Nantarae 果实、200 颗小型生命树、200 颗中型生命树和 200 颗神秘生命树.",
+			"此外,你可以获得 Kathua 的 22 个密钥.",
+			"^ff0000组件中, 小型生命之水、中型生命之水、神秘生命之水无法在英雄围攻中使用.^000000"
+		},
+		identifiedDisplayName = "(限量)Nantarae水果套餐二",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"一个盒子, 内含 100 颗 Nantarae 果实、200 颗小型生命树、200 颗中型生命树和 200 颗神秘生命树.",
+			"此外,你可以获得 Kathua 的 22 个密钥.",
+			"^ff0000组件中, 小型生命之水、中型生命之水、神秘生命之水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200092] = {
+		unidentifiedDisplayName = "(限量)卡蒂娜水果套餐三",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"一个盒子, 内含 200 个 Nantarae 水果、100 个无限饮料、300 个闪亮防御卷轴和 50 个小型法力水.",
+			"此外,你可以获得卡图亚的44把秘密钥匙.",
+			"^ff0000其中, 闪亮防御卷轴和小型魔力水无法在英雄围攻中使用.^000000"
+		},
+		identifiedDisplayName = "(限量)卡蒂娜水果套餐三",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"一个盒子, 内含 200 个 Nantarae 水果、100 个无限饮料、300 个闪亮防御卷轴和 50 个小型法力水.",
+			"此外,你可以获得卡图亚的44把秘密钥匙.",
+			"^ff0000其中, 闪亮防御卷轴和小型魔力水无法在英雄围攻中使用.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19877] = {
+		unidentifiedDisplayName = "头巾",
+		unidentifiedResourceName = "赣府鹅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装黑暗眼睛",
+		identifiedResourceName = "促农聪胶酒捞令",
+		identifiedDescriptionName = {
+			"眼罩上画着诡异的眼睛. 据说画出来的眼睛有时会动. ",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒22.^000000",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 467,
+		costume = true
+	},
+	[200093] = {
+		unidentifiedDisplayName = "[优惠]30盒高浓缩Oridecon(Holgren)",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"(折扣)一盒包含 30 个高浓度 Oridecon 和 3 个 Holgren 的暗影熔炼锤.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "[优惠]30盒高浓缩Oridecon(Holgren)",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"(折扣)一盒包含 30 个高浓度 Oridecon 和 3 个 Holgren 的暗影熔炼锤.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200094] = {
+		unidentifiedDisplayName = "[优惠]30盒高浓缩铒(Holgren)",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"(折扣)一盒包含 30 个高浓度铒和 3 个霍格伦暗影熔炼锤.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "[优惠]30盒高浓缩铒(Holgren)",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"(折扣)一盒包含 30 个高浓度铒和 3 个霍格伦暗影熔炼锤.",
+			" ",
+			"一种精致的矿石,可确保贵重设备的安全.",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100616] = {
+		unidentifiedDisplayName = "捐款参与箱",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"Ragnarok Online X Auction 捐赠促销活动箱!",
+			"您的小小的捐款点亮了爱的蜡烛.",
+			"――――――――――――― ",
+			"[非卖品] 50 10级祝福卷轴",
+			"[非卖品] 50 敏捷提升10级卷轴",
+			"[非卖品] 30小生命之水",
+			"[非卖品] 中型生命之水30个",
+			"[非卖品] 30种神秘生命之水",
+			"[非卖品] 全能20枚",
+			"[非卖品] 20个强力增强器",
+			"[非卖品] 20杯无限畅饮",
+			"[非卖品] 小法力数量:20",
+			"20张世界旅行门票",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2021年3月最后一次定期检查时删除.)^000000"
+		},
+		identifiedDisplayName = "捐款参与箱",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"Ragnarok Online X Auction 捐赠促销活动箱!",
+			"您的小小的捐款点亮了爱的蜡烛.",
+			"――――――――――――― ",
+			"[非卖品] 50 10级祝福卷轴",
+			"[非卖品] 50 敏捷提升10级卷轴",
+			"[非卖品] 30小生命之水",
+			"[非卖品] 中型生命之水30个",
+			"[非卖品] 30种神秘生命之水",
+			"[非卖品] 全能20枚",
+			"[非卖品] 20个强力增强器",
+			"[非卖品] 20杯无限畅饮",
+			"[非卖品] 小法力数量:20",
+			"20张世界旅行门票",
+			"――――――――――――― ",
+			"^ff0000(该项目将于2021年3月最后一次定期检查时删除.)^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31967] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "古装大波浪烫发(黄)",
+		identifiedResourceName = "C_RK_Hair_YL",
+		identifiedDescriptionName = {
+			"用蓬松的波浪打造出可爱感的服装假发.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2070,
+		costume = true
+	},
+	[100690] = {
+		unidentifiedDisplayName = "材质阴影立方体 II",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个收集阴影的立方体,用作组合阴影选择盒中的成分.",
+			"您可以获得无限、完全穿透、完全暴风雨、真宝石、最大猛犸象、经验和赦免阴影选择盒中使用的两个阴影."
+		},
+		identifiedDisplayName = "材质阴影立方体 II",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个收集阴影的立方体,用作组合阴影选择盒中的成分.",
+			"您可以获得无限、完全穿透、完全暴风雨、真宝石、最大猛犸象、经验和赦免阴影选择盒中使用的两个阴影.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[410012] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "经验顾问",
+		identifiedResourceName = "矫拌啪包府磊狼牢哪",
+		identifiedDescriptionName = {
+			"通过建议帮助您获得更多经验.",
+			"怪物获取经验增加2%.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1266,
+		costume = false
+	},
+	[410013] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "经验顾问",
+		identifiedResourceName = "矫拌啪包府磊狼牢哪",
+		identifiedDescriptionName = {
+			"通过建议帮助您获得更多经验.",
+			"怪物获取经验增加1%.",
+			" ",
+			"可以使用 EXP Advisor 修改装置激活其他能力.",
+			"EXP Advisor 修改装置 ",
+			"^ffffff<NAVI>^4D4DFF[猫手店员 Nyarom]^000000<INFO>itemmall,41,50,0,100,0,0</INFO></NAVI>^000000 您可以通过给予 Nyanae 或 Jenny 来购买额外的物品. ",
+			"^32CD32该物品无法从[刺穿布鲁斯南]获得额外的附魔.^000000",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断 ^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1266,
+		costume = false
+	},
+	[100709] = {
+		unidentifiedDisplayName = "所有阴影立方体",
+		unidentifiedResourceName = "焊扼溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"一个随机包含所有类型阴影之一的盒子.",
+			"^ff00002023 年之后发布的 Shadows 将不包含在此框中.^000000"
+		},
+		identifiedDisplayName = "所有阴影立方体",
+		identifiedResourceName = "焊扼溅档快钮宏",
+		identifiedDescriptionName = {
+			"一个随机包含所有类型阴影之一的盒子.",
+			"^ff00002023 年之后发布的 Shadows 将不包含在此框中.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100710] = {
+		unidentifiedDisplayName = "EXP Advisor 修改装置",
+		unidentifiedResourceName = "啊加厘摹",
+		unidentifiedDescriptionName = {
+			"提高EXP Advisor性能的修改装置.",
+			"激活 EXP Advisor 中的附加功能. 它是一次性的,使用一次后就会损坏. ",
+			"",
+			"^ff0000经验顾问[1]^000000可以给出两种类型的随机选项."
+		},
+		identifiedDisplayName = "EXP Advisor 修改装置",
+		identifiedResourceName = "啊加厘摹",
+		identifiedDescriptionName = {
+			"提高EXP Advisor性能的修改装置.",
+			"激活 EXP Advisor 中的附加功能. 它是一次性的,使用一次后就会损坏. ",
+			"",
+			"^ff0000经验顾问[1]^000000可以给出两种类型的随机选项.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100728] = {
+		unidentifiedDisplayName = "天使波利靴石盒",
+		unidentifiedResourceName = "器傅惑磊",
+		unidentifiedDescriptionName = {
+			"装有石头的盒子, 装备在天使波利靴子上时可以获得额外的能力. ",
+			"它包含狮子座石、双鱼座石、摩羯座石、水瓶座石、天蝎座石和金牛座石各一颗.",
+			" ",
+			"^ff0000天使波利之靴装备一颗宝石时, 无法更换其他宝石, 因此请谨慎选择.^000000",
+			"^ff0000它可以装备在其他鞋子上, 但这种情况下, 根据石头的类型只能获得一定的基础状态+1选项.^000000"
+		},
+		identifiedDisplayName = "天使波利靴石盒",
+		identifiedResourceName = "器傅惑磊",
+		identifiedDescriptionName = {
+			"装有石头的盒子, 装备在天使波利靴子上时可以获得额外的能力. ",
+			"它包含狮子座石、双鱼座石、摩羯座石、水瓶座石、天蝎座石和金牛座石各一颗.",
+			" ",
+			"^ff0000天使波利之靴装备一颗宝石时, 无法更换其他宝石, 因此请谨慎选择.^000000",
+			"^ff0000它可以装备在其他鞋子上, 但这种情况下, 根据石头的类型只能获得一定的基础状态+1选项.^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100717] = {
+		unidentifiedDisplayName = "服装蓬松半长盒",
+		unidentifiedResourceName = "急拱惑磊_4",
+		unidentifiedDescriptionName = {
+			"一盒包含 9 件柔软半长服装中的 1 件.",
+			"重量 : ^7777771^000000",
+			"价格 : 20"
+		},
+		identifiedDisplayName = "服装蓬松半长盒",
+		identifiedResourceName = "急拱惑磊_4",
+		identifiedDescriptionName = {
+			"一盒包含 9 件柔软半长服装中的 1 件.",
+			"重量 : ^7777771^000000",
+			"价格 : 20"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100574] = {
+		unidentifiedDisplayName = "1小时高级体验增加券",
+		unidentifiedResourceName = "傈捧背裹",
+		unidentifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险者提供由高级服务提供的增加经验的好处的项目.",
+			"如果使用的话, 可以使用Premium提供的经验增加福利1小时."
+		},
+		identifiedDisplayName = "1小时高级体验增加券",
+		identifiedResourceName = "傈捧背裹",
+		identifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险者提供由高级服务提供的增加经验的好处的项目.",
+			"如果使用的话, 可以使用Premium提供的经验增加福利1小时.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100575] = {
+		unidentifiedDisplayName = "Premium 的掉落率增加 1 小时票Premi 的掉落率增加 1 小时票",
+		unidentifiedResourceName = "浅急箔",
+		unidentifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险家提供由高级服务提供的增加掉落率的好处的物品.",
+			"如果使用的话, 可以使用Premier提供的掉率提升福利1小时."
+		},
+		identifiedDisplayName = "Premium 的 1 小时增加掉落率门票",
+		identifiedResourceName = "浅急箔",
+		identifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险家提供由高级服务提供的增加掉落率的好处的物品.",
+			"如果使用的话, 可以使用Premier提供的掉率提升福利1小时.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100576] = {
+		unidentifiedDisplayName = "Premium 的 1 小时死刑减免券",
+		unidentifiedResourceName = "积疙焊氰刘辑",
+		unidentifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险者提供高级服务所提供的死刑减免福利的项目.",
+			"使用时, 可以使用Premium提供的死刑减免福利1小时."
+		},
+		identifiedDisplayName = "Premium 的 1 小时死刑减免券",
+		identifiedResourceName = "积疙焊氰刘辑",
+		identifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险者提供高级服务所提供的死刑减免福利的项目.",
+			"使用时, 可以使用Premium提供的死刑减免福利1小时.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100577] = {
+		unidentifiedDisplayName = "贵宾特别优惠 1 小时优惠券",
+		unidentifiedResourceName = "盒全窍飘惑磊",
+		unidentifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险者提供Premier提供的全部三项服务的项目.",
+			"使用时可以使用高级提供的三项福利(增加经验、增加掉落率、减少死亡惩罚), 持续1小时."
+		},
+		identifiedDisplayName = "贵宾特别优惠 1 小时优惠券",
+		identifiedResourceName = "盒全窍飘惑磊",
+		identifiedDescriptionName = {
+			"为因服务故障而遇到不便的冒险者提供Premier提供的全部三项服务的项目.",
+			"使用时可以使用高级提供的三项福利(增加经验、增加掉落率、减少死亡惩罚), 持续1小时.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100722] = {
+		unidentifiedDisplayName = "强化改造石(物理)",
+		unidentifiedResourceName = "付过籍己",
+		unidentifiedDescriptionName = {
+			"一种神秘物品,可以为助推器武器提供随机的物理相关选项.",
+			"^ffffff_^000000 ",
+			"点火波助推器双手剑",
+			"百息助推枪",
+			"消失加农炮助推矛",
+			"压力源助推剑",
+			"动力龙卷风助推斧",
+			"手臂指节助推器狼牙棒",
+			"酸炮助推器俱乐部",
+			"地狱龙卷风助推剑",
+			"卡塔尔滚动十字助推器",
+			"卡塔尔反突击助推器",
+			"三角炸弹助推弓",
+			"魔法致命助推器匕首",
+			"深红应变增强法杖",
+			"链条千斤顶助推器工作人员",
+			"法术螺栓助推器书",
+			"元素法术增强棒",
+			"阿多诺斯助推器魔杖",
+			"Dupledex 助推器狼牙棒",
+			"充气子弹助推器指节",
+			"Cheonrapo 助推器指关节",
+			"箭助推弓",
+			"锐箭助推弓",
+			"暴雨助推器小提琴",
+			"暴雨助推鞭",
+			"金属振动助推器小提琴",
+			"金属振动助推鞭",
+			"疯狂挑剔助推器小狗池",
+			"猫薄荷助推器狐尾样机",
+			"月亮星光强化书",
+			"阳光助推器书",
+			"风彰化助推器 风魔手里剑",
+			"十字火焰助推器 风魔手里剑",
+			"亡命之徒火助推器左轮手枪",
+			"火轮助推加特林机枪",
+			"S 助推器法杖",
+			"邪恶助推器法杖",
+			"超级心灵助推器军刀",
+			"超级点火助推器军刀",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除. )^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "强化改造石(物理)",
+		identifiedResourceName = "付过籍己",
+		identifiedDescriptionName = {
+			"一种神秘物品,可以为助推器武器提供随机的物理相关选项.",
+			"^ffffff_^000000 ",
+			"点火波助推器双手剑",
+			"百息助推枪",
+			"消失加农炮助推矛",
+			"压力源助推剑",
+			"动力龙卷风助推斧",
+			"手臂指节助推器狼牙棒",
+			"酸炮助推器俱乐部",
+			"地狱龙卷风助推剑",
+			"卡塔尔滚动十字助推器",
+			"卡塔尔反突击助推器",
+			"三角炸弹助推弓",
+			"魔法致命助推器匕首",
+			"深红应变增强法杖",
+			"链条千斤顶助推器工作人员",
+			"法术螺栓助推器书",
+			"元素法术增强棒",
+			"阿多诺斯助推器魔杖",
+			"Dupledex 助推器狼牙棒",
+			"充气子弹助推器指节",
+			"Cheonrapo 助推器指关节",
+			"箭助推弓",
+			"锐箭助推弓",
+			"暴雨助推器小提琴",
+			"暴雨助推鞭",
+			"金属振动助推器小提琴",
+			"金属振动助推鞭",
+			"疯狂挑剔助推器小狗池",
+			"猫薄荷助推器狐尾样机",
+			"月亮星光强化书",
+			"阳光助推器书",
+			"风彰化助推器 风魔手里剑",
+			"十字火焰助推器 风魔手里剑",
+			"亡命之徒火助推器左轮手枪",
+			"火轮助推加特林机枪",
+			"S 助推器法杖",
+			"邪恶助推器法杖",
+			"超级心灵助推器军刀",
+			"超级点火助推器军刀",
+			"^ffffff_^000000 ",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除. )^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100723] = {
+		unidentifiedDisplayName = "强化改造石(魔法)",
+		unidentifiedResourceName = "付过籍鞠",
+		unidentifiedDescriptionName = {
+			"一种神秘物品,可以为助推器武器提供随机的与魔法相关的选项.",
+			"^ffffff_^000000",
+			"点火波助推器双手剑",
+			"百息助推枪",
+			"消失加农炮助推矛",
+			"压力源助推剑",
+			"动力龙卷风助推斧",
+			"手臂指节助推器狼牙棒",
+			"酸炮助推器俱乐部",
+			"地狱龙卷风助推剑",
+			"卡塔尔滚动十字助推器",
+			"卡塔尔反突击助推器",
+			"三角炸弹助推弓",
+			"魔法致命助推器匕首",
+			"深红应变增强法杖",
+			"链条千斤顶助推器工作人员",
+			"法术螺栓助推器书",
+			"元素法术增强棒",
+			"阿多诺斯助推器魔杖",
+			"Dupledex 助推器狼牙棒",
+			"充气子弹助推器指节",
+			"Cheonrapo 助推器指关节",
+			"箭助推弓",
+			"锐箭助推弓",
+			"暴雨助推器小提琴",
+			"暴雨助推鞭",
+			"金属振动助推器小提琴",
+			"金属振动助推鞭",
+			"疯狂挑剔助推器小狗池",
+			"猫薄荷助推器狐尾样机",
+			"月亮星光强化书",
+			"阳光助推器书",
+			"风彰化助推器 风魔手里剑",
+			"十字火焰助推器 风魔手里剑",
+			"亡命之徒火助推器左轮手枪",
+			"火轮助推加特林机枪",
+			"S 助推器法杖",
+			"邪恶助推器法杖",
+			"超级心灵助推器军刀",
+			"超级点火助推器军刀",
+			"^ffffff_^000000",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除. )^000000"
+		},
+		identifiedDisplayName = "强化改造石(魔法)",
+		identifiedResourceName = "付过籍鞠",
+		identifiedDescriptionName = {
+			"一种神秘物品,可以为助推器武器提供随机的与魔法相关的选项.",
+			"^ffffff_^000000",
+			"点火波助推器双手剑",
+			"百息助推枪",
+			"消失加农炮助推矛",
+			"压力源助推剑",
+			"动力龙卷风助推斧",
+			"手臂指节助推器狼牙棒",
+			"酸炮助推器俱乐部",
+			"地狱龙卷风助推剑",
+			"卡塔尔滚动十字助推器",
+			"卡塔尔反突击助推器",
+			"三角炸弹助推弓",
+			"魔法致命助推器匕首",
+			"深红应变增强法杖",
+			"链条千斤顶助推器工作人员",
+			"法术螺栓助推器书",
+			"元素法术增强棒",
+			"阿多诺斯助推器魔杖",
+			"Dupledex 助推器狼牙棒",
+			"充气子弹助推器指节",
+			"Cheonrapo 助推器指关节",
+			"箭助推弓",
+			"锐箭助推弓",
+			"暴雨助推器小提琴",
+			"暴雨助推鞭",
+			"金属振动助推器小提琴",
+			"金属振动助推鞭",
+			"疯狂挑剔助推器小狗池",
+			"猫薄荷助推器狐尾样机",
+			"月亮星光强化书",
+			"阳光助推器书",
+			"风彰化助推器 风魔手里剑",
+			"十字火焰助推器 风魔手里剑",
+			"亡命之徒火助推器左轮手枪",
+			"火轮助推加特林机枪",
+			"S 助推器法杖",
+			"邪恶助推器法杖",
+			"超级心灵助推器军刀",
+			"超级点火助推器军刀",
+			"^ffffff_^000000",
+			"^ff0000(该项目将于2022年2月第一次定期检查时全部删除. )^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100752] = {
+		unidentifiedDisplayName = "特种冶炼方盒",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一个神秘的立方体,可以将特定装备精炼到高精炼度.",
+			"您可以获得下面的熔炼方块之一.",
+			"[可获得物品]",
+			"时之铠甲11精炼方块",
+			"格芬魔法大赛12精炼魔方",
+			"时之环 11 精炼魔方",
+			"堕落者头盔 12 精炼立方体",
+			"OS武器11精炼立方体",
+			"赛车帽11精炼方块",
+			"自动装甲11精炼方块",
+			"BioLab武器12精炼方块",
+			"生物实验室头盔11精炼立方体"
+		},
+		identifiedDisplayName = "特种冶炼方盒",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一个神秘的立方体,可以将特定装备精炼到高精炼度.",
+			"您可以获得下面的熔炼方块之一.",
+			"[可获得物品]",
+			"时之铠甲11精炼方块",
+			"格芬魔法大赛12精炼魔方",
+			"时之环 11 精炼魔方",
+			"堕落者头盔 12 精炼立方体",
+			"OS武器11精炼立方体",
+			"赛车帽11精炼方块",
+			"自动装甲11精炼方块",
+			"BioLab武器12精炼方块",
+			"生物实验室头盔11精炼立方体",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19768] = {
+		unidentifiedDisplayName = "头巾",
+		unidentifiedResourceName = "赣府鹅",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装樱花花环",
+		identifiedResourceName = "孩采拳包",
+		identifiedDescriptionName = {
+			"华丽的粉红色花环,饰有樱花.",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒23.^000000",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 645,
+		costume = true
+	},
+	[31970] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装马尾辫(棕色)",
+		identifiedResourceName = "C_AB_Hair_OM",
+		identifiedDescriptionName = {
+			"一顶假发整齐地绑在一侧.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2073,
+		costume = true
+	},
+	[420061] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装马尾辫(粉色)",
+		identifiedResourceName = "C_AB_Hair_PK",
+		identifiedDescriptionName = {
+			"一顶假发整齐地绑在一侧.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2110,
+		costume = true
+	},
+	[200108] = {
+		unidentifiedDisplayName = "[限量]卡塔拉水果包(石盒23个)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"一盒装有 200 个油桃果实. ",
+			"另外,你还可以获得5个服装附魔石盒23."
+		},
+		identifiedDisplayName = "[限量]卡塔拉水果包(石盒23个)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"一盒装有 200 个油桃果实. ",
+			"另外,你还可以获得5个服装附魔石盒23.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200109] = {
+		unidentifiedDisplayName = "熔炼矿石账户限量套餐",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 100 粒.",
+			"^ffffff_^000000",
+			"浓缩铒 - 可以熔炼1级铠甲和暗影铠甲, 熔炼概率增加.",
+			"浓缩Oridecon - 可以熔炼1~4级武器和暗影武器, 熔炼概率增加.",
+			"^ffffff_^000000",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "熔炼矿石账户限量套餐",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"一盒含有浓缩铒和浓缩 Oridecon 各 100 粒.",
+			"^ffffff_^000000",
+			"浓缩铒 - 可以熔炼1级铠甲和暗影铠甲, 熔炼概率增加.",
+			"浓缩Oridecon - 可以熔炼1~4级武器和暗影武器, 熔炼概率增加.",
+			"^ffffff_^000000",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200110] = {
+		unidentifiedDisplayName = "高浓缩ernium账户限量套餐",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒含有 52 个高浓度铒. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高浓缩ernium账户限量套餐",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒含有 52 个高浓度铒. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高浓缩铒 - 可以精炼1级铠甲和精炼度+7以上的暗影铠甲, 精炼率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200111] = {
+		unidentifiedDisplayName = "高浓缩 Orideocon 账户限量套餐",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"一盒含有 52 颗高度浓缩的 Oridecon. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高浓缩 Orideocon 账户限量套餐",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"一盒含有 52 颗高度浓缩的 Oridecon. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高浓缩Oridecon - 可以精炼1~4级武器和精炼度+7以上的暗影武器, 精炼概率增加.",
+			"- 即使炼制失败, 装备也不会被破坏消失!但精炼度不能超过+10. -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200112] = {
+		unidentifiedDisplayName = "高密度Carnium账户限量套餐",
+		unidentifiedResourceName = "某矫惑磊_八沥",
+		unidentifiedDescriptionName = {
+			"一盒内含52颗高密度卡尼. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高密度Carnium账户限量套餐",
+		identifiedResourceName = "某矫惑磊_八沥",
+		identifiedDescriptionName = {
+			"一盒内含52颗高密度卡尼. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高密度Carnium - 可以精炼1级护甲,精炼度为+10或更高.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200113] = {
+		unidentifiedDisplayName = "高密度Bradium账户限定套餐",
+		unidentifiedResourceName = "某矫惑磊_八沥",
+		unidentifiedDescriptionName = {
+			"一盒装有52颗高密度钷. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "高密度Bradium账户限定套餐",
+		identifiedResourceName = "某矫惑磊_八沥",
+		identifiedDescriptionName = {
+			"一盒装有52颗高密度钷. 此外,还包括 12 种精神药剂. ",
+			" ",
+			"高密度钔 - 可精炼1~4级武器,精炼度+10以上.",
+			"- 即使炼制失败,装备也不会被破坏消失! -",
+			"(如果精炼失败,精炼等级降低1.)",
+			" ",
+			"^ff0000附带 20 个卡图亚的秘密钥匙和 10 个铁匠的祝福!^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23907] = {
+		unidentifiedDisplayName = "冬瓜节奖励箱",
+		unidentifiedResourceName = "急拱惑磊_2",
+		unidentifiedDescriptionName = {
+			"2021年5月瓜节奖励箱.",
+			"它包含冒险者所需的各种物品."
+		},
+		identifiedDisplayName = "冬瓜节奖励箱",
+		identifiedResourceName = "急拱惑磊_2",
+		identifiedDescriptionName = {
+			"2021年5月瓜节奖励箱.",
+			"它包含冒险者所需的各种物品."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100810] = {
+		unidentifiedDisplayName = "Broadcast Box",
+		unidentifiedResourceName = "急拱惑磊_2",
+		unidentifiedDescriptionName = {
+			"为纪念线上迷你冒险家见面会而制作的盒子.",
+			"包括以下项目.",
+			" ",
+			"[非卖品]高级战斗手册1本(可使用7天)",
+			"[非卖品] 三明水全套20套1盒",
+			"[非卖品] 一盒20张闪亮防御卷轴",
+			"20张世界旅行门票",
+			" ",
+			"^ff0000该项目将于2023年1月第一次定期维护时删除.^000000"
+		},
+		identifiedDisplayName = "Broadcast Box",
+		identifiedResourceName = "急拱惑磊_2",
+		identifiedDescriptionName = {
+			"为纪念线上迷你冒险家见面会而制作的盒子.",
+			"包括以下项目.",
+			" ",
+			"[非卖品]高级战斗手册1本(可使用7天)",
+			"[非卖品] 三明水全套20套1盒",
+			"[非卖品] 一盒20张闪亮防御卷轴",
+			"20张世界旅行门票",
+			" ",
+			"^ff0000该项目将于2023年1月第一次定期维护时删除.^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200123] = {
+		unidentifiedDisplayName = "灭霸升级包",
+		unidentifiedResourceName = "某矫惑磊_畴尔",
+		unidentifiedDescriptionName = {
+			"包含 200 棵神秘生命树、200 棵小型生命树和 200 棵中等生命树的套装.",
+			"此外,还包括一个 Thanos 升级盒.",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			" ",
+			"^CC3D3D[灭霸升级箱]^000000",
+			"由Team Licht 和Team Atnad 秘密开发的特殊改装盒.",
+			"灭霸武器可以升级为AD装备, 灭霸头盔可以升级为LT装备, 无论精炼等级或材质如何.",
+			" ",
+			"[可用设备列表]",
+			"灭霸的巨剑",
+			"灭霸的卡萨",
+			"灭霸之斧",
+			"灭霸的双手杖",
+			"灭霸之弓",
+			"灭霸之剑",
+			"灭霸的匕首",
+			"灭霸之矛",
+			"灭霸的法杖",
+			"灭霸的指关节",
+			"灭霸的小提琴",
+			"灭霸的鞭剑",
+			"灭霸之锤",
+			"灭霸的战士头盔",
+			"灭霸的射手头盔",
+			"灭霸的魔法头盔",
+			"灭霸的战斗机头盔"
+		},
+		identifiedDisplayName = "灭霸升级包",
+		identifiedResourceName = "某矫惑磊_畴尔",
+		identifiedDescriptionName = {
+			"包含 200 棵神秘生命树、200 棵小型生命树和 200 棵中等生命树的套装.",
+			"此外,还包括一个 Thanos 升级盒.",
+			"^ff0000它不能在赫洛斯特拉亚围城战期间使用.^000000",
+			" ",
+			"^CC3D3D[灭霸升级箱]^000000",
+			"由Team Licht 和Team Atnad 秘密开发的特殊改装盒.",
+			"灭霸武器可以升级为AD装备, 灭霸头盔可以升级为LT装备, 无论精炼等级或材质如何.",
+			" ",
+			"[可用设备列表]",
+			"灭霸的巨剑",
+			"灭霸的卡萨",
+			"灭霸之斧",
+			"灭霸的双手杖",
+			"灭霸之弓",
+			"灭霸之剑",
+			"灭霸的匕首",
+			"灭霸之矛",
+			"灭霸的法杖",
+			"灭霸的指关节",
+			"灭霸的小提琴",
+			"灭霸的鞭剑",
+			"灭霸之锤",
+			"灭霸的战士头盔",
+			"灭霸的射手头盔",
+			"灭霸的魔法头盔",
+			"灭霸的战斗机头盔",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200124] = {
+		unidentifiedDisplayName = "英雄武器改装包I",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装盒 I.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱一]^000000",
+			"由Team Licht秘密开发的特殊改装盒.",
+			"解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器.",
+			" ",
+			"[可用武器列表]",
+			"打开魔法剑",
+			"开放宿命论",
+			"开放圣堂",
+			"打开驱魔圣经",
+			"开放式水生矛",
+			"打开光刃"
+		},
+		identifiedDisplayName = "英雄武器改装包I",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装盒 I.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱一]^000000",
+			"由Team Licht秘密开发的特殊改装盒.",
+			"解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器.",
+			" ",
+			"[可用武器列表]",
+			"打开魔法剑",
+			"开放宿命论",
+			"开放圣堂",
+			"打开驱魔圣经",
+			"开放式水生矛",
+			"打开光刃",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200125] = {
+		unidentifiedDisplayName = "英雄武器改装包二",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装盒 II.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱二]^000000由Team Licht秘密开发的特殊改装盒.",
+			"解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器.",
+			" ",
+			"[可用武器列表]",
+			"打开蓝水晶法杖",
+			"打开铁杖",
+			"开放冰霜之杖",
+			"打开暗影法杖",
+			"打开指关节",
+			"打开铁钉"
+		},
+		identifiedDisplayName = "英雄武器改装包二",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装盒 II.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱二]^000000由Team Licht秘密开发的特殊改装盒.",
+			"解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器.",
+			" ",
+			"[可用武器列表]",
+			"打开蓝水晶法杖",
+			"打开铁杖",
+			"开放冰霜之杖",
+			"打开暗影法杖",
+			"打开指关节",
+			"打开铁钉",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200126] = {
+		unidentifiedDisplayName = "改装英雄武器熔炼锤套餐一",
+		unidentifiedResourceName = "某矫惑磊_踌祸",
+		unidentifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼锤 I.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤I]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"魔剑-LT",
+			"宿命论者-LT",
+			"圣霍尔-LT",
+			"驱魔圣经-LT",
+			"水生矛-LT",
+			"光刃-LT"
+		},
+		identifiedDisplayName = "改装英雄武器熔炼锤套餐一",
+		identifiedResourceName = "某矫惑磊_踌祸",
+		identifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼锤 I.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤I]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"魔剑-LT",
+			"宿命论者-LT",
+			"圣霍尔-LT",
+			"驱魔圣经-LT",
+			"水生矛-LT",
+			"光刃-LT",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200127] = {
+		unidentifiedDisplayName = "改装英雄武器熔炼锤套餐二",
+		unidentifiedResourceName = "某矫惑磊_踌祸",
+		unidentifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼之锤 II.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤II]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"蓝水晶法杖-LT",
+			"铁杖-LT",
+			"冰霜-LT 法杖",
+			"暗影法杖-LT",
+			"雷指关节-LT",
+			"铁钉-LT"
+		},
+		identifiedDisplayName = "改装英雄武器熔炼锤套餐二",
+		identifiedResourceName = "某矫惑磊_踌祸",
+		identifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼之锤 II.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤II]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"蓝水晶法杖-LT",
+			"铁杖-LT",
+			"冰霜-LT 法杖",
+			"暗影法杖-LT",
+			"雷指关节-LT",
+			"铁钉-LT",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100817] = {
+		unidentifiedDisplayName = "灭霸升级盒",
+		unidentifiedResourceName = "凯赴榜靛癌渴惑磊",
+		unidentifiedDescriptionName = {
+			"由Team Licht 和Team Atnad 秘密开发的特殊改装盒.",
+			"灭霸武器可以升级为AD装备, 灭霸头盔可以升级为LT装备, 无论精炼等级或材质如何.",
+			" ",
+			"[可用设备列表]",
+			"灭霸的巨剑",
+			"灭霸的卡萨",
+			"灭霸之斧",
+			"灭霸的双手杖",
+			"灭霸之弓",
+			"灭霸之剑",
+			"灭霸的匕首",
+			"灭霸之矛",
+			"灭霸的法杖",
+			"灭霸的指关节",
+			"灭霸的小提琴",
+			"灭霸的鞭剑",
+			"灭霸之锤",
+			"灭霸的战士头盔",
+			"灭霸的射手头盔",
+			"灭霸的魔法头盔",
+			"灭霸的战斗机头盔"
+		},
+		identifiedDisplayName = "灭霸升级盒",
+		identifiedResourceName = "凯赴榜靛癌渴惑磊",
+		identifiedDescriptionName = {
+			"由Team Licht 和Team Atnad 秘密开发的特殊改装盒.",
+			"灭霸武器可以升级为AD装备, 灭霸头盔可以升级为LT装备, 无论精炼等级或材质如何.",
+			" ",
+			"[可用设备列表]",
+			"灭霸的巨剑",
+			"灭霸的卡萨",
+			"灭霸之斧",
+			"灭霸的双手杖",
+			"灭霸之弓",
+			"灭霸之剑",
+			"灭霸的匕首",
+			"灭霸之矛",
+			"灭霸的法杖",
+			"灭霸的指关节",
+			"灭霸的小提琴",
+			"灭霸的鞭剑",
+			"灭霸之锤",
+			"灭霸的战士头盔",
+			"灭霸的射手头盔",
+			"灭霸的魔法头盔",
+			"灭霸的战斗机头盔",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[410079] = {
+		unidentifiedDisplayName = "眼镜",
+		unidentifiedResourceName = "臂贰胶",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "深蓝色太阳镜",
+		identifiedResourceName = "硼付狼臂贰胶",
+		identifiedDescriptionName = {
+			"专门涂有深蓝色的太阳镜.",
+			"非常适合阻挡紫外线.",
+			"",
+			"减少 10% 的变量铸造.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断^000000 重量 : ^77777710^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1169,
+		costume = false
+	},
+	[200128] = {
+		unidentifiedDisplayName = "英雄武器改装包III",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装盒 III.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱III]^000000",
+			"由Team Licht秘密开发的特殊改装盒. 解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器. ",
+			" ",
+			"[可用武器列表]",
+			"打开猩红之剑",
+			"打开石板剑",
+			"打开皇家弓",
+			"打开赤龙皮弓"
+		},
+		identifiedDisplayName = "英雄武器改装包III",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装盒 III.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱III]^000000",
+			"由Team Licht秘密开发的特殊改装盒. 解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器. ",
+			" ",
+			"[可用武器列表]",
+			"打开猩红之剑",
+			"打开石板剑",
+			"打开皇家弓",
+			"打开赤龙皮弓",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200129] = {
+		unidentifiedDisplayName = "改装英雄武器熔炼锤套餐三",
+		unidentifiedResourceName = "某矫惑磊_踌祸",
+		unidentifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼之锤 III.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤III]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"猩红之剑-LT",
+			"石板剑-LT",
+			"皇家弓-LT",
+			"猩红龙皮弓-LT"
+		},
+		identifiedDisplayName = "改装英雄武器熔炼锤套餐三",
+		identifiedResourceName = "某矫惑磊_踌祸",
+		identifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼之锤 III.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤III]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"猩红之剑-LT",
+			"石板剑-LT",
+			"皇家弓-LT",
+			"猩红龙皮弓-LT",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100874] = {
+		unidentifiedDisplayName = "无限巨型飞翼1日盒",
+		unidentifiedResourceName = "C_Wing_Of_Fly_Box",
+		unidentifiedDescriptionName = {
+			"一个盒子,里面装有一个可以使用一天的无限巨型飞翼.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"远古时期幸存的一只巨鸟的翅膀被砍掉,并被施了咒语. 可以同时将多人转移到任何位置. ",
+			"当队长使用时生效, 同一地图上的所有队员都会移动到队长移动的地方.^000000",
+			"重量 : ^7777770^000000",
+			"(不受“曼陀罗之嚎”影响.)",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限巨型飞翼1日盒",
+		identifiedResourceName = "C_Wing_Of_Fly_Box",
+		identifiedDescriptionName = {
+			"一个盒子,里面装有一个可以使用一天的无限巨型飞翼.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"远古时期幸存的一只巨鸟的翅膀被砍掉,并被施了咒语. 可以同时将多人转移到任何位置. ",
+			"当队长使用时生效, 同一地图上的所有队员都会移动到队长移动的地方.^000000",
+			"重量 : ^7777770^000000",
+			"(不受“曼陀罗之嚎”影响.)",
+			"",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100875] = {
+		unidentifiedDisplayName = "无限飞翼 3 天盒装",
+		unidentifiedResourceName = "C_Wing_Of_Fly_Box",
+		unidentifiedDescriptionName = {
+			"一个盒子,内含 1 个无限飞翼,可使用 3 天.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"切断飞行动物的翅膀并对它们施展咒语. ^000088您可以扭曲到地图上的任何位置.^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		identifiedDisplayName = "无限飞翼 3 天盒装",
+		identifiedResourceName = "C_Wing_Of_Fly_Box",
+		identifiedDescriptionName = {
+			"一个盒子,内含 1 个无限飞翼,可使用 3 天.",
+			"^ffffff_^000000",
+			"^000088出租物品^000000",
+			"^ff0000该物品不能与其他账户进行交易.^000000",
+			"切断飞行动物的翅膀并对它们施展咒语. ^000088您可以扭曲到地图上的任何位置.^000000",
+			"重量 : ^7777770^000000",
+			"^ffffff_^000000",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100870] = {
+		unidentifiedDisplayName = "特殊服装附魔石盒",
+		unidentifiedResourceName = "归陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"特殊的服装结界石盒,收集了服装结界石盒的所有组件.",
+			"包含从服装附魔石盒 13 到服装附魔石盒 23 的所有服装附魔石之一.",
+			"^ff0000(该物品将于7月第3周维护时删除.)^000000 "
+		},
+		identifiedDisplayName = "特殊服装附魔石盒",
+		identifiedResourceName = "归陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"特殊的服装结界石盒,收集了服装结界石盒的所有组件.",
+			"包含从服装附魔石盒 13 到服装附魔石盒 23 的所有服装附魔石之一.",
+			"^ff0000(该物品将于7月第3周维护时删除.)^000000 ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[410087] = {
+		unidentifiedDisplayName = "丝带",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装机器人观察者",
+		identifiedResourceName = "Demons_Familiar",
+		identifiedDescriptionName = {
+			"用于服装的独立式监控摄像头. ",
+			"它是一个采用机器人技术制成的摄像机, 可以跟随主人并监视周围环境.",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777中断^000000 重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2127,
+		costume = true
+	},
+	[100910] = {
+		unidentifiedDisplayName = "特殊双附魔石盒",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"特殊的双装结界石盒.",
+			"总共五颗双宝石中的一颗是随机包含的.",
+			" ",
+			"[可获得物品]",
+			"HP吸收石(双)",
+			"可变铸石(双)",
+			"ASPD 石(双)",
+			"魔法能量石(双)",
+			"米莉·斯通(双)",
+			" "
+		},
+		identifiedDisplayName = "特殊双附魔石盒",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"特殊的双装结界石盒.",
+			"总共五颗双宝石中的一颗是随机包含的.",
+			" ",
+			"[可获得物品]",
+			"HP吸收石(双)",
+			"可变铸石(双)",
+			"ASPD 石(双)",
+			"魔法能量石(双)",
+			"米莉·斯通(双)",
+			" ",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100911] = {
+		unidentifiedDisplayName = "特别套装",
+		unidentifiedResourceName = "器厘等惑磊",
+		unidentifiedDescriptionName = {
+			"套装包含 4 种服装.",
+			"打开盒子即可获得以下全部 4 件物品.",
+			"_",
+			"[获得的物品]",
+			"服装森林指南",
+			"服装机器人观察者",
+			"服装 轻编织低双(白色)",
+			"服装权杖"
+		},
+		identifiedDisplayName = "特别套装",
+		identifiedResourceName = "器厘等惑磊",
+		identifiedDescriptionName = {
+			"套装包含 4 种服装.",
+			"打开盒子即可获得以下全部 4 件物品.",
+			"_",
+			"[获得的物品]",
+			"服装森林指南",
+			"服装机器人观察者",
+			"服装 轻编织低双(白色)",
+			"服装权杖",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100886] = {
+		unidentifiedDisplayName = "物理魔法暗影盒",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"物理魔法暗影盒.",
+			"包含物理武器阴影、物理耳环阴影、物理坠饰阴影、魔法武器阴影、魔法耳环阴影和魔法坠饰阴影之一."
+		},
+		identifiedDisplayName = "物理魔法暗影盒",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"物理魔法暗影盒.",
+			"包含物理武器阴影、物理耳环阴影、物理坠饰阴影、魔法武器阴影、魔法耳环阴影和魔法坠饰阴影之一.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200137] = {
+		unidentifiedDisplayName = "改装英雄武器熔炼锤套餐四",
+		unidentifiedResourceName = "某矫惑磊_踌祸",
+		unidentifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼之锤 IV.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤IV]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"海螺小号-LT",
+			"刺绳鞭-LT",
+			"水仙弓-LT",
+			"复仇者联盟-LT",
+			"流星前锋-LT"
+		},
+		identifiedDisplayName = "改装英雄武器熔炼锤套餐四",
+		identifiedResourceName = "某矫惑磊_踌祸",
+		identifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器,熔炼之锤 IV.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤IV]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"海螺小号-LT",
+			"刺绳鞭-LT",
+			"水仙弓-LT",
+			"复仇者联盟-LT",
+			"流星前锋-LT",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200138] = {
+		unidentifiedDisplayName = "英雄武器改装包IV",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装箱 IV.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱IV]^000000",
+			"由Team Licht秘密开发的特殊改装盒. 解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器. ",
+			" ",
+			"[可用武器列表]",
+			"打开海螺喇叭",
+			"打开铁丝网鞭子",
+			"打开水仙弓",
+			"开放复仇者",
+			"打开流星前锋"
+		},
+		identifiedDisplayName = "英雄武器改装包IV",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还包括一个英雄武器改装箱 IV.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱IV]^000000",
+			"由Team Licht秘密开发的特殊改装盒. 解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器. ",
+			" ",
+			"[可用武器列表]",
+			"打开海螺喇叭",
+			"打开铁丝网鞭子",
+			"打开水仙弓",
+			"开放复仇者",
+			"打开流星前锋",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200140] = {
+		unidentifiedDisplayName = "[限量]卡塔拉水果包(石盒24个)",
+		unidentifiedResourceName = "焊拱惑磊_",
+		unidentifiedDescriptionName = {
+			"一盒装有 200 个油桃果实. ",
+			"另外,你还可以获得5个服装附魔石盒24."
+		},
+		identifiedDisplayName = "[限量]卡塔拉水果包(石盒24个)",
+		identifiedResourceName = "焊拱惑磊_",
+		identifiedDescriptionName = {
+			"一盒装有 200 个油桃果实. ",
+			"另外,你还可以获得5个服装附魔石盒24.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20339] = {
+		unidentifiedDisplayName = "帽子",
+		unidentifiedResourceName = "母",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "服装花夏帽",
+		identifiedResourceName = "C敲扼况级赣寝",
+		identifiedDescriptionName = {
+			"装饰着五颜六色的花朵的草帽服装.",
+			"遮挡仲夏阳光的必备品.",
+			"^ffffff<NAVI>^4D4DFF[海瑟姆研究员]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+			"^b4b4b4可兑换服装附魔石盒24.^000000",
+			"系列 : ^777777服装设备^000000 防御 : ^7777770^000000",
+			"地点 : ^777777顶部 ^000000重量 : ^7777770^000000",
+			"所需级别 : ^7777771^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1369,
+		costume = true
+	},
+	[1000635] = {
+		unidentifiedDisplayName = "19周年感谢邀请函",
+		unidentifiedResourceName = "楷雀檬没厘",
+		unidentifiedDescriptionName = {
+			"为了庆祝《仙境传说Online》19周年,我们想给所有的冒险家们送上一份小礼物,所以19周年答谢活动的负责人 ^ffffff<NAVI>^4D4DFF[于尔根]^000000<INFO>prontera,167, 63,0,101,0,0</INFO></NAVI>^000000请找到它!",
+			" ",
+			"^ff0000(该项目将于2021年8月18日定期维护期间删除.)^000000"
+		},
+		identifiedDisplayName = "19周年感谢邀请函",
+		identifiedResourceName = "楷雀檬没厘",
+		identifiedDescriptionName = {
+			"为了庆祝《仙境传说Online》19周年,我们想给所有的冒险家们送上一份小礼物,所以19周年答谢活动的负责人 ^ffffff<NAVI>^4D4DFF[于尔根]^000000<INFO>prontera,167, 63,0,101,0,0</INFO></NAVI>^000000请找到它!",
+			" ",
+			"^ff0000(该项目将于2021年8月18日定期维护期间删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100929] = {
+		unidentifiedDisplayName = "GM大脚怪包",
+		unidentifiedResourceName = "氓啊规",
+		unidentifiedDescriptionName = {
+			"为了感谢您拯救大脚怪通用汽车而赠送的袋子.",
+			"有传言称其中含有稀有物品.",
+			" ",
+			"^ff0000(该项目将于2021年8月18日定期维护期间删除.)^000000"
+		},
+		identifiedDisplayName = "GM大脚怪包",
+		identifiedResourceName = "氓啊规",
+		identifiedDescriptionName = {
+			"为了感谢您拯救大脚怪通用汽车而赠送的袋子.",
+			"有传言称其中含有稀有物品.",
+			" ",
+			"^ff0000(该项目将于2021年8月18日定期维护期间删除.)^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200136] = {
+		unidentifiedDisplayName = "卡普拉浅黄盒(7 天)",
+		unidentifiedResourceName = "EXP_Drop_Up_Box",
+		unidentifiedDescriptionName = {
+			"一个装有卡普拉增益的盒子,可增加 7 天的经验和物品掉落率.",
+			"^ffffff_^000000",
+			"使用该物品的角色将获得7天的增益效果.",
+			"-经验增加50%",
+			"- 物品掉落率增加 50%",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "卡普拉浅黄盒(7 天)",
+		identifiedResourceName = "EXP_Drop_Up_Box",
+		identifiedDescriptionName = {
+			"一个装有卡普拉增益的盒子,可增加 7 天的经验和物品掉落率.",
+			"^ffffff_^000000",
+			"使用该物品的角色将获得7天的增益效果.",
+			"-经验增加50%",
+			"- 物品掉落率增加 50%",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100913] = {
+		unidentifiedDisplayName = "卡普拉浅黄色(7 天)",
+		unidentifiedResourceName = "EXP_Drop_Up_Buff",
+		unidentifiedDescriptionName = {
+			"卡普拉增益可增加经验值和物品掉落率,持续 7 天.",
+			"^ffffff_^000000",
+			"使用该物品的角色将获得7天的增益效果.",
+			"-经验增加50% ",
+			"- 物品掉落率增加 50% ",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "卡普拉浅黄色(7 天)",
+		identifiedResourceName = "EXP_Drop_Up_Buff",
+		identifiedDescriptionName = {
+			"卡普拉增益可增加经验值和物品掉落率,持续 7 天.",
+			"^ffffff_^000000",
+			"使用该物品的角色将获得7天的增益效果.",
+			"-经验增加50% ",
+			"- 物品掉落率增加 50% ",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100914] = {
+		unidentifiedDisplayName = "卡普拉浅黄色(1 小时)",
+		unidentifiedResourceName = "EXP_Drop_Up_Buff",
+		unidentifiedDescriptionName = {
+			"卡普拉增益可提高经验值和物品掉落率,持续 1 小时.",
+			"^ffffff_^000000",
+			"使用该物品的角色将获得持续1小时的增益效果.",
+			"-经验增加50% ",
+			"- 物品掉落率增加 50% ",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000"
+		},
+		identifiedDisplayName = "卡普拉浅黄色(1 小时)",
+		identifiedResourceName = "EXP_Drop_Up_Buff",
+		identifiedDescriptionName = {
+			"卡普拉增益可提高经验值和物品掉落率,持续 1 小时.",
+			"^ffffff_^000000",
+			"使用该物品的角色将获得持续1小时的增益效果.",
+			"-经验增加50% ",
+			"- 物品掉落率增加 50% ",
+			"^ffffff_^000000",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[10625] = {
+		unidentifiedDisplayName = "改装英雄武器熔炼锤套餐V",
+		unidentifiedResourceName = "某矫惑磊_踌祸",
+		unidentifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器“熔炼之锤 V”.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤V]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"东方宝剑 - LT",
+			"德拉格尼杀手-LT",
+			"颤抖的卡塔尔-LT",
+			"卡塔尔刀锋-LT"
+		},
+		identifiedDisplayName = "改装英雄武器熔炼锤套餐V",
+		identifiedResourceName = "某矫惑磊_踌祸",
+		identifiedDescriptionName = {
+			"套装内含50个小型法力值、300个闪亮防御卷轴、200棵神秘生命树、200棵小型生命树和200棵中型生命树.",
+			"此外,还包括一把经过修改的英雄武器“熔炼之锤 V”.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[改装英雄武器熔炼锤V]^000000",
+			"精炼锤,可使光明小队改装的特定英雄武器的精炼等级+1.",
+			"它可以用于+9或更高和+11或更低精炼-LT的英雄武器.",
+			"每次使用时, 会消耗14个铁匠的祝福作为材料.",
+			" ",
+			"[可用武器列表]",
+			"东方宝剑 - LT",
+			"德拉格尼杀手-LT",
+			"颤抖的卡塔尔-LT",
+			"卡塔尔刀锋-LT",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200141] = {
+		unidentifiedDisplayName = "英雄武器改装包V",
+		unidentifiedResourceName = "某矫惑磊_弧碍",
+		unidentifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还附赠英雄武器改装盒 V 1 个.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱V]^000000",
+			"由Team Licht秘密开发的特殊改装盒. 解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器. ",
+			" ",
+			"[可用武器列表]",
+			"东方之剑",
+			"打开《龙之杀手》",
+			"卡塔尔开放且令人兴奋.",
+			"开刃卡他"
+		},
+		identifiedDisplayName = "英雄武器改装包V",
+		identifiedResourceName = "某矫惑磊_弧碍",
+		identifiedDescriptionName = {
+			"套装内含 175 颗小型法力、300 颗闪亮防御卷轴、200 颗神秘生命树、200 颗小型生命树、200 颗中型生命树和 100 颗蒲公英果.",
+			"此外,还附赠英雄武器改装盒 V 1 个.",
+			"^ff0000组件中, 闪耀防御卷轴、小型法力水、神秘生命之水、小型生命之水、中型生命之水无法在赫洛斯特拉亚围攻中使用.^000000",
+			" ",
+			"^CC3D3D[英雄武器改装箱V]^000000",
+			"由Team Licht秘密开发的特殊改装盒. 解锁英雄的武器无论精炼等级或材质如何,都可以立即升级为LT武器. ",
+			" ",
+			"[可用武器列表]",
+			"东方之剑",
+			"打开《龙之杀手》",
+			"卡塔尔开放且令人兴奋.",
+			"开刃卡他",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100933] = {
+		unidentifiedDisplayName = "[非卖品]药水盒",
+		unidentifiedResourceName = "览鞭贸摹惑磊",
+		unidentifiedDescriptionName = { "[非卖品] 一盒装有100个蓝色药水, [非卖品] 一盒装有100个白色细长药水." },
+		identifiedDisplayName = "[非卖品]药水盒",
+		identifiedResourceName = "览鞭贸摹惑磊",
+		identifiedDescriptionName = {
+			"[非卖品] 一盒装有100个蓝色药水, [非卖品] 一盒装有100个白色细长药水.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100934] = {
+		unidentifiedDisplayName = "[非卖品] BUFF滚动盒",
+		unidentifiedResourceName = "器傅惑磊",
+		unidentifiedDescriptionName = {
+			"[非卖品]10个祝福10级卷轴, [非卖品]10个敏捷提升10级卷轴包装."
+		},
+		identifiedDisplayName = "[非卖品] BUFF滚动盒",
+		identifiedResourceName = "器傅惑磊",
+		identifiedDescriptionName = {
+			"[非卖品]10个祝福10级卷轴, [非卖品]10个敏捷提升10级卷轴包装.",
+			"重量 : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[410091] = {
+		unidentifiedDisplayName = "丝带",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "Cor 核心助推器",
+		identifiedResourceName = "Cor_Core_Headset",
+		identifiedDescriptionName = {
+			"采用 Cor 芯制成的助推器耳机.",
+			"可变施法减少 8%, 全局冷却时间减少 8%.",
+			"",
+			"当在口中安装门盘时, ",
+			"所有属性魔法伤害增加7%.",
+			"系列 : ^777777投球^000000 防御 : ^7777775^000000",
+			"地点 : ^777777中断^000000 重量 : ^77777710^000000",
+			"所需级别 : ^777777150^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2017,
+		costume = false
+	},
+	[410092] = {
+		unidentifiedDisplayName = "丝带",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "Cor 核心助推器",
+		identifiedResourceName = "Cor_Core_Headset",
+		identifiedDescriptionName = {
+			"采用 Cor 芯制成的助推器耳机.",
+			"可变施法减少 5%, 全局冷却时间减少 5%.",
+			"",
+			"当在口中安装门盘时, ",
+			"所有属性魔法伤害增加5%.",
+			"系列 : ^777777投球^000000 防御 : ^7777775^000000",
+			"地点 : ^777777中断^000000 重量 : ^77777710^000000",
+			"所需级别 : ^777777150^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2017,
+		costume = false
+	},
+	[410093] = {
+		unidentifiedDisplayName = "丝带",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "密封链",
+		identifiedResourceName = "陛力狼荤浇",
+		identifiedDescriptionName = {
+			"用来镇压邪恶能量的锁链.",
+			"CRI + 8, 近战/远程物理伤害增加8%.",
+			"",
+			"当配备束缚项链时,",
+			"暴击伤害增加 7%.",
+			"系列 : ^777777投球^000000 防御 : ^7777775^000000",
+			"地点 : ^777777中断^000000 重量 : ^77777710^000000",
+			"所需级别 : ^777777150^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1417,
+		costume = false
+	},
+	[410094] = {
+		unidentifiedDisplayName = "丝带",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "密封链",
+		identifiedResourceName = "陛力狼荤浇",
+		identifiedDescriptionName = {
+			"用来镇压邪恶能量的锁链.",
+			"CRI + 5, 近战/远程物理伤害增加5%.",
+			"",
+			"当配备束缚项链时,",
+			"暴击伤害增加 5%.",
+			"系列 : ^777777投球^000000 防御 : ^7777775^000000",
+			"地点 : ^777777中断^000000 重量 : ^77777710^000000",
+			"所需级别 : ^777777150^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1417,
+		costume = false
+	},
+	[420076] = {
+		unidentifiedDisplayName = "丝带",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "束缚项链",
+		identifiedResourceName = "Vassalage_Necklace",
+		identifiedDescriptionName = {
+			"拥有强大魔力的存在所创造的项链,用来束缚他的爪牙.",
+			"CRI+3, 暴击伤害增加5%.",
+			"系列 : ^777777投球^000000 防御 : ^7777770^000000",
+			"地点 : ^777777底部^000000 重量 : ^7777771^000000",
+			"所需级别 : ^777777150^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2018,
+		costume = false
+	},
+	[490159] = {
+		unidentifiedDisplayName = "配件",
+		unidentifiedResourceName = "努赋",
+		unidentifiedDescriptionName = { "未评价. 您可以使用[放大镜] 进行鉴定. " },
+		identifiedDisplayName = "粗芯",
+		identifiedResourceName = "Omega_Core",
+		identifiedDescriptionName = {
+			"蕴藏着无法稳定的强大能量的核心.",
+			"",
+			"MHP - 3%, CRI + 10, 变量铸造减少 10%.",
+			"",
+			"与紫罗兰光环和魔法助推器[1]一起装备时, 所有属性魔法伤害增加5%.",
+			"精炼度7级时, 对Boss怪物的魔法伤害增加15%.",
+			"精炼9级时, 全属性魔法伤害额外增加5%.",
+			"",
+			"与紫罗兰光环和猩红助推器[1]一起装备时, 远距离物理伤害增加5%, ",
+			"精炼度7级时, CRI+10.",
+			"精炼9级时, 远距离物理伤害额外增加5%.",
+			"",
+			"与紫罗兰光环和西格鲁恩之翼[1]一起装备时, 近战物理伤害增加5%, ",
+			"精炼度7级时, 引导攻击力+10%.",
+			"精炼9级时, 近战物理伤害额外增加10%.",
+			"",
+			"装备紫罗兰光环和黑色眼罩[1]时, 全局冷却时间减少5%.",
+			"精炼度7级时, 对Boss怪物的物理伤害增加15%.",
+			"精炼度9级时, 固定施法时间减少0.2秒.",
+			"系列 : ^777777配件^000000  防御 : ^77777710^000000",
+			"重量 : ^77777750^000000",
+			"所需级别 : ^777777150^000000",
+			"配备 : ^777777以前的工作^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[200144] = {
+		unidentifiedDisplayName = "石币套餐一",
+		unidentifiedResourceName = "悼焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有 100 个油桃.",
+			"此外, 还包括 12 张 Nyandarae 里程券和 5 个 24 附魔石盒."
+		},
+		identifiedDisplayName = "Nyandarae 服装里程套餐 I",
+		identifiedResourceName = "悼焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒装有 100 个油桃.",
+			"此外, 还包括 12 张 Nyandarae 里程券和 5 个 24 附魔石盒.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200145] = {
+		unidentifiedDisplayName = "Nyandarae 服装里程套餐 II",
+		unidentifiedResourceName = "篮焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有 200 个油桃.",
+			"此外, 还包括 25 张 Nyandarae 里程券和 24 个附魔石盒."
+		},
+		identifiedDisplayName = "Nyandarae 服装里程套餐 II",
+		identifiedResourceName = "篮焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒装有 200 个油桃.",
+			"此外, 还包括 25 张 Nyandarae 里程券和 24 个附魔石盒.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[200146] = {
+		unidentifiedDisplayName = "Nyandarae 服装里程套餐 III",
+		unidentifiedResourceName = "陛焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"一盒装有 400 个油桃.",
+			"此外, 还包括 50 个 Nyandarae 里程券、10 个附魔石盒 23 和 10 个附魔石盒 24."
+		},
+		identifiedDisplayName = "Nyandarae 服装里程套餐 III",
+		identifiedResourceName = "陛焊拱惑磊",
+		identifiedDescriptionName = {
+			"一盒装有 400 个油桃.",
+			"此外, 还包括 50 个 Nyandarae 里程券、10 个附魔石盒 23 和 10 个附魔石盒 24.",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100951] = {
+		unidentifiedDisplayName = "点火暗影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的点火阴影.",
+			" ",
+			"[获得的物品]",
+			"点火武器阴影",
+			"点火耳环影子",
+			"点火坠饰阴影"
+		},
+		identifiedDisplayName = "点火暗影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的点火阴影.",
+			" ",
+			"[获得的物品]",
+			"点火武器阴影",
+			"点火耳环影子",
+			"点火坠饰阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100952] = {
+		unidentifiedDisplayName = "冷息暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的冷息阴影.",
+			" ",
+			"[获得的物品]",
+			"冷息盾影",
+			"冷气鞋影",
+			"冷息铠影"
+		},
+		identifiedDisplayName = "冷息暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的冷息阴影.",
+			" ",
+			"[获得的物品]",
+			"冷息盾影",
+			"冷气鞋影",
+			"冷息铠影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100954] = {
+		unidentifiedDisplayName = "火息暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的火息之影.",
+			" ",
+			"[获得的物品]",
+			"火息武器暗影",
+			"火息耳环阴影",
+			"火息吊坠暗影"
+		},
+		identifiedDisplayName = "火息暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的火息之影.",
+			" ",
+			"[获得的物品]",
+			"火息武器暗影",
+			"火息耳环阴影",
+			"火息吊坠暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100955] = {
+		unidentifiedDisplayName = "声波阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的 Sonic Shadow.",
+			" ",
+			"[获得的物品]",
+			"音波盾影",
+			"索尼克鞋影子",
+			"音速装甲影子"
+		},
+		identifiedDisplayName = "声波阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"符文骑士的暗影立方体.",
+			"包括所有 3 种类型的 Sonic Shadow.",
+			" ",
+			"[获得的物品]",
+			"音波盾影",
+			"索尼克鞋影子",
+			"音速装甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100956] = {
+		unidentifiedDisplayName = "消失炮暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包括所有 3 种类型的消失炮影.",
+			" ",
+			"[获得的物品]",
+			"消失的炮盾影子",
+			"消失的炮鞋影子",
+			"消失的炮甲影子"
+		},
+		identifiedDisplayName = "消失炮暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包括所有 3 种类型的消失炮影.",
+			" ",
+			"[获得的物品]",
+			"消失的炮盾影子",
+			"消失的炮鞋影子",
+			"消失的炮甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100957] = {
+		unidentifiedDisplayName = "品牌 影立方",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包含全部 3 个品牌影子.",
+			" ",
+			"[获得的物品]",
+			"品牌盾影",
+			"品牌鞋影",
+			"烙印铠甲影子"
+		},
+		identifiedDisplayName = "品牌 影立方",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包含全部 3 个品牌影子.",
+			" ",
+			"[获得的物品]",
+			"品牌盾影",
+			"品牌鞋影",
+			"烙印铠甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100958] = {
+		unidentifiedDisplayName = "创世暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包括所有 3 种类型的创世之影.",
+			" ",
+			"[获得的物品]",
+			"创世武器暗影",
+			"Genesis 耳环阴影",
+			"创世纪吊坠阴影"
+		},
+		identifiedDisplayName = "创世暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包括所有 3 种类型的创世之影.",
+			" ",
+			"[获得的物品]",
+			"创世武器暗影",
+			"Genesis 耳环阴影",
+			"创世纪吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100959] = {
+		unidentifiedDisplayName = "链压影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包括所有 3 种类型的链式压机阴影.",
+			" ",
+			"[获得的物品]",
+			"链压武器阴影",
+			"链压耳环阴影",
+			"链条压机吊坠影子"
+		},
+		identifiedDisplayName = "链压影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"皇家卫队的影子立方体.",
+			"包括所有 3 种类型的链式压机阴影.",
+			" ",
+			"[获得的物品]",
+			"链压武器阴影",
+			"链压耳环阴影",
+			"链条压机吊坠影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100960] = {
+		unidentifiedDisplayName = "应变阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 种类型的应变阴影.",
+			" ",
+			"[获得的物品]",
+			"应变武器阴影",
+			"应变耳环阴影",
+			"应变吊坠阴影"
+		},
+		identifiedDisplayName = "应变阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 种类型的应变阴影.",
+			" ",
+			"[获得的物品]",
+			"应变武器阴影",
+			"应变耳环阴影",
+			"应变吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100961] = {
+		unidentifiedDisplayName = "杰克影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 种类型的 Jack Shadow.",
+			" ",
+			"[获得的物品]",
+			"杰克盾阴影",
+			"杰克鞋的影子",
+			"杰克盔甲影子"
+		},
+		identifiedDisplayName = "杰克影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 种类型的 Jack Shadow.",
+			" ",
+			"[获得的物品]",
+			"杰克盾阴影",
+			"杰克鞋的影子",
+			"杰克盔甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100962] = {
+		unidentifiedDisplayName = "链影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 种类型的连锁阴影.",
+			" ",
+			"[获得的物品]",
+			"连锁武器暗影",
+			"链条耳环阴影",
+			"链条吊坠影子"
+		},
+		identifiedDisplayName = "链影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 种类型的连锁阴影.",
+			" ",
+			"[获得的物品]",
+			"连锁武器暗影",
+			"链条耳环阴影",
+			"链条吊坠影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100963] = {
+		unidentifiedDisplayName = "深红暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 个猩红阴影.",
+			" ",
+			"[获得的物品]",
+			"深红盾影",
+			"深红岩鞋之影",
+			"赤红铠甲暗影"
+		},
+		identifiedDisplayName = "深红暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"术士的暗影立方体.",
+			"包括所有 3 个猩红阴影.",
+			" ",
+			"[获得的物品]",
+			"深红盾影",
+			"深红岩鞋之影",
+			"赤红铠甲暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100964] = {
+		unidentifiedDisplayName = "坟墓阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的墓影.",
+			" ",
+			"[获得的物品]",
+			"坟墓武器阴影",
+			"坟墓耳环阴影",
+			"坟墓吊坠阴影"
+		},
+		identifiedDisplayName = "坟墓阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的墓影.",
+			" ",
+			"[获得的物品]",
+			"坟墓武器阴影",
+			"坟墓耳环阴影",
+			"坟墓吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100965] = {
+		unidentifiedDisplayName = "尘影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的尘影.",
+			" ",
+			"[获得的物品]",
+			"防尘盾阴影",
+			"灰尘 鞋子 影子",
+			"尘甲暗影"
+		},
+		identifiedDisplayName = "尘影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的尘影.",
+			" ",
+			"[获得的物品]",
+			"防尘盾阴影",
+			"灰尘 鞋子 影子",
+			"尘甲暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100966] = {
+		unidentifiedDisplayName = "瓦雷瑟暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的 Varetir Shadow.",
+			" ",
+			"[获得的物品]",
+			"瓦雷瑟尔武器暗影",
+			"Varetir 耳环阴影",
+			"瓦雷瑟吊坠阴影"
+		},
+		identifiedDisplayName = "瓦雷瑟暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的 Varetir Shadow.",
+			" ",
+			"[获得的物品]",
+			"瓦雷瑟尔武器暗影",
+			"Varetir 耳环阴影",
+			"瓦雷瑟吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100967] = {
+		unidentifiedDisplayName = "心灵阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的心灵阴影.",
+			" ",
+			"[获得的物品]",
+			"心灵盾影",
+			"通灵鞋阴影",
+			"心灵铠甲影子"
+		},
+		identifiedDisplayName = "心灵阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"巫师的暗影立方体.",
+			"包括所有 3 种类型的心灵阴影.",
+			" ",
+			"[获得的物品]",
+			"心灵盾影",
+			"通灵鞋阴影",
+			"心灵铠甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100968] = {
+		unidentifiedDisplayName = "火神暗影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的 Vulcan Shadow.",
+			" ",
+			"[获得的物品]",
+			"火神盾影",
+			"巴尔干鞋阴影",
+			"火神铠甲影子"
+		},
+		identifiedDisplayName = "火神暗影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的 Vulcan Shadow.",
+			" ",
+			"[获得的物品]",
+			"火神盾影",
+			"巴尔干鞋阴影",
+			"火神铠甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100969] = {
+		unidentifiedDisplayName = "回旋镖影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的 Boomerang Shadow.",
+			" ",
+			"[获得的物品]",
+			"回旋镖武器阴影",
+			"回旋镖耳环阴影",
+			"回旋镖吊坠阴影"
+		},
+		identifiedDisplayName = "回旋镖影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的 Boomerang Shadow.",
+			" ",
+			"[获得的物品]",
+			"回旋镖武器阴影",
+			"回旋镖耳环阴影",
+			"回旋镖吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100970] = {
+		unidentifiedDisplayName = "武器影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的 Arms Shadow.",
+			" ",
+			"[获得的物品]",
+			"武器 武器 影子",
+			"手臂 耳环 阴影",
+			"手臂吊坠阴影"
+		},
+		identifiedDisplayName = "武器影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的 Arms Shadow.",
+			" ",
+			"[获得的物品]",
+			"武器 武器 影子",
+			"手臂 耳环 阴影",
+			"手臂吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100971] = {
+		unidentifiedDisplayName = "龙卷风阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的龙卷风之影.",
+			" ",
+			"[获得的物品]",
+			"龙卷风盾影",
+			"龙卷风鞋的影子",
+			"龙卷铠甲暗影"
+		},
+		identifiedDisplayName = "龙卷风阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"力学的阴影立方体.",
+			"包括所有 3 种类型的龙卷风之影.",
+			" ",
+			"[获得的物品]",
+			"龙卷风盾影",
+			"龙卷风鞋的影子",
+			"龙卷铠甲暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100972] = {
+		unidentifiedDisplayName = "孢子炸弹暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包含所有 3 种类型的孢子炸弹阴影.",
+			" ",
+			"[获得的物品]",
+			"孢子炸弹盾影",
+			"孢子弹簧鞋阴影",
+			"孢子炸弹装甲暗影"
+		},
+		identifiedDisplayName = "孢子炸弹暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包含所有 3 种类型的孢子炸弹阴影.",
+			" ",
+			"[获得的物品]",
+			"孢子炸弹盾影",
+			"孢子弹簧鞋阴影",
+			"孢子炸弹装甲暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100973] = {
+		unidentifiedDisplayName = "加农炮车影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包括所有 3 种类型的炮车影子.",
+			" ",
+			"[获得的物品]",
+			"加农炮车武器阴影",
+			"炮车耳环影子",
+			"炮车吊坠影子"
+		},
+		identifiedDisplayName = "加农炮车影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包括所有 3 种类型的炮车影子.",
+			" ",
+			"[获得的物品]",
+			"加农炮车武器阴影",
+			"炮车耳环影子",
+			"炮车吊坠影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100974] = {
+		unidentifiedDisplayName = "疯狂的影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包括所有 3 种类型的疯狂之影.",
+			" ",
+			"[获得的物品]",
+			"疯狂武器影子",
+			"疯狂耳环阴影",
+			"疯狂吊坠阴影"
+		},
+		identifiedDisplayName = "疯狂的影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包括所有 3 种类型的疯狂之影.",
+			" ",
+			"[获得的物品]",
+			"疯狂武器影子",
+			"疯狂耳环阴影",
+			"疯狂吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100975] = {
+		unidentifiedDisplayName = "龙卷风车影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包含所有 3 种类型的龙卷风车影子.",
+			" ",
+			"[获得的物品]",
+			"龙卷风卡丁车盾影",
+			"龙卷风卡丁车鞋阴影",
+			"龙卷风卡丁车 Armor Shadow"
+		},
+		identifiedDisplayName = "龙卷风车影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"用于泛型的 Shadow Cube.",
+			"包含所有 3 种类型的龙卷风车影子.",
+			" ",
+			"[获得的物品]",
+			"龙卷风卡丁车盾影",
+			"龙卷风卡丁车鞋阴影",
+			"龙卷风卡丁车 Armor Shadow",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100976] = {
+		unidentifiedDisplayName = "双阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包含所有 3 种类型的双重阴影.",
+			" ",
+			"[获得的物品]",
+			"双盾暗影",
+			"双鞋阴影",
+			"双甲暗影"
+		},
+		identifiedDisplayName = "双阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包含所有 3 种类型的双重阴影.",
+			" ",
+			"[获得的物品]",
+			"双盾暗影",
+			"双鞋阴影",
+			"双甲暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100977] = {
+		unidentifiedDisplayName = "马格努斯影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包括所有 3 种类型的 Magnus Shadow.",
+			" ",
+			"[获得的物品]",
+			"马格努斯武器暗影",
+			"马格努斯耳环阴影",
+			"马格努斯吊坠阴影"
+		},
+		identifiedDisplayName = "马格努斯影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包括所有 3 种类型的 Magnus Shadow.",
+			" ",
+			"[获得的物品]",
+			"马格努斯武器暗影",
+			"马格努斯耳环阴影",
+			"马格努斯吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100978] = {
+		unidentifiedDisplayName = "阿多拉影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包含所有 3 种类型的 Adora Shadow.",
+			" ",
+			"[获得的物品]",
+			"阿多拉武器影子",
+			"Adora 耳环阴影",
+			"Adora 吊坠阴影"
+		},
+		identifiedDisplayName = "阿多拉影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包含所有 3 种类型的 Adora Shadow.",
+			" ",
+			"[获得的物品]",
+			"阿多拉武器影子",
+			"Adora 耳环阴影",
+			"Adora 吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100979] = {
+		unidentifiedDisplayName = "Judex影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包含所有 3 种类型的 Judex Shadows.",
+			" ",
+			"[获得的物品]",
+			"Judex盾影",
+			"Judex鞋影",
+			"Judex铠甲影子"
+		},
+		identifiedDisplayName = "Judex影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"大主教的影子立方体.",
+			"包含所有 3 种类型的 Judex Shadows.",
+			" ",
+			"[获得的物品]",
+			"Judex盾影",
+			"Judex鞋影",
+			"Judex铠甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100980] = {
+		unidentifiedDisplayName = "Shintan影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包含所有 3 种 Shintan Shadow.",
+			" ",
+			"[获得的物品]",
+			"신탄 쉴드 쉐도우",
+			"Shintan 鞋影",
+			"Shintan盔甲影子"
+		},
+		identifiedDisplayName = "Shintan影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包含所有 3 种 Shintan Shadow.",
+			" ",
+			"[获得的物品]",
+			"신탄 쉴드 쉐도우",
+			"Shintan 鞋影",
+			"Shintan盔甲影子",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100981] = {
+		unidentifiedDisplayName = "Cheonra影立方",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包含全部 3 种 Cheonra Shadow.",
+			" ",
+			"[获得的物品]",
+			"天罗武器影子",
+			"Cheonra 耳环阴影",
+			"Cheonra 吊坠阴影"
+		},
+		identifiedDisplayName = "Cheonra影立方",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包含全部 3 种 Cheonra Shadow.",
+			" ",
+			"[获得的物品]",
+			"天罗武器影子",
+			"Cheonra 耳环阴影",
+			"Cheonra 吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100982] = {
+		unidentifiedDisplayName = "充气阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包括所有 3 种类型的充气阴影.",
+			" ",
+			"[获得的物品]",
+			"曝气护盾暗影",
+			"充气鞋影子",
+			"曝气装甲暗影"
+		},
+		identifiedDisplayName = "充气阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包括所有 3 种类型的充气阴影.",
+			" ",
+			"[获得的物品]",
+			"曝气护盾暗影",
+			"充气鞋影子",
+			"曝气装甲暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100983] = {
+		unidentifiedDisplayName = "霍尔波影子立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包括所有 3 种类型的 Horpo Shadow.",
+			" ",
+			"[获得的物品]",
+			"部落武器暗影",
+			"Hopo 耳环阴影",
+			"Horpo 吊坠阴影"
+		},
+		identifiedDisplayName = "霍尔波影子立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"苏拉的影子立方体.",
+			"包括所有 3 种类型的 Horpo Shadow.",
+			" ",
+			"[获得的物品]",
+			"部落武器暗影",
+			"Hopo 耳环阴影",
+			"Horpo 吊坠阴影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100984] = {
+		unidentifiedDisplayName = "滚动阴影立方体",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"断头台十字的影子立方体.",
+			"包括所有 3 种类型的滚动阴影.",
+			" ",
+			"[获得的物品]",
+			"滚动盾影",
+			"滚鞋影子",
+			"滚甲影"
+		},
+		identifiedDisplayName = "滚动阴影立方体",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"断头台十字的影子立方体.",
+			"包括所有 3 种类型的滚动阴影.",
+			" ",
+			"[获得的物品]",
+			"滚动盾影",
+			"滚鞋影子",
+			"滚甲影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100985] = {
+		unidentifiedDisplayName = "死神斩击暗影方块",
+		unidentifiedResourceName = "溅档快钮宏",
+		unidentifiedDescriptionName = {
+			"断头台十字的影子立方体.",
+			"包括所有 3 种类型的 Reaper Slasher Shadow.",
+			" ",
+			"[获得的物品]",
+			"收割者斩击武器暗影",
+			"리퍼슬래셔 이어링 쉐도우",
+			"死神斩杀吊坠暗影"
+		},
+		identifiedDisplayName = "死神斩击暗影方块",
+		identifiedResourceName = "溅档快钮宏",
+		identifiedDescriptionName = {
+			"断头台十字的影子立方体.",
+			"包括所有 3 种类型的 Reaper Slasher Shadow.",
+			" ",
+			"[获得的物品]",
+			"收割者斩击武器暗影",
+			"리퍼슬래셔 이어링 쉐도우",
+			"死神斩杀吊坠暗影",
+			"重量 : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},

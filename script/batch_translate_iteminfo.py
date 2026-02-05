@@ -20,8 +20,8 @@ from typing import Dict
 
 from tqdm import tqdm
 
-# Import from translate_single_iteminfo
-from translate_single_iteminfo import (
+# Import from translate_single_iteminfo (package-relative)
+from .translate_single_iteminfo import (
     ItemInfoTranslator,
     LuaItemParser,
     translate_item_record
