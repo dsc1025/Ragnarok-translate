@@ -3,7 +3,7 @@ from __future__ import annotations
 """
 Translate a single item record by ID from a Lua file.
 
-This script uses the shared iteminfo_translator_utils module to translate
+This script contains all necessary classes to translate
 a single item record by its exact ID.
 
 Usage:
