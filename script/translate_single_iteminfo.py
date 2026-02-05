@@ -69,6 +69,49 @@ class ItemInfoTranslator:
         """Unescape minimal Lua string sequences for translation."""
         return text.replace('\\\\', '\\').replace('\\"', '"')
 
+    def _fullwidth_to_halfwidth(self, text: str) -> str:
+        """Convert fullwidth punctuation to halfwidth."""
+        replacements = {
+            '【': '[', '】': ']',
+            '（': '(', '）': ')',
+            '！': '!', '？': '?',
+            '：': ':', '；': ';',
+            '，': ',', '。': '.',
+            '　': ' '  # fullwidth space
+        }
+        for full, half in replacements.items():
+            text = text.replace(full, half)
+        return text
+
+    def _preserve_spacing(self, original: str, translated: str) -> str:
+        """Preserve spacing patterns from original text in translation."""
+        # Preserve leading/trailing spaces
+        leading = len(original) - len(original.lstrip())
+        trailing = len(original) - len(original.rstrip())
+        result = ' ' * leading + translated.strip() + ' ' * trailing
+        
+        # Handle colon with spaces before and after: " : " -> " : "
+        if re.search(r'\s:\s', original):
+            result = re.sub(r'\s*:\s*', ' : ', result)
+        # Handle colon with only space after: ": " -> ": "
+        elif re.search(r':\s+', original):
+            result = re.sub(r':(?!\s)', ': ', result)
+        
+        # Force spacing patterns after other punctuation if present in original
+        punctuation_rules = [
+            (r'\]\s+', r'\](?!\s)', '] '),  # bracket must be followed by space
+            (r',\s+', r',(?!\s)', ', '),    # comma must be followed by space
+            (r'\.\s+', r'\.(?!\s)', '. '),  # period must be followed by space
+            (r'\)\s+', r'\)(?!\s)', ') '),  # closing paren must be followed by space
+        ]
+        
+        for detect_pattern, fix_pattern, replacement in punctuation_rules:
+            if re.search(detect_pattern, original):
+                # If original has spacing after punctuation, force it in result
+                result = re.sub(fix_pattern, replacement, result)
+        
+        return result
+
     def convert_resource_name(self, text: str) -> str:
         """Convert resource name encoding from EUC-KR to GB2312."""
         try:
@@ -94,6 +137,10 @@ class ItemInfoTranslator:
                 if self.contains_korean(part):
                     try:
                         translated = self.translator.translate(part)
+                        # Convert fullwidth punctuation from API to halfwidth
+                        translated = self._fullwidth_to_halfwidth(translated)
+                        # Preserve original spacing patterns
+                        translated = self._preserve_spacing(part, translated)
                         translated_parts.append(translated)
                     except Exception as e:
                         print(f"Translation failed for: {part[:50]}... Error: {e}")
