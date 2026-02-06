@@ -74,6 +74,16 @@ def translate_code_part(code: str, translator: GoogleTranslator, cache: Dict[str
         raw = m.group(1)
         text = _lua_unescape(raw)
 
+        # Protect command tokens that start with '/' so they are not translated
+        # e.g. "/tip", "/h", "/결성", "/help:" etc.
+        cmd_tokens = re.findall(r'/(?:[^\s]+)', text)
+        placeholders = {}
+        if cmd_tokens:
+            for i, tok in enumerate(cmd_tokens):
+                ph = f"__CMD_{i}__"
+                placeholders[ph] = tok
+                text = text.replace(tok, ph)
+
         if contains_korean(text):
             # preserve parenthetical ASCII name inside the string
             parent = ''
@@ -88,11 +98,16 @@ def translate_code_part(code: str, translator: GoogleTranslator, cache: Dict[str
                 t_core = translator.translate(core_to_translate) if core_to_translate else core_to_translate
             except Exception:
                 t_core = core_to_translate
-
+            # Preserve spacing patterns from original (avoid removing spaces before/after punctuation)
             t_core = fullwidth_to_halfwidth(t_core)
+            t_core = preserve_spacing(core_to_translate, t_core)
             new_text = f"{t_core}{parent}"
         else:
             new_text = text
+        # restore protected command tokens
+        if placeholders:
+            for ph, tok in placeholders.items():
+                new_text = new_text.replace(ph, tok)
 
         escaped = _lua_escape(new_text)
         rebuilt.append('"' + escaped + '"')
@@ -100,6 +115,30 @@ def translate_code_part(code: str, translator: GoogleTranslator, cache: Dict[str
 
     rebuilt.append(code[last:])
     return ''.join(rebuilt)
+
+
+def preserve_spacing(original: str, translated: str) -> str:
+    # Preserve spacing around common punctuation based on the original text.
+    result = translated
+    # If original uses space around colon, enforce it
+    if re.search(r'\s:\s', original):
+        result = re.sub(r'\s*:\s*', ' : ', result)
+    elif re.search(r':\s+', original):
+        result = re.sub(r':\s*', ': ', result)
+
+    # Comma
+    if re.search(r'\s,\s', original):
+        result = re.sub(r'\s*,\s*', ', ', result)
+    elif re.search(r',\s+', original):
+        result = re.sub(r',\s*', ', ', result)
+
+    # Bracket/parenthesis spacing after closing
+    if re.search(r'\)\s', original):
+        result = re.sub(r'\)\s*', ') ', result)
+    if re.search(r'\]\s', original):
+        result = re.sub(r'\]\s*', '] ', result)
+
+    return result
 
 
 def fullwidth_to_halfwidth(text: str) -> str:
