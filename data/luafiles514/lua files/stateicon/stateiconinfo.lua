@@ -16,99 +16,99 @@ StateIconList[EFST_IDs.EFST_OVERTHRUSTMAX] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿À¹öÆ®·¯½ºÆ® ¸Æ½º (Overthrust Max)", COLOR_TITLE_BUFF },
+		{ "ì˜¤ë²„íŠ¸ëŸ¬ìŠ¤íŠ¸ ë§¥ìŠ¤ (Overthrust Max)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±âÀÇ °ø°Ý·Â Áõ°¡" }
+		{ "ë¬´ê¸°ì˜ ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SUFFRAGIUM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼öÇÁ¶ó±â¿ò(Suffragium)", COLOR_TITLE_BUFF },
+		{ "ìˆ˜í”„ë¼ê¸°ì›€(Suffragium)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ÃÀü¼Óµµ °¨¼Ò" }
+		{ "ì‹œì „ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERTHRUST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿À¹ö Æ®·¯½ºÆ®(Over Thrust)", COLOR_TITLE_BUFF },
+		{ "ì˜¤ë²„ íŠ¸ëŸ¬ìŠ¤íŠ¸(Over Thrust)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±âÀÇ °ø°Ý·Â Áõ°¡" }
+		{ "ë¬´ê¸°ì˜ ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOBERSERK] = {
 	descript = {
-		{ "¿ÀÅä ¹ö¼­Å© (Auto Berserk)", COLOR_TITLE_BUFF },
-		{ "ºó»ç »óÅÂ ½Ã ºÐ³ë" }
+		{ "ì˜¤í†  ë²„ì„œí¬ (Auto Berserk)", COLOR_TITLE_BUFF },
+		{ "ë¹ˆì‚¬ ìƒíƒœ ì‹œ ë¶„ë…¸" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BEYOND_OF_WARCRY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºñ¿æµå ¿Àºê ¿ö Å©¶óÀÌ", COLOR_TITLE_BUFF },
+		{ "ë¹„ìš˜ë“œ ì˜¤ë¸Œ ì›Œ í¬ë¼ì´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP °¨¼Ò." },
-		{ "STR °¨¼Ò." }
+		{ "MHP ê°ì†Œ." },
+		{ "STR ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWORDREJECT] = {
 	descript = {
-		{ "¼Òµå ¸®Á§Æ®", COLOR_TITLE_BUFF },
-		{ "»ó´ë ÇÃ·¹ÀÌ¾îÀÇ °Ë°è¿­ ¹«±â °ø°Ý¿¡ ´ëÇØ" },
-		{ "(»ó´ë ¸ó½ºÅÍÀÇ ¸ðµç °ø°Ý¿¡ ´ëÇØ)" },
-		{ "È®·ü¿¡ µû¶ó ¹Þ´Â µ¥¹ÌÁö 1/2·Î °¨¼Ò" },
-		{ "³ª¸ÓÁö 1/2Àº »ó´ë¿¡°Ô µÇµ¹¸²" }
+		{ "ì†Œë“œ ë¦¬ì íŠ¸", COLOR_TITLE_BUFF },
+		{ "ìƒëŒ€ í”Œë ˆì´ì–´ì˜ ê²€ê³„ì—´ ë¬´ê¸° ê³µê²©ì— ëŒ€í•´" },
+		{ "(ìƒëŒ€ ëª¬ìŠ¤í„°ì˜ ëª¨ë“  ê³µê²©ì— ëŒ€í•´)" },
+		{ "í™•ë¥ ì— ë”°ë¼ ë°›ëŠ” ë°ë¯¸ì§€ 1/2ë¡œ ê°ì†Œ" },
+		{ "ë‚˜ë¨¸ì§€ 1/2ì€ ìƒëŒ€ì—ê²Œ ë˜ëŒë¦¼" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MANU_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶´©Å©ÀÇ ÀÇÁö", COLOR_TITLE_BUFF },
+		{ "ë§ˆëˆ„í¬ì˜ ì˜ì§€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶´©Å© ÇÊµåÁö¿ª ¸ó½ºÅÍ¿¡°Ô ¹Þ´Â" },
-		{ "¹°¸®, ¸¶¹ý µ¥¹ÌÁö °¨¼Ò" }
+		{ "ë§ˆëˆ„í¬ í•„ë“œì§€ì—­ ëª¬ìŠ¤í„°ì—ê²Œ ë°›ëŠ”" },
+		{ "ë¬¼ë¦¬, ë§ˆë²• ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁýÁß·Â Çâ»ó(Attention concentrate)", COLOR_TITLE_BUFF },
+		{ "ì§‘ì¤‘ë ¥ í–¥ìƒ(Attention concentrate)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "DEX, AGI Áõ°¡" },
-		{ "»ç¿ë ¼ø°£ °¡±îÀÌ ¼ûÀº Àû ¹ß°ß" }
+		{ "DEX, AGI ì¦ê°€" },
+		{ "ì‚¬ìš© ìˆœê°„ ê°€ê¹Œì´ ìˆ¨ì€ ì  ë°œê²¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRIFFON] = {
 	descript = {
-		{ "±×¸®Æù Å¾½Â Áß", COLOR_TITLE_TOGGLE }
+		{ "ê·¸ë¦¬í° íƒ‘ìŠ¹ ì¤‘", COLOR_TITLE_TOGGLE }
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_MADNESSCANCEL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸Åµå´Ï½º Äµ½½·¯(Madness Canceler)", COLOR_TITLE_BUFF },
+		{ "ë§¤ë“œë‹ˆìŠ¤ ìº”ìŠ¬ëŸ¬(Madness Canceler)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "ÀÌµ¿ ºÒ°¡" }
+		{ "ATK ì¦ê°€" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "ì´ë™ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_ACCURACY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎÅ©¸®Â¡ ¾îÅ¥·¯½Ã(Increasing Accuracy)", COLOR_TITLE_BUFF },
+		{ "ì¸í¬ë¦¬ì§• ì–´íëŸ¬ì‹œ(Increasing Accuracy)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸íÁß·ü Áõ°¡" },
-		{ "DEX Áõ°¡" },
-		{ "AGI Áõ°¡" }
+		{ "ëª…ì¤‘ë¥  ì¦ê°€" },
+		{ "DEX ì¦ê°€" },
+		{ "AGI ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_STR] = {
@@ -116,62 +116,62 @@ StateIconList[EFST_IDs.EFST_FOOD_STR] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" }
+		{ "STR ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HALLUCINATIONWALK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÒ·ç½Ã³×ÀÌ¼Ç ¿öÅ© (HALLUCINATIONWALK / È¯¿µº¸)", COLOR_TITLE_BUFF },
+		{ "í• ë£¨ì‹œë„¤ì´ì…˜ ì›Œí¬ (HALLUCINATIONWALK / í™˜ì˜ë³´)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇÀ² Çâ»ó" },
-		{ "È®·ü¿¡ µû¶ó ¸¶¹ý µ¥¹ÌÁö ¹«½Ã" }
+		{ "íšŒí”¼ìœ¨ í–¥ìƒ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ë§ˆë²• ë°ë¯¸ì§€ ë¬´ì‹œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STORMKICK_ON] = {
 	descript = {
-		{ "È¸¿À¸® ÁØºñ", COLOR_TITLE_BUFF },
-		{ "Àû¿¡°Ô °ø°Ý ¸íÁß ½Ã" },
-		{ "È®·ü¿¡ µû¶ó È¸¿À¸®Â÷±â ÁØºñ ÀÚ¼¼" }
+		{ "íšŒì˜¤ë¦¬ ì¤€ë¹„", COLOR_TITLE_BUFF },
+		{ "ì ì—ê²Œ ê³µê²© ëª…ì¤‘ ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ íšŒì˜¤ë¦¬ì°¨ê¸° ì¤€ë¹„ ìžì„¸" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAUPE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä«¿ìÇÁ", COLOR_TITLE_BUFF },
+		{ "ì¹´ìš°í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È®·ü¿¡ µû¶ó ÀûÀÇ °ø°ÝÀ» È¸ÇÇ" }
+		{ "í™•ë¥ ì— ë”°ë¼ ì ì˜ ê³µê²©ì„ íšŒí”¼" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WARMER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ö¸Ó", COLOR_TITLE_BUFF },
+		{ "ì›Œë¨¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "³Ãµ¿, µ¿ºù, ºù°á »óÅÂ ÇØÁ¦" },
-		{ "³Ãµ¿, µ¿ºù, ºù°á »óÅÂ¿¡ °É¸®Áö ¾ÊÀ½" },
-		{ "3ÃÊ´ç ÀÏÁ¤·®ÀÇ HP È¸º¹" }
+		{ "ëƒ‰ë™, ë™ë¹™, ë¹™ê²° ìƒíƒœ í•´ì œ" },
+		{ "ëƒ‰ë™, ë™ë¹™, ë¹™ê²° ìƒíƒœì— ê±¸ë¦¬ì§€ ì•ŠìŒ" },
+		{ "3ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECT_MDEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶¹ý ¹æ¾î Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "ë§ˆë²• ë°©ì–´ í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý °ø°Ý ³»¼º Áõ°¡" }
+		{ "ë§ˆë²• ê³µê²© ë‚´ì„± ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STAR_COMFORT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º°ÀÇ ¾È¶ôÇÔ", COLOR_TITLE_BUFF },
+		{ "ë³„ì˜ ì•ˆë½í•¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Çâ»ó" }
+		{ "ê³µê²©ì†ë„ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_CRITICALSUCCESSVALUE] = {
@@ -179,7 +179,7 @@ StateIconList[EFST_IDs.EFST_FOOD_CRITICALSUCCESSVALUE] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Å©¸®Æ¼ÄÃ È®·ü Çâ»ó" }
+		{ "í¬ë¦¬í‹°ì»¬ í™•ë¥  í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYTELEKINESIS] = {
@@ -187,96 +187,96 @@ StateIconList[EFST_IDs.EFST_PROPERTYTELEKINESIS] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¿°¼Ó¼º Àû¿ë" }
+		{ "ì—¼ì†ì„± ì ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GLOOMYDAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼öÁÝÀº ÇÏ·çÀÇ ¿ì¿ï", COLOR_TITLE_BUFF },
+		{ "ìˆ˜ì¤ì€ í•˜ë£¨ì˜ ìš°ìš¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°íÁ¤ Ä³½ºÆÃ Áõ°¡, SP ¼Ò¸ð Áõ°¡." },
-		{ "È¸ÇÇÀ²°ú °ø°Ý¼Óµµ °¨¼Ò" }
+		{ "ê³ ì • ìºìŠ¤íŒ… ì¦ê°€, SP ì†Œëª¨ ì¦ê°€." },
+		{ "íšŒí”¼ìœ¨ê³¼ ê³µê²©ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SIRCLEOFNATURE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼øÈ¯ÇÏ´Â ÀÚ¿¬ÀÇ ¼Ò¸®", COLOR_TITLE_BUFF },
+		{ "ìˆœí™˜í•˜ëŠ” ìžì—°ì˜ ì†Œë¦¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP ÀÚ¿¬ È¸º¹·Â Áõ°¡" }
+		{ "HP ìžì—° íšŒë³µë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEADLYINFECT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¥µé¸® ÀÎÆåÆ®", COLOR_TITLE_BUFF },
+		{ "ë°ë“¤ë¦¬ ì¸íŽ™íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÚ½ÅÀÌ °ø°ÝÇÏ°Å³ª" },
-		{ "ÀÚ½ÅÀ» °ø°ÝÇÏ´Â Àû¿¡°Ô" },
-		{ "¸ðµç »óÅÂÀÌ»óÀ» Àü¿°" }
+		{ "ìžì‹ ì´ ê³µê²©í•˜ê±°ë‚˜" },
+		{ "ìžì‹ ì„ ê³µê²©í•˜ëŠ” ì ì—ê²Œ" },
+		{ "ëª¨ë“  ìƒíƒœì´ìƒì„ ì „ì—¼" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SYMPHONY_LOVE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿¬ÀÎµéÀ» À§ÇÑ ½ÉÆ÷´Ï", COLOR_TITLE_BUFF },
+		{ "ì—°ì¸ë“¤ì„ ìœ„í•œ ì‹¬í¬ë‹ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý ¹æ¾î·Â »ó½Â" }
+		{ "ë§ˆë²• ë°©ì–´ë ¥ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NJ_BUNSINJYUTSU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¯¿µºÐ½Å", COLOR_TITLE_BUFF },
+		{ "í™˜ì˜ë¶„ì‹ ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ È½¼ö¸¸Å­ ±Ù°Å¸®, ¿ø°Å¸® ¹°¸® °ø°ÝÀ» È¸ÇÇ" },
-		{ "¸¶¹ý °ø°Ý ¹æ¾î ºÒ°¡" }
+		{ "ì¼ì • íšŸìˆ˜ë§Œí¼ ê·¼ê±°ë¦¬, ì›ê±°ë¦¬ ë¬¼ë¦¬ ê³µê²©ì„ íšŒí”¼" },
+		{ "ë§ˆë²• ê³µê²© ë°©ì–´ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WUGRIDER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ö±× ¶óÀÌ´õ (WUG RIDER / ´Á´ë ±â¼ö)", COLOR_TITLE_BUFF },
+		{ "ì›Œê·¸ ë¼ì´ë” (WUG RIDER / ëŠ‘ëŒ€ ê¸°ìˆ˜)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È° »ç¿ë ºÒ°¡" },
-		{ "¿ö±× Àü¿ë ½ºÅ³¸¸ »ç¿ë °¡´É" }
+		{ "í™œ ì‚¬ìš© ë¶ˆê°€" },
+		{ "ì›Œê·¸ ì „ìš© ìŠ¤í‚¬ë§Œ ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_BLOOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "SP ¼Ò¸ð·® °¨¼ÒÆ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "SP ì†Œëª¨ëŸ‰ ê°ì†Œí¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅ³ »ç¿ë SP ¼Ò¸ð·® °¨¼Ò" }
+		{ "ìŠ¤í‚¬ ì‚¬ìš© SP ì†Œëª¨ëŸ‰ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYPAINT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹Ùµð ÆäÀÎÆÃ", COLOR_TITLE_BUFF },
+		{ "ë°”ë”” íŽ˜ì¸íŒ…", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Å¬·ÎÅ· »óÅÂ ÇØÁ¦" },
-		{ "È®·ü¿¡ µû¶ó ¾ÏÈæ ¹ß»ý" },
-		{ "È®·ü¿¡ µû¶ó °ø°Ý¼Óµµ °¨¼Ò" }
+		{ "í´ë¡œí‚¹ ìƒíƒœ í•´ì œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ì•”í‘ ë°œìƒ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ê³µê²©ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NJ_UTSUSEMI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸Å¹ÌÇã¹° ¹þ±â", COLOR_TITLE_BUFF },
+		{ "ë§¤ë¯¸í—ˆë¬¼ ë²—ê¸°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ È½¼ö¸¸Å­ °ø°ÝÀ» È¸ÇÇ" },
-		{ "°ø°ÝÀÚÀÇ ¹Ý´ë ¹æÇâÀ¸·Î ÀÌµ¿" }
+		{ "ì¼ì • íšŸìˆ˜ë§Œí¼ ê³µê²©ì„ íšŒí”¼" },
+		{ "ê³µê²©ìžì˜ ë°˜ëŒ€ ë°©í–¥ìœ¼ë¡œ ì´ë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_DEATHPENALTY] = {
@@ -284,95 +284,95 @@ StateIconList[EFST_IDs.EFST_CASH_DEATHPENALTY] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "»ç¸Á ½Ã °æÇèÄ¡ ¼Ò½Ç ¾øÀ½" }
+		{ "ì‚¬ë§ ì‹œ ê²½í—˜ì¹˜ ì†Œì‹¤ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_ADJUSTMENT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ÖµåÀú½ºÆ®¸ÕÆ®(Adjustment)", COLOR_TITLE_BUFF },
+		{ "ì• ë“œì €ìŠ¤íŠ¸ë¨¼íŠ¸(Adjustment)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸íÁß·ü °¨¼Ò" },
-		{ "È¸ÇÇÀ² Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® °ø°ÝÀ¸·Î ¹Þ´Â µ¥¹ÌÁö °¨¼Ò" }
+		{ "ëª…ì¤‘ë¥  ê°ì†Œ" },
+		{ "íšŒí”¼ìœ¨ ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ê³µê²©ìœ¼ë¡œ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOSPELL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀÅä ½ºÆç (Auto Spell)", COLOR_TITLE_BUFF },
+		{ "ì˜¤í†  ìŠ¤íŽ  (Auto Spell)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏ¹Ý °ø°Ý Áß È®·ü¿¡ µû¶ó" },
-		{ "¼±ÅÃµÈ ½ºÅ³ÀÌ Ä³½ºÆÃ ½Ã°£ ¾øÀÌ ÀÚµ¿ ¹ß»ç" },
-		{ "SP ¼Ò¸ð´Â ÀÏ¹Ý »ç¿ë ½ÃÀÇ 2/3" },
-		{ "SP ºÎÁ· ½Ã ½ºÅ³ ¹ßµ¿ ºÒ°¡" }
+		{ "ì¼ë°˜ ê³µê²© ì¤‘ í™•ë¥ ì— ë”°ë¼" },
+		{ "ì„ íƒëœ ìŠ¤í‚¬ì´ ìºìŠ¤íŒ… ì‹œê°„ ì—†ì´ ìžë™ ë°œì‚¬" },
+		{ "SP ì†Œëª¨ëŠ” ì¼ë°˜ ì‚¬ìš© ì‹œì˜ 2/3" },
+		{ "SP ë¶€ì¡± ì‹œ ìŠ¤í‚¬ ë°œë™ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEC_AGI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÎÃ¸¼º °¨¼Ò(Decrease agility)", COLOR_TITLE_DEBUFF },
+		{ "ë¯¼ì²©ì„± ê°ì†Œ(Decrease agility)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "°ø°Ý¼Óµµ °¨¼Ò" }
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "ê³µê²©ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â ÀåÂøÇØÁ¦ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ë¬´ê¸° ìž¥ì°©í•´ì œ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â ÀåÂø ºÒ°¡" }
+		{ "ë¬´ê¸° ìž¥ì°© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHIELDSPELL_MDEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½¯µå ½ºÆç - Øª", COLOR_TITLE_BUFF },
+		{ "ì‰´ë“œ ìŠ¤íŽ  - é­”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æÆÐ ¸¶¹ý ¹æ¾îµµ¿¡ µû¸¥ ¸¶¹ý ¹ßµ¿" }
+		{ "ë°©íŒ¨ ë§ˆë²• ë°©ì–´ë„ì— ë”°ë¥¸ ë§ˆë²• ë°œë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOGUARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀÅä °¡µå (Auto Guard)", COLOR_TITLE_BUFF },
+		{ "ì˜¤í†  ê°€ë“œ (Auto Guard)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±Ù°Å¸®, ¿ø°Å¸® ¹°¸®°ø°ÝÀ» ÀÏÁ¤ È®·ü·Î ¸·À½" }
+		{ "ê·¼ê±°ë¦¬, ì›ê±°ë¦¬ ë¬¼ë¦¬ê³µê²©ì„ ì¼ì • í™•ë¥ ë¡œ ë§‰ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TAROTCARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿î¸íÀÇ Å¸·Î Ä«µå (Tarot Card of Fate)", COLOR_TITLE_BUFF },
+		{ "ìš´ëª…ì˜ íƒ€ë¡œ ì¹´ë“œ (Tarot Card of Fate)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àû¿¡°Ô 14Á¾·ù Ä«µå Áß ÇÏ³ªÀÇ È¿°ú ºÎ¿©" }
+		{ "ì ì—ê²Œ 14ì¢…ë¥˜ ì¹´ë“œ ì¤‘ í•˜ë‚˜ì˜ íš¨ê³¼ ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FEARBREEZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÇ¾î ºê¸®Áî (FEAR BREEZE / »êµé¹Ù¶÷ÀÇ °øÆ÷)", COLOR_TITLE_BUFF },
+		{ "í”¼ì–´ ë¸Œë¦¬ì¦ˆ (FEAR BREEZE / ì‚°ë“¤ë°”ëžŒì˜ ê³µí¬)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È° °ø°Ý ½Ã È®·ü¿¡ µû¶ó" },
-		{ "Ãß°¡ °ø°Ý ¹ßµ¿" }
+		{ "í™œ ê³µê²© ì‹œ í™•ë¥ ì— ë”°ë¼" },
+		{ "ì¶”ê°€ ê³µê²© ë°œë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GN_CARTBOOST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä«Æ® ºÎ½ºÆ®", COLOR_TITLE_BUFF },
+		{ "ì¹´íŠ¸ ë¶€ìŠ¤íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ä«Æ® ÀåÂø ½ÃÀÇ ¼Óµµ Áõ°¡" }
+		{ "ì¹´íŠ¸ ìž¥ì°© ì‹œì˜ ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_INT_CASH] = {
@@ -380,58 +380,58 @@ StateIconList[EFST_IDs.EFST_FOOD_INT_CASH] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "INT Áõ°¡" }
+		{ "INT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹æÆÐ ÀåÂøÇØÁ¦ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ë°©íŒ¨ ìž¥ì°©í•´ì œ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æÆÐ ÀåÂø ºÒ°¡" }
+		{ "ë°©íŒ¨ ìž¥ì°© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MELTDOWN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸áÆ®´Ù¿î (Meltdown)", COLOR_TITLE_BUFF },
+		{ "ë©œíŠ¸ë‹¤ìš´ (Meltdown)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÇÃ·¹ÀÌ¾î¸¦ °ø°ÝÇÒ ¶§" },
-		{ "ÇÃ·¹ÀÌ¾îÀÇ ¹«±â³ª ¹æ¾î±¸¸¦ ÀÏÁ¤ È®·ü·Î ÆÄ±«" },
-		{ "¸ó½ºÅÍ¸¦ °ø°ÝÇÒ ¶§" },
-		{ "¸ó½ºÅÍÀÇ °ø°Ý·ÂÀÌ³ª ¹æ¾î·ÂÀÌ °¨¼Ò" }
+		{ "í”Œë ˆì´ì–´ë¥¼ ê³µê²©í•  ë•Œ" },
+		{ "í”Œë ˆì´ì–´ì˜ ë¬´ê¸°ë‚˜ ë°©ì–´êµ¬ë¥¼ ì¼ì • í™•ë¥ ë¡œ íŒŒê´´" },
+		{ "ëª¬ìŠ¤í„°ë¥¼ ê³µê²©í•  ë•Œ" },
+		{ "ëª¬ìŠ¤í„°ì˜ ê³µê²©ë ¥ì´ë‚˜ ë°©ì–´ë ¥ì´ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_QUAGMIRE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Äâ±×¸¶ÀÌ¾î(Quagmire)", COLOR_TITLE_DEBUFF },
+		{ "ì½°ê·¸ë§ˆì´ì–´(Quagmire)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "AGI, DEX °¨¼Ò" }
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "AGI, DEX ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAIZEL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä«ÀÌÁ©", COLOR_TITLE_BUFF },
+		{ "ì¹´ì´ì ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ä³½ºÆÃ½Ã°£ÀÌ DEX¿¡ ¿µÇâÀ» ¹ÞÁö¾ÊÀ½" },
-		{ "»ç¸Á ½Ã °ð¹Ù·Î ºÎÈ°, 2ÃÊ°£ ±â¸®¿¡ »óÅÂ À¯Áö" }
+		{ "ìºìŠ¤íŒ…ì‹œê°„ì´ DEXì— ì˜í–¥ì„ ë°›ì§€ì•ŠìŒ" },
+		{ "ì‚¬ë§ ì‹œ ê³§ë°”ë¡œ ë¶€í™œ, 2ì´ˆê°„ ê¸°ë¦¬ì— ìƒíƒœ ìœ ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CR_SHRINK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½´¸µÅ©(Shrink)", COLOR_TITLE_BUFF },
+		{ "ìŠˆë§í¬(Shrink)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ÀÅä°¡µå ½ºÅ³·Î ¹æ¾î ½Ã" },
-		{ "È®·ü¿¡ µû¶ó »óÅÂÀÌ»ó ½ºÅÏ" }
+		{ "ì˜¤í† ê°€ë“œ ìŠ¤í‚¬ë¡œ ë°©ì–´ ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ìƒíƒœì´ìƒ ìŠ¤í„´" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
@@ -439,25 +439,25 @@ StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "VIT Áõ°¡" }
+		{ "VIT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PARRYING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÆÐ¸µ (Parrying)", COLOR_TITLE_BUFF },
+		{ "íŒ¨ë§ (Parrying)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È®·ü¿¡ µû¶ó »ó´ë¹æÀÇ °ø°ÝÀ» Ä®·Î ¹æ¾î" }
+		{ "í™•ë¥ ì— ë”°ë¼ ìƒëŒ€ë°©ì˜ ê³µê²©ì„ ì¹¼ë¡œ ë°©ì–´" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTWEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÉ¹ÌÄ® ÇÁ·ÎÅØ¼Ç(¿þÆù) (Chemical Protection Weapon)", COLOR_TITLE_BUFF },
+		{ "ì¼€ë¯¸ì¹¼ í”„ë¡œí…ì…˜(ì›¨í°) (Chemical Protection Weapon)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â°¡ Àý´ë·Î ¼Õ»óµÇÁö ¾Ê´Â »óÅÂ" }
+		{ "ë¬´ê¸°ê°€ ì ˆëŒ€ë¡œ ì†ìƒë˜ì§€ ì•ŠëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_AGI] = {
@@ -465,27 +465,27 @@ StateIconList[EFST_IDs.EFST_FOOD_AGI] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "AGI Áõ°¡" }
+		{ "AGI ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INC_AGI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÎÃ¸¼º Áõ°¡(Increase agility)", COLOR_TITLE_BUFF },
+		{ "ë¯¼ì²©ì„± ì¦ê°€(Increase agility)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ì´ë™ì†ë„ ì¦ê°€" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHOUT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°í¼º¹æ°¡", COLOR_TITLE_BUFF },
+		{ "ê³ ì„±ë°©ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" },
-		{ "ATK Áõ°¡" }
+		{ "STR ì¦ê°€" },
+		{ "ATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_RECEIVEITEM] = {
@@ -493,38 +493,38 @@ StateIconList[EFST_IDs.EFST_CASH_RECEIVEITEM] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ »ç³É ½Ã" },
-		{ "±âº» ¾ÆÀÌÅÛÀÇ µå·Ó·ü Áõ°¡" }
+		{ "ëª¬ìŠ¤í„° ì‚¬ëƒ¥ ì‹œ" },
+		{ "ê¸°ë³¸ ì•„ì´í…œì˜ ë“œë¡­ë¥  ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPL_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç½Ã¿Ã¶óÀÇ ²ÜÂ´", COLOR_TITLE_BUFF },
+		{ "ë£¨ì‹œì˜¬ë¼ì˜ ê¿€ì¨ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÇÃ¶ûµðµå ÇÊµåÁö¿ª ¸ó½ºÅÍ¿¡°Ô ¹Þ´Â" },
-		{ "¹°¸®, ¸¶¹ý µ¥¹ÌÁö °¨¼Ò" }
+		{ "ìŠ¤í”Œëž‘ë””ë“œ í•„ë“œì§€ì—­ ëª¬ìŠ¤í„°ì—ê²Œ ë°›ëŠ”" },
+		{ "ë¬¼ë¦¬, ë§ˆë²• ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ILLUSION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¯°¢ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "í™˜ê° ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "È­¸é µÚÆ²¸²" },
-		{ "µ¥¹ÌÁö Ç¥½Ã ÀÌ»ó" },
-		{ "°æÁ÷¿¡ ÀÇÇÑ Ä³½ºÆÃ ²÷±è" }
+		{ "í™”ë©´ ë’¤í‹€ë¦¼" },
+		{ "ë°ë¯¸ì§€ í‘œì‹œ ì´ìƒ" },
+		{ "ê²½ì§ì— ì˜í•œ ìºìŠ¤íŒ… ëŠê¹€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HOVERING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È£¹ö¸µ", COLOR_TITLE_BUFF },
+		{ "í˜¸ë²„ë§", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Æ®·¦ ¹× ÀÏºÎ Áö¸é ´ë»ó ¸¶¹ýÀÇ È¿°ú¸¦ ¹ÞÁö ¾ÊÀ½" }
+		{ "íŠ¸ëž© ë° ì¼ë¶€ ì§€ë©´ ëŒ€ìƒ ë§ˆë²•ì˜ íš¨ê³¼ë¥¼ ë°›ì§€ ì•ŠìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BENEDICTIO] = {
@@ -532,121 +532,121 @@ StateIconList[EFST_IDs.EFST_BENEDICTIO] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î±¸¿¡ ¼º¼Ó¼º ºÎ¿©" }
+		{ "ë°©ì–´êµ¬ì— ì„±ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONBLOCKING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿þÆù ºí·ÎÅ· (WEAPON BLOCKING / Æ¨°Ü³»±â)", COLOR_TITLE_BUFF },
+		{ "ì›¨í° ë¸”ë¡œí‚¹ (WEAPON BLOCKING / íŠ•ê²¨ë‚´ê¸°)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® °ø°ÝÀ» ¹ÞÀ» ½Ã" },
-		{ "È®·ü¿¡ µû¶ó µ¥¹ÌÁö ¿ÏÀü ¹«È¿" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²©ì„ ë°›ì„ ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ë°ë¯¸ì§€ ì™„ì „ ë¬´íš¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ANGELUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ÈÁ©·ç½º(Angelus)", COLOR_TITLE_BUFF },
+		{ "ì•ˆì ¤ë£¨ìŠ¤(Angelus)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â Áõ°¡" }
+		{ "ë°©ì–´ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MARSHOFABYSS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶½¬ ¿Àºê ¾îºñ½º (MARSH OF ABYSS / ½É¿¬ÀÇ ´Ë)", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆì‰¬ ì˜¤ë¸Œ ì–´ë¹„ìŠ¤ (MARSH OF ABYSS / ì‹¬ì—°ì˜ ëŠª)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ ÀúÇÏ" },
-		{ "¹æ¾î·Â, È¸ÇÇÀ² ÀúÇÏ" }
+		{ "ì´ë™ì†ë„ ì €í•˜" },
+		{ "ë°©ì–´ë ¥, íšŒí”¼ìœ¨ ì €í•˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STEALTHFIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÅÚ½º ÇÊµå", COLOR_TITLE_BUFF },
+		{ "ìŠ¤í…”ìŠ¤ í•„ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÁÖº¯ÀÇ ¸ðµç ´ë»óÀ» Å¬·ÎÅ· »óÅÂ·Î ¸¸µë" },
-		{ "Áö¼ÓÀûÀ¸·Î SP ¼Ò¸ð" },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" }
+		{ "ì£¼ë³€ì˜ ëª¨ë“  ëŒ€ìƒì„ í´ë¡œí‚¹ ìƒíƒœë¡œ ë§Œë“¬" },
+		{ "ì§€ì†ì ìœ¼ë¡œ SP ì†Œëª¨" },
+		{ "ì´ë™ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ADRENALINE2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ç® ¾Æµå·¹³¯¸°·¯½¬", COLOR_TITLE_BUFF },
+		{ "í’€ ì•„ë“œë ˆë‚ ë¦°ëŸ¬ì‰¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È°À» Á¦¿ÜÇÑ ¹«±âÀÇ °ø°Ý¼Óµµ Áõ°¡" }
+		{ "í™œì„ ì œì™¸í•œ ë¬´ê¸°ì˜ ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MANU_MATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶´©Å©ÀÇ ½Å³ä", COLOR_TITLE_BUFF },
+		{ "ë§ˆëˆ„í¬ì˜ ì‹ ë…", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶´©Å© ÇÊµåÁö¿ª ¸ó½ºÅÍ¿¡°Ô" },
-		{ "¸¶¹ý°ø°Ý µ¥¹ÌÁö »ó½Â" }
+		{ "ë§ˆëˆ„í¬ í•„ë“œì§€ì—­ ëª¬ìŠ¤í„°ì—ê²Œ" },
+		{ "ë§ˆë²•ê³µê²© ë°ë¯¸ì§€ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPARMOR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°©¿Ê ÀåÂøÇØÁ¦ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ê°‘ì˜· ìž¥ì°©í•´ì œ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "°©¿Ê ÀåÂø ºÒ°¡" }
+		{ "ê°‘ì˜· ìž¥ì°© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RENOVATIO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·¹³ë¹ÙÆ¼¿À (RENOVATIO / Á¤È­)", COLOR_TITLE_BUFF },
+		{ "ë ˆë…¸ë°”í‹°ì˜¤ (RENOVATIO / ì •í™”)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "5ÃÊ´ç ÀÏÁ¤·®ÀÇ HP È¸º¹" },
-		{ "¾ðµ¥µå ¼Ó¼ºÀÎ À¯Àú¿¡°Ô´Â È¿°ú ¾øÀ½." }
+		{ "5ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" },
+		{ "ì–¸ë°ë“œ ì†ì„±ì¸ ìœ ì €ì—ê²ŒëŠ” íš¨ê³¼ ì—†ìŒ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HIDING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÏÀÌµù(Hiding)", COLOR_TITLE_BUFF },
+		{ "í•˜ì´ë”©(Hiding)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¶¥ ¼Ó¿¡ ¼û¾î ÀûÀÇ °ø°Ý È¸ÇÇ" },
-		{ "ÀûÀÇ Å½»ö ½ºÅ³·Î ¹ß°ß °¡´É" }
+		{ "ë•… ì†ì— ìˆ¨ì–´ ì ì˜ ê³µê²© íšŒí”¼" },
+		{ "ì ì˜ íƒìƒ‰ ìŠ¤í‚¬ë¡œ ë°œê²¬ ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WEIGHTOVER50] = {
 	descript = {
-		{ "¹«°Ô 70% ÀÌ»ó", COLOR_TITLE_DEBUFF },
-		{ "HP, SP ÀÚ¿¬È¸º¹ ºÒ°¡" }
+		{ "ë¬´ê²Œ 70% ì´ìƒ", COLOR_TITLE_DEBUFF },
+		{ "HP, SP ìžì—°íšŒë³µ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STRUP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆÛÆ®", COLOR_TITLE_BUFF },
+		{ "ìŠ¤í¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" },
-		{ "¹«±â ¹ÌÂø¿ë ½Ã" },
-		{ "´Þ¸®±â ·¹º§¿¡ µû¶ó °ø°Ý·Â Áõ°¡" }
+		{ "STR ì¦ê°€" },
+		{ "ë¬´ê¸° ë¯¸ì°©ìš© ì‹œ" },
+		{ "ë‹¬ë¦¬ê¸° ë ˆë²¨ì— ë”°ë¼ ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPHELM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Åõ±¸ ÀåÂøÇØÁ¦ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "íˆ¬êµ¬ ìž¥ì°©í•´ì œ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Åõ±¸ ÀåÂø ºÒ°¡" }
+		{ "íˆ¬êµ¬ ìž¥ì°© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION3] = {
@@ -654,138 +654,138 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION3] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENDURE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎµà¾î(Endure)", COLOR_TITLE_BUFF },
+		{ "ì¸ë“€ì–´(Endure)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý´çÇØµµ ÀÌµ¿ÀÌ³ª °ø°Ý °¡´É" },
-		{ "ÀÏÁ¤ È½¼ö ÀÌ»ó °ø°Ý ´çÇÒ °æ¿ì »óÅÂ ÇØÁ¦" }
+		{ "ê³µê²©ë‹¹í•´ë„ ì´ë™ì´ë‚˜ ê³µê²© ê°€ëŠ¥" },
+		{ "ì¼ì • íšŸìˆ˜ ì´ìƒ ê³µê²© ë‹¹í•  ê²½ìš° ìƒíƒœ í•´ì œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
 	descript = {
-		{ "Â÷±â ÁØºñ", COLOR_TITLE_BUFF },
-		{ "Àû¿¡°Ô °ø°Ý ¸íÁß ½Ã" },
-		{ "È®·ü¿¡ µû¶ó µ¹·ÁÂ÷±â ÁØºñ ÀÚ¼¼" }
+		{ "ì°¨ê¸° ì¤€ë¹„", COLOR_TITLE_BUFF },
+		{ "ì ì—ê²Œ ê³µê²© ëª…ì¤‘ ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ëŒë ¤ì°¨ê¸° ì¤€ë¹„ ìžì„¸" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENCHANTPOISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎÃ¦Æ® Æ÷ÀÌÁð(Enchant Poison)", COLOR_TITLE_BUFF },
+		{ "ì¸ì±ˆíŠ¸ í¬ì´ì¦Œ(Enchant Poison)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â¿¡ µ¶¼Ó¼º ºÎ¿©" }
+		{ "ë¬´ê¸°ì— ë…ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPL_ATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÉ±ÍÅ§¶óÀÇ ¿­¸ÅÀýÀÓ", COLOR_TITLE_BUFF },
+		{ "í•€ê·€í˜ë¼ì˜ ì—´ë§¤ì ˆìž„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÇÃ¶ûµðµå ÇÊµåÁö¿ª ¸ó½ºÅÍ¿¡°Ô" },
-		{ "¹°¸®°ø°Ý µ¥¹ÌÁö »ó½Â" }
+		{ "ìŠ¤í”Œëž‘ë””ë“œ í•„ë“œì§€ì—­ ëª¬ìŠ¤í„°ì—ê²Œ" },
+		{ "ë¬¼ë¦¬ê³µê²© ë°ë¯¸ì§€ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BLESSING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºí·¹½Ì(Blessing)", COLOR_TITLE_BUFF },
+		{ "ë¸”ë ˆì‹±(Blessing)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "DEX, INT, STR Áõ°¡" },
-		{ "¸íÁß·ü Áõ°¡" },
-		{ "»ç¿ë ¼ø°£ ÀúÁÖ³ª ¼®È­»óÅÂ È¸º¹" }
+		{ "DEX, INT, STR ì¦ê°€" },
+		{ "ëª…ì¤‘ë¥  ì¦ê°€" },
+		{ "ì‚¬ìš© ìˆœê°„ ì €ì£¼ë‚˜ ì„í™”ìƒíƒœ íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ONEHANDQUICKEN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿øÇÚµå ÄûÅ«", COLOR_TITLE_BUFF },
+		{ "ì›í•¸ë“œ í€´í°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÇÑ¼Õ°Ë »ç¿ë ½Ã" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "í•œì†ê²€ ì‚¬ìš© ì‹œ" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÇÇ¾î ÄûÅ« (Spear Quicken)", COLOR_TITLE_BUFF },
+		{ "ìŠ¤í”¼ì–´ í€´í° (Spear Quicken)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ã¢ »ç¿ë ½Ã" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "Å©¸®Æ¼ÄÃ »ó½Â" },
-		{ "È¸ÇÇÈ®·ü »ó½Â" }
+		{ "ì°½ ì‚¬ìš© ì‹œ" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "í¬ë¦¬í‹°ì»¬ ìƒìŠ¹" },
+		{ "íšŒí”¼í™•ë¥  ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BROKENWEAPON] = {
 	descript = {
-		{ "¹«±â ÆÄ±« »óÅÂ", COLOR_TITLE_DEBUFF }
+		{ "ë¬´ê¸° íŒŒê´´ ìƒíƒœ", COLOR_TITLE_DEBUFF }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ¼ûÇÁÆ¼¿À (Assumptio)", COLOR_TITLE_BUFF },
+		{ "ì•„ìˆ¨í”„í‹°ì˜¤ (Assumptio)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â Áõ°¡" }
+		{ "ë°©ì–´ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAXIMIZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸Æ½Ã¸¶ÀÌÁî ÆÄ¿ö(Maximize Power)", COLOR_TITLE_BUFF },
+		{ "ë§¥ì‹œë§ˆì´ì¦ˆ íŒŒì›Œ(Maximize Power)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±âÀÇ ÃÖ´ë ¼º´ÉÀ» ÀÌ²ø¾î³¿" },
-		{ "Áö¼ÓÀûÀ¸·Î SP ¼Ò¸ð" }
+		{ "ë¬´ê¸°ì˜ ìµœëŒ€ ì„±ëŠ¥ì„ ì´ëŒì–´ëƒ„" },
+		{ "ì§€ì†ì ìœ¼ë¡œ SP ì†Œëª¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTSHIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÉ¹ÌÄ® ÇÁ·ÎÅØ¼Ç(½¯µå) (Chemical Protection Shield)", COLOR_TITLE_BUFF },
+		{ "ì¼€ë¯¸ì¹¼ í”„ë¡œí…ì…˜(ì‰´ë“œ) (Chemical Protection Shield)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æÆÐ°¡ Àý´ë·Î ¼Õ»óµÇÁö ¾Ê´Â »óÅÂ" }
+		{ "ë°©íŒ¨ê°€ ì ˆëŒ€ë¡œ ì†ìƒë˜ì§€ ì•ŠëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGNIFICAT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶´ÏÇÇÄ±(Magnificat)", COLOR_TITLE_BUFF },
+		{ "ë§ˆë‹ˆí”¼ìº‡(Magnificat)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "SP È¸º¹¼Óµµ Çâ»ó" }
+		{ "SP íšŒë³µì†ë„ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁýÁßÀÇ Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "ì§‘ì¤‘ì˜ í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_POISONREACT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ÷ÀÌÁð ¸®¾×Æ®(Poison React)", COLOR_TITLE_BUFF },
+		{ "í¬ì´ì¦Œ ë¦¬ì•¡íŠ¸(Poison React)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¶¼Ó¼ºÀÇ °ø°ÝÀ» µÇµ¹·ÁÁÖ´Â »óÅÂ" },
-		{ "ÀÏ¹Ý°ø°Ý¿¡ ÀÇÇØ µ¥¹ÌÁö¸¦ ÀÔÀ» °æ¿ì" },
-		{ "»ó´ë¿¡°Ô ÀÎº£³Ñ ½ºÅ³ »ç¿ë" }
+		{ "ë…ì†ì„±ì˜ ê³µê²©ì„ ë˜ëŒë ¤ì£¼ëŠ” ìƒíƒœ" },
+		{ "ì¼ë°˜ê³µê²©ì— ì˜í•´ ë°ë¯¸ì§€ë¥¼ ìž…ì„ ê²½ìš°" },
+		{ "ìƒëŒ€ì—ê²Œ ì¸ë² ë„˜ ìŠ¤í‚¬ ì‚¬ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
@@ -793,64 +793,64 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶³ªÀÇ ³ë·¡", COLOR_TITLE_BUFF },
+		{ "ë§ˆë‚˜ì˜ ë…¸ëž˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "SP ÀÚ¿¬ È¸º¹·® Áõ°¡." }
+		{ "SP ìžì—° íšŒë³µëŸ‰ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAAHI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä«¾ÆÈ÷", COLOR_TITLE_BUFF },
+		{ "ì¹´ì•„ížˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅ³À» Á¦¿ÜÇÑ °ø°ÝÀ» ¹ÞÀ» ¶§¸¶´Ù" },
-		{ "SP¸¦ ¼Ò¸ðÇÏ¸ç HP È¸º¹" }
+		{ "ìŠ¤í‚¬ì„ ì œì™¸í•œ ê³µê²©ì„ ë°›ì„ ë•Œë§ˆë‹¤" },
+		{ "SPë¥¼ ì†Œëª¨í•˜ë©° HP íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ECHOSONG] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸Þ¾Æ¸®ÀÇ ³ë·¡", COLOR_TITLE_BUFF },
+		{ "ë©”ì•„ë¦¬ì˜ ë…¸ëž˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â »ó½Â" }
+		{ "ë°©ì–´ë ¥ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PRESERVE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ¸®Àúºê (Preserve)", COLOR_TITLE_BUFF },
+		{ "í”„ë¦¬ì €ë¸Œ (Preserve)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅ³À» ¸Â¾Æµµ µµÀÛ ºÒ°¡" }
+		{ "ìŠ¤í‚¬ì„ ë§žì•„ë„ ë„ìž‘ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONPERFECT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿þÆù ÆÛÆå¼Ç(Weapon Perfection)", COLOR_TITLE_BUFF },
+		{ "ì›¨í° í¼íŽ™ì…˜(Weapon Perfection)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ÒÇü, ÁßÇü, ´ëÇü ¸ó½ºÅÍ¿¡°Ô" },
-		{ "°¢°¢ 100%¾¿ÀÇ µ¥¹ÌÁö" }
+		{ "ì†Œí˜•, ì¤‘í˜•, ëŒ€í˜• ëª¬ìŠ¤í„°ì—ê²Œ" },
+		{ "ê°ê° 100%ì”©ì˜ ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROVOKE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ·Îº¸Å©(Provoke)", COLOR_TITLE_BUFF },
+		{ "í”„ë¡œë³´í¬(Provoke)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â ÇÏ¶ô" },
-		{ "°ø°Ý·Â »ó½Â" }
+		{ "ë°©ì–´ë ¥ í•˜ë½" },
+		{ "ê³µê²©ë ¥ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_POTION] = {
@@ -858,37 +858,37 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_POTION] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EDP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¡¸íÀûÀÎ µ¶ ºÎ¿© (Enchant Deadly Poison)", COLOR_TITLE_BUFF },
+		{ "ì¹˜ëª…ì ì¸ ë… ë¶€ì—¬ (Enchant Deadly Poison)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌ ¹«±â¿¡ ¸ÂÀ¸¸é È®·ü¿¡ µû¶ó °­ÇÑ µ¶ °É¸²" },
-		{ "º¸½ºÇü ¸ó½ºÅÍ¿¡°Ô´Â Áõ°¡µ¥¹ÌÁö ¹«È¿", COLOR_SYSTEM }
+		{ "ì´ ë¬´ê¸°ì— ë§žìœ¼ë©´ í™•ë¥ ì— ë”°ë¼ ê°•í•œ ë… ê±¸ë¦¼" },
+		{ "ë³´ìŠ¤í˜• ëª¬ìŠ¤í„°ì—ê²ŒëŠ” ì¦ê°€ë°ë¯¸ì§€ ë¬´íš¨", COLOR_SYSTEM }
 	}
 }
 StateIconList[EFST_IDs.EFST_JOINTBEAT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¶ÀÎÆ® ºñÆ®(Joint Beat)", COLOR_TITLE_BUFF },
+		{ "ì¡°ì¸íŠ¸ ë¹„íŠ¸(Joint Beat)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°üÀý ÆÄ±«¿¡ µû¸¥" },
-		{ "»óÅÂ ÀÌ»ó" }
+		{ "ê´€ì ˆ íŒŒê´´ì— ë”°ë¥¸" },
+		{ "ìƒíƒœ ì´ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROVIDENCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ÅÀÇ ¶æ (Providence)", COLOR_TITLE_BUFF },
+		{ "ì‹ ì˜ ëœ» (Providence)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ç¸¶Çü, ¼º¼Ó¼º ¸ó½ºÅÍ¿¡ ´ëÇÑ" },
-		{ "³»¼º Áõ°¡" }
+		{ "ì•…ë§ˆí˜•, ì„±ì†ì„± ëª¬ìŠ¤í„°ì— ëŒ€í•œ" },
+		{ "ë‚´ì„± ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT_CASH] = {
@@ -896,28 +896,28 @@ StateIconList[EFST_IDs.EFST_FOOD_VIT_CASH] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "VIT Áõ°¡" }
+		{ "VIT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±¤¶õ", COLOR_TITLE_DEBUFF },
+		{ "ê´‘ëž€", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ÃÊ ´ç HP, SP ¼Ò½Ç" },
-		{ "HIT, FLEE °¨¼Ò." },
-		{ "¾ÆÀÌÅÛ »ç¿ë ºÒ°¡" }
+		{ "3ì´ˆ ë‹¹ HP, SP ì†Œì‹¤" },
+		{ "HIT, FLEE ê°ì†Œ." },
+		{ "ì•„ì´í…œ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ®·ç »çÀÌÆ® (True Sight)", COLOR_TITLE_BUFF },
+		{ "íŠ¸ë£¨ ì‚¬ì´íŠ¸ (True Sight)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º Áõ°¡" },
-		{ "¸íÁß·ü, µ¥¹ÌÁö, Å©¸®Æ¼ÄÃ Áõ°¡" }
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ì¦ê°€" },
+		{ "ëª…ì¤‘ë¥ , ë°ë¯¸ì§€, í¬ë¦¬í‹°ì»¬ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_PLUSONLYJOBEXP] = {
@@ -925,198 +925,198 @@ StateIconList[EFST_IDs.EFST_CASH_PLUSONLYJOBEXP] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ »ç³É ½Ã JOB °æÇèÄ¡ Ãß°¡ È¹µæ" }
+		{ "ëª¬ìŠ¤í„° ì‚¬ëƒ¥ ì‹œ JOB ê²½í—˜ì¹˜ ì¶”ê°€ íšë“" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ARMOR_PROPERTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ó¼º º¯È­ ½ºÅ©·Ñ", COLOR_TITLE_BUFF },
+		{ "ì†ì„± ë³€í™” ìŠ¤í¬ë¡¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼Ó¼º º¯È­ »óÅÂ" }
+		{ "ì†ì„± ë³€í™” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TENSIONRELAX] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÅÙ¼Ç ¸±·º½º (Tension Relax)", COLOR_TITLE_BUFF },
+		{ "í…ì…˜ ë¦´ë ‰ìŠ¤ (Tension Relax)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP È¸º¹¼Óµµ Çâ»ó" }
+		{ "HP íšŒë³µì†ë„ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEATHHURT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¥½º ÇãÆ® (»óÃ³¿À¿° µ¶)", COLOR_TITLE_DEBUFF },
+		{ "ë°ìŠ¤ í—ˆíŠ¸ (ìƒì²˜ì˜¤ì—¼ ë…)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸º¹ ½ºÅ³À» ¹ÞÀ» ¶§ È¿°ú ÀúÇÏ" }
+		{ "íšŒë³µ ìŠ¤í‚¬ì„ ë°›ì„ ë•Œ íš¨ê³¼ ì €í•˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_IMPOSITIO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÓÆ÷½ÃÆ¼¿À ¸¶´©½º(Impositio Manus)", COLOR_TITLE_BUFF },
+		{ "ìž„í¬ì‹œí‹°ì˜¤ ë§ˆëˆ„ìŠ¤(Impositio Manus)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±âÀÇ °ø°Ý·Â Áõ°¡" }
+		{ "ë¬´ê¸°ì˜ ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LEECHESEND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸®Ä¡ ¿£µå (°Å¸Ó¸® µ¶)", COLOR_TITLE_BUFF },
+		{ "ë¦¬ì¹˜ ì—”ë“œ (ê±°ë¨¸ë¦¬ ë…)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ÅÃÊ ÀÏÁ¤·®ÀÇ HP ¼Ò¸ð" }
+		{ "ë§¤ì´ˆ ì¼ì •ëŸ‰ì˜ HP ì†Œëª¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_REPRODUCE] = {
 	descript = {
-		{ "¸®ÇÁ·Îµà½º", COLOR_TITLE_BUFF },
-		{ "È°¼ºÈ­ Áß ÀÚ½ÅÀÌ ¸ñÇ¥°¡ µÈ ½ºÅ³À» ¹è¿ò" },
-		{ "¹è¿ò °¡´ÉÇÑ ½ºÅ³Àº ´Ü 1°³" }
+		{ "ë¦¬í”„ë¡œë“€ìŠ¤", COLOR_TITLE_BUFF },
+		{ "í™œì„±í™” ì¤‘ ìžì‹ ì´ ëª©í‘œê°€ ëœ ìŠ¤í‚¬ì„ ë°°ì›€" },
+		{ "ë°°ì›€ ê°€ëŠ¥í•œ ìŠ¤í‚¬ì€ ë‹¨ 1ê°œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ACCELERATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾×¼¿·¹ÀÌ¼Ç", COLOR_TITLE_BUFF },
+		{ "ì•¡ì…€ë ˆì´ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶µµ ±â¾îÀÇ ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ë§ˆë„ ê¸°ì–´ì˜ ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NJ_NEN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿°(æö)", COLOR_TITLE_BUFF },
+		{ "ì—¼(ï¦£)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "STR, INT Áõ°¡" }
+		{ "STR, INT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FORCEOFVANGUARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ÷½º ¿Àºê ¹ð°¡µå", COLOR_TITLE_BUFF },
+		{ "í¬ìŠ¤ ì˜¤ë¸Œ ë±…ê°€ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP, ¹æ¾î·Â »ó½Â" },
-		{ "µ¥¹ÌÁö¸¦ ÀÔÀ» ¶§¸¶´Ù ºÐ³ë Ä«¿îÅÍ ´©Àû" },
-		{ "È°¼ºÈ­ Áß Áö¼ÓÀûÀ¸·Î SP ¼Ò¸ð" }
+		{ "MHP, ë°©ì–´ë ¥ ìƒìŠ¹" },
+		{ "ë°ë¯¸ì§€ë¥¼ ìž…ì„ ë•Œë§ˆë‹¤ ë¶„ë…¸ ì¹´ìš´í„° ëˆ„ì " },
+		{ "í™œì„±í™” ì¤‘ ì§€ì†ì ìœ¼ë¡œ SP ì†Œëª¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RG_CCONFINE_M] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å¬·ÎÁî ÄÁÆÄÀÎ(Close Confine)", COLOR_TITLE_BUFF },
+		{ "í´ë¡œì¦ˆ ì»¨íŒŒì¸(Close Confine)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àû ´ë»ó 1ÀÎ°ú ÇÔ²² ÀÌµ¿ ºÒ°¡ »óÅÂ" },
-		{ "È¸ÇÇÀ² Áõ°¡" },
-		{ "º¸½º ¸ó½ºÅÍ¿¡°Ô »ç¿ë ºÒ°¡", COLOR_SYSTEM }
+		{ "ì  ëŒ€ìƒ 1ì¸ê³¼ í•¨ê»˜ ì´ë™ ë¶ˆê°€ ìƒíƒœ" },
+		{ "íšŒí”¼ìœ¨ ì¦ê°€" },
+		{ "ë³´ìŠ¤ ëª¬ìŠ¤í„°ì—ê²Œ ì‚¬ìš© ë¶ˆê°€", COLOR_SYSTEM }
 	}
 }
 StateIconList[EFST_IDs.EFST_TRICKDEAD] = {
 	descript = {
-		{ "Á×ÀºÃ´ÇÏ±â", COLOR_TITLE_TOGGLE },
-		{ "Á×ÀºÃ´ÇÑ »óÅÂ" }
+		{ "ì£½ì€ì²™í•˜ê¸°", COLOR_TITLE_TOGGLE },
+		{ "ì£½ì€ì²™í•œ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYWATER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ·Î½ºÆ® ¿þÆù (Frost Weapon)", COLOR_TITLE_BUFF },
+		{ "í”„ë¡œìŠ¤íŠ¸ ì›¨í° (Frost Weapon)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â¿¡ ¼ö¼Ó¼º Àû¿ë" }
+		{ "ë¬´ê¸°ì— ìˆ˜ì†ì„± ì ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ADORAMUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æµµ¶ó¹«½º (ADORAMUS / Âù¹Ì°¡)", COLOR_TITLE_BUFF },
+		{ "ì•„ë„ë¼ë¬´ìŠ¤ (ADORAMUS / ì°¬ë¯¸ê°€)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ÏÈæ°ú ¹ÎÃ¸¼º °¨¼Ò »óÅÂ" }
+		{ "ì•”í‘ê³¼ ë¯¼ì²©ì„± ê°ì†Œ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¡Ç÷ - ±¸(ïÇúë-Ï¹)", COLOR_TITLE_BUFF },
+		{ "ì í˜ˆ - êµ¬(é»žç©´-çƒ)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® °ø°ÝÀ» ÇÏ°Å³ª µ¥¹ÌÁö¸¦ ÀÔÀ» ½Ã" },
-		{ "±â ±¸Ã¼ ÇÏ³ª »ý¼º" },
-		{ "¸Í·æ°ú±¤, ¿¬ÁÖºØ°Ý, º¹È£±Ç µ¥¹ÌÁö Áõ°¡" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²©ì„ í•˜ê±°ë‚˜ ë°ë¯¸ì§€ë¥¼ ìž…ì„ ì‹œ" },
+		{ "ê¸° êµ¬ì²´ í•˜ë‚˜ ìƒì„±" },
+		{ "ë§¹ë£¡ê³¼ê´‘, ì—°ì£¼ë¶•ê²©, ë³µí˜¸ê¶Œ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NEUTRALBARRIER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ºÆ®·² ¹è¸®¾î", COLOR_TITLE_BUFF },
+		{ "ë‰´íŠ¸ëŸ´ ë°°ë¦¬ì–´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸®, ¸¶¹ý ¹æ¾î·Â Çâ»ó" },
-		{ "¿ø°Å¸® °ø°Ý ¹«È¿È­" }
+		{ "ë¬¼ë¦¬, ë§ˆë²• ë°©ì–´ë ¥ í–¥ìƒ" },
+		{ "ì›ê±°ë¦¬ ê³µê²© ë¬´íš¨í™”" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EARTHSCROLL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Áñ°Å¿î ÈÞ½Ä", COLOR_TITLE_BUFF },
+		{ "ì¦ê±°ìš´ íœ´ì‹", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾î½º ½ºÆÄÀÌÅ© ÁÖ¹®¼­ »ç¿ë ½Ã" },
-		{ "ÀÏÁ¤·®ÀÇ SP ¼Ò¸ð" },
-		{ "³·Àº È®·ü·Î ÁÖ¹®¼­ ¼Òºñ" }
+		{ "ì–´ìŠ¤ ìŠ¤íŒŒì´í¬ ì£¼ë¬¸ì„œ ì‚¬ìš© ì‹œ" },
+		{ "ì¼ì •ëŸ‰ì˜ SP ì†Œëª¨" },
+		{ "ë‚®ì€ í™•ë¥ ë¡œ ì£¼ë¬¸ì„œ ì†Œë¹„" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FALCON] = {
 	descript = {
-		{ "ÆÈÄÜ¸® ¸¶½ºÅÍ¸®(Falconry Mastery)", COLOR_TITLE_TOGGLE },
-		{ "ÆÈÄÜ ´ë¿© Áß" }
+		{ "íŒ”ì½˜ë¦¬ ë§ˆìŠ¤í„°ë¦¬(Falconry Mastery)", COLOR_TITLE_TOGGLE },
+		{ "íŒ”ì½˜ ëŒ€ì—¬ ì¤‘" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TWOHANDQUICKEN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÅõÇÚµå ÄûÅ«(Two Hand Quicken)", COLOR_TITLE_BUFF },
+		{ "íˆ¬í•¸ë“œ í€´í°(Two Hand Quicken)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ç¼Õ°Ë »ç¿ë ½Ã" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ì–‘ì†ê²€ ì‚¬ìš© ì‹œ" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SUN_COMFORT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÅÂ¾çÀÇ ¾È¶ôÇÔ", COLOR_TITLE_BUFF },
+		{ "íƒœì–‘ì˜ ì•ˆë½í•¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â Çâ»ó" }
+		{ "ë°©ì–´ë ¥ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KYRIE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±â¸®¿¡ ¿¤·¹ÀÌ¼Õ(Kyrie Eleison)", COLOR_TITLE_BUFF },
+		{ "ê¸°ë¦¬ì— ì—˜ë ˆì´ì†(Kyrie Eleison)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹è¸®¾î°¡ Á¤ÇØÁø °ø°Ý È½¼ö¸¸Å­ ¹æ¾î" }
+		{ "ë°°ë¦¬ì–´ê°€ ì •í•´ì§„ ê³µê²© íšŸìˆ˜ë§Œí¼ ë°©ì–´" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTARMOR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÉ¹ÌÄ® ÇÁ·ÎÅØ¼Ç(¾Æ¸Ó) (Chemical Protection armor)", COLOR_TITLE_BUFF },
+		{ "ì¼€ë¯¸ì¹¼ í”„ë¡œí…ì…˜(ì•„ë¨¸) (Chemical Protection armor)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°©¿ÊÀÌ Àý´ë·Î ¼Õ»óµÇÁö ¾Ê´Â »óÅÂ" }
+		{ "ê°‘ì˜·ì´ ì ˆëŒ€ë¡œ ì†ìƒë˜ì§€ ì•ŠëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
@@ -1124,96 +1124,96 @@ StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" }
+		{ "STR ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AB_SECRAMENT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼¼Å©¶ó¸àÆ® (SECRAMENT / ¼º»ç ; á¡ÞÀ)", COLOR_TITLE_BUFF },
+		{ "ì„¸í¬ë¼ë©˜íŠ¸ (SECRAMENT / ì„±ì‚¬ ; è–äº‹)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ä³½ºÆÃ ½Ã°£ °¨¼Ò" }
+		{ "ìºìŠ¤íŒ… ì‹œê°„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PARALYSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÆÐ·²¶óÀÌÁî (°¨°¢¸¶ºñ µ¶)", COLOR_TITLE_BUFF },
+		{ "íŒ¨ëŸ´ë¼ì´ì¦ˆ (ê°ê°ë§ˆë¹„ ë…)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ °¨¼Ò" },
-		{ "È¸ÇÇ °¨¼Ò" },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" }
+		{ "ê³µê²©ì†ë„ ê°ì†Œ" },
+		{ "íšŒí”¼ ê°ì†Œ" },
+		{ "ì´ë™ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYGROUND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»çÀÌÁî¹Í ¿þÆù (Seismic Weapon)", COLOR_TITLE_BUFF },
+		{ "ì‚¬ì´ì¦ˆë¯¹ ì›¨í° (Seismic Weapon)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â¿¡ Áö¼Ó¼º Àû¿ë" }
+		{ "ë¬´ê¸°ì— ì§€ì†ì„± ì ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DOUBLECASTING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´õºíÄ³½ºÆÃ (Double Casting)", COLOR_TITLE_BUFF },
+		{ "ë”ë¸”ìºìŠ¤íŒ… (Double Casting)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¼Æ®·ù ½ºÅ³ »ç¿ë ½Ã" },
-		{ "È®·ü¿¡ µû¶ó º¼Æ®·ù ½ºÅ³ ÇÑ¹ø ´õ ½ÃÀü" }
+		{ "ë³¼íŠ¸ë¥˜ ìŠ¤í‚¬ ì‚¬ìš© ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ë³¼íŠ¸ë¥˜ ìŠ¤í‚¬ í•œë²ˆ ë” ì‹œì „" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RG_CCONFINE_S] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å¬·ÎÁî ÄÁÆÄÀÎ(Close Confine)", COLOR_TITLE_BUFF },
+		{ "í´ë¡œì¦ˆ ì»¨íŒŒì¸(Close Confine)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àû ´ë»ó 1ÀÎ°ú ÇÔ²² ÀÌµ¿ ºÒ°¡ »óÅÂ" },
-		{ "È¸ÇÇÀ² Áõ°¡" },
-		{ "º¸½º ¸ó½ºÅÍ¿¡°Ô »ç¿ë ºÒ°¡", COLOR_SYSTEM }
+		{ "ì  ëŒ€ìƒ 1ì¸ê³¼ í•¨ê»˜ ì´ë™ ë¶ˆê°€ ìƒíƒœ" },
+		{ "íšŒí”¼ìœ¨ ì¦ê°€" },
+		{ "ë³´ìŠ¤ ëª¬ìŠ¤í„°ì—ê²Œ ì‚¬ìš© ë¶ˆê°€", COLOR_SYSTEM }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERHEAT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 1,
 	descript = {
-		{ "¿À¹ö È÷Æ® (Over Heat)", COLOR_TITLE_BUFF },
-		{ "¸¶µµ ±â¾î ¿À¹ö È÷Æ® »óÅÂ" },
-		{ "¸ÅÃÊ ÀÏÁ¤·®ÀÇ HP °¨¼Ò" }
+		{ "ì˜¤ë²„ ížˆíŠ¸ (Over Heat)", COLOR_TITLE_BUFF },
+		{ "ë§ˆë„ ê¸°ì–´ ì˜¤ë²„ ížˆíŠ¸ ìƒíƒœ" },
+		{ "ë§¤ì´ˆ ì¼ì •ëŸ‰ì˜ HP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPL_MATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÚ¸£´©½ºÀÇ ´«¹°", COLOR_TITLE_BUFF },
+		{ "ì½”ë¥´ëˆ„ìŠ¤ì˜ ëˆˆë¬¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÇÃ¶ûµðµå ÇÊµåÁö¿ª ¸ó½ºÅÍ¿¡°Ô" },
-		{ "¸¶¹ý°ø°Ý µ¥¹ÌÁö »ó½Â" }
+		{ "ìŠ¤í”Œëž‘ë””ë“œ í•„ë“œì§€ì—­ ëª¬ìŠ¤í„°ì—ê²Œ" },
+		{ "ë§ˆë²•ê³µê²© ë°ë¯¸ì§€ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEEP_SLEEP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±íÀº Àá »óÅÂ", COLOR_TITLE_BUFF },
+		{ "ê¹Šì€ ìž  ìƒíƒœ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Åë»ó µ¥¹ÌÁöÀÇ 1.5¹è ÇÇÇØ" },
-		{ "2ÃÊ´ç ÀÏÁ¤·®ÀÇ HP/SP È¸º¹" }
+		{ "í†µìƒ ë°ë¯¸ì§€ì˜ 1.5ë°° í”¼í•´" },
+		{ "2ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP/SP íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RECOGNIZEDSPELL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸®ÄÚ±×³ªÀÌÁîµå ½ºÆç (RECOGNIZED SPELL / ¸¶¹ýÀÇ ÀÌÇØ)", COLOR_TITLE_BUFF },
+		{ "ë¦¬ì½”ê·¸ë‚˜ì´ì¦ˆë“œ ìŠ¤íŽ  (RECOGNIZED SPELL / ë§ˆë²•ì˜ ì´í•´)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÃÖ´ëÀÇ ¸¶¹ý µ¥¹ÌÁö·Î °ø°Ý" },
-		{ "SP ¼Ò¸ð·® Áõ°¡" }
+		{ "ìµœëŒ€ì˜ ë§ˆë²• ë°ë¯¸ì§€ë¡œ ê³µê²©" },
+		{ "SP ì†Œëª¨ëŸ‰ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
@@ -1221,7 +1221,7 @@ StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "MSP Áõ°¡, SP ¼Ò¸ð·® °¨¼Ò" }
+		{ "MSP ì¦ê°€, SP ì†Œëª¨ëŸ‰ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
@@ -1229,33 +1229,33 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇÀ² Çâ»ó" }
+		{ "íšŒí”¼ìœ¨ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEFENDER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µðÆæ´õ (Defender)", COLOR_TITLE_BUFF },
+		{ "ë””íŽœë” (Defender)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ø°Å¸® ¹°¸®°ø°Ý¿¡ ´ëÇÑ µ¥¹ÌÁö °¨¼Ò" },
-		{ "ÀÌµ¿¼Óµµ, °ø°Ý¼Óµµ °¨¼Ò" }
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ê³µê²©ì— ëŒ€í•œ ë°ë¯¸ì§€ ê°ì†Œ" },
+		{ "ì´ë™ì†ë„, ê³µê²©ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONPROPERTY] = {
 	haveTimeLimit = 0,
 	descript = {
-		{ "¹«±â¿¡ ¼Ó¼º ºÎ¿©" }
+		{ "ë¬´ê¸°ì— ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_S_LIFEPOTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼ÒÇü »ý¸í¼ö", COLOR_TITLE_BUFF },
+		{ "ì†Œí˜• ìƒëª…ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "5ÃÊ´ç ÀÏÁ¤·®ÀÇ HP È¸º¹" },
-		{ "¹ö¼­Å© »óÅÂ Áß È¿°ú ¾øÀ½" }
+		{ "5ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" },
+		{ "ë²„ì„œí¬ ìƒíƒœ ì¤‘ íš¨ê³¼ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_LUK] = {
@@ -1263,28 +1263,28 @@ StateIconList[EFST_IDs.EFST_FOOD_LUK] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "LUK Áõ°¡" }
+		{ "LUK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BLOODING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÃâÇ÷ »óÅÂ", COLOR_TITLE_BUFF },
+		{ "ì¶œí˜ˆ ìƒíƒœ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP, SP È¸º¹ ºÒ°¡" },
-		{ "10ÃÊ´ç ÀÏÁ¤·®ÀÇ HP ¼Ò½Ç" }
+		{ "HP, SP íšŒë³µ ë¶ˆê°€" },
+		{ "10ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP ì†Œì‹¤" }
 	}
 }
 StateIconList[EFST_IDs.EFST_REFRESH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "³ë¾¾Áî ·é ½ºÅæ ; ¸®ÇÃ·¡½¬ (Refresh)", COLOR_TITLE_BUFF },
+		{ "ë…¸ì”¨ì¦ˆ ë£¬ ìŠ¤í†¤ ; ë¦¬í”Œëž˜ì‰¬ (Refresh)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "»ç¿ë ½Ã ¸ðµç »óÅÂÀÌ»ó, µð¹öÇÁ ÇØÁ¦" },
-		{ "¾î¶² »óÅÂÀÌ»ó, µð¹öÇÁ¿¡µµ °É¸®Áö ¾ÊÀ½" },
-		{ "ÀÏÁ¤·®ÀÇ HP È¸º¹" }
+		{ "ì‚¬ìš© ì‹œ ëª¨ë“  ìƒíƒœì´ìƒ, ë””ë²„í”„ í•´ì œ" },
+		{ "ì–´ë–¤ ìƒíƒœì´ìƒ, ë””ë²„í”„ì—ë„ ê±¸ë¦¬ì§€ ì•ŠìŒ" },
+		{ "ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_LUK_CASH] = {
@@ -1292,100 +1292,100 @@ StateIconList[EFST_IDs.EFST_FOOD_LUK_CASH] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "LUK Áõ°¡" }
+		{ "LUK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BROKENARMOR] = {
 	descript = {
-		{ "¹æ¾î±¸ ÆÄ±« »óÅÂ", COLOR_TITLE_DEBUFF }
+		{ "ë°©ì–´êµ¬ íŒŒê´´ ìƒíƒœ", COLOR_TITLE_DEBUFF }
 	}
 }
 StateIconList[EFST_IDs.EFST_DODGE_ON] = {
 	descript = {
-		{ "³«¹ý", COLOR_TITLE_BUFF },
-		{ "³¯¶óÂ÷±â ÁØºñ ÀÚ¼¼" },
-		{ "ÀûÀÇ ¿ø°Å¸®, ¸¶¹ý °ø°ÝÀ» ¹ÞÀ» ½Ã" },
-		{ "È®·ü¿¡ µû¶ó °ø°Ý È¸ÇÇ" },
-		{ "½ºÆÛÆ® »óÅÂ ½Ã" },
-		{ "±Ù°Å¸® °ø°Ý¿¡µµ ¹ßµ¿" }
+		{ "ë‚™ë²•", COLOR_TITLE_BUFF },
+		{ "ë‚ ë¼ì°¨ê¸° ì¤€ë¹„ ìžì„¸" },
+		{ "ì ì˜ ì›ê±°ë¦¬, ë§ˆë²• ê³µê²©ì„ ë°›ì„ ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ê³µê²© íšŒí”¼" },
+		{ "ìŠ¤í¼íŠ¸ ìƒíƒœ ì‹œ" },
+		{ "ê·¼ê±°ë¦¬ ê³µê²©ì—ë„ ë°œë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TARGET_BLOOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»óÅÂÀÌ»ó ÀúÇ×Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "ìƒíƒœì´ìƒ ì €í•­í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ »óÅÂ¿¡ ´ëÇÑ ÀúÇ×·Â Áõ°¡" },
-		{ "½ºÅÏ, µ¿ºù, ¼®È­, ¼ö¸é, Ä§¹¬" },
-		{ "¾ÏÈæ, ÀúÁÖ, µ¶, ÃâÇ÷, È¥¶õ" }
+		{ "ì•„ëž˜ ìƒíƒœì— ëŒ€í•œ ì €í•­ë ¥ ì¦ê°€" },
+		{ "ìŠ¤í„´, ë™ë¹™, ì„í™”, ìˆ˜ë©´, ì¹¨ë¬µ" },
+		{ "ì•”í‘, ì €ì£¼, ë…, ì¶œí˜ˆ, í˜¼ëž€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MELODYOFSINK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸á·Îµð ¿Àºê ½ÌÅ©", COLOR_TITLE_BUFF },
+		{ "ë©œë¡œë”” ì˜¤ë¸Œ ì‹±í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "SP Áö¼Ó ¼Ò¸ð." },
-		{ "INT °¨¼Ò." }
+		{ "SP ì§€ì† ì†Œëª¨." },
+		{ "INT ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRUCIS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Ã±×³Ñ Å©·ç½Ã½º(Signum Crucis)", COLOR_TITLE_BUFF },
+		{ "ì‹œê·¸ë„˜ í¬ë£¨ì‹œìŠ¤(Signum Crucis)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ðµ¥µå, ¾Ï°è¿­ ¸ó½ºÅÍÀÇ ¹æ¾î·Â °¨¼Ò" }
+		{ "ì–¸ë°ë“œ, ì•”ê³„ì—´ ëª¬ìŠ¤í„°ì˜ ë°©ì–´ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SLOWCAST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½½·Î¿ì Ä³½ºÆ®", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¬ë¡œìš° ìºìŠ¤íŠ¸", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ä³½ºÆÃ ½Ã°£ Áõ°¡" }
+		{ "ìºìŠ¤íŒ… ì‹œê°„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYWIND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¶óÀÌÆ®´× ·Î´õ (Lightning Loader)", COLOR_TITLE_BUFF },
+		{ "ë¼ì´íŠ¸ë‹ ë¡œë” (Lightning Loader)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â¿¡ Ç³¼Ó¼º Àû¿ë" }
+		{ "ë¬´ê¸°ì— í’ì†ì„± ì ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENCHANTBLADE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿£Ã¾Æ® ºí·¹ÀÌµå (Enchant Blade)", COLOR_TITLE_BUFF },
+		{ "ì—”ì²¸íŠ¸ ë¸”ë ˆì´ë“œ (Enchant Blade)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® °ø°Ý¿¡ ¸¶¹ý °ø°Ý·Â Ãß°¡" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²©ì— ë§ˆë²• ê³µê²©ë ¥ ì¶”ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ADRENALINE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æµå·¹³¯¸° ·¯½¬(Adrenaline Rush)", COLOR_TITLE_BUFF },
+		{ "ì•„ë“œë ˆë‚ ë¦° ëŸ¬ì‰¬(Adrenaline Rush)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µµ³¢¿Í µÐ±â·ù ¹«±â" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ë„ë¼ì™€ ë‘”ê¸°ë¥˜ ë¬´ê¸°" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGICMUSHROOM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ÅÁ÷ ¸Ó½¬·ë (¿ôÀ½ ¹ö¼¸ µ¶)", COLOR_TITLE_BUFF },
+		{ "ë§¤ì§ ë¨¸ì‰¬ë£¸ (ì›ƒìŒ ë²„ì„¯ ë…)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ôÀ½ ÀÌ¸ðÆ¼ÄÜ" },
-		{ "4ÃÊ´ç ·£´ý ½ºÅ³ »ç¿ë" },
-		{ "4ÃÊ´ç ÀÏÁ¤·®ÀÇ HP ¼Ò½Ç" }
+		{ "ì›ƒìŒ ì´ëª¨í‹°ì½˜" },
+		{ "4ì´ˆë‹¹ ëžœë¤ ìŠ¤í‚¬ ì‚¬ìš©" },
+		{ "4ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP ì†Œì‹¤" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_PLUSEXP] = {
@@ -1393,36 +1393,36 @@ StateIconList[EFST_IDs.EFST_CASH_PLUSEXP] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "È¹µæ °æÇèÄ¡ Áõ°¡" }
+		{ "íšë“ ê²½í—˜ì¹˜ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°¢¼ºÀÇ Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "ê°ì„±ì˜ í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TOXIN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Åå½Å (½Å°æ¸¶ºñ µ¶)", COLOR_TITLE_BUFF },
+		{ "í†¡ì‹  (ì‹ ê²½ë§ˆë¹„ ë…)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "10ÃÊ´çÄ³½ºÆÃ, ½ºÅ³ µ¿ÀÛ ¹æÇØ" },
-		{ "ÈÓ Ä«µå ¿É¼Ç ¹«½Ã" },
-		{ "10ÃÊ´ç ÀÏÁ¤·®ÀÇ SP ¼Ò½Ç" }
+		{ "10ì´ˆë‹¹ìºìŠ¤íŒ…, ìŠ¤í‚¬ ë™ìž‘ ë°©í•´" },
+		{ "íœ€ ì¹´ë“œ ì˜µì…˜ ë¬´ì‹œ" },
+		{ "10ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ SP ì†Œì‹¤" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HARMONIZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÏ¸ð³ªÀÌÁî", COLOR_TITLE_BUFF },
+		{ "í•˜ëª¨ë‚˜ì´ì¦ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±âº» ½ºÅ×ÀÌÅÍ½º °¡ÁßÄ¡ Á¶Á¤" }
+		{ "ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ê°€ì¤‘ì¹˜ ì¡°ì •" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHASEWALK2] = {
@@ -1430,7 +1430,7 @@ StateIconList[EFST_IDs.EFST_CHASEWALK2] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" }
+		{ "STR ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_STR_CASH] = {
@@ -1438,51 +1438,51 @@ StateIconList[EFST_IDs.EFST_FOOD_STR_CASH] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" }
+		{ "STR ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
 	descript = {
-		{ "Å¬·ÎÅ· ÀÍ½Ãµå (CLOAKING EXCEED / Çâ»óµÈ Å¬·ÎÅ·)", COLOR_TITLE_BUFF },
-		{ "°ïÃæÇü, ¾Ç¸¶Çü¿¡°Ôµµ º¸ÀÌÁö ¾ÊÀ½" },
-		{ "ÀÏÁ¤ È½¼ö µ¥¹ÌÁö±îÁö Ç®¸®Áö ¾ÊÀ½" },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "í´ë¡œí‚¹ ìµì‹œë“œ (CLOAKING EXCEED / í–¥ìƒëœ í´ë¡œí‚¹)", COLOR_TITLE_BUFF },
+		{ "ê³¤ì¶©í˜•, ì•…ë§ˆí˜•ì—ê²Œë„ ë³´ì´ì§€ ì•ŠìŒ" },
+		{ "ì¼ì • íšŸìˆ˜ ë°ë¯¸ì§€ê¹Œì§€ í’€ë¦¬ì§€ ì•ŠìŒ" },
+		{ "ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ¼ûÇÁÆ¼¿À (Assumptio)", COLOR_TITLE_BUFF },
+		{ "ì•„ìˆ¨í”„í‹°ì˜¤ (Assumptio)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â Áõ°¡" }
+		{ "ë°©ì–´ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_THORNS_TRAP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°¡½Ã³ª¹« µ£", COLOR_TITLE_DEBUFF },
+		{ "ê°€ì‹œë‚˜ë¬´ ë«", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á¶±Ý¾¿ µ¥¹ÌÁö ÀÔÀ½" }
+		{ "ì¡°ê¸ˆì”© ë°ë¯¸ì§€ ìž…ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SLOWPOISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½½·Î¿ì Æ÷ÀÌÁð(Slow Poison)", COLOR_TITLE_BUFF },
+		{ "ìŠ¬ë¡œìš° í¬ì´ì¦Œ(Slow Poison)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¶ÀÇ ÁøÇàÀ» ÀÏ½Ã ¸ØÃã" }
+		{ "ë…ì˜ ì§„í–‰ì„ ì¼ì‹œ ë©ˆì¶¤" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CLOAKING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å¬·ÎÅ·(Cloaking)", COLOR_TITLE_BUFF },
+		{ "í´ë¡œí‚¹(Cloaking)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´Ù¸¥ »ç¶÷¿¡°Ô º¸ÀÌÁö ¾Ê´Â »óÅÂ" }
+		{ "ë‹¤ë¥¸ ì‚¬ëžŒì—ê²Œ ë³´ì´ì§€ ì•ŠëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PARTYFLEE] = {
@@ -1490,26 +1490,26 @@ StateIconList[EFST_IDs.EFST_PARTYFLEE] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇÀ² Áõ°¡" }
+		{ "íšŒí”¼ìœ¨ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿¬¸¶Á¦", COLOR_TITLE_BUFF },
+		{ "ì—°ë§ˆì œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Å©¸®Æ¼ÄÃ È®·ü Áõ°¡" }
+		{ "í¬ë¦¬í‹°ì»¬ í™•ë¥  ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ð¸®¹ÌÆ¼µå Çã¹Ö º¸ÀÌ½º", COLOR_TITLE_BUFF },
+		{ "ì–¸ë¦¬ë¯¸í‹°ë“œ í—ˆë° ë³´ì´ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ë»óÀÇ ½ºÅ³, ¸¶¹ý Ä³½ºÆÃÀÌ ²÷±âÁö ¾ÊÀ½" },
-		{ "½ºÅ³ »ç¿ë ½Ã ¼Ò¸ð SP Áõ°¡" }
+		{ "ëŒ€ìƒì˜ ìŠ¤í‚¬, ë§ˆë²• ìºìŠ¤íŒ…ì´ ëŠê¸°ì§€ ì•ŠìŒ" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ì‹œ ì†Œëª¨ SP ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
@@ -1517,149 +1517,149 @@ StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "DEX Áõ°¡" }
+		{ "DEX ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ANALYZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Ö³Î¶óÀÌÁî", COLOR_TITLE_BUFF },
+		{ "ì• ë„ë¼ì´ì¦ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸®, ¸¶¹ý ¹æ¾î·Â °¨¼Ò" }
+		{ "ë¬¼ë¦¬, ë§ˆë²• ë°©ì–´ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¡Ç÷ - È°(ïÇúë-üÀ)", COLOR_TITLE_BUFF },
+		{ "ì í˜ˆ - í™œ(é»žç©´-æ´»)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP »ó½Â, ¹°¸® ¹æ¾î·Â »ó½Â" },
-		{ "HP ÀÚ¿¬ È¸º¹¼Óµµ Áõ°¡" },
-		{ "ÀÌµ¿, °ø°Ý Áß¿¡µµ HP È¸º¹" },
-		{ "È£Æ÷, ³ªÂûÆÄÈ²°Ý µ¥¹ÌÁö Áõ°¡" }
+		{ "MHP ìƒìŠ¹, ë¬¼ë¦¬ ë°©ì–´ë ¥ ìƒìŠ¹" },
+		{ "HP ìžì—° íšŒë³µì†ë„ ì¦ê°€" },
+		{ "ì´ë™, ê³µê²© ì¤‘ì—ë„ HP íšŒë³µ" },
+		{ "í˜¸í¬, ë‚˜ì°°íŒŒí™©ê²© ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
 	descript = {
-		{ "Ä«¿îÅÍ ÁØºñ", COLOR_TITLE_BUFF },
-		{ "Àû¿¡°Ô °ø°Ý ¸íÁß ½Ã" },
-		{ "È®·ü¿¡ µû¶ó Ä«¿îÅÍÂ÷±â ÁØºñ ÀÚ¼¼" }
+		{ "ì¹´ìš´í„° ì¤€ë¹„", COLOR_TITLE_BUFF },
+		{ "ì ì—ê²Œ ê³µê²© ëª…ì¤‘ ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ì¹´ìš´í„°ì°¨ê¸° ì¤€ë¹„ ìžì„¸" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GLORIA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Û·Î¸®¾Æ(Gloria)", COLOR_TITLE_BUFF },
+		{ "ê¸€ë¡œë¦¬ì•„(Gloria)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "LUK Áõ°¡" }
+		{ "LUK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RUSH_WINDMILL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ç³Â÷¸¦ ÇâÇØ µ¹°Ý", COLOR_TITLE_BUFF },
+		{ "í’ì°¨ë¥¼ í–¥í•´ ëŒê²©", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý·Â Áõ°¡" },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ê³µê²©ë ¥ ì¦ê°€" },
+		{ "ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PYREXIA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÆÄÀÌ·º½Ã¾Æ (¿­º´ µ¶)", COLOR_TITLE_BUFF },
+		{ "íŒŒì´ë ‰ì‹œì•„ (ì—´ë³‘ ë…)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ÏÈæ, È¯°¢ »óÅÂ" }
+		{ "ì•”í‘, í™˜ê° ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DANCE_WITH_WUG] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ö±×¿Í ÇÔ²² ÃãÀ»", COLOR_TITLE_BUFF },
+		{ "ì›Œê·¸ì™€ í•¨ê»˜ ì¶¤ì„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "°íÁ¤ Ä³½ºÆÃ ½Ã°£ °¨¼Ò." },
-		{ "¿ø°Å¸® µ¥¹ÌÁö Áõ°¡." }
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "ê³ ì • ìºìŠ¤íŒ… ì‹œê°„ ê°ì†Œ." },
+		{ "ì›ê±°ë¦¬ ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÀ® ´í½º", COLOR_TITLE_BUFF },
+		{ "ìŠ¤ìœ™ ëŒ„ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "°íÁ¤ Ä³½ºÆÃ °¨¼Ò" }
+		{ "ì´ë™ì†ë„ ì¦ê°€" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "ê³ ì • ìºìŠ¤íŒ… ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOON_COMFORT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ÞÀÇ ¾È¶ôÇÔ", COLOR_TITLE_BUFF },
+		{ "ë‹¬ì˜ ì•ˆë½í•¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇÀ² Çâ»ó" }
+		{ "íšŒí”¼ìœ¨ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOONLIT_SERENADE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ÞºûÀÇ ¼¼·¹³ªµ¥", COLOR_TITLE_BUFF },
+		{ "ë‹¬ë¹›ì˜ ì„¸ë ˆë‚˜ë°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý °ø°Ý·Â »ó½Â" }
+		{ "ë§ˆë²• ê³µê²©ë ¥ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¡Ç÷ - ¹Ý(ïÇúë-Úã)", COLOR_TITLE_BUFF },
+		{ "ì í˜ˆ - ë°˜(é»žç©´-å)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý·Â, °ø°Ý¼Óµµ Áõ°¡" },
-		{ "Æø±â»êÅº, ¼ö¶ó½ÅÅº µ¥¹ÌÁö Áõ°¡" }
+		{ "ê³µê²©ë ¥, ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "í­ê¸°ì‚°íƒ„, ìˆ˜ë¼ì‹ íƒ„ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾×¼¼¼­¸® ÀåÂøÇØÁ¦ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ì•¡ì„¸ì„œë¦¬ ìž¥ì°©í•´ì œ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾×¼¼¼­¸® ÀåÂø ºÒ°¡" }
+		{ "ì•¡ì„¸ì„œë¦¬ ìž¥ì°© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
 	haveTimeLimit = 0,
 	descript = {
-		{ "¾ðµ¥µå ¼Ó¼º Àû¿ë" }
+		{ "ì–¸ë°ë“œ ì†ì„± ì ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎºñÁöºô¸®Æ¼ (Åõ¸íÈ­)", COLOR_TITLE_BUFF },
+		{ "ì¸ë¹„ì§€ë¹Œë¦¬í‹° (íˆ¬ëª…í™”)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¸ÀÌÁö ¾Ê´Â »óÅÂ¿¡¼­ °ø°Ý °¡´É" },
-		{ "°ø°Ý ¼Ó¼ºÀÌ ¿°¼Ó¼º 1·¹º§·Î º¯È­" },
-		{ "Áö¼ÓÀûÀÎ SP °¨¼Ò" },
-		{ "½ºÅ³, ¾ÆÀÌÅÛ »ç¿ë ºÒ°¡" }
+		{ "ë³´ì´ì§€ ì•ŠëŠ” ìƒíƒœì—ì„œ ê³µê²© ê°€ëŠ¥" },
+		{ "ê³µê²© ì†ì„±ì´ ì—¼ì†ì„± 1ë ˆë²¨ë¡œ ë³€í™”" },
+		{ "ì§€ì†ì ì¸ SP ê°ì†Œ" },
+		{ "ìŠ¤í‚¬, ì•„ì´í…œ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ABUNDANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ì¸£Áî ·é ½ºÅæ ;  ¾î¹ø´ø½º (Abundance)", COLOR_TITLE_BUFF },
+		{ "ìš°ë¥´ì¦ˆ ë£¬ ìŠ¤í†¤ ;  ì–´ë²ˆë˜ìŠ¤ (Abundance)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "10ÃÊ´ç ÀÏÁ¤·®ÀÇ SP È¸º¹" }
+		{ "10ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ SP íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
@@ -1667,7 +1667,7 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¸íÁß·ü Çâ»ó" }
+		{ "ëª…ì¤‘ë¥  í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_AGI_CASH] = {
@@ -1675,85 +1675,85 @@ StateIconList[EFST_IDs.EFST_FOOD_AGI_CASH] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "AGI Áõ°¡" }
+		{ "AGI ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOWFORM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼¨µµ¿ì Æû", COLOR_TITLE_BUFF },
+		{ "ì„€ë„ìš° í¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ È½¼ö¸¸Å­ ÀÚ½ÅÀÇ µ¥¹ÌÁö¸¦" },
-		{ "¸ñÇ¥ ÇÃ·¹ÀÌ¾î¿¡°Ô ´ë½Å ÀÔÈû" }
+		{ "ì¼ì • íšŸìˆ˜ë§Œí¼ ìžì‹ ì˜ ë°ë¯¸ì§€ë¥¼" },
+		{ "ëª©í‘œ í”Œë ˆì´ì–´ì—ê²Œ ëŒ€ì‹  ìž…íž˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHAPESHIFT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼ÎÀÌÇÁ ½¬ÇÁÆ®", COLOR_TITLE_BUFF },
+		{ "ì…°ì´í”„ ì‰¬í”„íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶µµ±â¾îÀÇ µ¿Ã¼ ¼Ó¼º º¯È¯" }
+		{ "ë§ˆë„ê¸°ì–´ì˜ ë™ì²´ ì†ì„± ë³€í™˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MANU_ATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶´©Å©ÀÇ È£±â", COLOR_TITLE_BUFF },
+		{ "ë§ˆëˆ„í¬ì˜ í˜¸ê¸°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶´©Å© ÇÊµåÁö¿ª ¸ó½ºÅÍ¿¡°Ô" },
-		{ "¹°¸®°ø°Ý µ¥¹ÌÁö »ó½Â" }
+		{ "ë§ˆëˆ„í¬ í•„ë“œì§€ì—­ ëª¬ìŠ¤í„°ì—ê²Œ" },
+		{ "ë¬¼ë¦¬ê³µê²© ë°ë¯¸ì§€ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MARIONETTE_MASTER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶¸®¿À³×¶ß ÄÁÆ®·Ñ (½ÃÀü)", COLOR_TITLE_BUFF },
+		{ "ë§ˆë¦¬ì˜¤ë„¤ëœ¨ ì»¨íŠ¸ë¡¤ (ì‹œì „)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ë»ó ÇÃ·¹ÀÌ¾î¿¡°Ô" },
-		{ "±âº» ½ºÅ×ÀÌÅÍ½º¸¦ ³Ñ±ä »óÅÂ" }
+		{ "ëŒ€ìƒ í”Œë ˆì´ì–´ì—ê²Œ" },
+		{ "ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ë¥¼ ë„˜ê¸´ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MARIONETTE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶¸®¿À³×¶ß ÄÁÆ®·Ñ (´ë»ó)", COLOR_TITLE_BUFF },
+		{ "ë§ˆë¦¬ì˜¤ë„¤ëœ¨ ì»¨íŠ¸ë¡¤ (ëŒ€ìƒ)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ÃÀü ÇÃ·¹ÀÌ¾î¿¡°Ô" },
-		{ "±âº» ½ºÅ×ÀÌÅÍ½º¸¦ ¹ÞÀº »óÅÂ" }
+		{ "ì‹œì „ í”Œë ˆì´ì–´ì—ê²Œ" },
+		{ "ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ë¥¼ ë°›ì€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WZ_SIGHTBLASTER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»çÀÌÆ® ºí·¡½ºÅÍ(Sight Blaster)", COLOR_TITLE_BUFF },
+		{ "ì‚¬ì´íŠ¸ ë¸”ëž˜ìŠ¤í„°(Sight Blaster)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ºÙÀº Àû¿¡°Ô ¸¶¹ý °ø°Ý·Â ¸¸Å­ÀÇ" },
-		{ "µ¥¹ÌÁö¸¦ ÁÖ¸ç ¹Ð¾î³¿" }
+		{ "ë¶™ì€ ì ì—ê²Œ ë§ˆë²• ê³µê²©ë ¥ ë§Œí¼ì˜" },
+		{ "ë°ë¯¸ì§€ë¥¼ ì£¼ë©° ë°€ì–´ëƒ„" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LEXAETERNA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·º½º ¿¡Å×¸£³ª(Lex Aeterna)", COLOR_TITLE_DEBUFF },
+		{ "ë ‰ìŠ¤ ì—í…Œë¥´ë‚˜(Lex Aeterna)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "1È¸ °ø°Ý¿¡ µÎ ¹è µ¥¹ÌÁö¸¦ ¹Þ´Â »óÅÂ" }
+		{ "1íšŒ ê³µê²©ì— ë‘ ë°° ë°ë¯¸ì§€ë¥¼ ë°›ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INFRAREDSCAN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎÇÁ¶ó·¹µå ½ºÄµ", COLOR_TITLE_BUFF },
+		{ "ì¸í”„ë¼ë ˆë“œ ìŠ¤ìº”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼û¾îÀÖ´Â Àû ¹ß°ß" },
-		{ "È®·ü¿¡ µû¶ó ¹üÀ§ ³» ¸ðµç ´ë»óÀÇ È¸ÇÇÀ² °¨¼Ò" }
+		{ "ìˆ¨ì–´ìžˆëŠ” ì  ë°œê²¬" },
+		{ "í™•ë¥ ì— ë”°ë¼ ë²”ìœ„ ë‚´ ëª¨ë“  ëŒ€ìƒì˜ íšŒí”¼ìœ¨ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INT_SCROLL] = {
@@ -1761,30 +1761,30 @@ StateIconList[EFST_IDs.EFST_INT_SCROLL] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "INT Áõ°¡" }
+		{ "INT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASPERSIO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ½ºÆä¸£½Ã¿À(Aspersio)", COLOR_TITLE_BUFF },
+		{ "ì•„ìŠ¤íŽ˜ë¥´ì‹œì˜¤(Aspersio)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â¿¡ ¼º¼Ó¼º ºÎ¿©" }
+		{ "ë¬´ê¸°ì— ì„±ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
 	descript = {
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LERADS_DEW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·¹¶óµåÀÇ ÀÌ½½", COLOR_TITLE_BUFF },
+		{ "ë ˆë¼ë“œì˜ ì´ìŠ¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP »ó½Â" }
+		{ "MHP ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_INT] = {
@@ -1792,110 +1792,110 @@ StateIconList[EFST_IDs.EFST_FOOD_INT] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "INT Áõ°¡" }
+		{ "INT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VENOMBLEED] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º£³ð ºí¸®µå (Ã¼·ÂÀúÇÏ µ¶)", COLOR_TITLE_DEBUFF },
+		{ "ë² ë†ˆ ë¸”ë¦¬ë“œ (ì²´ë ¥ì €í•˜ ë…)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP ÀúÇÏ °íÁ¤" }
+		{ "MHP ì €í•˜ ê³ ì •" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_GATLINGFEVER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°³Æ²¸µ ÇÇ¹ö(Gatling Fever)", COLOR_TITLE_BUFF },
+		{ "ê°œí‹€ë§ í”¼ë²„(Gatling Fever)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ, µ¥¹ÌÁö Çâ»ó" },
-		{ "È¸ÇÇÀ², ÀÌµ¿¼Óµµ °¨¼Ò" }
+		{ "ê³µê²©ì†ë„, ë°ë¯¸ì§€ í–¥ìƒ" },
+		{ "íšŒí”¼ìœ¨, ì´ë™ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÏ°¥¶óÁî ·é ½ºÅæ ; ½ºÅæ ÇÏµå ½ºÅ² (Stone Hard Skin)", COLOR_TITLE_BUFF },
+		{ "í•˜ê°ˆë¼ì¦ˆ ë£¬ ìŠ¤í†¤ ; ìŠ¤í†¤ í•˜ë“œ ìŠ¤í‚¨ (Stone Hard Skin)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤·®ÀÇ HP ¼Ò½Ç ÈÄ ±× ¸¸Å­ÀÇ ¹æ¾î¸· »ý¼º" },
-		{ "´Ù¸¥ ÇÃ·¹ÀÌ¾î°¡ ±ÙÁ¢ ¹°¸® °ø°Ý ½Ã" },
-		{ "È®·ü¿¡ µû¶ó °ø°ÝÇÑ ÇÃ·¹ÀÌ¾î ¹«±â ÆÄ±«" },
-		{ "¸ó½ºÅÍÀÇ °æ¿ì È®·ü¿¡ µû¶ó 10ÃÊ°£ ATK ÇÏ¶ô" }
+		{ "ì¼ì •ëŸ‰ì˜ HP ì†Œì‹¤ í›„ ê·¸ ë§Œí¼ì˜ ë°©ì–´ë§‰ ìƒì„±" },
+		{ "ë‹¤ë¥¸ í”Œë ˆì´ì–´ê°€ ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²© ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ê³µê²©í•œ í”Œë ˆì´ì–´ ë¬´ê¸° íŒŒê´´" },
+		{ "ëª¬ìŠ¤í„°ì˜ ê²½ìš° í™•ë¥ ì— ë”°ë¼ 10ì´ˆê°„ ATK í•˜ë½" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WEIGHTOVER90] = {
 	descript = {
-		{ "¹«°Ô 90% ÀÌ»ó", COLOR_TITLE_DEBUFF },
-		{ "HP, SP ÀÚ¿¬È¸º¹ ºÒ°¡" },
-		{ "°ø°Ý, ½ºÅ³ »ç¿ë ºÒ°¡" }
+		{ "ë¬´ê²Œ 90% ì´ìƒ", COLOR_TITLE_DEBUFF },
+		{ "HP, SP ìžì—°íšŒë³µ ë¶ˆê°€" },
+		{ "ê³µê²©, ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTHELM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÉ¹ÌÄ® ÇÁ·ÎÅØ¼Ç(Çï¸§) (Chemical Protection Helm)", COLOR_TITLE_BUFF },
+		{ "ì¼€ë¯¸ì¹¼ í”„ë¡œí…ì…˜(í—¬ë¦„) (Chemical Protection Helm)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Åõ±¸°¡ Àý´ë·Î ¼Õ»óµÇÁö ¾Ê´Â »óÅÂ" }
+		{ "íˆ¬êµ¬ê°€ ì ˆëŒ€ë¡œ ì†ìƒë˜ì§€ ì•ŠëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSAVOIDVALUE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¯¿µÀÇ ¼úÀÜ", COLOR_TITLE_BUFF },
+		{ "í™˜ì˜ì˜ ìˆ ìž”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ÏÀü È¸ÇÇ Áõ°¡" }
+		{ "ì™„ì „ íšŒí”¼ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OBLIVIONCURSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿Àºí¸®ºñ¾ð Ä¿Áî (¸Á°¢ÀÇ Àç)", COLOR_TITLE_DEBUFF },
+		{ "ì˜¤ë¸”ë¦¬ë¹„ì–¸ ì»¤ì¦ˆ (ë§ê°ì˜ ìž¬)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸Á°¢ »óÅÂ" }
+		{ "ë§ê° ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALPLUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¸º¹·Â Çâ»óÆ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "íšŒë³µë ¥ í–¥ìƒí¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹Þ´Â Èú°ú ÀÏºÎ È¸º¹ ¾ÆÀÌÅÛÀÇ" },
-		{ "»ç¿ë È¿°ú Çâ»ó" }
+		{ "ë°›ëŠ” ížê³¼ ì¼ë¶€ íšŒë³µ ì•„ì´í…œì˜" },
+		{ "ì‚¬ìš© íš¨ê³¼ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECT_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹°¸® ¹æ¾î Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "ë¬¼ë¦¬ ë°©ì–´ í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® °ø°Ý ³»¼º Áõ°¡" }
+		{ "ë¬¼ë¦¬ ê³µê²© ë‚´ì„± ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRITICALWOUND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¡¸íÀûÀÎ »óÃ³", COLOR_TITLE_DEBUFF },
+		{ "ì¹˜ëª…ì ì¸ ìƒì²˜", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹Þ°Ô µÇ´Â È¸º¹°è ½ºÅ³ÀÇ È¿°ú °¨¼Ò" }
+		{ "ë°›ê²Œ ë˜ëŠ” íšŒë³µê³„ ìŠ¤í‚¬ì˜ íš¨ê³¼ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PRESTIGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ·¹½ºÆ¼Áö", COLOR_TITLE_BUFF },
+		{ "í”„ë ˆìŠ¤í‹°ì§€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±âº» ½ºÅ×ÀÌÅÍ½º¿¡ µû¸¥ ¸¶¹ý È¸ÇÇÀ² Àû¿ë" },
-		{ "¹æ¾î·Â »ó½Â" }
+		{ "ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ì— ë”°ë¥¸ ë§ˆë²• íšŒí”¼ìœ¨ ì ìš©" },
+		{ "ë°©ì–´ë ¥ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_DEX_CASH] = {
@@ -1903,51 +1903,51 @@ StateIconList[EFST_IDs.EFST_FOOD_DEX_CASH] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "DEX Áõ°¡" }
+		{ "DEX ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CARTBOOST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä«Æ® ºÎ½ºÆ® (Cart Boost)", COLOR_TITLE_BUFF },
+		{ "ì¹´íŠ¸ ë¶€ìŠ¤íŠ¸ (Cart Boost)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ä«Æ® ÀÌ¿ë ½ÃÀÇ ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ì¹´íŠ¸ ì´ìš© ì‹œì˜ ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_L_LIFEPOTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁßÇü »ý¸í¼ö", COLOR_TITLE_BUFF },
+		{ "ì¤‘í˜• ìƒëª…ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "4ÃÊ´ç ÀÏÁ¤·®ÀÇ HP È¸º¹" },
-		{ "¹ö¼­Å© »óÅÂ Áß È¿°ú ¾øÀ½" }
+		{ "4ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" },
+		{ "ë²„ì„œí¬ ìƒíƒœ ì¤‘ íš¨ê³¼ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WINDWALK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "À©µå ¿öÅ© (Wind Walk)", COLOR_TITLE_BUFF },
+		{ "ìœˆë“œ ì›Œí¬ (Wind Walk)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ, È¸ÇÇÀ² Çâ»ó" }
+		{ "ì´ë™ì†ë„, íšŒí”¼ìœ¨ í–¥ìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYFIRE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ·¹ÀÓ ·±ÃÄ (Flame Launcher)", COLOR_TITLE_BUFF },
+		{ "í”„ë ˆìž„ ëŸ°ì³ (Flame Launcher)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â¿¡ È­¼Ó¼º ºÎ¿©" }
+		{ "ë¬´ê¸°ì— í™”ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
 	descript = {
-		{ "Âï±â ÁØºñ", COLOR_TITLE_BUFF },
-		{ "Àû¿¡°Ô °ø°Ý ¸íÁß ½Ã" },
-		{ "È®·ü¿¡ µû¶ó Âï±â ÁØºñ ÀÚ¼¼" }
+		{ "ì°ê¸° ì¤€ë¹„", COLOR_TITLE_BUFF },
+		{ "ì ì—ê²Œ ê³µê²© ëª…ì¤‘ ì‹œ" },
+		{ "í™•ë¥ ì— ë”°ë¼ ì°ê¸° ì¤€ë¹„ ìžì„¸" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
@@ -1955,56 +1955,56 @@ StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¾Ï¼Ó¼º Àû¿ë" }
+		{ "ì•”ì†ì„± ì ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸®ÇÃ·ºÆ® ½¯µå (Reflect Shield)", COLOR_TITLE_BUFF },
+		{ "ë¦¬í”Œë ‰íŠ¸ ì‰´ë“œ (Reflect Shield)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÚ½ÅÀ» ±Ù°Å¸® ¹°¸® °ø°ÝÇÑ Àû¿¡°Ô" },
-		{ "ÀÏÁ¤ÇÑ µ¥¹ÌÁö¸¦ µÇµ¹¸²" }
+		{ "ìžì‹ ì„ ê·¼ê±°ë¦¬ ë¬¼ë¦¬ ê³µê²©í•œ ì ì—ê²Œ" },
+		{ "ì¼ì •í•œ ë°ë¯¸ì§€ë¥¼ ë˜ëŒë¦¼" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RIDING] = {
 	descript = {
-		{ "Å» °Í ´ë¿© Áß", COLOR_TITLE_TOGGLE }
+		{ "íƒˆ ê²ƒ ëŒ€ì—¬ ì¤‘", COLOR_TITLE_TOGGLE }
 	}
 }
 StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼¶Àüº¸(àìï³ÜÆ)", COLOR_TITLE_BUFF },
+		{ "ì„¬ì „ë³´(é–ƒé›»æ­¥)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ø°Å¸® ¹°¸® °ø°ÝÀÇ Å¸°ÙÀÏ ¶§" },
-		{ "ÀÏÁ¤ È®·ü·Î °ø°Ý È¸ÇÇ ÈÄ" },
-		{ "°ø°ÝÇÑ ´ë»óÀÇ ¹Ù·Î ¾Õ±îÁö ÀÌµ¿" }
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ê³µê²©ì˜ íƒ€ê²Ÿì¼ ë•Œ" },
+		{ "ì¼ì • í™•ë¥ ë¡œ ê³µê²© íšŒí”¼ í›„" },
+		{ "ê³µê²©í•œ ëŒ€ìƒì˜ ë°”ë¡œ ì•žê¹Œì§€ ì´ë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FROSTMISTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºù°á »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ë¹™ê²° ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â, ÀÌµ¿¼Óµµ, °ø°Ý¼Óµµ °¨¼Ò" },
-		{ "°íÁ¤ Ä³½ºÆÃ ½Ã°£ Áõ°¡" }
+		{ "ë°©ì–´ë ¥, ì´ë™ì†ë„, ê³µê²©ì†ë„ ê°ì†Œ" },
+		{ "ê³ ì • ìºìŠ¤íŒ… ì‹œê°„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "³Ãµ¿ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ëƒ‰ë™ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿, °ø°Ý, ½ºÅ³, ¾ÆÀÌÅÛ »ç¿ë ºÒ°¡" },
-		{ "Áö¼ÓÀûÀÎ HP, SP °¨¼Ò" },
-		{ "µÐ±â, µµ³¢, ¾ç¼Õ µµ³¢¿¡ ÀÇÇÑ ÇÇÇØ Áõ°¡" },
-		{ "Ç³¼Ó¼º ¸¶¹ý¿¡ ÀÇÇÑ ÇÇÇØ Áõ°¡" },
-		{ "´Ü°Ë, °Ë, ¾ç¼Õ°Ë, È­»ì¿¡ ÀÇÇÑ ÇÇÇØ °¨¼Ò" }
+		{ "ì´ë™, ê³µê²©, ìŠ¤í‚¬, ì•„ì´í…œ ì‚¬ìš© ë¶ˆê°€" },
+		{ "ì§€ì†ì ì¸ HP, SP ê°ì†Œ" },
+		{ "ë‘”ê¸°, ë„ë¼, ì–‘ì† ë„ë¼ì— ì˜í•œ í”¼í•´ ì¦ê°€" },
+		{ "í’ì†ì„± ë§ˆë²•ì— ì˜í•œ í”¼í•´ ì¦ê°€" },
+		{ "ë‹¨ê²€, ê²€, ì–‘ì†ê²€, í™”ì‚´ì— ì˜í•œ í”¼í•´ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GROUNDMAGIC] = {
@@ -2012,261 +2012,261 @@ StateIconList[EFST_IDs.EFST_GROUNDMAGIC] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Áö¸é ½ºÅ³ÀÇ È¿°ú Àû¿ë" }
+		{ "ì§€ë©´ ìŠ¤í‚¬ì˜ íš¨ê³¼ ì ìš©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HELLPOWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Áö¿ÁÀÇ ±Ç´É", COLOR_TITLE_BUFF },
+		{ "ì§€ì˜¥ì˜ ê¶ŒëŠ¥", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ºÎÈ° ºÒ°¡" },
-		{ "»õÅ©¸®ÆÄÀÌ½º »ç¿ë ºÒ°¡" },
-		{ "Áö±×ÇÁ¸®µåÀÇ ÁõÇ¥ »ç¿ë ºÒ°¡" }
+		{ "ë¶€í™œ ë¶ˆê°€" },
+		{ "ìƒˆí¬ë¦¬íŒŒì´ìŠ¤ ì‚¬ìš© ë¶ˆê°€" },
+		{ "ì§€ê·¸í”„ë¦¬ë“œì˜ ì¦í‘œ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SAVAGE_STEAK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼¼ºñÁö Åë±¸ÀÌ", COLOR_TITLE_BUFF },
+		{ "ì„¸ë¹„ì§€ í†µêµ¬ì´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" }
+		{ "STR ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COCKTAIL_WARG_BLOOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¬Å×ÀÏ ¿ö±× ºí·¯µå", COLOR_TITLE_BUFF },
+		{ "ì¹µí…Œì¼ ì›Œê·¸ ë¸”ëŸ¬ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "INT Áõ°¡" }
+		{ "INT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MINOR_BBQ] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶ÀÌ³Ê ¾çÁö¸Ó¸®", COLOR_TITLE_BUFF },
+		{ "ë§ˆì´ë„ˆ ì–‘ì§€ë¨¸ë¦¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "VIT Áõ°¡" }
+		{ "VIT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SIROMA_ICE_TEA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Ã·Î¸¶ ¾ÆÀÌ½ºÆ¼", COLOR_TITLE_BUFF },
+		{ "ì‹œë¡œë§ˆ ì•„ì´ìŠ¤í‹°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "DEX Áõ°¡" }
+		{ "DEX ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DROCERA_HERB_STEAMED] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µå·Î¼¼¶ó Çãºê Âò", COLOR_TITLE_BUFF },
+		{ "ë“œë¡œì„¸ë¼ í—ˆë¸Œ ì°œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "AGI Áõ°¡" }
+		{ "AGI ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PUTTI_TAILS_NOODLES] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»Ú¶ì ²¿¸® ±¹¼ö", COLOR_TITLE_BUFF },
+		{ "ì˜ë  ê¼¬ë¦¬ êµ­ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "LUK Áõ°¡" }
+		{ "LUK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STOMACHACHE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º¹Åë", COLOR_TITLE_BUFF },
+		{ "ë³µí†µ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º °¡ÁßÄ¡ °¨¼Ò" },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "10ÃÊ´ç ÇÑ ¹ø¾¿ /¾É±â ¹ß»ý" },
-		{ "10ÃÊ´ç ÀÏÁ¤·®ÀÇ SP ¼Ò¸ð" }
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ê°€ì¤‘ì¹˜ ê°ì†Œ" },
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "10ì´ˆë‹¹ í•œ ë²ˆì”© /ì•‰ê¸° ë°œìƒ" },
+		{ "10ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ SP ì†Œëª¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTEXP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ö¸¶ ¾Æºü »ç¶ûÇØ¿ä", COLOR_TITLE_BUFF },
+		{ "ì—„ë§ˆ ì•„ë¹  ì‚¬ëž‘í•´ìš”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á×´õ¶óµµ °æÇèÄ¡ ¼Ò½Ç ¾øÀ½" }
+		{ "ì£½ë”ë¼ë„ ê²½í—˜ì¹˜ ì†Œì‹¤ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ANGEL_PROTECT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ãµ»çÀÇ ¼öÈ£", COLOR_TITLE_BUFF },
+		{ "ì²œì‚¬ì˜ ìˆ˜í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP, SP È¸º¹¼Óµµ »ó½Â" }
+		{ "HP, SP íšŒë³µì†ë„ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MORA_BUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ð¶ó º£¸®", COLOR_TITLE_BUFF },
+		{ "ëª¨ë¼ ë² ë¦¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ð¶ó¸¶À» ÀÎ±Ù ÇÊµå" },
-		{ "°íÀ¯ ¸ó½ºÅÍµé¿¡ ´ëÇÑ ³»¼º Áõ°¡" }
+		{ "ëª¨ë¼ë§ˆì„ ì¸ê·¼ í•„ë“œ" },
+		{ "ê³ ìœ  ëª¬ìŠ¤í„°ë“¤ì— ëŒ€í•œ ë‚´ì„± ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±³È² ÄíÅ°", COLOR_TITLE_BUFF },
+		{ "êµí™© ì¿ í‚¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º ³»¼º Áõ°¡" }
+		{ "ATK, MATK ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ë‚´ì„± ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VITALIZE_POTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È°¼ºÈ­ Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "í™œì„±í™” í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK Áõ°¡" },
-		{ "Èú°ú ¾ÆÀÌÅÛÀÇ È¸º¹È¿´É Áõ°¡" }
+		{ "ATK, MATK ì¦ê°€" },
+		{ "ížê³¼ ì•„ì´í…œì˜ íšŒë³µíš¨ëŠ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_G_LIFEPOTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Å¼ÓÇÑ »ý¸í¼ö", COLOR_TITLE_BUFF },
+		{ "ì‹ ì†í•œ ìƒëª…ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ÃÊ´ç ÀÏÁ¤·®ÀÇ HP È¸º¹" },
-		{ "¹ö¼­Å© »óÅÂ Áß È¿°ú ¾øÀ½" }
+		{ "3ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" },
+		{ "ë²„ì„œí¬ ìƒíƒœ ì¤‘ íš¨ê³¼ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ODINS_POWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀµòÀÇ Èû", COLOR_TITLE_BUFF },
+		{ "ì˜¤ë”˜ì˜ íž˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK »ó½Â" },
-		{ "DEF, MDEF °¨¼Ò" }
+		{ "ATK, MATK ìƒìŠ¹" },
+		{ "DEF, MDEF ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGIC_CANDY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶¹ýÄµµð", COLOR_TITLE_BUFF },
+		{ "ë§ˆë²•ìº”ë””", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MATK »ó½Â" },
-		{ "°íÁ¤ Ä³½ºÆÃ ½Ã°£ °¨¼Ò" },
-		{ "Ä³½ºÆÃ ²÷±âÁö ¾ÊÀ½" },
-		{ "10ÃÊ´ç ÀÏÁ¤·®ÀÇ SP °¨¼Ò" }
+		{ "MATK ìƒìŠ¹" },
+		{ "ê³ ì • ìºìŠ¤íŒ… ì‹œê°„ ê°ì†Œ" },
+		{ "ìºìŠ¤íŒ… ëŠê¸°ì§€ ì•ŠìŒ" },
+		{ "10ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ SP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿¡³ÊÁö ÄÚÆ® (Energy Coat)", COLOR_TITLE_BUFF },
+		{ "ì—ë„ˆì§€ ì½”íŠ¸ (Energy Coat)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÇöÀç SP ¾ç¿¡ ºñ·ÊÇÏ¿©" },
-		{ "ÀûÀ¸·ÎºÎÅÍÀÇ ÇÇÇØ °¨¼Ò" }
+		{ "í˜„ìž¬ SP ì–‘ì— ë¹„ë¡€í•˜ì—¬" },
+		{ "ì ìœ¼ë¡œë¶€í„°ì˜ í”¼í•´ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LIGHT_OF_REGENE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Àç»ýÀÇ ºû", COLOR_TITLE_BUFF },
+		{ "ìž¬ìƒì˜ ë¹›", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÁÖÀÎ »ç¸Á ½Ã" },
-		{ "¿¡ÀÌ¶ó°¡ »ç¸ÁÇÏ¸ç ÁÖÀÎÀ» »ì¸²" }
+		{ "ì£¼ì¸ ì‚¬ë§ ì‹œ" },
+		{ "ì—ì´ë¼ê°€ ì‚¬ë§í•˜ë©° ì£¼ì¸ì„ ì‚´ë¦¼" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERED_BOOST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿À¹öµå ºÎ½ºÆ®", COLOR_TITLE_BUFF },
+		{ "ì˜¤ë²„ë“œ ë¶€ìŠ¤íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿¡ÀÌ¶ó¿Í ÁÖÀÎÀÇ" },
-		{ "°ø°Ý ¼Óµµ, È¸ÇÇÀ² »óÇâ °íÁ¤" }
+		{ "ì—ì´ë¼ì™€ ì£¼ì¸ì˜" },
+		{ "ê³µê²© ì†ë„, íšŒí”¼ìœ¨ ìƒí–¥ ê³ ì •" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STYLE_CHANGE] = {
 	haveTimeLimit = 0,
 	descript = {
-		{ "ÆÄÀÌÅÍ ¸ðµå", COLOR_TITLE_TOGGLE },
-		{ "¿¡·¹³ë¾ÆÀÇ ÆÄÀÌÅÍ »óÅÂ" }
+		{ "íŒŒì´í„° ëª¨ë“œ", COLOR_TITLE_TOGGLE },
+		{ "ì—ë ˆë…¸ì•„ì˜ íŒŒì´í„° ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGMA_FLOW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶±×¸¶ ÇÃ·Î", COLOR_TITLE_BUFF },
+		{ "ë§ˆê·¸ë§ˆ í”Œë¡œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¥¹ÌÁö ¹ÞÀ» ½Ã" },
-		{ "ÀÏÁ¤ È®·ü·Î ¸ö¿¡¼­ ¸¶±×¸¶ ºÐÃâ" }
+		{ "ë°ë¯¸ì§€ ë°›ì„ ì‹œ" },
+		{ "ì¼ì • í™•ë¥ ë¡œ ëª¸ì—ì„œ ë§ˆê·¸ë§ˆ ë¶„ì¶œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRANITIC_ARMOR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¡´ÏÆ½ ¾Æ¸Ó", COLOR_TITLE_BUFF },
+		{ "ê·¸ëž˜ë‹ˆí‹± ì•„ë¨¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µðÀÌÅÍ¿Í ÁÖÀÎÀÌ ¹Þ´Â µ¥¹ÌÁö °¨¼Ò" },
-		{ "Áö¼Ó½Ã°£ Á¾·á ½Ã HP ¼Ò¸ð" }
+		{ "ë””ì´í„°ì™€ ì£¼ì¸ì´ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ" },
+		{ "ì§€ì†ì‹œê°„ ì¢…ë£Œ ì‹œ HP ì†Œëª¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È­»êÀç", COLOR_TITLE_DEBUFF },
+		{ "í™”ì‚°ìž¬", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸íÁß·ü ÇÏ¶ô" },
-		{ "ÀÏÁ¤ È®·ü·Î ½ºÅ³, ¸¶¹ý ½ÇÆÐ" }
+		{ "ëª…ì¤‘ë¥  í•˜ë½" },
+		{ "ì¼ì • í™•ë¥ ë¡œ ìŠ¤í‚¬, ë§ˆë²• ì‹¤íŒ¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ëÈ¯´Ü", COLOR_TITLE_BUFF },
+		{ "ëŒ€í™˜ë‹¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Áõ°¡" },
-		{ "HP È¸º¹·Â Áõ°¡" }
+		{ "MHP ì¦ê°€" },
+		{ "HP íšŒë³µë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÅÂÃ»´Ü", COLOR_TITLE_BUFF },
+		{ "íƒœì²­ë‹¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MSP Áõ°¡" },
-		{ "SP È¸º¹·Â Áõ°¡" }
+		{ "MSP ì¦ê°€" },
+		{ "SP íšŒë³µë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERLAPEXPUP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸»¶ûµµ °í¾çÀÌ Äµ", COLOR_TITLE_BUFF },
+		{ "ë§ëž‘ë„ ê³ ì–‘ì´ ìº”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ »ç³É ½Ã" },
-		{ "°æÇèÄ¡, JOB °æÇèÄ¡ Áõ°¡" }
+		{ "ëª¬ìŠ¤í„° ì‚¬ëƒ¥ ì‹œ" },
+		{ "ê²½í—˜ì¹˜, JOB ê²½í—˜ì¹˜ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {
@@ -2274,7 +2274,7 @@ StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "ATK »ó½Â" }
+		{ "ATK ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
@@ -2282,44 +2282,44 @@ StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "MATK »ó½Â" }
+		{ "MATK ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MACRO_PERMIT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ÅÅ©·Î »ç¿ë", COLOR_SYSTEM },
+		{ "ë§¤í¬ë¡œ ì‚¬ìš©", COLOR_SYSTEM },
 		{ "%s", COLOR_TIME },
-		{ "¸ÅÅ©·Î »ç¿ë Áß" }
+		{ "ë§¤í¬ë¡œ ì‚¬ìš© ì¤‘" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MACRO_POSTDELAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ÅÅ©·Î ÈÄµô·¹ÀÌ", COLOR_SYSTEM },
+		{ "ë§¤í¬ë¡œ í›„ë”œë ˆì´", COLOR_SYSTEM },
 		{ "%s", COLOR_TIME },
-		{ "¸ÅÅ©·Î »ç¿ë ºÒ°¡" }
+		{ "ë§¤í¬ë¡œ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MONSTER_TRANSFORM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ó½ºÅÍ º¯½Å", COLOR_TITLE_BUFF },
+		{ "ëª¬ìŠ¤í„° ë³€ì‹ ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ·Î º¯½Å ÁßÀÎ »óÅÂ" }
+		{ "ëª¬ìŠ¤í„°ë¡œ ë³€ì‹  ì¤‘ì¸ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SIT] = {
 	descript = {
-		{ "¾É±â", COLOR_TITLE_TOGGLE }
+		{ "ì•‰ê¸°", COLOR_TITLE_TOGGLE }
 	}
 }
 StateIconList[EFST_IDs.EFST_ALL_RIDING] = {
 	descript = {
-		{ "Å¾½Â »óÅÂ", COLOR_TITLE_TOGGLE }
+		{ "íƒ‘ìŠ¹ ìƒíƒœ", COLOR_TITLE_TOGGLE }
 	}
 }
 StateIconList[EFST_IDs.EFST_SKF_MATK] = {
@@ -2327,7 +2327,7 @@ StateIconList[EFST_IDs.EFST_SKF_MATK] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "MATK Áõ°¡" }
+		{ "MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SKF_ATK] = {
@@ -2335,7 +2335,7 @@ StateIconList[EFST_IDs.EFST_SKF_ATK] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" }
+		{ "ATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SKF_ASPD] = {
@@ -2343,7 +2343,7 @@ StateIconList[EFST_IDs.EFST_SKF_ASPD] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ¼Óµµ Áõ°¡" }
+		{ "ê³µê²© ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SKF_CAST] = {
@@ -2351,7 +2351,7 @@ StateIconList[EFST_IDs.EFST_SKF_CAST] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "º¯µ¿ Ä³½ºÆÃ ½Ã°£ °¨¼Ò" }
+		{ "ë³€ë™ ìºìŠ¤íŒ… ì‹œê°„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_REWARD_PLUSONLYJOBEXP] = {
@@ -2359,130 +2359,130 @@ StateIconList[EFST_IDs.EFST_REWARD_PLUSONLYJOBEXP] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "JOB °æÇèÄ¡ Ãß°¡ È¹µæ" }
+		{ "JOB ê²½í—˜ì¹˜ ì¶”ê°€ íšë“" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENERVATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶½ºÄ¿·¹ÀÌµå : ÀÌ³Êº£ÀÌ¼Ç (°¡¸é : Å»·Â)", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆìŠ¤ì»¤ë ˆì´ë“œ : ì´ë„ˆë² ì´ì…˜ (ê°€ë©´ : íƒˆë ¥)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý·Â °¨¼Ò" },
-		{ "ÇÇÇØ ¼ø°£ ±â ±¸Ã¼ ¼Ò½Ç" }
+		{ "ê³µê²©ë ¥ ê°ì†Œ" },
+		{ "í”¼í•´ ìˆœê°„ ê¸° êµ¬ì²´ ì†Œì‹¤" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GROOMY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶½ºÄ¿·¹ÀÌµå : ±×·ç¹Ì (°¡¸é : ¿ì¿ï)", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆìŠ¤ì»¤ë ˆì´ë“œ : ê·¸ë£¨ë¯¸ (ê°€ë©´ : ìš°ìš¸)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ¼Óµµ, ¸íÁß·ü °¨¼Ò" },
-		{ "ÇÇÇØ ¼ø°£ ÆÛ¹Ð¸®¾î ÇØÁ¦" },
-		{ "ÆÛ¹Ð¸®¾î »ç¿ë ºÒ°¡" }
+		{ "ê³µê²© ì†ë„, ëª…ì¤‘ë¥  ê°ì†Œ" },
+		{ "í”¼í•´ ìˆœê°„ í¼ë°€ë¦¬ì–´ í•´ì œ" },
+		{ "í¼ë°€ë¦¬ì–´ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_IGNORANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶½ºÄ¿·¹ÀÌµå : ÀÌ±×³ë¾î·±½º (°¡¸é : ¹«Áö)", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆìŠ¤ì»¤ë ˆì´ë“œ : ì´ê·¸ë…¸ì–´ëŸ°ìŠ¤ (ê°€ë©´ : ë¬´ì§€)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÇÇÇØ ¼ø°£ ÀÏÁ¤·®ÀÇ SP ¼Ò½Ç" },
-		{ "½ºÅ³, ¸¶¹ý »ç¿ë ºÒ°¡" }
+		{ "í”¼í•´ ìˆœê°„ ì¼ì •ëŸ‰ì˜ SP ì†Œì‹¤" },
+		{ "ìŠ¤í‚¬, ë§ˆë²• ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LAZINESS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶½ºÄ¿·¹ÀÌµå : ·¹ÀÌÁö³×½º (°¡¸é : °ÔÀ¸¸§)", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆìŠ¤ì»¤ë ˆì´ë“œ : ë ˆì´ì§€ë„¤ìŠ¤ (ê°€ë©´ : ê²Œìœ¼ë¦„)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ¼Óµµ, È¸ÇÇÀ² °¨¼Ò" },
-		{ "Ä³½ºÆÃ ½Ã°£ Áõ°¡" },
-		{ "½ºÅ³ »ç¿ë ½Ã ÀÏÁ¤·®ÀÇ SP Ãß°¡ ¼Ò¸ð" }
+		{ "ì´ë™ ì†ë„, íšŒí”¼ìœ¨ ê°ì†Œ" },
+		{ "ìºìŠ¤íŒ… ì‹œê°„ ì¦ê°€" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ì‹œ ì¼ì •ëŸ‰ì˜ SP ì¶”ê°€ ì†Œëª¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_UNLUCKY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶½ºÄ¿·¹ÀÌµå : ¾ð·°Å° (°¡¸é : ºÒ¿î)", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆìŠ¤ì»¤ë ˆì´ë“œ : ì–¸ëŸ­í‚¤ (ê°€ë©´ : ë¶ˆìš´)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Å©¸®Æ¼ÄÃ È®·ü °¨¼Ò" },
-		{ "¿ÏÀüÈ¸ÇÇ È®·ü °¨¼Ò" },
-		{ "½ºÅ³ »ç¿ë ½Ã ÀÏÁ¤·®ÀÇ Á¦´Ï ¼Ò¸ð" },
-		{ "ÇÇÇØ ¼ø°£ Æ¯Á¤ »óÅÂÀÌ»ó ¹ß»ý" }
+		{ "í¬ë¦¬í‹°ì»¬ í™•ë¥  ê°ì†Œ" },
+		{ "ì™„ì „íšŒí”¼ í™•ë¥  ê°ì†Œ" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ì‹œ ì¼ì •ëŸ‰ì˜ ì œë‹ˆ ì†Œëª¨" },
+		{ "í”¼í•´ ìˆœê°„ íŠ¹ì • ìƒíƒœì´ìƒ ë°œìƒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAKNESS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶½ºÄ¿·¹ÀÌµå : À§Å©´Ï½º (°¡¸é : ¼è¾à)", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆìŠ¤ì»¤ë ˆì´ë“œ : ìœ„í¬ë‹ˆìŠ¤ (ê°€ë©´ : ì‡ ì•½)", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤·®ÀÇ MHP °¨¼Ò" },
-		{ "ÇÇÇØ ¼ø°£ ¹«±â, ¹æÆÐ Âø¿ë ÇØÁ¦" },
-		{ "¹«±â, ¹æÆÐ Âø¿ë ºÒ°¡" }
+		{ "ì¼ì •ëŸ‰ì˜ MHP ê°ì†Œ" },
+		{ "í”¼í•´ ìˆœê°„ ë¬´ê¸°, ë°©íŒ¨ ì°©ìš© í•´ì œ" },
+		{ "ë¬´ê¸°, ë°©íŒ¨ ì°©ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STEELBODY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Ý°­ºÒ±« (ÐÝË§ÝÕÎÕ)", COLOR_TITLE_BUFF },
+		{ "ê¸ˆê°•ë¶ˆê´´ (ï¤Šå‰›ï¥§å£ž)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "DEF, MDEF ³ôÀº ¼öÄ¡·Î °íÁ¤" },
-		{ "ÀÌµ¿ ¼Óµµ, °ø°Ý ¼Óµµ °¨¼Ò" },
-		{ "½ºÅ³ »ç¿ë ºÒ°¡" }
+		{ "DEF, MDEF ë†’ì€ ìˆ˜ì¹˜ë¡œ ê³ ì •" },
+		{ "ì´ë™ ì†ë„, ê³µê²© ì†ë„ ê°ì†Œ" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MVPCARD_TAOGUNKA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å¸¿À±º Ä« ½ºÅ©·Ñ", COLOR_TITLE_BUFF },
+		{ "íƒ€ì˜¤êµ° ì¹´ ìŠ¤í¬ë¡¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Áõ°¡" },
-		{ "DEF/MDEF °¨¼Ò" }
+		{ "MHP ì¦ê°€" },
+		{ "DEF/MDEF ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MVPCARD_MISTRESS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹Ì½ºÆ®·¹½º ½ºÅ©·Ñ", COLOR_TITLE_BUFF },
+		{ "ë¯¸ìŠ¤íŠ¸ë ˆìŠ¤ ìŠ¤í¬ë¡¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Áª½ºÅæ ¼Ò¸ð¾øÀÌ ¸¶¹ý »ç¿ë °¡´É" },
-		{ "SP ¼Ò¸ð·® Áõ°¡" }
+		{ "ì ¬ìŠ¤í†¤ ì†Œëª¨ì—†ì´ ë§ˆë²• ì‚¬ìš© ê°€ëŠ¥" },
+		{ "SP ì†Œëª¨ëŸ‰ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MVPCARD_ORCHERO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀÅ©È÷¾î·Î ½ºÅ©·Ñ", COLOR_TITLE_BUFF },
+		{ "ì˜¤í¬ížˆì–´ë¡œ ìŠ¤í¬ë¡¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅÏ »óÅÂ¿¡ °É¸®Áö ¾ÊÀ½" }
+		{ "ìŠ¤í„´ ìƒíƒœì— ê±¸ë¦¬ì§€ ì•ŠìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MVPCARD_ORCLORD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀÅ©·Îµå ½ºÅ©·Ñ", COLOR_TITLE_BUFF },
+		{ "ì˜¤í¬ë¡œë“œ ìŠ¤í¬ë¡¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸®°ø°ÝÀÇ ÀÏºÎ¸¦ ¹Ý»ç" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ê³µê²©ì˜ ì¼ë¶€ë¥¼ ë°˜ì‚¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_NORECOVER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¸º¹ ºÒ°¡ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "íšŒë³µ ë¶ˆê°€ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP, SP È¸º¹ ºÒ°¡ »óÅÂ" }
+		{ "HP, SP íšŒë³µ ë¶ˆê°€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SET_NUM_DEF] = {
@@ -2490,7 +2490,7 @@ StateIconList[EFST_IDs.EFST_SET_NUM_DEF] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "DEF°¡ Æ¯Á¤ ¼öÄ¡·Î °íÁ¤" }
+		{ "DEFê°€ íŠ¹ì • ìˆ˜ì¹˜ë¡œ ê³ ì •" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SET_NUM_MDEF] = {
@@ -2498,233 +2498,233 @@ StateIconList[EFST_IDs.EFST_SET_NUM_MDEF] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "MDEF°¡ Æ¯Á¤ ¼öÄ¡·Î °íÁ¤" }
+		{ "MDEFê°€ íŠ¹ì • ìˆ˜ì¹˜ë¡œ ê³ ì •" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SET_PER_DEF] = {
 	descript = {
-		{ "DEF°¡ Æ¯Á¤ ÆÛ¼¾Æ®·Î °íÁ¤" }
+		{ "DEFê°€ íŠ¹ì • í¼ì„¼íŠ¸ë¡œ ê³ ì •" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SET_PER_MDEF] = {
 	descript = {
-		{ "MDEF°¡ Æ¯Á¤ ÆÛ¼¾Æ®·Î °íÁ¤" }
+		{ "MDEFê°€ íŠ¹ì • í¼ì„¼íŠ¸ë¡œ ê³ ì •" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ¼ö¶ó ÆÐÈ²±Ç", COLOR_TITLE_DEBUFF },
+		{ "ì•„ìˆ˜ë¼ íŒ¨í™©ê¶Œ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "SP È¸º¹ ºÒ°¡ »óÅÂ" }
+		{ "SP íšŒë³µ ë¶ˆê°€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_CASH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ASPD °­È­ Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "ASPD ê°•í™” í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_2011RWC] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÀ¿ø ÆøÁ×", COLOR_TITLE_BUFF },
+		{ "ì‘ì› í­ì£½", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º Áõ°¡" },
-		{ "ATK, MATK Áõ°¡" }
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ì¦ê°€" },
+		{ "ATK, MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PHI_DEMON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°í´ë Á¤·ÉÀÇ ´ëºÎÀû", COLOR_TITLE_BUFF },
+		{ "ê³ ëŒ€ ì •ë ¹ì˜ ëŒ€ë¶€ì ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ç¸¶Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸®, ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ì•…ë§ˆí˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬, ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GM_BATTLE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀüÅõ¾à", COLOR_TITLE_BUFF },
+		{ "ì „íˆ¬ì•½", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK Áõ°¡" },
-		{ "MHP, MSP °¨¼Ò" }
+		{ "ATK, MATK ì¦ê°€" },
+		{ "MHP, MSP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GM_BATTLE2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°í±ÞÀüÅõ¾à", COLOR_TITLE_BUFF },
+		{ "ê³ ê¸‰ì „íˆ¬ì•½", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK Áõ°¡" },
-		{ "MHP, MSP °¨¼Ò" }
+		{ "ATK, MATK ì¦ê°€" },
+		{ "MHP, MSP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_2011RWC_SCROLL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·¹µå ºÎ½ºÅÍ", COLOR_TITLE_BUFF },
+		{ "ë ˆë“œ ë¶€ìŠ¤í„°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK Áõ°¡" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" },
-		{ "¹°¸®, ¸¶¹ý °ø°Ý ½Ã ÀÏÁ¤ È®·ü·Î" },
-		{ "ÁýÁß·Â Çâ»ó ½ºÅ³ ¹ßµ¿" }
+		{ "ATK, MATK ì¦ê°€" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" },
+		{ "ë¬¼ë¦¬, ë§ˆë²• ê³µê²© ì‹œ ì¼ì • í™•ë¥ ë¡œ" },
+		{ "ì§‘ì¤‘ë ¥ í–¥ìƒ ìŠ¤í‚¬ ë°œë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MEIKYOUSISUI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸í°æÁö¼ö (Ù¥Ìðò­â©)", COLOR_TITLE_BUFF },
+		{ "ëª…ê²½ì§€ìˆ˜ (æ˜Žé¡æ­¢æ°´)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤·®ÀÇ HP È¸º¹" },
-		{ "ÀÏÁ¤·®ÀÇ SP È¸º¹" },
-		{ "ÀÌµ¿ ºÒ°¡" },
-		{ "ÀÏÁ¤È®·ü·Î µ¥¹ÌÁö¸¦ ÀÔÁö ¾ÊÀ½" },
-		{ "½ºÅ³ »ç¿ë ½Ã, µð¹öÇÁ°¡ ·£´ýÀ¸·Î ÇØÁ¦" },
-		{ "µ¥¹ÌÁö¸¦ ÀÔÀ» ½Ã, È¿°ú ÇØÁ¦" }
+		{ "ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" },
+		{ "ì¼ì •ëŸ‰ì˜ SP íšŒë³µ" },
+		{ "ì´ë™ ë¶ˆê°€" },
+		{ "ì¼ì •í™•ë¥ ë¡œ ë°ë¯¸ì§€ë¥¼ ìž…ì§€ ì•ŠìŒ" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ì‹œ, ë””ë²„í”„ê°€ ëžœë¤ìœ¼ë¡œ í•´ì œ" },
+		{ "ë°ë¯¸ì§€ë¥¼ ìž…ì„ ì‹œ, íš¨ê³¼ í•´ì œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_IZAYOI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿­ ¿©¼¸¹øÂ°ÀÇ ¹ã", COLOR_TITLE_BUFF },
+		{ "ì—´ ì—¬ì„¯ë²ˆì§¸ì˜ ë°¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°íÁ¤ Ä³½ºÆÃ »èÁ¦" },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" },
-		{ "¾ÆÀÌÅÛ MATK Áõ°¡" }
+		{ "ê³ ì • ìºìŠ¤íŒ… ì‚­ì œ" },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" },
+		{ "ì•„ì´í…œ MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KG_KAGEHUMI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×¸²ÀÚ ¹â±â", COLOR_TITLE_DEBUFF },
+		{ "ê·¸ë¦¼ìž ë°Ÿê¸°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ºÒ°¡" },
-		{ "Æ¯Á¤ ½ºÅ³ ÇØÁ¦" },
-		{ "Àº½ÅÀÌ³ª ÅÚ·¹Æ÷Æ® ½ºÅ³ ¹× ¾ÆÀÌÅÛ »ç¿ë ºÒ°¡" },
-		{ "±ä±ÞÈ£Ãâ ½ºÅ³ »ç¿ë ºÒ°¡" }
+		{ "ì´ë™ ë¶ˆê°€" },
+		{ "íŠ¹ì • ìŠ¤í‚¬ í•´ì œ" },
+		{ "ì€ì‹ ì´ë‚˜ í…”ë ˆí¬íŠ¸ ìŠ¤í‚¬ ë° ì•„ì´í…œ ì‚¬ìš© ë¶ˆê°€" },
+		{ "ê¸´ê¸‰í˜¸ì¶œ ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KYOMU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çã¹«ÀÇ ±×¸²ÀÚ", COLOR_TITLE_DEBUFF },
+		{ "í—ˆë¬´ì˜ ê·¸ë¦¼ìž", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ¹× ¸¶¹ý °ø°Ý ¹Ý»ç È¿°ú ¹«È¿È­" },
-		{ "½ºÅ³ »ç¿ë ½Ã ÀÏÁ¤È®·ü·Î ½ºÅ³ ½ÇÆÐ" }
+		{ "ë¬¼ë¦¬ ë° ë§ˆë²• ê³µê²© ë°˜ì‚¬ íš¨ê³¼ ë¬´íš¨í™”" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ì‹œ ì¼ì •í™•ë¥ ë¡œ ìŠ¤í‚¬ ì‹¤íŒ¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAGEMUSYA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×¸²ÀÚ¹«»ç", COLOR_TITLE_BUFF },
+		{ "ê·¸ë¦¼ìžë¬´ì‚¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´õºí ¾îÅÃ È¿°ú ºÎ¿©" },
-		{ "¸Å ÃÊ´ç ÀÏÁ¤·®ÀÇ SP ¼Ò½Ç" },
-		{ "ÆÈ¹ß Äí³ªÀÌ, Æø¹ßÄí³ªÀÌ µ¥¹ÌÁö Áõ°¡" },
-		{ "Ç³¸¶¼ö¸®°Ë ³­È­, ½ÊÀÚ º£±â µ¥¹ÌÁö Áõ°¡" }
+		{ "ë”ë¸” ì–´íƒ íš¨ê³¼ ë¶€ì—¬" },
+		{ "ë§¤ ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ SP ì†Œì‹¤" },
+		{ "íŒ”ë°œ ì¿ ë‚˜ì´, í­ë°œì¿ ë‚˜ì´ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "í’ë§ˆìˆ˜ë¦¬ê²€ ë‚œí™”, ì‹­ìž ë² ê¸° ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ZANGETSU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÏ±×·¯Áø ÃÊ½Â´Þ", COLOR_TITLE_BUFF },
+		{ "ì¼ê·¸ëŸ¬ì§„ ì´ˆìŠ¹ë‹¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º£ÀÌ½º ·¹º§¿¡ µû¸¥ È¿°ú ºÎ¿©" }
+		{ "ë² ì´ìŠ¤ ë ˆë²¨ì— ë”°ë¥¸ íš¨ê³¼ ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GENSOU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Èå¸° ´ÞºûÀÇ È¯»ó", COLOR_TITLE_BUFF },
+		{ "íë¦° ë‹¬ë¹›ì˜ í™˜ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP¿Í SP°¡ ·£´ýÀ¸·Î Áõ°¡ ¶Ç´Â °¨¼Ò" },
-		{ "¸¶¹ý °ø°ÝÀ» ¹ÞÀ» ½Ã," },
-		{ "µ¥¹ÌÁöÀÇ Àý¹ÝÀ» ´Ù¸¥ ´ë»óÀÌ ¹ÞÀ½" }
+		{ "HPì™€ SPê°€ ëžœë¤ìœ¼ë¡œ ì¦ê°€ ë˜ëŠ” ê°ì†Œ" },
+		{ "ë§ˆë²• ê³µê²©ì„ ë°›ì„ ì‹œ," },
+		{ "ë°ë¯¸ì§€ì˜ ì ˆë°˜ì„ ë‹¤ë¥¸ ëŒ€ìƒì´ ë°›ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AKAITSUKI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÒ±æÇÑ ºÓÀº ´Þºû", COLOR_TITLE_DEBUFF },
+		{ "ë¶ˆê¸¸í•œ ë¶‰ì€ ë‹¬ë¹›", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Æ¯Á¤ HP È¸º¹ ½ºÅ³ÀÌ" },
-		{ "È¸º¹ ´ë½Å µ¥¹ÌÁö¸¦ ÀÔ´Â »óÅÂ" }
+		{ "íŠ¹ì • HP íšŒë³µ ìŠ¤í‚¬ì´" },
+		{ "íšŒë³µ ëŒ€ì‹  ë°ë¯¸ì§€ë¥¼ ìž…ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MYSTICPOWDER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹Ì½ºÆ½ ÆÄ¿ì´õ", COLOR_TITLE_BUFF },
+		{ "ë¯¸ìŠ¤í‹± íŒŒìš°ë”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "FLEE, LUK Áõ°¡" }
+		{ "FLEE, LUK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ACARAJE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ±î¶óÁ¦", COLOR_TITLE_BUFF },
+		{ "ì•„ê¹Œë¼ì œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ, HIT Áõ°¡" }
+		{ "ê³µê²©ì†ë„, HIT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_M_LIFEPOTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Å¹¦ÇÑ »ý¸í¼ö", COLOR_TITLE_BUFF },
+		{ "ì‹ ë¬˜í•œ ìƒëª…ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ÃÊ´ç ÀÏÁ¤·®ÀÇ HP È¸º¹" },
-		{ "¹ö¼­Å© »óÅÂ Áß È¿°ú ¾øÀ½" }
+		{ "3ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" },
+		{ "ë²„ì„œí¬ ìƒíƒœ ì¤‘ íš¨ê³¼ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ç³¼ºÇÑ ²É°¡Áö", COLOR_TITLE_BUFF },
+		{ "í’ì„±í•œ ê½ƒê°€ì§€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Flee Áõ°¡" },
-		{ "¿ÏÀüÈ¸ÇÇ Áõ°¡" }
+		{ "Flee ì¦ê°€" },
+		{ "ì™„ì „íšŒí”¼ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RAY_OF_PROTECTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼öÈ£ÀÇ ºû", COLOR_TITLE_BUFF },
+		{ "ìˆ˜í˜¸ì˜ ë¹›", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Æ¯Á¤ »óÅÂÀÌ»ó ÇØÁ¦" },
-		{ "Æ¯Á¤ »óÅÂÀÌ»ó ¸é¿ª" }
+		{ "íŠ¹ì • ìƒíƒœì´ìƒ í•´ì œ" },
+		{ "íŠ¹ì • ìƒíƒœì´ìƒ ë©´ì—­" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GLASTHEIM_ATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "°­·ÂÇÑ ÈûÀÌ ³» ¸ö¿¡¼­" },
-		{ "ÀÏ··ÀÌ´Â °ÍÀ» ´À³¥ ¼ö ÀÖ½À´Ï´Ù." },
+		{ "ê°•ë ¥í•œ íž˜ì´ ë‚´ ëª¸ì—ì„œ" },
+		{ "ì¼ë ì´ëŠ” ê²ƒì„ ëŠë‚„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2732,8 +2732,8 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¸¸µé¾î ÁØ ¸¶¹ý¹æÆÐ·Î" },
-		{ "º¸È£¹Þ°í ÀÖ½À´Ï´Ù." },
+		{ "ë§Œë“¤ì–´ ì¤€ ë§ˆë²•ë°©íŒ¨ë¡œ" },
+		{ "ë³´í˜¸ë°›ê³  ìžˆìŠµë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2741,9 +2741,9 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_HEAL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "¼º½º·¯¿î ¸¶¹ýÀÌ" },
-		{ "Ä¡À¯ÀÇ ÈûÀ»" },
-		{ "±Ø´ëÈ­ ÇØ ÁÝ´Ï´Ù." },
+		{ "ì„±ìŠ¤ëŸ¬ìš´ ë§ˆë²•ì´" },
+		{ "ì¹˜ìœ ì˜ íž˜ì„" },
+		{ "ê·¹ëŒ€í™” í•´ ì¤ë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2751,8 +2751,8 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_HIDDEN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "´ë¸¶¹ý ¹æ¾î ¿¡³ÊÁö°¡" },
-		{ "¼ö¾øÀÌ °ãÃÄÀÖ½À´Ï´Ù." },
+		{ "ëŒ€ë§ˆë²• ë°©ì–´ ì—ë„ˆì§€ê°€" },
+		{ "ìˆ˜ì—†ì´ ê²¹ì³ìžˆìŠµë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2760,8 +2760,8 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_STATE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¸ðµç ´É·ÂÄ¡°¡" },
-		{ "±Þ°ÝÈ÷ »ó½ÂÇÕ´Ï´Ù." },
+		{ "ëª¨ë“  ëŠ¥ë ¥ì¹˜ê°€" },
+		{ "ê¸‰ê²©ížˆ ìƒìŠ¹í•©ë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2769,8 +2769,8 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_ITEMDEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¸ðµç ¹æ¾î·ÂÀÌ" },
-		{ "±Þ°ÝÈ÷ »ó½ÂÇÕ´Ï´Ù." },
+		{ "ëª¨ë“  ë°©ì–´ë ¥ì´" },
+		{ "ê¸‰ê²©ížˆ ìƒìŠ¹í•©ë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2778,8 +2778,8 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_HPSP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "MHP¿Í MSP°¡" },
-		{ "±Þ°ÝÈ÷ »ó½ÂÇÕ´Ï´Ù." },
+		{ "MHPì™€ MSPê°€" },
+		{ "ê¸‰ê²©ížˆ ìƒìŠ¹í•©ë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2787,8 +2787,8 @@ StateIconList[EFST_IDs.EFST_ALMIGHTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿Ã¸¶ÀÌÆ¼", COLOR_TITLE_BUFF },
-		{ "ATK, MATK Áõ°¡" },
+		{ "ì˜¬ë§ˆì´í‹°", COLOR_TITLE_BUFF },
+		{ "ATK, MATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2796,8 +2796,8 @@ StateIconList[EFST_IDs.EFST_GVG_GIANT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¼­¸®°ÅÀÎÀÇ ÇÇ", COLOR_TITLE_BUFF },
-		{ "ÇÃ·¹ÀÌ¾îÇü Àû¿¡°Ô ÁÖ´Â µ¥¹ÌÁö Ãß°¡" },
+		{ "ì„œë¦¬ê±°ì¸ì˜ í”¼", COLOR_TITLE_BUFF },
+		{ "í”Œë ˆì´ì–´í˜• ì ì—ê²Œ ì£¼ëŠ” ë°ë¯¸ì§€ ì¶”ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2805,8 +2805,8 @@ StateIconList[EFST_IDs.EFST_GVG_GOLEM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "°ñ·½ÀÇ ÇÙ", COLOR_TITLE_BUFF },
-		{ "ÇÃ·¹ÀÌ¾îÇü Àû¿¡°Ô ¹Þ´Â µ¥¹ÌÁö °¨¼Ò" },
+		{ "ê³¨ë ˜ì˜ í•µ", COLOR_TITLE_BUFF },
+		{ "í”Œë ˆì´ì–´í˜• ì ì—ê²Œ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2814,8 +2814,8 @@ StateIconList[EFST_IDs.EFST_GVG_STUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿äÁ¤ÀÇ´«¹°(½ºÅÏ)", COLOR_TITLE_BUFF },
-		{ "½ºÅÏ ¸é¿ª" },
+		{ "ìš”ì •ì˜ëˆˆë¬¼(ìŠ¤í„´)", COLOR_TITLE_BUFF },
+		{ "ìŠ¤í„´ ë©´ì—­" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2823,8 +2823,8 @@ StateIconList[EFST_IDs.EFST_GVG_STONE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿äÁ¤ÀÇ´«¹°(¼®È­)", COLOR_TITLE_BUFF },
-		{ "¼®È­ ¸é¿ª" },
+		{ "ìš”ì •ì˜ëˆˆë¬¼(ì„í™”)", COLOR_TITLE_BUFF },
+		{ "ì„í™” ë©´ì—­" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2832,8 +2832,8 @@ StateIconList[EFST_IDs.EFST_GVG_FREEZ] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿äÁ¤ÀÇ´«¹°(µ¿ºù)", COLOR_TITLE_BUFF },
-		{ "µ¿ºù ¸é¿ª" },
+		{ "ìš”ì •ì˜ëˆˆë¬¼(ë™ë¹™)", COLOR_TITLE_BUFF },
+		{ "ë™ë¹™ ë©´ì—­" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2841,8 +2841,8 @@ StateIconList[EFST_IDs.EFST_GVG_SLEEP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿äÁ¤ÀÇ´«¹°(¼ö¸é)", COLOR_TITLE_BUFF },
-		{ "¼ö¸é ¸é¿ª" },
+		{ "ìš”ì •ì˜ëˆˆë¬¼(ìˆ˜ë©´)", COLOR_TITLE_BUFF },
+		{ "ìˆ˜ë©´ ë©´ì—­" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2850,8 +2850,8 @@ StateIconList[EFST_IDs.EFST_GVG_CURSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿äÁ¤ÀÇ´«¹°(ÀúÁÖ)", COLOR_TITLE_BUFF },
-		{ "ÀúÁÖ ¸é¿ª" },
+		{ "ìš”ì •ì˜ëˆˆë¬¼(ì €ì£¼)", COLOR_TITLE_BUFF },
+		{ "ì €ì£¼ ë©´ì—­" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2859,8 +2859,8 @@ StateIconList[EFST_IDs.EFST_GVG_SILENCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿äÁ¤ÀÇ´«¹°(Ä§¹¬)", COLOR_TITLE_BUFF },
-		{ "Ä§¹¬ ¸é¿ª" },
+		{ "ìš”ì •ì˜ëˆˆë¬¼(ì¹¨ë¬µ)", COLOR_TITLE_BUFF },
+		{ "ì¹¨ë¬µ ë©´ì—­" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2868,8 +2868,8 @@ StateIconList[EFST_IDs.EFST_GVG_BLIND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿äÁ¤ÀÇ´«¹°(¾ÏÈæ)", COLOR_TITLE_BUFF },
-		{ "¾ÏÈæ ¸é¿ª" },
+		{ "ìš”ì •ì˜ëˆˆë¬¼(ì•”í‘)", COLOR_TITLE_BUFF },
+		{ "ì•”í‘ ë©´ì—­" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2877,8 +2877,8 @@ StateIconList[EFST_IDs.EFST_JP_EVENT01] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¾îÆÐ·ù ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸®µ¥¹ÌÁö Ãß°¡" },
+		{ "ì–´íŒ¨ë¥˜ ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬ë°ë¯¸ì§€ ì¶”ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2886,8 +2886,8 @@ StateIconList[EFST_IDs.EFST_JP_EVENT02] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¾îÆÐ·ù ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¸¶¹ýµ¥¹ÌÁö Ãß°¡" },
+		{ "ì–´íŒ¨ë¥˜ ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë§ˆë²•ë°ë¯¸ì§€ ì¶”ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2895,8 +2895,8 @@ StateIconList[EFST_IDs.EFST_JP_EVENT03] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¾îÆÐ·ù ¸ó½ºÅÍ¿¡°Ô¼­" },
-		{ "¹Þ´Â µ¥¹ÌÁö °¨¼Ò" },
+		{ "ì–´íŒ¨ë¥˜ ëª¬ìŠ¤í„°ì—ê²Œì„œ" },
+		{ "ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2904,8 +2904,8 @@ StateIconList[EFST_IDs.EFST_JP_EVENT04] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¾îÆÐ·ù ¸ó½ºÅÍ¿¡°Ô¼­" },
-		{ "¾ò´Â °æÇèÄ¡ Áõ°¡" },
+		{ "ì–´íŒ¨ë¥˜ ëª¬ìŠ¤í„°ì—ê²Œì„œ" },
+		{ "ì–»ëŠ” ê²½í—˜ì¹˜ ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2913,8 +2913,8 @@ StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "ÀÎ°£Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸®µ¥¹ÌÁö Ãß°¡" },
+		{ "ì¸ê°„í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬ë°ë¯¸ì§€ ì¶”ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2922,8 +2922,8 @@ StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "ÀÎ°£Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¸¶¹ýµ¥¹ÌÁö Ãß°¡" },
+		{ "ì¸ê°„í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë§ˆë²•ë°ë¯¸ì§€ ì¶”ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2931,8 +2931,8 @@ StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "ÀÎ°£Çü ¸ó½ºÅÍ¿¡°Ô¼­" },
-		{ "¹Þ´Â µ¥¹ÌÁö °¨¼Ò" },
+		{ "ì¸ê°„í˜• ëª¬ìŠ¤í„°ì—ê²Œì„œ" },
+		{ "ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2940,8 +2940,8 @@ StateIconList[EFST_IDs.EFST_QUEST_BUFF1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿¡³ÊÁö ÃàÀû Áß", COLOR_TITLE_BUFF },
-		{ "ATK, MATK Áõ°¡" },
+		{ "ì—ë„ˆì§€ ì¶•ì  ì¤‘", COLOR_TITLE_BUFF },
+		{ "ATK, MATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2949,8 +2949,8 @@ StateIconList[EFST_IDs.EFST_QUEST_BUFF2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿¡³ÊÁö ÃàÀû Áß", COLOR_TITLE_BUFF },
-		{ "ATK, MATK Áõ°¡" },
+		{ "ì—ë„ˆì§€ ì¶•ì  ì¤‘", COLOR_TITLE_BUFF },
+		{ "ATK, MATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2958,8 +2958,8 @@ StateIconList[EFST_IDs.EFST_QUEST_BUFF3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿¡³ÊÁö ÃàÀû Áß", COLOR_TITLE_BUFF },
-		{ "ATK, MATK Áõ°¡" },
+		{ "ì—ë„ˆì§€ ì¶•ì  ì¤‘", COLOR_TITLE_BUFF },
+		{ "ATK, MATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2967,9 +2967,9 @@ StateIconList[EFST_IDs.EFST_FENRIR_CARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "Ææ¸±ÀÇ Èû", COLOR_TITLE_BUFF },
-		{ "MATK Áõ°¡" },
-		{ "°íÁ¤ Ä³½ºÆÃ °¨¼Ò" },
+		{ "íŽœë¦´ì˜ íž˜", COLOR_TITLE_BUFF },
+		{ "MATK ì¦ê°€" },
+		{ "ê³ ì • ìºìŠ¤íŒ… ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -2977,42 +2977,42 @@ StateIconList[EFST_IDs.EFST_HANDICAPSTATE_ICEEXPLO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 5,
 	descript = {
-		{ "µ¿ºùÆøÅº", COLOR_TITLE_DEBUFF },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "ÀÏÁ¤ ½Ã°£ µÚ¿¡ Æø¹ßÇÏ¿©" },
-		{ "ÁÖº¯¿¡ Å« µ¥¹ÌÁö¸¦ ÁØ´Ù." },
+		{ "ë™ë¹™í­íƒ„", COLOR_TITLE_DEBUFF },
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "ì¼ì • ì‹œê°„ ë’¤ì— í­ë°œí•˜ì—¬" },
+		{ "ì£¼ë³€ì— í° ë°ë¯¸ì§€ë¥¼ ì¤€ë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_ATKMAX] = {
 	descript = {
 		{ "MAX ATK", COLOR_TITLE_TOGGLE },
-		{ "ÃÖ´ë ¹°¸®µ¥¹ÌÁö" }
+		{ "ìµœëŒ€ ë¬¼ë¦¬ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_ATKMIN] = {
 	descript = {
 		{ "MIN ATK", COLOR_TITLE_TOGGLE },
-		{ "ÃÖ¼Ò ¹°¸®µ¥¹ÌÁö" }
+		{ "ìµœì†Œ ë¬¼ë¦¬ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_MATKMAX] = {
 	descript = {
 		{ "MAX MATK", COLOR_TITLE_TOGGLE },
-		{ "ÃÖ´ë ¸¶¹ýµ¥¹ÌÁö" }
+		{ "ìµœëŒ€ ë§ˆë²•ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_MATKMIN] = {
 	descript = {
 		{ "MIN MATK", COLOR_TITLE_TOGGLE },
-		{ "ÃÖ¼Ò ¸¶¹ýµ¥¹ÌÁö" }
+		{ "ìµœì†Œ ë§ˆë²•ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_2013_VALENTINE1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "LUK Áõ°¡" },
+		{ "LUK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3020,7 +3020,7 @@ StateIconList[EFST_IDs.EFST_2013_VALENTINE2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ATK, MATK %Áõ°¡" },
+		{ "ATK, MATK %ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3028,7 +3028,7 @@ StateIconList[EFST_IDs.EFST_2013_VALENTINE3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "HP, SP È¸º¹·Â Çâ»ó" },
+		{ "HP, SP íšŒë³µë ¥ í–¥ìƒ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3036,8 +3036,8 @@ StateIconList[EFST_IDs.EFST_CHILL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "³Ã±â", COLOR_TITLE_DEBUFF },
-		{ "È­»ó È¿°ú¿¡ °É¸®Áö ¾Ê´Â´Ù" },
+		{ "ëƒ‰ê¸°", COLOR_TITLE_DEBUFF },
+		{ "í™”ìƒ íš¨ê³¼ì— ê±¸ë¦¬ì§€ ì•ŠëŠ”ë‹¤" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3045,11 +3045,11 @@ StateIconList[EFST_IDs.EFST_BURNT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 6,
 	descript = {
-		{ "È­»ó", COLOR_TITLE_DEBUFF },
-		{ "È­¼Ó¼º ¸ó½ºÅÍ¿¡°Ô" },
-		{ "¹Þ´Â µ¥¹ÌÁö Áõ°¡" },
-		{ "È­¼Ó¼º ³»¼º °¨¼Ò" },
-		{ "ÁÖ±âÀûÀÎ È­¼Ó¼º µ¥¹ÌÁö" },
+		{ "í™”ìƒ", COLOR_TITLE_DEBUFF },
+		{ "í™”ì†ì„± ëª¬ìŠ¤í„°ì—ê²Œ" },
+		{ "ë°›ëŠ” ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "í™”ì†ì„± ë‚´ì„± ê°ì†Œ" },
+		{ "ì£¼ê¸°ì ì¸ í™”ì†ì„± ë°ë¯¸ì§€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3057,9 +3057,9 @@ StateIconList[EFST_IDs.EFST_FRIGG_SONG] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "Ç³¿äÀÇ ³ë·¡", COLOR_TITLE_BUFF },
-		{ "MHP Áõ°¡" },
-		{ "1ÃÊ´ç ÀÏÁ¤·®ÀÇ HP È¸º¹" },
+		{ "í’ìš”ì˜ ë…¸ëž˜", COLOR_TITLE_BUFF },
+		{ "MHP ì¦ê°€" },
+		{ "1ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3067,9 +3067,9 @@ StateIconList[EFST_IDs.EFST_OFFERTORIUM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "¿ÀÆä¸£Åä¸®¿ò", COLOR_TITLE_BUFF },
-		{ "ÀÚ½ÅÀÌ »ç¿ëÇÏ´Â Èú·® Áõ°¡" },
-		{ "¸ðµç ½ºÅ³ÀÇ SP ¼Ò¸ð·® Áõ°¡" },
+		{ "ì˜¤íŽ˜ë¥´í† ë¦¬ì›€", COLOR_TITLE_BUFF },
+		{ "ìžì‹ ì´ ì‚¬ìš©í•˜ëŠ” ížëŸ‰ ì¦ê°€" },
+		{ "ëª¨ë“  ìŠ¤í‚¬ì˜ SP ì†Œëª¨ëŸ‰ ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3077,10 +3077,10 @@ StateIconList[EFST_IDs.EFST_TELEKINESIS_INTENSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 5,
 	descript = {
-		{ "ÅÚ·¹Å°³×½Ã½º ÀÎÅÙ½º", COLOR_TITLE_BUFF },
-		{ "¿°¼Ó¼º ¸¶¹ýÀÇ °ø°Ý·Â Áõ°¡" },
-		{ "¿°¼Ó¼º ¸¶¹ýÀÇ ¼Ò¸ðSP °¨¼Ò" },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" },
+		{ "í…”ë ˆí‚¤ë„¤ì‹œìŠ¤ ì¸í…ìŠ¤", COLOR_TITLE_BUFF },
+		{ "ì—¼ì†ì„± ë§ˆë²•ì˜ ê³µê²©ë ¥ ì¦ê°€" },
+		{ "ì—¼ì†ì„± ë§ˆë²•ì˜ ì†Œëª¨SP ê°ì†Œ" },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3088,9 +3088,9 @@ StateIconList[EFST_IDs.EFST_FULL_THROTTLE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "Ç® ½º·ÎÆ²", COLOR_TITLE_BUFF },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º Áõ°¡" },
+		{ "í’€ ìŠ¤ë¡œí‹€", COLOR_TITLE_BUFF },
+		{ "ì´ë™ì†ë„ ì¦ê°€" },
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3098,9 +3098,9 @@ StateIconList[EFST_IDs.EFST_REBOUND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "¸®¹Ù¿îµå", COLOR_TITLE_DEBUFF },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "HP, SP ÀÚ¿¬È¸º¹ ºÒ°¡" },
+		{ "ë¦¬ë°”ìš´ë“œ", COLOR_TITLE_DEBUFF },
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "HP, SP ìžì—°íšŒë³µ ë¶ˆê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3108,10 +3108,10 @@ StateIconList[EFST_IDs.EFST_KINGS_GRACE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 5,
 	descript = {
-		{ "¿ÕÀÇ °¡È£", COLOR_TITLE_BUFF },
-		{ "¹«Àû»óÅÂ" },
-		{ "¾ÆÀÌÅÛ »ç¿ëºÒ°¡" },
-		{ "ÀÌµ¿ ¹× °ø°Ý ºÒ°¡" },
+		{ "ì™•ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
+		{ "ë¬´ì ìƒíƒœ" },
+		{ "ì•„ì´í…œ ì‚¬ìš©ë¶ˆê°€" },
+		{ "ì´ë™ ë° ê³µê²© ë¶ˆê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3119,8 +3119,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "´º¿ÀÁîÀÇ ¾û¶×ÇÔ", COLOR_TITLE_BUFF },
-		{ "ATK Áõ°¡" },
+		{ "ë‰´ì˜¤ì¦ˆì˜ ì—‰ëš±í•¨", COLOR_TITLE_BUFF },
+		{ "ATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3128,8 +3128,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¾ÆÀÌ±¸ÀÇ ÀÇÁö", COLOR_TITLE_BUFF },
-		{ "MATK Áõ°¡" },
+		{ "ì•„ì´êµ¬ì˜ ì˜ì§€", COLOR_TITLE_BUFF },
+		{ "MATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3137,8 +3137,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "·ÎÅ×¸£Æ®ÀÇ Çã¼¼", COLOR_TITLE_BUFF },
-		{ "°ø°Ý ÈÄµô·¹ÀÌ °¨¼Ò" },
+		{ "ë¡œí…Œë¥´íŠ¸ì˜ í—ˆì„¸", COLOR_TITLE_BUFF },
+		{ "ê³µê²© í›„ë”œë ˆì´ ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3146,8 +3146,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "°ÖÄ«ÀÇ ¼öÁÝÀ½", COLOR_TITLE_BUFF },
-		{ "SP ¼Ò¸ð·® °¨¼Ò" },
+		{ "ê²”ì¹´ì˜ ìˆ˜ì¤ìŒ", COLOR_TITLE_BUFF },
+		{ "SP ì†Œëª¨ëŸ‰ ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3155,8 +3155,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¾Æ¶ûÀÇ ÃµÁø³­¸¸ÇÔ", COLOR_TITLE_BUFF },
-		{ "±Û·Î¹ú ÄðÅ¸ÀÓ °¨¼Ò" },
+		{ "ì•„ëž‘ì˜ ì²œì§„ë‚œë§Œí•¨", COLOR_TITLE_BUFF },
+		{ "ê¸€ë¡œë²Œ ì¿¨íƒ€ìž„ ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3164,8 +3164,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF6] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¹Ö¹ÎÀÇ ¼¼¹ÐÇÔ", COLOR_TITLE_BUFF },
-		{ "¸íÁß·ü Áõ°¡" },
+		{ "ë°ë¯¼ì˜ ì„¸ë°€í•¨", COLOR_TITLE_BUFF },
+		{ "ëª…ì¤‘ë¥  ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3173,8 +3173,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF7] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "·Î¿¤ÀÇ ÁøÁöÇÔ", COLOR_TITLE_BUFF },
-		{ "DEF Áõ°¡" },
+		{ "ë¡œì—˜ì˜ ì§„ì§€í•¨", COLOR_TITLE_BUFF },
+		{ "DEF ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3182,8 +3182,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF8] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "·ç³ªÀÎÀÇ ¼¼Ä§ÇÔ", COLOR_TITLE_BUFF },
-		{ "Èú·® Áõ°¡" },
+		{ "ë£¨ë‚˜ì¸ì˜ ì„¸ì¹¨í•¨", COLOR_TITLE_BUFF },
+		{ "ížëŸ‰ ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3191,8 +3191,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF9] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¶ó±âÀÇ ½ä··ÇÔ", COLOR_TITLE_BUFF },
-		{ "MDEF Áõ°¡" },
+		{ "ë¼ê¸°ì˜ ì°ë í•¨", COLOR_TITLE_BUFF },
+		{ "MDEF ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3200,8 +3200,8 @@ StateIconList[EFST_IDs.EFST_JITTER_BUFF10] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¸á·ÎµðÀèÀÇ ºÒÇÊ¿äÇÔ", COLOR_TITLE_BUFF },
-		{ "È¸ÇÇÀ² Áõ°¡" },
+		{ "ë©œë¡œë””ìž­ì˜ ë¶ˆí•„ìš”í•¨", COLOR_TITLE_BUFF },
+		{ "íšŒí”¼ìœ¨ ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3209,36 +3209,36 @@ StateIconList[EFST_IDs.EFST_CUP_OF_BOZA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "º¸ÀÚÀÇ ÄÅ", COLOR_TITLE_BUFF },
-		{ "vit Áõ°¡" },
-		{ "È­¼Ó¼º¿¡ ´ëÇÑ ³»¼º Áõ°¡" },
+		{ "ë³´ìžì˜ ì»µ", COLOR_TITLE_BUFF },
+		{ "vit ì¦ê°€" },
+		{ "í™”ì†ì„±ì— ëŒ€í•œ ë‚´ì„± ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWORDCLAN] = {
 	descript = {
-		{ "¼Òµå Å¬·£", COLOR_TITLE_BUFF },
+		{ "ì†Œë“œ í´ëžœ", COLOR_TITLE_BUFF },
 		{ "STR + 1, VIT + 1" },
 		{ "MHP + 30, MSP + 10" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ARCWANDCLAN] = {
 	descript = {
-		{ "¾ÆÅ©¿Ïµå Å¬·£", COLOR_TITLE_BUFF },
+		{ "ì•„í¬ì™„ë“œ í´ëžœ", COLOR_TITLE_BUFF },
 		{ "INT + 1, DEX + 1" },
 		{ "MHP + 30, MSP + 10" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GOLDENMACECLAN] = {
 	descript = {
-		{ "°ñµç¸ÞÀÌ½º Å¬·£", COLOR_TITLE_BUFF },
+		{ "ê³¨ë“ ë©”ì´ìŠ¤ í´ëžœ", COLOR_TITLE_BUFF },
 		{ "LUK + 1, INT + 1" },
 		{ "MHP + 30, MSP + 10" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CROSSBOWCLAN] = {
 	descript = {
-		{ "Å©·Î½ºº¸¿ì Å¬·£", COLOR_TITLE_BUFF },
+		{ "í¬ë¡œìŠ¤ë³´ìš° í´ëžœ", COLOR_TITLE_BUFF },
 		{ "DEX + 1, AGI + 1" },
 		{ "MHP + 30, MSP + 10" }
 	}
@@ -3247,8 +3247,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "°­·ÂÇÑ 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "ATK Áõ°¡" },
+		{ "ê°•ë ¥í•œ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "ATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3256,8 +3256,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¶È¶ÈÇÑ 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "MATK Áõ°¡" },
+		{ "ë˜‘ë˜‘í•œ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "MATK ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3265,8 +3265,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Ã¼·ÂÀÇ 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "MHP Áõ°¡" },
+		{ "ì²´ë ¥ì˜ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "MHP ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3274,8 +3274,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¸¶·ÂÀÇ 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "MSP Áõ°¡" },
+		{ "ë§ˆë ¥ì˜ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "MSP ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3283,8 +3283,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "°¡º­¿î 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "FLEE Áõ°¡" },
+		{ "ê°€ë²¼ìš´ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "FLEE ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3292,8 +3292,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE6] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "»¡¶óÁø 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "ASPD Áõ°¡" },
+		{ "ë¹¨ë¼ì§„ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "ASPD ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3301,8 +3301,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE7] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "µçµçÇÑ 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "DEF Áõ°¡" },
+		{ "ë“ ë“ í•œ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "DEF ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3310,8 +3310,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE8] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¾ÈÀüÇÑ 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "MDEF Áõ°¡" },
+		{ "ì•ˆì „í•œ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "MDEF ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3319,8 +3319,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE9] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "¿îÁÁÀº 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "CRI Áõ°¡" },
+		{ "ìš´ì¢‹ì€ 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "CRI ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3328,8 +3328,8 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE10] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Àß¸Â´Â 30ÃÊ", COLOR_TITLE_BUFF },
-		{ "HIT Áõ°¡" },
+		{ "ìž˜ë§žëŠ” 30ì´ˆ", COLOR_TITLE_BUFF },
+		{ "HIT ì¦ê°€" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3337,8 +3337,8 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "»ê ÀÚ¿Í Á×Àº ÀÚÀÇ °æ°è¿¡ ÀÖ½À´Ï´Ù!", COLOR_TITLE_DEBUFF },
-		{ "Á¤½Å·ÂÀÌ 50% °¨¼ÒÇÕ´Ï´Ù." },
+		{ "ì‚° ìžì™€ ì£½ì€ ìžì˜ ê²½ê³„ì— ìžˆìŠµë‹ˆë‹¤!", COLOR_TITLE_DEBUFF },
+		{ "ì •ì‹ ë ¥ì´ 50% ê°ì†Œí•©ë‹ˆë‹¤." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3346,8 +3346,8 @@ StateIconList[EFST_IDs.EFST_ZONGZI_POUCH_TRANS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "´Ü¿ÀÀý ÃàÁ¦", COLOR_TITLE_BUFF },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º Áõ°¡." },
+		{ "ë‹¨ì˜¤ì ˆ ì¶•ì œ", COLOR_TITLE_BUFF },
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ì¦ê°€." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3355,68 +3355,68 @@ StateIconList[EFST_IDs.EFST_B_TRAP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÙÀÎµå Æ®·¦", COLOR_TITLE_DEBUFF },
+		{ "ë°”ì¸ë“œ íŠ¸ëž©", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ¼Óµµ °¨¼Ò" }
+		{ "ì´ë™ ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_E_CHAIN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÌÅÍ³Î Ã¼ÀÎ", COLOR_TITLE_BUFF },
+		{ "ì´í„°ë„ ì²´ì¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ È®·ü·Î Ã¼ÀÎ¾×¼Ç ¹ßµ¿" }
+		{ "ì¼ì • í™•ë¥ ë¡œ ì²´ì¸ì•¡ì…˜ ë°œë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_C_MARKER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å©¸²Áð ¸¶Ä¿", COLOR_TITLE_DEBUFF },
+		{ "í¬ë¦¼ì¦Œ ë§ˆì»¤", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "FLEE °¨¼Ò" }
+		{ "FLEE ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_P_ALTER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÃ·¡Æ¼³Ñ ¾ËÅÍ", COLOR_TITLE_BUFF },
+		{ "í”Œëž˜í‹°ë„˜ ì•Œí„°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" }
+		{ "ATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEAT_BARREL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È÷Æ® ¹è·²", COLOR_TITLE_BUFF },
+		{ "ížˆíŠ¸ ë°°ëŸ´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" },
-		{ "HIT °¨¼Ò" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "°íÁ¤ Ä³½ºÆÃ °¨¼Ò" }
+		{ "ATK ì¦ê°€" },
+		{ "HIT ê°ì†Œ" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "ê³ ì • ìºìŠ¤íŒ… ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ANTI_M_BLAST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ÈÆ¼ ¸ÅÅÍ¸®¾ó ºí·¡½ºÆ®", COLOR_TITLE_DEBUFF },
+		{ "ì•ˆí‹° ë§¤í„°ë¦¬ì–¼ ë¸”ëž˜ìŠ¤íŠ¸", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«¼Ó¼º ³»¼º °¨¼Ò" }
+		{ "ë¬´ì†ì„± ë‚´ì„± ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEAT_BARREL_AFTER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÈÄÀ¯Áõ", COLOR_TITLE_DEBUFF },
+		{ "í›„ìœ ì¦", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ÆÀÌÅÛ »ç¿ëºÒ°¡" },
-		{ "½ºÅ³ »ç¿ëºÒ°¡" },
-		{ "°ø°Ý ºÒ°¡" }
+		{ "ì•„ì´í…œ ì‚¬ìš©ë¶ˆê°€" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš©ë¶ˆê°€" },
+		{ "ê³µê²© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERSEAEXPUP] = {
@@ -3424,132 +3424,132 @@ StateIconList[EFST_IDs.EFST_OVERSEAEXPUP] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "È¹µæ °æÇèÄ¡ Áõ°¡" }
+		{ "íšë“ ê²½í—˜ì¹˜ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BEEF_RIB_STEW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ò°¥ºñÂò", COLOR_TITLE_BUFF },
+		{ "ì†Œê°ˆë¹„ì°œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò." },
-		{ "SP ¼Ò¸ð·® °¨¼Ò." }
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ." },
+		{ "SP ì†Œëª¨ëŸ‰ ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µÅÁö°¥ºñÂò", COLOR_TITLE_BUFF },
+		{ "ë¼ì§€ê°ˆë¹„ì°œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡." },
-		{ "SP ¼Ò¸ð·® °¨¼Ò." }
+		{ "ê³µê²©ì†ë„ ì¦ê°€." },
+		{ "SP ì†Œëª¨ëŸ‰ ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHUSEOK_MONDAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ó¼º°­È­", COLOR_TITLE_BUFF },
+		{ "ì†ì„±ê°•í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ï¼Ó¼º ¸ó½ºÅÍ Ãß°¡ µ¥¹ÌÁö." },
-		{ "¼º¼Ó¼º ³»¼º Áõ°¡." }
+		{ "ì•”ì†ì„± ëª¬ìŠ¤í„° ì¶”ê°€ ë°ë¯¸ì§€." },
+		{ "ì„±ì†ì„± ë‚´ì„± ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHUSEOK_TUESDAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ó¼º°­È­", COLOR_TITLE_BUFF },
+		{ "ì†ì„±ê°•í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Áö¼Ó¼º ¸ó½ºÅÍ Ãß°¡ µ¥¹ÌÁö." },
-		{ "È­¼Ó¼º ³»¼º Áõ°¡." }
+		{ "ì§€ì†ì„± ëª¬ìŠ¤í„° ì¶”ê°€ ë°ë¯¸ì§€." },
+		{ "í™”ì†ì„± ë‚´ì„± ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHUSEOK_WEDNESDAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ó¼º°­È­", COLOR_TITLE_BUFF },
+		{ "ì†ì„±ê°•í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È­¼Ó¼º ¸ó½ºÅÍ Ãß°¡ µ¥¹ÌÁö." },
-		{ "¼ö¼Ó¼º ³»¼º Áõ°¡." }
+		{ "í™”ì†ì„± ëª¬ìŠ¤í„° ì¶”ê°€ ë°ë¯¸ì§€." },
+		{ "ìˆ˜ì†ì„± ë‚´ì„± ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHUSEOK_THURSDAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ó¼º°­È­", COLOR_TITLE_BUFF },
+		{ "ì†ì„±ê°•í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ç³¼Ó¼º ¸ó½ºÅÍ Ãß°¡ µ¥¹ÌÁö." },
-		{ "Áö¼Ó¼º ³»¼º Áõ°¡." }
+		{ "í’ì†ì„± ëª¬ìŠ¤í„° ì¶”ê°€ ë°ë¯¸ì§€." },
+		{ "ì§€ì†ì„± ë‚´ì„± ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHUSEOK_FRIDAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ó¼º°­È­", COLOR_TITLE_BUFF },
+		{ "ì†ì„±ê°•í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö¼Ó¼º ¸ó½ºÅÍ Ãß°¡ µ¥¹ÌÁö." },
-		{ "Ç³¼Ó¼º ³»¼º Áõ°¡." }
+		{ "ìˆ˜ì†ì„± ëª¬ìŠ¤í„° ì¶”ê°€ ë°ë¯¸ì§€." },
+		{ "í’ì†ì„± ë‚´ì„± ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ó¼º°­È­", COLOR_TITLE_BUFF },
+		{ "ì†ì„±ê°•í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«¼Ó¼º ¸ó½ºÅÍ Ãß°¡ µ¥¹ÌÁö." },
-		{ "¹«¼Ó¼º ³»¼º Áõ°¡." }
+		{ "ë¬´ì†ì„± ëª¬ìŠ¤í„° ì¶”ê°€ ë°ë¯¸ì§€." },
+		{ "ë¬´ì†ì„± ë‚´ì„± ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
 	descript = {
-		{ "Á¡ÇÎ Å¬·£", COLOR_TITLE_BUFF },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º + 1." }
+		{ "ì í•‘ í´ëžœ", COLOR_TITLE_BUFF },
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ + 1." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ESSENCE_OF_TIME] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Ã°£ÀÇ Á¶°¢ ÀÀÁýÁß", COLOR_SYSTEM },
+		{ "ì‹œê°„ì˜ ì¡°ê° ì‘ì§‘ì¤‘", COLOR_SYSTEM },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌ¹Ì ½Ã°£ÀÇ Á¤¼ö¸¦ ¾ò¾ú½À´Ï´Ù." }
+		{ "ì´ë¯¸ ì‹œê°„ì˜ ì •ìˆ˜ë¥¼ ì–»ì—ˆìŠµë‹ˆë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÑÁ¤ÆÇ ÆÄ¿ö ºÎ½ºÅÍ", COLOR_TITLE_BUFF },
+		{ "í•œì •íŒ íŒŒì›Œ ë¶€ìŠ¤í„°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK Áõ°¡" },
-		{ "HIT, FLEE Áõ°¡" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "SP ¼Ò¸ð·® °¨¼Ò" },
-		{ "°íÁ¤ Ä³½ºÆÃ °¨¼Ò" }
+		{ "ATK, MATK ì¦ê°€" },
+		{ "HIT, FLEE ì¦ê°€" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "SP ì†Œëª¨ëŸ‰ ê°ì†Œ" },
+		{ "ê³ ì • ìºìŠ¤íŒ… ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÀÀÎµÈ º£¸£Á¦ºêºê", COLOR_TITLE_BUFF },
+		{ "ë´‰ì¸ëœ ë² ë¥´ì œë¸Œë¸Œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¯µ¿ Ä³½ºÆÃ ½Ã°£ °¨¼Ò" }
+		{ "ë³€ë™ ìºìŠ¤íŒ… ì‹œê°„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EP16_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "ºû³ª´Â ¼º¼ö", COLOR_TITLE_BUFF },
-		{ "ÀÇ½ÄÀÇ¹æ, ÇÁ·ÐÅ×¶ó Ä§°ø ´øÀü¿¡¼­ ¹Þ´Â µ¥¹ÌÁö 10% °¨¼Ò" },
+		{ "ë¹›ë‚˜ëŠ” ì„±ìˆ˜", COLOR_TITLE_BUFF },
+		{ "ì˜ì‹ì˜ë°©, í”„ë¡ í…Œë¼ ì¹¨ê³µ ë˜ì „ì—ì„œ ë°›ëŠ” ë°ë¯¸ì§€ 10% ê°ì†Œ" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3558,8 +3558,8 @@ StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ »ç³É ½Ã" },
-		{ "±âº» ¾ÆÀÌÅÛÀÇ µå·Ó·ü 2¹è Áõ°¡" }
+		{ "ëª¬ìŠ¤í„° ì‚¬ëƒ¥ ì‹œ" },
+		{ "ê¸°ë³¸ ì•„ì´í…œì˜ ë“œë¡­ë¥  2ë°° ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {
@@ -3567,7 +3567,7 @@ StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ »ç³É ½Ã JOB °æÇèÄ¡ Ãß°¡ È¹µæ" }
+		{ "ëª¬ìŠ¤í„° ì‚¬ëƒ¥ ì‹œ JOB ê²½í—˜ì¹˜ ì¶”ê°€ íšë“" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP] = {
@@ -3575,155 +3575,155 @@ StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "È¹µæ °æÇèÄ¡ Áõ°¡" }
+		{ "íšë“ ê²½í—˜ì¹˜ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EXTRACT_SALAMINE_JUICE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "³óÃà »ø·¯¸¶ÀÎÁó", COLOR_TITLE_BUFF },
+		{ "ë†ì¶• ìƒëŸ¬ë§ˆì¸ì¦™", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ¼Óµµ Áõ°¡" }
+		{ "ê³µê²© ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROMOTE_HEALTH_RESERCH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "HP Áõ°¡ Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "HP ì¦ê°€ í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Áõ°¡" }
+		{ "MHP ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENERGY_DRINK_RESERCH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "SP Áõ°¡ Æ÷¼Ç", COLOR_TITLE_BUFF },
+		{ "SP ì¦ê°€ í¬ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MSP Áõ°¡" }
+		{ "MSP ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EXTRACT_WHITE_POTION_Z] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "³óÃà È­ÀÌÆ® Æ÷¼ÇZ", COLOR_TITLE_BUFF },
+		{ "ë†ì¶• í™”ì´íŠ¸ í¬ì…˜Z", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP ÀÚ¿¬ È¸º¹¼Óµµ Áõ°¡" }
+		{ "HP ìžì—° íšŒë³µì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VITATA_500] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºñÅ¸Å¸500", COLOR_TITLE_BUFF },
+		{ "ë¹„íƒ€íƒ€500", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "SP ÀÚ¿¬ È¸º¹¼Óµµ Áõ°¡" },
-		{ "MSP Áõ°¡" }
+		{ "SP ìžì—° íšŒë³µì†ë„ ì¦ê°€" },
+		{ "MSP ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EXPIATIO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿¢½ºÇÇ¾ÆÆ¼¿À", COLOR_TITLE_BUFF },
+		{ "ì—‘ìŠ¤í”¼ì•„í‹°ì˜¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ë»ó ¹æ¾î·Â ÀÏºÎºÐ ¹«½Ã" }
+		{ "ëŒ€ìƒ ë°©ì–´ë ¥ ì¼ë¶€ë¶„ ë¬´ì‹œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRUSHSTRIKE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å©·¯½¬ ½ºÆ®¶óÀÌÅ©", COLOR_TITLE_BUFF },
+		{ "í¬ëŸ¬ì‰¬ ìŠ¤íŠ¸ë¼ì´í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® °ø°Ý·Â Áõ°¡" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EXEEDBREAK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÍ½Ãµå ºê·¹ÀÌÅ©", COLOR_TITLE_BUFF },
+		{ "ìµì‹œë“œ ë¸Œë ˆì´í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÃÖÃÊ ÀÏ°Ý °ø°Ý·Â Áõ°¡" }
+		{ "ìµœì´ˆ ì¼ê²© ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STASIS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÅ×ÀÌ½Ã½º", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤í…Œì´ì‹œìŠ¤", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹üÀ§ ³» ¸ðµç ´ë»óÀÌ ¸¶¹ý, ³ë·¡, ÇÕÃ¢ ºÒ°¡" }
+		{ "ë²”ìœ„ ë‚´ ëª¨ë“  ëŒ€ìƒì´ ë§ˆë²•, ë…¸ëž˜, í•©ì°½ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGNETICFIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶±×³×Æ½ ÇÊµå", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆê·¸ë„¤í‹± í•„ë“œ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹üÀ§ ³» ¸ðµç ´ë»óÀÌ ÀÌµ¿ ºÒ°¡" },
-		{ "SP °¨¼Ò" }
+		{ "ë²”ìœ„ ë‚´ ëª¨ë“  ëŒ€ìƒì´ ì´ë™ ë¶ˆê°€" },
+		{ "SP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VACUUM_EXTREME] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÙÅ¨ ÀÍ½ºÆ®¸²", COLOR_TITLE_DEBUFF },
+		{ "ë°”í  ìµìŠ¤íŠ¸ë¦¼", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹üÀ§ ³» ¸ðµç ´ë»óÀ» ²ø¾î¿È" },
-		{ "ÀÌµ¿ ºÒ°¡" }
+		{ "ë²”ìœ„ ë‚´ ëª¨ë“  ëŒ€ìƒì„ ëŒì–´ì˜´" },
+		{ "ì´ë™ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼®È­", COLOR_TITLE_DEBUFF },
+		{ "ì„í™”", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇ, Çàµ¿ ºÒ°¡" },
-		{ "MHP °¨¼Ò" }
+		{ "íšŒí”¼, í–‰ë™ ë¶ˆê°€" },
+		{ "MHP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_FREEZING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¿ºù", COLOR_TITLE_DEBUFF },
+		{ "ë™ë¹™", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇ, Çàµ¿ ºÒ°¡" },
-		{ "¹°¸®, ¸¶¹ý ¹æ¾î·Â °¨¼Ò" }
+		{ "íšŒí”¼, í–‰ë™ ë¶ˆê°€" },
+		{ "ë¬¼ë¦¬, ë§ˆë²• ë°©ì–´ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_STUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÅÏ", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤í„´", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇ, Çàµ¿ ºÒ°¡" }
+		{ "íšŒí”¼, í–‰ë™ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_SLEEP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼ö¸é", COLOR_TITLE_DEBUFF },
+		{ "ìˆ˜ë©´", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇ, Çàµ¿ ºÒ°¡" },
-		{ "Å©¸®Æ¼ÄÃ ÇÇÇØ È®·ü »ó½Â" }
+		{ "íšŒí”¼, í–‰ë™ ë¶ˆê°€" },
+		{ "í¬ë¦¬í‹°ì»¬ í”¼í•´ í™•ë¥  ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE_ING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼®È­ ÁøÇà Áß", COLOR_TITLE_DEBUFF },
+		{ "ì„í™” ì§„í–‰ ì¤‘", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3731,114 +3731,114 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_BURNNING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ßÈ­", COLOR_TITLE_DEBUFF },
+		{ "ë°œí™”", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ÃÊ¸¶´Ù µ¥¹ÌÁö ÇÇÇØ" },
-		{ "¸¶¹ý ¹æ¾î·Â °¨¼Ò" }
+		{ "3ì´ˆë§ˆë‹¤ ë°ë¯¸ì§€ í”¼í•´" },
+		{ "ë§ˆë²• ë°©ì–´ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_IMPRISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°Ý¸®", COLOR_TITLE_DEBUFF },
+		{ "ê²©ë¦¬", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿, °ø°Ý, ½ºÅ³, ¾ÆÀÌÅÛ »ç¿ë ºÒ°¡" }
+		{ "ì´ë™, ê³µê²©, ìŠ¤í‚¬, ì•„ì´í…œ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_POISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¶", COLOR_TITLE_DEBUFF },
+		{ "ë…", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "½Ã¾ß ÀúÇÏ" },
-		{ "¹°¸® ¹æ¾î·Â °¨¼Ò" },
-		{ "3ÃÊ´ç MHP °¨¼Ò" }
+		{ "ì‹œì•¼ ì €í•˜" },
+		{ "ë¬¼ë¦¬ ë°©ì–´ë ¥ ê°ì†Œ" },
+		{ "3ì´ˆë‹¹ MHP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_CURSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀúÁÖ", COLOR_TITLE_DEBUFF },
+		{ "ì €ì£¼", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ¼Óµµ, ¹°¸® °ø°Ý·Â °¨¼Ò" },
-		{ "LUK ¼öÄ¡ 0 " }
+		{ "ì´ë™ ì†ë„, ë¬¼ë¦¬ ê³µê²©ë ¥ ê°ì†Œ" },
+		{ "LUK ìˆ˜ì¹˜ 0 " }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_SILENCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä§¹¬", COLOR_TITLE_DEBUFF },
+		{ "ì¹¨ë¬µ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅ³ »ç¿ë ºÒ°¡" }
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_CONFUSION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¥¶õ", COLOR_TITLE_DEBUFF },
+		{ "í˜¼ëž€", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ½Ã ¹«ÀÛÀ§·Î ÀÌµ¿" }
+		{ "ì´ë™ ì‹œ ë¬´ìž‘ìœ„ë¡œ ì´ë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_HEAVYPOISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¡¸íÀûÀÎ µ¶", COLOR_TITLE_DEBUFF },
+		{ "ì¹˜ëª…ì ì¸ ë…", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÃÊ´ç HP °¨¼Ò " }
+		{ "ì´ˆë‹¹ HP ê°ì†Œ " }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_FEAR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°øÆ÷", COLOR_TITLE_DEBUFF },
+		{ "ê³µí¬", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "2ÃÊ°£ ÀÌµ¿ ºÒ°¡" },
-		{ "¸íÁß·ü, È¸ÇÇ·ü °¨¼Ò" }
+		{ "2ì´ˆê°„ ì´ë™ ë¶ˆê°€" },
+		{ "ëª…ì¤‘ë¥ , íšŒí”¼ë¥  ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_ATKER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖ¹ÚÁø", COLOR_TITLE_DEBUFF },
+		{ "ì£¼ë°•ì§„", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹üÀ§ ³» ¸ðµç ´ë»óÀ» ÀÌµ¿, °ø°Ý ºÒ°¡" },
-		{ "»óÅÂÀÌ»ó Ä§¹¬ Ãß°¡" }
+		{ "ë²”ìœ„ ë‚´ ëª¨ë“  ëŒ€ìƒì„ ì´ë™, ê³µê²© ë¶ˆê°€" },
+		{ "ìƒíƒœì´ìƒ ì¹¨ë¬µ ì¶”ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_TARGET] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖ¹ÚÁø", COLOR_TITLE_DEBUFF },
+		{ "ì£¼ë°•ì§„", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ¹× °ø°Ý ºÒ°¡" },
-		{ "½ºÅ³ »ç¿ë ºÒ°¡" }
+		{ "ì´ë™ ë° ê³µê²© ë¶ˆê°€" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MANDRAGORA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÏ¿ï¸µ ¿Àºê ¸¸µå¶ó°í¶ó", COLOR_TITLE_DEBUFF },
+		{ "í•˜ìš¸ë§ ì˜¤ë¸Œ ë§Œë“œë¼ê³ ë¼", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "INT, SP °¨¼Ò" },
-		{ "½ºÅ³ °íÁ¤ Ä³½ºÆÃ Áõ°¡" }
+		{ "INT, SP ê°ì†Œ" },
+		{ "ìŠ¤í‚¬ ê³ ì • ìºìŠ¤íŒ… ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_NOTHING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ ¹«¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ë¬´ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3846,7 +3846,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WATER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ ¼ö¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ìˆ˜ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3854,7 +3854,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_GROUND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ Áö¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ì§€ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3862,7 +3862,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_FIRE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ È­¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— í™”ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3870,7 +3870,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WIND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ Ç³¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— í’ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3878,7 +3878,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_POISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ µ¶¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ë…ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3886,7 +3886,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_SAINT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ ¼º¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ì„±ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3894,7 +3894,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_DARKNESS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ ¾Ï¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ì•”ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3902,7 +3902,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_TELEKINESIS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ ¿°¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ì—¼ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3910,7 +3910,7 @@ StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_UNDEAD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â¿¡ ºÒ»ç¼Ó¼º ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë¬´ê¸°ì— ë¶ˆì‚¬ì†ì„± ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3918,7 +3918,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_NOTHING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ë¬´ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3926,7 +3926,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_WATER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼ö¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ìˆ˜ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3934,7 +3934,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_GROUND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Áö¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ì§€ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3942,7 +3942,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_FIRE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È­¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "í™”ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3950,7 +3950,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_WIND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ç³¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "í’ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3958,7 +3958,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_POISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¶¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ë…ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3966,7 +3966,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_SAINT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼º¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ì„±ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3974,7 +3974,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_DARKNESS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Ï¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ì•”ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3982,7 +3982,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_TELEKINESIS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿°¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ì—¼ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3990,7 +3990,7 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÒ»ç¼Ó¼º ³»¼º", COLOR_TITLE_BUFF },
+		{ "ë¶ˆì‚¬ì†ì„± ë‚´ì„±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -3998,41 +3998,41 @@ StateIconList[EFST_IDs.EFST_CHERRY_BLOSSOM_CAKE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º¢²É Âû¶±", COLOR_TITLE_BUFF },
+		{ "ë²šê½ƒ ì°°ë–¡", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼Ò,Áß,´ëÇü ÀûÀ¸·ÎºÎÅÍ µ¥¹ÌÁö °¨¼Ò" }
+		{ "ì†Œ,ì¤‘,ëŒ€í˜• ì ìœ¼ë¡œë¶€í„° ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DORAM_BUF_01] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±ò·ç³Ä ¹ÐÅ©", COLOR_TITLE_BUFF },
+		{ "ê¹”ë£¨ëƒ ë°€í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ºÐ°£ 10ÃÊ¸¶´Ù HP 10 È¸º¹" }
+		{ "3ë¶„ê°„ 10ì´ˆë§ˆë‹¤ HP 10 íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DORAM_BUF_02] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÙÁú", COLOR_TITLE_BUFF },
+		{ "ë°”ì§ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ºÐ°£ 10ÃÊ¸¶´Ù SP 5 È¸º¹" }
+		{ "3ë¶„ê°„ 10ì´ˆë§ˆë‹¤ SP 5 íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPRITEMABLE] = {
 	haveTimeLimit = 0,
 	posTimeLimitStr = 0,
 	descript = {
-		{ "È¥±¸½½", COLOR_SYSTEMF }
+		{ "í˜¼êµ¬ìŠ¬", COLOR_SYSTEMF }
 	}
 }
 StateIconList[EFST_IDs.EFST_SUHIDE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼û±â", COLOR_TITLE_BUFF },
+		{ "ìˆ¨ê¸°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -4040,16 +4040,16 @@ StateIconList[EFST_IDs.EFST_FRESHSHRIMP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»õ¿ìÀÇ½Å¼±ÇÔ", COLOR_TITLE_BUFF },
+		{ "ìƒˆìš°ì˜ì‹ ì„ í•¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤·®ÀÇ HP È¸º¹" }
+		{ "ì¼ì •ëŸ‰ì˜ HP íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHRIMP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»õ¿ì¶¼", COLOR_TITLE_BUFF },
+		{ "ìƒˆìš°ë–¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "ATK, MATK + 10%" }
 	}
@@ -4058,112 +4058,112 @@ StateIconList[EFST_IDs.EFST_TUNAPARTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÂüÄ¡ÆÄÆ¼", COLOR_TITLE_BUFF },
+		{ "ì°¸ì¹˜íŒŒí‹°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤·®ÀÇ µ¥¹ÌÁö ¹æ¾î" }
+		{ "ì¼ì •ëŸ‰ì˜ ë°ë¯¸ì§€ ë°©ì–´" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ARCLOUSEDASH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ÆÅ©¶ó¿ì½º´ë½Ã", COLOR_TITLE_BUFF },
+		{ "ì•„í¬ë¼ìš°ìŠ¤ëŒ€ì‹œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ¼Óµµ Áõ°¡" },
-		{ "AGI Áõ°¡" }
+		{ "ì´ë™ ì†ë„ ì¦ê°€" },
+		{ "AGI ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BITESCAR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹°¸°»óÃ³", COLOR_TITLE_DEBUFF },
+		{ "ë¬¼ë¦°ìƒì²˜", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "2ÃÊ°£ ½ºÅÏ" },
-		{ "ÃÊ´ç MHPÀÇ ÀÏÁ¤¼ö·®À» ÀÒ´Â´Ù." }
+		{ "2ì´ˆê°„ ìŠ¤í„´" },
+		{ "ì´ˆë‹¹ MHPì˜ ì¼ì •ìˆ˜ëŸ‰ì„ ìžƒëŠ”ë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SV_ROOTTWIST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»Ñ¸®ÈÖ°¨±â", COLOR_TITLE_DEBUFF },
+		{ "ë¿Œë¦¬íœ˜ê°ê¸°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ºÒ°¡" },
-		{ "ÃÊ´ç 100ÀÇ ¹«¼Ó¼º µ¥¹ÌÁö" }
+		{ "ì´ë™ ë¶ˆê°€" },
+		{ "ì´ˆë‹¹ 100ì˜ ë¬´ì†ì„± ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CATNIPPOWDER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°¡·ç»Ñ¸®±â", COLOR_TITLE_DEBUFF },
+		{ "ê°€ë£¨ë¿Œë¦¬ê¸°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, MATK °¨¼Ò" },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "HP, SPÈ¸º¹·Â Áõ°¡" }
+		{ "ATK, MATK ê°ì†Œ" },
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "HP, SPíšŒë³µë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SU_STOOP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿õÅ©¸®±â", COLOR_TITLE_BUFF },
+		{ "ì›…í¬ë¦¬ê¸°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸öÀ» µÕ±Û°Ô ¿õÅ©·Á ¹Þ´Â µ¥¹ÌÁö °¨¼Ò" }
+		{ "ëª¸ì„ ë‘¥ê¸€ê²Œ ì›…í¬ë ¤ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HISS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È÷½º", COLOR_TITLE_BUFF },
+		{ "ížˆìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ÏÀü È¸ÇÇ, ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ì™„ì „ íšŒí”¼, ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NYANGGRASS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "³É ±×¶ó½º", COLOR_TITLE_BUFF },
+		{ "ëƒ¥ ê·¸ë¼ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àåºñ ¾ÆÀÌÅÛÀÇ ¹æ¾î·ÂÀ» ¹«·ÂÈ­" }
+		{ "ìž¥ë¹„ ì•„ì´í…œì˜ ë°©ì–´ë ¥ì„ ë¬´ë ¥í™”" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHATTERING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ã¤ÅÍ¸µ", COLOR_TITLE_BUFF },
+		{ "ì±„í„°ë§", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "5ÃÊ°£ ATK, MATK + 100" },
-		{ "10ÃÊ°£ ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "5ì´ˆê°„ ATK, MATK + 100" },
+		{ "10ì´ˆê°„ ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GROOMING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·ç¹Ö", COLOR_TITLE_BUFF },
+		{ "ê·¸ë£¨ë°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "FLEE 100 Áõ°¡" }
+		{ "FLEE 100 ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTIONOFSHRIMP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»õ¿ìÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ìƒˆìš°ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "SP È¸º¹·Â Áõ°¡" }
+		{ "SP íšŒë³µë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°­È­Æ÷¼ÇSS", COLOR_TITLE_BUFF },
+		{ "ê°•í™”í¬ì…˜SS", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "ASPD +10" }
 	}
@@ -4172,7 +4172,7 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SC] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°­È­Æ÷¼ÇSC", COLOR_TITLE_BUFF },
+		{ "ê°•í™”í¬ì…˜SC", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "CRI +30" }
 	}
@@ -4181,170 +4181,170 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°­È­Æ÷¼ÇAC", COLOR_TITLE_BUFF },
+		{ "ê°•í™”í¬ì…˜AC", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¯µ¿ Ä³½ºÆÃ 80% °¨¼Ò" }
+		{ "ë³€ë™ ìºìŠ¤íŒ… 80% ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_MAGICAL_BULLET] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ÅÁöÄÃ ºí¸´", COLOR_TITLE_BUFF },
+		{ "ë§¤ì§€ì»¬ ë¸”ë¦¿", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý µ¥¹ÌÁö Ãß°¡" }
+		{ "ë§ˆë²• ë°ë¯¸ì§€ ì¶”ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_H_MINE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÏ¿ï¸µ ¸¶ÀÎ", COLOR_TITLE_DEBUFF },
+		{ "í•˜ìš¸ë§ ë§ˆì¸", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÇÏ¿ï¸µ ¸¶ÀÎ »óÅÂ" }
+		{ "í•˜ìš¸ë§ ë§ˆì¸ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GLOOM_CARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ø°Ý·Â Áõ°¡", COLOR_TITLE_BUFF },
+		{ "ê³µê²©ë ¥ ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼º¼Ó¼º,¾Ï¼Ó¼º,Ãµ»çÇü,¾Ç¸¶Çü¿¡°Ô ¹°¸® °ø°Ý·Â +20%" }
+		{ "ì„±ì†ì„±,ì•”ì†ì„±,ì²œì‚¬í˜•,ì•…ë§ˆí˜•ì—ê²Œ ë¬¼ë¦¬ ê³µê²©ë ¥ +20%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PHARAOH_CARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "SP ¼Ò¸ð·® °¨¼Ò", COLOR_TITLE_BUFF },
+		{ "SP ì†Œëª¨ëŸ‰ ê°ì†Œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅ³ SP¼Ò¸ð·® -15%" }
+		{ "ìŠ¤í‚¬ SPì†Œëª¨ëŸ‰ -15%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KIEL_CARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Û·Î¹ú ÄðÅ¸ÀÓ °¨¼Ò", COLOR_TITLE_BUFF },
+		{ "ê¸€ë¡œë²Œ ì¿¨íƒ€ìž„ ê°ì†Œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±Û·Î¹ú ÄðÅ¸ÀÓ -15%" }
+		{ "ê¸€ë¡œë²Œ ì¿¨íƒ€ìž„ -15%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µå¶øÀ² Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ë“œëžìœ¨ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ÆÀÌÅÛ µå¶øÀ² Áõ°¡." }
+		{ "ì•„ì´í…œ ë“œëžìœ¨ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°æÇèÄ¡ Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ê²½í—˜ì¹˜ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°æÇèÄ¡ È¹µæÀ² Áõ°¡." }
+		{ "ê²½í—˜ì¹˜ íšë“ìœ¨ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Àâ °æÇèÄ¡ Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ìž¡ ê²½í—˜ì¹˜ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àâ °æÇèÄ¡ È¹µæÀ² Áõ°¡." }
+		{ "ìž¡ ê²½í—˜ì¹˜ íšë“ìœ¨ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_DEADPENALTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¥½ºÆä³ÎÆ¼ ÇÏ¶ô", COLOR_TITLE_BUFF },
+		{ "ë°ìŠ¤íŽ˜ë„í‹° í•˜ë½", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¥½º Æä³ÎÆ¼ ÇÏ¶ô." }
+		{ "ë°ìŠ¤ íŽ˜ë„í‹° í•˜ë½." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ã¢°í È®Àå", COLOR_TITLE_BUFF },
+		{ "ì°½ê³  í™•ìž¥", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ã¢°í º¸°ü °³¼ö Áõ°¡" }
+		{ "ì°½ê³  ë³´ê´€ ê°œìˆ˜ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µå¶øÀ² Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ë“œëžìœ¨ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ÆÀÌÅÛ µå¶øÀ² Áõ°¡." }
+		{ "ì•„ì´í…œ ë“œëžìœ¨ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°æÇèÄ¡ Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ê²½í—˜ì¹˜ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°æÇèÄ¡ È¹µæÀ² Áõ°¡." }
+		{ "ê²½í—˜ì¹˜ íšë“ìœ¨ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP_2ND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Àâ °æÇèÄ¡ Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ìž¡ ê²½í—˜ì¹˜ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àâ °æÇèÄ¡ È¹µæÀ² Áõ°¡." }
+		{ "ìž¡ ê²½í—˜ì¹˜ íšë“ìœ¨ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM_2ND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µå¶øÀ² Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ë“œëžìœ¨ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾ÆÀÌÅÛ µå¶øÀ² 50% Áõ°¡" }
+		{ "ì•„ì´í…œ ë“œëžìœ¨ 50% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP_2ND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°æÇèÄ¡ Çâ»ó", COLOR_TITLE_BUFF },
+		{ "ê²½í—˜ì¹˜ í–¥ìƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°æÇèÄ¡ È¹µæÀ² 50% Áõ°¡" }
+		{ "ê²½í—˜ì¹˜ íšë“ìœ¨ 50% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_S_MANAPOTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼ÒÇü ¸¶³ª¼ö", COLOR_TITLE_BUFF },
+		{ "ì†Œí˜• ë§ˆë‚˜ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "5ÃÊ´ç ÀÏÁ¤·®ÀÇ SP È¸º¹" },
-		{ "¹ö¼­Å© »óÅÂ Áß È¿°ú ¾øÀ½" }
+		{ "5ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ SP íšŒë³µ" },
+		{ "ë²„ì„œí¬ ìƒíƒœ ì¤‘ íš¨ê³¼ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_M_DEFSCROLL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºû³ª´Â ¹æ¾î ½ºÅ©·Ñ", COLOR_TITLE_BUFF },
+		{ "ë¹›ë‚˜ëŠ” ë°©ì–´ ìŠ¤í¬ë¡¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â ¹× ¸¶¹ý¹æ¾î·Â »ó½Â" }
+		{ "ë°©ì–´ë ¥ ë° ë§ˆë²•ë°©ì–´ë ¥ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AS_RAGGED_GOLEM_CARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¸ÇÇÀ² Áõ°¡", COLOR_TITLE_BUFF },
+		{ "íšŒí”¼ìœ¨ ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "FLEE +200" }
 	}
@@ -4353,586 +4353,586 @@ StateIconList[EFST_IDs.EFST_CHEERUP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ö¸¶ ¾Æºü Èû³»¼¼¿ä.", COLOR_TITLE_BUFF },
+		{ "ì—„ë§ˆ ì•„ë¹  íž˜ë‚´ì„¸ìš”.", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º 3¸¸Å­ Áõ°¡" }
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ 3ë§Œí¼ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«´ýÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ë¬´ë¤ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡ ´ëÇÑ µ¥¹ÌÁö Áõ°¡." },
-		{ "¸®½ºÆ® : °Ë»ç, µµµÏ°è¿­ Àü»çÀÚ ¸ó½ºÅÍ." },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡°Ô ¹Þ´Â µ¥¹ÌÁö °¨¼Ò." },
-		{ "¸®½ºÆ® : ¸¶¹ý»ç, »óÀÎ°è¿­ Àü»çÀÚ ¸ó½ºÅÍ." },
-		{ "MVP ¸ó½ºÅÍ Á¦¿Ü." }
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì— ëŒ€í•œ ë°ë¯¸ì§€ ì¦ê°€." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ê²€ì‚¬, ë„ë‘‘ê³„ì—´ ì „ì‚¬ìž ëª¬ìŠ¤í„°." },
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì—ê²Œ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ë§ˆë²•ì‚¬, ìƒì¸ê³„ì—´ ì „ì‚¬ìž ëª¬ìŠ¤í„°." },
+		{ "MVP ëª¬ìŠ¤í„° ì œì™¸." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«´ýÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ë¬´ë¤ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡ ´ëÇÑ µ¥¹ÌÁö Áõ°¡." },
-		{ "¸®½ºÆ® : ¸¶¹ý»ç, »óÀÎ°è¿­ Àü»çÀÚ ¸ó½ºÅÍ." },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡°Ô ¹Þ´Â µ¥¹ÌÁö °¨¼Ò." },
-		{ "¸®½ºÆ® : º¹»ç, ±Ã¼ö°è¿­ Àü»çÀÚ ¸ó½ºÅÍ." },
-		{ "MVP ¸ó½ºÅÍ Á¦¿Ü." }
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì— ëŒ€í•œ ë°ë¯¸ì§€ ì¦ê°€." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ë§ˆë²•ì‚¬, ìƒì¸ê³„ì—´ ì „ì‚¬ìž ëª¬ìŠ¤í„°." },
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì—ê²Œ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ë³µì‚¬, ê¶ìˆ˜ê³„ì—´ ì „ì‚¬ìž ëª¬ìŠ¤í„°." },
+		{ "MVP ëª¬ìŠ¤í„° ì œì™¸." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«´ýÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ë¬´ë¤ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡ ´ëÇÑ µ¥¹ÌÁö Áõ°¡." },
-		{ "¸®½ºÆ® : º¹»ç, ±Ã¼ö°è¿­ Àü»çÀÚ ¸ó½ºÅÍ." },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡°Ô ¹Þ´Â µ¥¹ÌÁö °¨¼Ò." },
-		{ "¸®½ºÆ® : °Ë»ç, µµµÏ°è¿­ Àü»çÀÚ ¸ó½ºÅÍ." },
-		{ "MVP ¸ó½ºÅÍ Á¦¿Ü." }
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì— ëŒ€í•œ ë°ë¯¸ì§€ ì¦ê°€." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ë³µì‚¬, ê¶ìˆ˜ê³„ì—´ ì „ì‚¬ìž ëª¬ìŠ¤í„°." },
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì—ê²Œ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ê²€ì‚¬, ë„ë‘‘ê³„ì—´ ì „ì‚¬ìž ëª¬ìŠ¤í„°." },
+		{ "MVP ëª¬ìŠ¤í„° ì œì™¸." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«´ýÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ë¬´ë¤ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡ ´ëÇÑ µ¥¹ÌÁö Áõ°¡." },
-		{ "¸®½ºÆ® : Àü»çÀÚÀÇ ¹«´ý MVP ¸ó½ºÅÍ." },
-		{ "ÀÏºÎ Àü»çÀÚ ¸ó½ºÅÍ¿¡°Ô ¹Þ´Â µ¥¹ÌÁö °¨¼Ò." },
-		{ "¸®½ºÆ® : Àü»çÀÚÀÇ ¹«´ý MVP ¸ó½ºÅÍ." }
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì— ëŒ€í•œ ë°ë¯¸ì§€ ì¦ê°€." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ì „ì‚¬ìžì˜ ë¬´ë¤ MVP ëª¬ìŠ¤í„°." },
+		{ "ì¼ë¶€ ì „ì‚¬ìž ëª¬ìŠ¤í„°ì—ê²Œ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ." },
+		{ "ë¦¬ìŠ¤íŠ¸ : ì „ì‚¬ìžì˜ ë¬´ë¤ MVP ëª¬ìŠ¤í„°." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPECIALCOOKIE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ¯Á¦ ÄíÅ°", COLOR_TITLE_BUFF },
+		{ "íŠ¹ì œ ì¿ í‚¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ¼Óµµ Áõ°¡." },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò." }
+		{ "ê³µê²© ì†ë„ ì¦ê°€." },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATK_POPCORN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ø°Ý·Â Áõ°¡", COLOR_TITLE_BUFF },
+		{ "ê³µê²©ë ¥ ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK 10% Áõ°¡." }
+		{ "ATK 10% ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶¹ý °ø°Ý·Â Áõ°¡", COLOR_TITLE_BUFF },
+		{ "ë§ˆë²• ê³µê²©ë ¥ ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MATK 10% Áõ°¡." }
+		{ "MATK 10% ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ø°Ý ¼Óµµ Áõ°¡", COLOR_TITLE_BUFF },
+		{ "ê³µê²© ì†ë„ ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ÈÄµô·¹ÀÌ 10% °¨¼Ò." }
+		{ "ê³µê²© í›„ë”œë ˆì´ 10% ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎÇÇ´ÏÆ¼ µå¸µÅ©", COLOR_TITLE_BUFF },
+		{ "ì¸í”¼ë‹ˆí‹° ë“œë§í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MaxHP, MaxSP Áõ°¡" },
-		{ "Å©¸®Æ¼ÄÃ µ¥¹ÌÁö, ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö," },
-		{ "¼Ó¼º ¸¶¹ý °ø°Ý·Â Áõ°¡" },
-		{ "Ä³½ºÆÃÀÌ ²÷±âÁö ¾ÊÀ½" }
+		{ "MaxHP, MaxSP ì¦ê°€" },
+		{ "í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€, ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€," },
+		{ "ì†ì„± ë§ˆë²• ê³µê²©ë ¥ ì¦ê°€" },
+		{ "ìºìŠ¤íŒ…ì´ ëŠê¸°ì§€ ì•ŠìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HUNTING_EVENT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç³É²ÛÀÇ ¸¸Âù", COLOR_TITLE_BUFF },
+		{ "ì‚¬ëƒ¥ê¾¼ì˜ ë§Œì°¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°í±¸¸¶ È¸º¹·® Áõ°¡" },
-		{ "°í±â È¸º¹·® Áõ°¡" }
+		{ "ê³ êµ¬ë§ˆ íšŒë³µëŸ‰ ì¦ê°€" },
+		{ "ê³ ê¸° íšŒë³µëŸ‰ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¶ó¿ì´Ù ¾Æ±×´©½º (LAUDAAGNUS)", COLOR_TITLE_BUFF },
+		{ "ë¼ìš°ë‹¤ ì•„ê·¸ëˆ„ìŠ¤ (LAUDAAGNUS)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÃÖ´ë HP Áõ°¡." }
+		{ "ìµœëŒ€ HP ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LAUDARAMUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¶ó¿ì´Ù¶ó¹«½º (LAUDARAMUS)", COLOR_TITLE_BUFF },
+		{ "ë¼ìš°ë‹¤ë¼ë¬´ìŠ¤ (LAUDARAMUS)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Å©¸®Æ¼ÄÃ µ¥¹ÌÁö Áõ°¡." }
+		{ "í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SUNSTANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÅÂ¾çÀÇ ÀÚ¼¼", COLOR_TITLE_BUFF },
+		{ "íƒœì–‘ì˜ ìžì„¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" },
-		{ "ÅÂ¾ç °è¿­ ½ºÅ³ »ç¿ë °¡´É" }
+		{ "ATK ì¦ê°€" },
+		{ "íƒœì–‘ ê³„ì—´ ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LUNARSTANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ÞÀÇ ÀÚ¼¼", COLOR_TITLE_BUFF },
+		{ "ë‹¬ì˜ ìžì„¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MaxHP Áõ°¡" },
-		{ "´Þ °è¿­ ½ºÅ³ »ç¿ë °¡´É" }
+		{ "MaxHP ì¦ê°€" },
+		{ "ë‹¬ ê³„ì—´ ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STARSTANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º°ÀÇ ÀÚ¼¼", COLOR_TITLE_BUFF },
+		{ "ë³„ì˜ ìžì„¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "º° °è¿­ ½ºÅ³ »ç¿ë °¡´É" }
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "ë³„ ê³„ì—´ ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_UNIVERSESTANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ìÁÖÀÇ ÀÚ¼¼", COLOR_TITLE_BUFF },
+		{ "ìš°ì£¼ì˜ ìžì„¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º Áõ°¡" },
-		{ "¿ìÁÖ °è¿­ ½ºÅ³ »ç¿ë °¡´É" },
-		{ "ÅÂ¾ç °è¿­ ½ºÅ³ »ç¿ë °¡´É" },
-		{ "´Þ °è¿­ ½ºÅ³ »ç¿ë °¡´É" },
-		{ "º° °è¿­ ½ºÅ³ »ç¿ë °¡´É" }
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ì¦ê°€" },
+		{ "ìš°ì£¼ ê³„ì—´ ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" },
+		{ "íƒœì–‘ ê³„ì—´ ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" },
+		{ "ë‹¬ ê³„ì—´ ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" },
+		{ "ë³„ ê³„ì—´ ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LIGHTOFSUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÅÂ¾çÀÇ ºû", COLOR_TITLE_BUFF },
+		{ "íƒœì–‘ì˜ ë¹›", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÅÂ¾ç Æø¹ß µ¥¹ÌÁö Áõ°¡" }
+		{ "íƒœì–‘ í­ë°œ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LIGHTOFMOON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ÞÀÇ ºû", COLOR_TITLE_BUFF },
+		{ "ë‹¬ì˜ ë¹›", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¸¿ù°¢ µ¥¹ÌÁö Áõ°¡" }
+		{ "ë§Œì›”ê° ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LIGHTOFSTAR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º°ÀÇ ºû", COLOR_TITLE_BUFF },
+		{ "ë³„ì˜ ë¹›", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "À¯¼º³«ÇÏ µ¥¹ÌÁö Áõ°¡" }
+		{ "ìœ ì„±ë‚™í•˜ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FLASHKICK] = {
 	descript = {
-		{ "º°ÀÇ Â¡Ç¥", COLOR_TITLE_DEBUFF }
+		{ "ë³„ì˜ ì§•í‘œ", COLOR_TITLE_DEBUFF }
 	}
 }
 StateIconList[EFST_IDs.EFST_NEWMOON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»è¿ù", COLOR_TITLE_BUFF },
+		{ "ì‚­ì›”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ð½ÀÀÌ º¸ÀÌÁö ¾Ê´Â´Ù" },
-		{ "¸¸¿ù°¢ »ç¿ë °¡´É" }
+		{ "ëª¨ìŠµì´ ë³´ì´ì§€ ì•ŠëŠ”ë‹¤" },
+		{ "ë§Œì›”ê° ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CREATINGSTAR] = {
 	descript = {
-		{ "Ã¢¼ºÀÇ ¼­", COLOR_TITLE_DEBUFF },
-		{ "ÀÌµ¿ ¼Óµµ °¨¼Ò" }
+		{ "ì°½ì„±ì˜ ì„œ", COLOR_TITLE_DEBUFF },
+		{ "ì´ë™ ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRAVITYCONTROL] = {
 	descript = {
-		{ "Áß·Â Á¶Àý", COLOR_TITLE_DEBUFF },
-		{ "°ø°Ý ¹× ÀÌµ¿ ºÒ°¡" }
+		{ "ì¤‘ë ¥ ì¡°ì ˆ", COLOR_TITLE_DEBUFF },
+		{ "ê³µê²© ë° ì´ë™ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULCOLLECT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿µÈ¥ ÃàÀû", COLOR_TITLE_BUFF },
+		{ "ì˜í˜¼ ì¶•ì ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ ½Ã°£¸¶´Ù ¿µÈ¥¿¡³ÊÁö ÃàÀû" }
+		{ "ì¼ì • ì‹œê°„ë§ˆë‹¤ ì˜í˜¼ì—ë„ˆì§€ ì¶•ì " }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULREAPER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿µÈ¥ ¼öÈ®", COLOR_TITLE_BUFF },
+		{ "ì˜í˜¼ ìˆ˜í™•", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ½Ã, ÀÏÁ¤ È®·ü·Î" },
-		{ "¿µÈ¥ ¿¡³ÊÁö È¹µæ" }
+		{ "ê³µê²© ì‹œ, ì¼ì • í™•ë¥ ë¡œ" },
+		{ "ì˜í˜¼ ì—ë„ˆì§€ íšë“" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULUNITY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿µÈ¥ °á¼Ó", COLOR_TITLE_BUFF },
+		{ "ì˜í˜¼ ê²°ì†", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ÃÊ´ç HP È¸º¹" },
-		{ "Ä«¿ìÆ® °¡´É ´ë»ó." }
+		{ "3ì´ˆë‹¹ HP íšŒë³µ" },
+		{ "ì¹´ìš°íŠ¸ ê°€ëŠ¥ ëŒ€ìƒ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULSHADOW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×¸²ÀÚÀÇ ¿µÈ¥ ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ê·¸ë¦¼ìžì˜ ì˜í˜¼ ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "CRI Áõ°¡" },
-		{ "ASPD Áõ°¡" }
+		{ "CRI ì¦ê°€" },
+		{ "ASPD ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULFAIRY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿äÁ¤ÀÇ ¿µÈ¥ ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ìš”ì •ì˜ ì˜í˜¼ ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MATK Áõ°¡" },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" }
+		{ "MATK ì¦ê°€" },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULFALCON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ÅÀÇ ¿µÈ¥ ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ë§¤ì˜ ì˜í˜¼ ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" },
-		{ "¸íÁß·ü Áõ°¡" }
+		{ "ATK ì¦ê°€" },
+		{ "ëª…ì¤‘ë¥  ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULGOLEM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ñ·½ÀÇ ¿µÈ¥ ºÎ¿©", COLOR_TITLE_BUFF },
+		{ "ê³¨ë ˜ì˜ ì˜í˜¼ ë¶€ì—¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "DEF Áõ°¡" },
-		{ "MDEF Áõ°¡" }
+		{ "DEF ì¦ê°€" },
+		{ "MDEF ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULDIVISION] = {
 	descript = {
-		{ "¿µÈ¥ ºÐ¿­", COLOR_TITLE_DEBUFF },
-		{ "±Û·Î¹ú ÄðÅ¸ÀÓ Áõ°¡" }
+		{ "ì˜í˜¼ ë¶„ì—´", COLOR_TITLE_DEBUFF },
+		{ "ê¸€ë¡œë²Œ ì¿¨íƒ€ìž„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FALLINGSTAR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "À¯¼º ³«ÇÏ", COLOR_TITLE_BUFF },
+		{ "ìœ ì„± ë‚™í•˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý½Ã ÀÏÁ¤ È®·ü·Î" },
-		{ "º°ÀÇ Â¡Ç¥ ´ë»ó¿¡°Ô" },
-		{ "À¯¼ºÀÌ ¶³¾îÁø´Ù" }
+		{ "ê³µê²©ì‹œ ì¼ì • í™•ë¥ ë¡œ" },
+		{ "ë³„ì˜ ì§•í‘œ ëŒ€ìƒì—ê²Œ" },
+		{ "ìœ ì„±ì´ ë–¨ì–´ì§„ë‹¤" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DIMENSION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Â÷¿øÀÇ ¼­", COLOR_TITLE_BUFF },
+		{ "ì°¨ì›ì˜ ì„œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½Å¼ºÆø¹ß, ¼ºÁ¦°­¸² »ç¿ë ½Ã" },
-		{ "Æ¯¼ö È¿°ú ¹ßµ¿" }
+		{ "ì‹ ì„±í­ë°œ, ì„±ì œê°•ë¦¼ ì‚¬ìš© ì‹œ" },
+		{ "íŠ¹ìˆ˜ íš¨ê³¼ ë°œë™" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULLINK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿µÈ¥ ºÎ¿© »óÅÂ", COLOR_TITLE_BUFF },
+		{ "ì˜í˜¼ ë¶€ì—¬ ìƒíƒœ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼Ò¿ï ¸µÄ¿°¡ ºÎ¿©ÇÏ´Â" },
-		{ "¿µÈ¥À» ¹ÞÀº »óÅÂ" }
+		{ "ì†Œìš¸ ë§ì»¤ê°€ ë¶€ì—¬í•˜ëŠ”" },
+		{ "ì˜í˜¼ì„ ë°›ì€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä«¿îÅÍ »óÅÂ", COLOR_TITLE_BUFF },
+		{ "ì¹´ìš´í„° ìƒíƒœ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ä«¿îÅÍ ½½·¡½¬" },
-		{ "»ç¿ë °¡´É" }
+		{ "ì¹´ìš´í„° ìŠ¬ëž˜ì‰¬" },
+		{ "ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SACRIFICE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼¼Å©¸® ÆÄÀÌ½º", COLOR_TITLE_BUFF },
+		{ "ì„¸í¬ë¦¬ íŒŒì´ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏ¹Ý ±ÙÁ¢ ¹°¸® °ø°Ý" },
-		{ "µ¥¹ÌÁö Áõ°¡" },
-		{ "1È¸ °ø°Ý´ç HP ¼Ò¸ð" }
+		{ "ì¼ë°˜ ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²©" },
+		{ "ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "1íšŒ ê³µê²©ë‹¹ HP ì†Œëª¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ALL_STAT_DOWN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º °¨¼Ò", COLOR_TITLE_DEBUFF },
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ê°ì†Œ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º °¨¼Ò." }
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRADUAL_GRAVITY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Áß·Â Áõ°¡", COLOR_TITLE_DEBUFF },
+		{ "ì¤‘ë ¥ ì¦ê°€", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "1ÃÊ´ç HP¸¦ ÀÒ´Â´Ù." }
+		{ "1ì´ˆë‹¹ HPë¥¼ ìžƒëŠ”ë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERLAPEXPUP2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸»¶ûµµ °í¾çÀÌ Äµ2", COLOR_TITLE_BUFF },
+		{ "ë§ëž‘ë„ ê³ ì–‘ì´ ìº”2", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ »ç³É ½Ã" },
-		{ "°æÇèÄ¡, JOB °æÇèÄ¡ Áõ°¡" },
-		{ "¾ÆÀÌÅÛ µå·Ó·ü Áõ°¡" }
+		{ "ëª¬ìŠ¤í„° ì‚¬ëƒ¥ ì‹œ" },
+		{ "ê²½í—˜ì¹˜, JOB ê²½í—˜ì¹˜ ì¦ê°€" },
+		{ "ì•„ì´í…œ ë“œë¡­ë¥  ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BASILICA_BUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹Ù½Ç¸®Ä«", COLOR_TITLE_BUFF },
+		{ "ë°”ì‹¤ë¦¬ì¹´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼º¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡" },
-		{ "¾Ï/ºÒ»ç¼Ó¼º Àû¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ì„±ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì•”/ë¶ˆì‚¬ì†ì„± ì ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO_BUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ¼ûÇÁÆ¼¿À", COLOR_TITLE_BUFF },
+		{ "ì•„ìˆ¨í”„í‹°ì˜¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ¹æ¾î·Â Áõ°¡" },
-		{ "¹Þ´Â Èú·® Áõ°¡" }
+		{ "ë¬¼ë¦¬ ë°©ì–´ë ¥ ì¦ê°€" },
+		{ "ë°›ëŠ” ížëŸ‰ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RICHMANKIM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±è¼­¹æ µ· ¹ú¾ú³×", COLOR_TITLE_BUFF },
+		{ "ê¹€ì„œë°© ëˆ ë²Œì—ˆë„¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ »ç³É ½Ã" },
-		{ "È¹µæÇÏ´Â °æÇèÄ¡ Áõ°¡." }
+		{ "ëª¬ìŠ¤í„° ì‚¬ëƒ¥ ì‹œ" },
+		{ "íšë“í•˜ëŠ” ê²½í—˜ì¹˜ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_RINGNIBELUNGEN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´Ïº§·î°ÕÀÇ ¹ÝÁö", COLOR_TITLE_BUFF },
+		{ "ë‹ˆë²¨ë£½ê²ì˜ ë°˜ì§€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿ø¿¡°Ô ´Ù¾çÇÑ" },
-		{ "ÀÌ·Î¿î È¿°ú ºÎ¿©." }
+		{ "íŒŒí‹°ì›ì—ê²Œ ë‹¤ì–‘í•œ" },
+		{ "ì´ë¡œìš´ íš¨ê³¼ ë¶€ì—¬." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DRUMBATTLEFIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀüÀåÀÇ ºÏ¼Ò¸®", COLOR_TITLE_BUFF },
+		{ "ì „ìž¥ì˜ ë¶ì†Œë¦¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ ATK , DEF Áõ°¡." }
+		{ "íŒŒí‹°ì›ì˜ ATK , DEF ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SIEGFRIED] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÒ»ç½Å ÁöÅ©ÇÁ¸®µå", COLOR_TITLE_BUFF },
+		{ "ë¶ˆì‚¬ì‹  ì§€í¬í”„ë¦¬ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ ¼ö/Ç³/Áö/È­ ³»¼º." },
-		{ "ÀÏºÎ »óÅÂÀÌ»ó ³»¼º Áõ°¡." }
+		{ "íŒŒí‹°ì›ì˜ ìˆ˜/í’/ì§€/í™” ë‚´ì„±." },
+		{ "ì¼ë¶€ ìƒíƒœì´ìƒ ë‚´ì„± ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ADAPTATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÓ±â ÀÀº¯", COLOR_TITLE_BUFF },
+		{ "ìž„ê¸° ì‘ë³€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿¬ÁÖ, Ãã, ÇÕÁÖ ½ºÅ³" },
-		{ "SP ¼Ò¸ð °¨¼Ò." }
+		{ "ì—°ì£¼, ì¶¤, í•©ì£¼ ìŠ¤í‚¬" },
+		{ "SP ì†Œëª¨ ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_INTOABYSS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½É¿¬ ¼ÓÀ¸·Î", COLOR_TITLE_BUFF },
+		{ "ì‹¬ì—° ì†ìœ¼ë¡œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ Áª½ºÅæ ¼Ò¸ð Á¦°Å." },
-		{ "(ÀÏºÎ ½ºÅ³ ¿¹¿Ü)." }
+		{ "íŒŒí‹°ì›ì˜ ì ¬ìŠ¤í†¤ ì†Œëª¨ ì œê±°." },
+		{ "(ì¼ë¶€ ìŠ¤í‚¬ ì˜ˆì™¸)." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SERVICEFORYOU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ç½ÅÀ» À§ÇÑ ¼­ºñ½º", COLOR_TITLE_BUFF },
+		{ "ë‹¹ì‹ ì„ ìœ„í•œ ì„œë¹„ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ ÃÖ´ë SP Áõ°¡." },
-		{ "¼Òºñ SP °¨¼Ò." }
+		{ "íŒŒí‹°ì›ì˜ ìµœëŒ€ SP ì¦ê°€." },
+		{ "ì†Œë¹„ SP ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FORTUNEKISS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çà¿îÀÇ Å°½º", COLOR_TITLE_BUFF },
+		{ "í–‰ìš´ì˜ í‚¤ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ CRI Áõ°¡." },
-		{ "Å©¸®Æ¼ÄÃ µ¥¹ÌÁö Áõ°¡." }
+		{ "íŒŒí‹°ì›ì˜ CRI ì¦ê°€." },
+		{ "í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HUMMING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Èï¾ó°Å¸²", COLOR_TITLE_BUFF },
+		{ "í¥ì–¼ê±°ë¦¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ HIT Áõ°¡." }
+		{ "íŒŒí‹°ì›ì˜ HIT ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_POEMBRAGI] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºê¶ó±âÀÇ ½Ã", COLOR_TITLE_BUFF },
+		{ "ë¸Œë¼ê¸°ì˜ ì‹œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ º¯µ¿ Ä³½ºÆÃ °¨¼Ò." },
-		{ "±Û·Î¹ú ÄðÅ¸ÀÓ °¨¼Ò." }
+		{ "íŒŒí‹°ì›ì˜ ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ." },
+		{ "ê¸€ë¡œë²Œ ì¿¨íƒ€ìž„ ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSASSINCROSS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼®¾çÀÇ ¾î½Ø½Å Å©·Î½º", COLOR_TITLE_BUFF },
+		{ "ì„ì–‘ì˜ ì–´ìŒ”ì‹  í¬ë¡œìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ °ø°Ý ¼Óµµ Áõ°¡." },
-		{ "(°ø°Ý ÈÄ µô·¹ÀÌ °¨¼Ò.)" }
+		{ "íŒŒí‹°ì›ì˜ ê³µê²© ì†ë„ ì¦ê°€." },
+		{ "(ê³µê²© í›„ ë”œë ˆì´ ê°ì†Œ.)" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WHISTLE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÈÖÆÄ¶÷", COLOR_TITLE_BUFF },
+		{ "íœ˜íŒŒëžŒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ FLEE Áõ°¡." },
-		{ "¿ÏÀüÈ¸ÇÇ Áõ°¡." }
+		{ "íŒŒí‹°ì›ì˜ FLEE ì¦ê°€." },
+		{ "ì™„ì „íšŒí”¼ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_APPLEIDUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÌµÐÀÇ »ç°ú", COLOR_TITLE_BUFF },
+		{ "ì´ë‘”ì˜ ì‚¬ê³¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄÆ¼¿øÀÇ ÃÖ´ë HP Áõ°¡." },
-		{ "¹Þ´Â È¸º¹·® Áõ°¡." }
+		{ "íŒŒí‹°ì›ì˜ ìµœëŒ€ HP ì¦ê°€." },
+		{ "ë°›ëŠ” íšŒë³µëŸ‰ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÕÁÖ ÇÇ·Î »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "í•©ì£¼ í”¼ë¡œ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÇÕÁÖ·Î ÀÎÇÑ ÇÇ·Î »óÅÂ." },
-		{ "½ºÅ³ »ç¿ë ºÒ°¡." },
-		{ "ÀÌµ¿, °ø°Ý¼Óµµ 30% °¨¼Ò." }
+		{ "í•©ì£¼ë¡œ ì¸í•œ í”¼ë¡œ ìƒíƒœ." },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€." },
+		{ "ì´ë™, ê³µê²©ì†ë„ 30% ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ETERNALCHAOS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿µ¿øÀÇ È¥µ·", COLOR_TITLE_DEBUFF },
+		{ "ì˜ì›ì˜ í˜¼ëˆ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æ¾î·Â 0À¸·Î °íÁ¤." }
+		{ "ë°©ì–´ë ¥ 0ìœ¼ë¡œ ê³ ì •." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ROKISWEIL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ïºÎ Â¢´Â ·ÎÅ°", COLOR_TITLE_DEBUFF },
+		{ "ìš¸ë¶€ ì§–ëŠ” ë¡œí‚¤", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅ³ »ç¿ë ºÒ°¡." },
-		{ "ÀÏÁ¤ È®·ü·Î È¥¶õ »óÅÂ." }
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€." },
+		{ "ì¼ì • í™•ë¥ ë¡œ í˜¼ëž€ ìƒíƒœ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DONTFORGETME] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "³ª¸¦ ÀØÁö ¸»¾Æ¿ä", COLOR_TITLE_DEBUFF },
+		{ "ë‚˜ë¥¼ ìžŠì§€ ë§ì•„ìš”", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿, °ø°Ý ¼Óµµ °¨¼Ò." },
-		{ "ÀÌµ¿, °ø°Ý ¼Óµµ Áõ°¡ È¿°ú Á¦°Å." }
+		{ "ì´ë™, ê³µê²© ì†ë„ ê°ì†Œ." },
+		{ "ì´ë™, ê³µê²© ì†ë„ ì¦ê°€ íš¨ê³¼ ì œê±°." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÌº¥Æ® °­·ÂÇØÁ®¶ó!", COLOR_TITLE_BUFF },
+		{ "ì´ë²¤íŠ¸ ê°•ë ¥í•´ì ¸ë¼!", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "ATK + 7%" }
 	}
@@ -4941,7 +4941,7 @@ StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÌº¥Æ® ¶È¶ÈÇØÁ®¶ó!", COLOR_TITLE_BUFF },
+		{ "ì´ë²¤íŠ¸ ë˜‘ë˜‘í•´ì ¸ë¼!", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "MATK + 7%" }
 	}
@@ -4950,37 +4950,37 @@ StateIconList[EFST_IDs.EFST_HELPANGEL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ãµ»çÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ì²œì‚¬ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÃÊ´ç HP 1000 È¸º¹" },
-		{ "ÃÊ´ç SP 350 È¸º¹" }
+		{ "ì´ˆë‹¹ HP 1000 íšŒë³µ" },
+		{ "ì´ˆë‹¹ SP 350 íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULCURSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç·ÉÀÇ ÀúÁÖ", COLOR_TITLE_BUFF },
+		{ "ì‚¬ë ¹ì˜ ì €ì£¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ï¼Ó¼º °ø°Ý¿¡ ´ëÇÑ ³»¼º °¨¼Ò." }
+		{ "ì•”ì†ì„± ê³µê²©ì— ëŒ€í•œ ë‚´ì„± ê°ì†Œ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÌº¥Æ® ³¯·ÆÇØÁ®¶ó!", COLOR_TITLE_BUFF },
+		{ "ì´ë²¤íŠ¸ ë‚ ë µí•´ì ¸ë¼!", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇÀ² ¹× ¿ÏÀüÈ¸ÇÇ Áõ°¡" },
-		{ "°ø°Ý ¼Óµµ Áõ°¡" },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" }
+		{ "íšŒí”¼ìœ¨ ë° ì™„ì „íšŒí”¼ ì¦ê°€" },
+		{ "ê³µê²© ì†ë„ ì¦ê°€" },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ´ãÇÑ ²É°¡Áö", COLOR_TITLE_BUFF },
+		{ "ì•„ë‹´í•œ ê½ƒê°€ì§€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "MHP + 3%" },
 		{ "MSP + 3%" }
@@ -4990,34 +4990,34 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º¢²É Âû¶±", COLOR_TITLE_BUFF },
+		{ "ë²šê½ƒ ì°°ë–¡", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ÒÇü,ÁßÇü,´ëÇü Àû¿¡°Ô ÁÖ´Â µ¥¹ÌÁö Áõ°¡" }
+		{ "ì†Œí˜•,ì¤‘í˜•,ëŒ€í˜• ì ì—ê²Œ ì£¼ëŠ” ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOUND_OF_DESTRUCTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç¿îµå ¿Àºê µð½ºÆ®·°¼Ç", COLOR_TITLE_DEBUFF },
+		{ "ì‚¬ìš´ë“œ ì˜¤ë¸Œ ë””ìŠ¤íŠ¸ëŸ­ì…˜", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç µ¥¹ÌÁö 2¹è ÀÔ´Â »óÅÂ." }
+		{ "ëª¨ë“  ë°ë¯¸ì§€ 2ë°° ìž…ëŠ” ìƒíƒœ." }
 	}
 }
 StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ð¸®¹ÌÆ¼µå Çã¹Ö º¸ÀÌ½º", COLOR_TITLE_BUFF },
+		{ "ì–¸ë¦¬ë¯¸í‹°ë“œ í—ˆë° ë³´ì´ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MISTY_FROST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼­¸® »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ì„œë¦¬ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -5025,245 +5025,245 @@ StateIconList[EFST_IDs.EFST_MAGIC_POISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶·Â Áßµ¶", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆë ¥ ì¤‘ë…", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ¼Ó¼º °ø°Ý¿¡ ´ëÇÑ ³»¼º 50% °¨¼Ò" }
+		{ "ëª¨ë“  ì†ì„± ê³µê²©ì— ëŒ€í•œ ë‚´ì„± 50% ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ©¸®¼­µå ·é ½ºÅæ : ÀÚÀÌ¾ðÆ® ±×·Î½º", COLOR_TITLE_BUFF },
+		{ "íŠœë¦¬ì„œë“œ ë£¬ ìŠ¤í†¤ : ìžì´ì–¸íŠ¸ ê·¸ë¡œìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "STR Áõ°¡" },
-		{ "ÀÏ¹Ý ±ÙÁ¢ ¹°¸® °ø°Ý ½Ã, ³ôÀº È®·ü·Î Å« µ¥¹ÌÁö" },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "STR ì¦ê°€" },
+		{ "ì¼ë°˜ ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²© ì‹œ, ë†’ì€ í™•ë¥ ë¡œ í° ë°ë¯¸ì§€" },
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿¡ÀÌ½Ã¸£ ·é ½ºÅæ : ÆÄÀÌÆÃ ½ºÇÇ¸´", COLOR_TITLE_BUFF },
+		{ "ì—ì´ì‹œë¥´ ë£¬ ìŠ¤í†¤ : íŒŒì´íŒ… ìŠ¤í”¼ë¦¿", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" },
-		{ "°ø°Ý ¼Óµµ Áõ°¡" }
+		{ "ATK ì¦ê°€" },
+		{ "ê³µê²© ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ÆÀÌ»þ ·é ½ºÅæ : ¹ÙÀÌÅ»¸®Æ¼ ¾×Æ¼º£ÀÌ¼Ç", COLOR_TITLE_BUFF },
+		{ "ì•„ì´ìƒ¤ ë£¬ ìŠ¤í†¤ : ë°”ì´íƒˆë¦¬í‹° ì•¡í‹°ë² ì´ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP È¸º¹ È¿°ú Áõ°¡" },
-		{ "¹Þ´Â ±ÙÁ¢ ¹°¸® ¹Ý»ç µ¥¹ÌÁö °¨¼Ò" }
+		{ "HP íšŒë³µ íš¨ê³¼ ì¦ê°€" },
+		{ "ë°›ëŠ” ê·¼ì ‘ ë¬¼ë¦¬ ë°˜ì‚¬ ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LUXANIMA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·°½º ¾Æ´Ï¸¶ ·é ½ºÅæ : ·°½º ¾Æ´Ï¸¶", COLOR_TITLE_BUFF },
+		{ "ëŸ­ìŠ¤ ì•„ë‹ˆë§ˆ ë£¬ ìŠ¤í†¤ : ëŸ­ìŠ¤ ì•„ë‹ˆë§ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏ¹Ý ±ÙÁ¢ ¹°¸® °ø°Ý ½Ã, È®·üÀûÀ¸·Î" },
-		{ "½ºÅè ºí·¡½ºÆ® 1·¹º§ ¹ßµ¿" },
-		{ "¸ðµç Å©±âÀÇ Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "Å©¸®Æ¼ÄÃ µ¥¹ÌÁö Áõ°¡" },
-		{ "±ÙÁ¢ ¹× ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ì¼ë°˜ ê·¼ì ‘ ë¬¼ë¦¬ ê³µê²© ì‹œ, í™•ë¥ ì ìœ¼ë¡œ" },
+		{ "ìŠ¤í†° ë¸”ëž˜ìŠ¤íŠ¸ 1ë ˆë²¨ ë°œë™" },
+		{ "ëª¨ë“  í¬ê¸°ì˜ ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ê·¼ì ‘ ë° ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AURABLADE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿À¶ó ºí·¹ÀÌµå", COLOR_TITLE_BUFF },
+		{ "ì˜¤ë¼ ë¸”ë ˆì´ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® °ø°Ý·Â Áõ°¡" }
+		{ "ë¬¼ë¦¬ ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÁ¼¾Æ®·¹ÀÌ¼Ç", COLOR_TITLE_BUFF },
+		{ "ì»¨ì„¼íŠ¸ë ˆì´ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK, ¸íÁß·ü Áõ°¡" },
-		{ "¹°¸®  ¹æ¾î·Â °¨¼Ò" }
+		{ "ATK, ëª…ì¤‘ë¥  ì¦ê°€" },
+		{ "ë¬¼ë¦¬  ë°©ì–´ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DARKCROW] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ËÀº ¼ÕÅé", COLOR_TITLE_DEBUFF },
+		{ "ê²€ì€ ì†í†±", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸®ÇÇÇØ ÁõÆø" },
-		{ "ÀÏºÎ ¹Ý»ç È¿°ú ¹«·ÂÈ­" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬í”¼í•´ ì¦í­" },
+		{ "ì¼ë¶€ ë°˜ì‚¬ íš¨ê³¼ ë¬´ë ¥í™”" }
 	}
 }
 StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ÷ÀÌÁî´× ¿þÆù (POISONING WEAPON / ¸Íµ¶ ¹«±â)", COLOR_TITLE_BUFF },
+		{ "í¬ì´ì¦ˆë‹ ì›¨í° (POISONING WEAPON / ë§¹ë… ë¬´ê¸°)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "ºÎ¿©ÇÑ µ¶¿¡ µû¸¥ ¹öÇÁ ºÎ¿©" },
-		{ "°ø°Ý ½Ã ´ë»ó¿¡°Ô ¹«±â¿¡ ¹Ù¸¥ µ¶À» Áßµ¶½ÃÅ´" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë¶€ì—¬í•œ ë…ì— ë”°ë¥¸ ë²„í”„ ë¶€ì—¬" },
+		{ "ê³µê²© ì‹œ ëŒ€ìƒì—ê²Œ ë¬´ê¸°ì— ë°”ë¥¸ ë…ì„ ì¤‘ë…ì‹œí‚´" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÔ¿åÁ¦A", COLOR_TITLE_BUFF },
+		{ "ìž…ìš•ì œA", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ë¿åÀå ¸ÞµðÅ¸Æ¼¿À ´øÀü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸®/¸¶¹ý µ¥¹ÌÁö 5% Áõ°¡" }
+		{ "ëŒ€ìš•ìž¥ ë©”ë””íƒ€í‹°ì˜¤ ë˜ì „ ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 5% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÔ¿åÁ¦B", COLOR_TITLE_BUFF },
+		{ "ìž…ìš•ì œB", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ë¿åÀå ¸ÞµðÅ¸Æ¼¿À ´øÀü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸®/¸¶¹ý µ¥¹ÌÁö 10% Áõ°¡" }
+		{ "ëŒ€ìš•ìž¥ ë©”ë””íƒ€í‹°ì˜¤ ë˜ì „ ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 10% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÔ¿åÁ¦C", COLOR_TITLE_BUFF },
+		{ "ìž…ìš•ì œC", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ë¿åÀå ¸ÞµðÅ¸Æ¼¿À ´øÀü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ëŒ€ìš•ìž¥ ë©”ë””íƒ€í‹°ì˜¤ ë˜ì „ ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ·Î¸¶ ¿ÀÀÏ", COLOR_TITLE_BUFF },
+		{ "ì•„ë¡œë§ˆ ì˜¤ì¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ë¿åÀå ¸ÞµðÅ¸Æ¼¿À ´øÀü ¸ó½ºÅÍ¿¡°Ô ¹Þ´Â" },
-		{ "¹°¸®/¸¶¹ý µ¥¹ÌÁö 10% °¨¼Ò" }
+		{ "ëŒ€ìš•ìž¥ ë©”ë””íƒ€í‹°ì˜¤ ë˜ì „ ëª¬ìŠ¤í„°ì—ê²Œ ë°›ëŠ”" },
+		{ "ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 10% ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 	descript = {
-		{ "Æ÷°Ý ÁöÁ¡ ¼³Á¤", COLOR_TITLE_DEBUFF },
-		{ "ÀÏÁ¤ ½Ã°£¸¶´Ù Æ÷°Ý °ø°Ý ÁöÁ¡ »ý¼º" }
+		{ "í¬ê²© ì§€ì  ì„¤ì •", COLOR_TITLE_DEBUFF },
+		{ "ì¼ì • ì‹œê°„ë§ˆë‹¤ í¬ê²© ê³µê²© ì§€ì  ìƒì„±" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HELLS_PLANT_ARMOR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇïÁî ÇÃ·£Æ®", COLOR_TITLE_BUFF },
+		{ "í—¬ì¦ˆ í”ŒëžœíŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÁÖº¯ ¹üÀ§³» ´ë»ó¿¡°Ô" },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö" }
+		{ "ì£¼ë³€ ë²”ìœ„ë‚´ ëŒ€ìƒì—ê²Œ" },
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_REF_T_POTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ñµç ÀÌ±×Á¦", COLOR_TITLE_BUFF },
+		{ "ê³¨ë“  ì´ê·¸ì œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹Þ´Â ¹Ý»ç µ¥¹ÌÁö 100% °¨¼Ò" }
+		{ "ë°›ëŠ” ë°˜ì‚¬ ë°ë¯¸ì§€ 100% ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ADD_ATK_DAMAGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·¹µåÇãºê ¾×Æ¼º£ÀÌ¼Ç", COLOR_TITLE_BUFF },
+		{ "ë ˆë“œí—ˆë¸Œ ì•¡í‹°ë² ì´ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö 15% Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ 15% ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ADD_MATK_DAMAGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºí·çÇãºê ¾×Æ¼º£ÀÌ¼Ç", COLOR_TITLE_BUFF },
+		{ "ë¸”ë£¨í—ˆë¸Œ ì•¡í‹°ë² ì´ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SERVANTWEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼­¹øÆ® ¿þÆù", COLOR_TITLE_BUFF },
+		{ "ì„œë²ˆíŠ¸ ì›¨í°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Áö¼Ó½Ã°£ µ¿¾È ¹«±âÃ¼ ¼ÒÈ¯" },
-		{ "ÀÏ¹Ý ¹°¸® °ø°Ý ½Ã, ¹«±âÃ¼ »çÃâ" }
+		{ "ì§€ì†ì‹œê°„ ë™ì•ˆ ë¬´ê¸°ì²´ ì†Œí™˜" },
+		{ "ì¼ë°˜ ë¬¼ë¦¬ ê³µê²© ì‹œ, ë¬´ê¸°ì²´ ì‚¬ì¶œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SERVANT_SIGN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼­¹øÆ® ¿þÆù Ç¥½Ä", COLOR_TITLE_DEBUFF },
+		{ "ì„œë²ˆíŠ¸ ì›¨í° í‘œì‹", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼­¹øÆ® ¿þÆù¿¡ ÀÇÇÑ Ç¥½Ä" }
+		{ "ì„œë²ˆíŠ¸ ì›¨í°ì— ì˜í•œ í‘œì‹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHARGINGPIERCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ã­Â¡ ÇÇ¾î½º", COLOR_TITLE_BUFF },
+		{ "ì± ì§• í”¼ì–´ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Áö¼Ó½Ã°£ Æ¯Á¤ ½ºÅ³ »ç¿ë ½Ã" },
-		{ "Ä«¿îÅÍ ´©Àû" }
+		{ "ì§€ì†ì‹œê°„ íŠ¹ì • ìŠ¤í‚¬ ì‚¬ìš© ì‹œ" },
+		{ "ì¹´ìš´í„° ëˆ„ì " }
 	}
 }
 StateIconList[EFST_IDs.EFST_DRAGONIC_AURA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µå·¡°í´Ð ¿À¶ó", COLOR_TITLE_BUFF },
+		{ "ë“œëž˜ê³ ë‹‰ ì˜¤ë¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µå·¡°ï ºê·¹½º µ¥¹ÌÁö Áõ°¡" },
-		{ "µå·¡°ï ºê·¹½º-¼ö µ¥¹ÌÁö Áõ°¡" },
-		{ "Çåµå·¹µå ½ºÇÇ¾î µ¥¹ÌÁö Áõ°¡" }
+		{ "ë“œëž˜ê³¤ ë¸Œë ˆìŠ¤ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë“œëž˜ê³¤ ë¸Œë ˆìŠ¤-ìˆ˜ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "í—Œë“œë ˆë“œ ìŠ¤í”¼ì–´ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VIGOR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºñ°í¸£", COLOR_TITLE_BUFF },
+		{ "ë¹„ê³ ë¥´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸Å °ø°Ý½Ã, HP °¨¼Ò" }
+		{ "ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë§¤ ê³µê²©ì‹œ, HP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEADLY_DEFEASANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¥µé¸® ÇÁ·ÎÁ§¼Ç", COLOR_TITLE_BUFF },
+		{ "ë°ë“¤ë¦¬ í”„ë¡œì ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý ¹«È¿È­ ´É·Â Á¦°Å" }
+		{ "ë§ˆë²• ë¬´íš¨í™” ëŠ¥ë ¥ ì œê±°" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CLIMAX_DES_HU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µð½ºÆ®·°Æ¼ºê Çã¸®ÄÉÀÎ", COLOR_TITLE_BUFF },
+		{ "ë””ìŠ¤íŠ¸ëŸ­í‹°ë¸Œ í—ˆë¦¬ì¼€ì¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ç³¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡" },
+		{ "í’ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" },
 		{ "MATK + 100" }
 	}
 }
@@ -5271,922 +5271,922 @@ StateIconList[EFST_IDs.EFST_CLIMAX] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å¬¶óÀÌ¸·½º", COLOR_TITLE_BUFF },
+		{ "í´ë¼ì´ë§‰ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ½ºÅ³¿¡ Æ¯¼ö È¿°ú ºÎ¿©," },
-		{ "¿Ã ºí·ë, Å©¸®½ºÅ» ÀÓÆÑÆ®," },
-		{ "µð½ºÆ®·°Æ¼ºê Çã¸®ÄÉÀÎ," },
-		{ "¹ÙÀÏ·±Æ® ÄùÀÌÅ©" }
+		{ "ì•„ëž˜ ìŠ¤í‚¬ì— íŠ¹ìˆ˜ íš¨ê³¼ ë¶€ì—¬," },
+		{ "ì˜¬ ë¸”ë£¸, í¬ë¦¬ìŠ¤íƒˆ ìž„íŒ©íŠ¸," },
+		{ "ë””ìŠ¤íŠ¸ëŸ­í‹°ë¸Œ í—ˆë¦¬ì¼€ì¸," },
+		{ "ë°”ì¼ëŸ°íŠ¸ í€˜ì´í¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CLIMAX_EARTH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÙÀÏ·±Æ® ÄùÀÌÅ©", COLOR_TITLE_BUFF },
+		{ "ë°”ì¼ëŸ°íŠ¸ í€˜ì´í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Áö¼Ó¼º ³»¼º °¨¼Ò" }
+		{ "ì§€ì†ì„± ë‚´ì„± ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CLIMAX_BLOOM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿Ã ºí·ë", COLOR_TITLE_BUFF },
+		{ "ì˜¬ ë¸”ë£¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È­¼Ó¼º ³»¼º °¨¼Ò" }
+		{ "í™”ì†ì„± ë‚´ì„± ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CLIMAX_CRYIMP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å©¸®½ºÅ» ÀÓÆÑÆ®", COLOR_TITLE_BUFF },
+		{ "í¬ë¦¬ìŠ¤íƒˆ ìž„íŒ©íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö¼Ó¼º ³»¼º Áõ°¡" },
+		{ "ìˆ˜ì†ì„± ë‚´ì„± ì¦ê°€" },
 		{ "DEF + 300" },
 		{ "MDEF + 100" },
-		{ "¼ö¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ìˆ˜ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GUARD_STANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°¡µå ½ºÅÄ½º", COLOR_TITLE_BUFF },
+		{ "ê°€ë“œ ìŠ¤íƒ ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ¹æ¾î·ÂÀÌ Áõ°¡" },
-		{ "Àåºñ °ø°Ý·ÂÀÌ °¨¼Ò" }
+		{ "ë¬¼ë¦¬ ë°©ì–´ë ¥ì´ ì¦ê°€" },
+		{ "ìž¥ë¹„ ê³µê²©ë ¥ì´ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTACK_STANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾îÅÃ ½ºÅÄ½º", COLOR_TITLE_BUFF },
+		{ "ì–´íƒ ìŠ¤íƒ ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àåºñ °ø°Ý·ÂÀÌ Áõ°¡" },
-		{ "¹°¸® ¹æ¾î·ÂÀÌ °¨¼Ò" }
+		{ "ìž¥ë¹„ ê³µê²©ë ¥ì´ ì¦ê°€" },
+		{ "ë¬¼ë¦¬ ë°©ì–´ë ¥ì´ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GUARDIAN_S] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°¡µð¾ð ½¯µå", COLOR_TITLE_BUFF },
+		{ "ê°€ë””ì–¸ ì‰´ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® °ø°ÝÀ» ¸·´Â ¹æ¾î¸·ÀÌ ºÎ¿©µÈ »óÅÂ" }
+		{ "ë¬¼ë¦¬ ê³µê²©ì„ ë§‰ëŠ” ë°©ì–´ë§‰ì´ ë¶€ì—¬ëœ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_REBOUND_S] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸®¹Ù¿îµå ½¯µå", COLOR_TITLE_BUFF },
+		{ "ë¦¬ë°”ìš´ë“œ ì‰´ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Çå½ÅÀ¸·Î ¹Þ´Â µ¥¹ÌÁö °¨¼Ò »óÅÂ" }
+		{ "í—Œì‹ ìœ¼ë¡œ ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HOLY_S] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¦¸® ½¯µå", COLOR_TITLE_BUFF },
+		{ "í™€ë¦¬ ì‰´ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ï¼Ó¼º, ºÒ»ç¼Ó¼º ³»¼º Áõ°¡" },
-		{ "¼º¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡" },
-		{ "Å©·Î½º ·¹ÀÎ µ¥¹ÌÁö Áõ°¡" }
+		{ "ì•”ì†ì„±, ë¶ˆì‚¬ì†ì„± ë‚´ì„± ì¦ê°€" },
+		{ "ì„±ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "í¬ë¡œìŠ¤ ë ˆì¸ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ULTIMATE_S] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾óÆ¼¸ÞÀÌÆ® ¼¼Å©¸®ÆÄÀÌ½º", COLOR_TITLE_BUFF },
+		{ "ì–¼í‹°ë©”ì´íŠ¸ ì„¸í¬ë¦¬íŒŒì´ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀüÅõ ºÒ´É ½Ã, Áï½Ã ºÎÈ°" }
+		{ "ì „íˆ¬ ë¶ˆëŠ¥ ì‹œ, ì¦‰ì‹œ ë¶€í™œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPEAR_SCAR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·£µå ÀúÁö¸ÕÆ®", COLOR_TITLE_BUFF },
+		{ "ê·¸ëžœë“œ ì €ì§€ë¨¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹è´Ï½Ì Æ÷ÀÎÆ® µ¥¹ÌÁö Áõ°¡" },
-		{ "Ä³³í ½ºÇÇ¾î µ¥¹ÌÁö Áõ°¡" }
+		{ "ë°°ë‹ˆì‹± í¬ì¸íŠ¸ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ìºë…¼ ìŠ¤í”¼ì–´ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHIELD_POWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½¯µå ½´ÆÃ", COLOR_TITLE_BUFF },
+		{ "ì‰´ë“œ ìŠˆíŒ…", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½¯µå Ã¼ÀÎ µ¥¹ÌÁö Áõ°¡" },
-		{ "½¯µå ÇÁ·¹½º µ¥¹ÌÁö Áõ°¡" },
-		{ "¾î½º µå¶óÀÌºê µ¥¹ÌÁö Áõ°¡" }
+		{ "ì‰´ë“œ ì²´ì¸ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì‰´ë“œ í”„ë ˆìŠ¤ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì–´ìŠ¤ ë“œë¼ì´ë¸Œ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_POWERFUL_FAITH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°­ÀÎÇÑ ½Å³ä", COLOR_TITLE_BUFF },
+		{ "ê°•ì¸í•œ ì‹ ë…", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý·Â Áõ°¡" },
-		{ "Æ¯¼º °ø°Ý·Â Áõ°¡" }
+		{ "ê³µê²©ë ¥ ì¦ê°€" },
+		{ "íŠ¹ì„± ê³µê²©ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SINCERE_FAITH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Å½ÇÇÑ ½Å³ä", COLOR_TITLE_BUFF },
+		{ "ì‹ ì‹¤í•œ ì‹ ë…", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ¼Óµµ Áõ°¡" },
-		{ "À¯µµ °ø°Ý È¿°ú ºÎ¿©" }
+		{ "ê³µê²© ì†ë„ ì¦ê°€" },
+		{ "ìœ ë„ ê³µê²© íš¨ê³¼ ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FIRM_FAITH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±»°ÇÇÑ ½Å³ä", COLOR_TITLE_BUFF },
+		{ "êµ³ê±´í•œ ì‹ ë…", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Áõ°¡" },
-		{ "RES Áõ°¡" }
+		{ "MHP ì¦ê°€" },
+		{ "RES ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HOLY_OIL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼ºÀ¯¼¼·Ê", COLOR_TITLE_BUFF },
+		{ "ì„±ìœ ì„¸ë¡€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹Þ´Â ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ë°›ëŠ” ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FIRST_BRAND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¦1°Ý : ³«ÀÎ", COLOR_TITLE_BUFF },
+		{ "ì œ1ê²© : ë‚™ì¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "³«ÀÎÀÌ ºÎ¿©µÈ »óÅÂ" }
+		{ "ë‚™ì¸ì´ ë¶€ì—¬ëœ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SECOND_BRAND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ÉÆÇÀÇ ³«ÀÎ", COLOR_TITLE_BUFF },
+		{ "ì‹¬íŒì˜ ë‚™ì¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ÉÆÇÀÇ ³«ÀÎÀÌ ºÎ¿©µÈ »óÅÂ" }
+		{ "ì‹¬íŒì˜ ë‚™ì¸ì´ ë¶€ì—¬ëœ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SECOND_JUDGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¦2Àå : ½ÉÆÇÀÚ", COLOR_TITLE_BUFF },
+		{ "ì œ2ìž¥ : ì‹¬íŒìž", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á¦2°Ý : ½Å³ä/½ÉÆÇ" },
-		{ "Á¦3°Ý : ´ÜÁË/Á¤È­" },
-		{ "»ç¿ë °¡´É" },
-		{ "´ëÀüºØÃß ¹× ¼¶±¤¿¬°Ý" },
-		{ "±â±¸Ã¼ ¼Ò¸ð ¾øÀ½" }
+		{ "ì œ2ê²© : ì‹ ë…/ì‹¬íŒ" },
+		{ "ì œ3ê²© : ë‹¨ì£„/ì •í™”" },
+		{ "ì‚¬ìš© ê°€ëŠ¥" },
+		{ "ëŒ€ì „ë¶•ì¶” ë° ì„¬ê´‘ì—°ê²©" },
+		{ "ê¸°êµ¬ì²´ ì†Œëª¨ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_THIRD_EXOR_FLAME] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÃÖÁ¾Àå : ¸ê¸¶ÀÇ ºÒ²É", COLOR_TITLE_BUFF },
+		{ "ìµœì¢…ìž¥ : ë©¸ë§ˆì˜ ë¶ˆê½ƒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á¦2°Ý : ½Å³ä/½ÉÆÇ/¸ê¸¶ÁöÈ­" },
-		{ "Á¦3°Ý : ´ÜÁË/Á¤È­/¸êÈ­°Ý" },
-		{ "»ç¿ë °¡´É" },
-		{ "´ëÀüºØÃß, ¼¶±¤¿¬°Ý, È£Æ÷" },
-		{ "±â±¸Ã¼ ¼Ò¸ð ¾øÀ½" }
+		{ "ì œ2ê²© : ì‹ ë…/ì‹¬íŒ/ë©¸ë§ˆì§€í™”" },
+		{ "ì œ3ê²© : ë‹¨ì£„/ì •í™”/ë©¸í™”ê²©" },
+		{ "ì‚¬ìš© ê°€ëŠ¥" },
+		{ "ëŒ€ì „ë¶•ì¶”, ì„¬ê´‘ì—°ê²©, í˜¸í¬" },
+		{ "ê¸°êµ¬ì²´ ì†Œëª¨ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FIRST_FAITH_POWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¦1Àå : ½Å³äÀÇ Èû", COLOR_TITLE_BUFF },
+		{ "ì œ1ìž¥ : ì‹ ë…ì˜ íž˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á¦2°Ý : ½Å³ä" },
-		{ "Á¦3°Ý : ´ÜÁË" },
-		{ "»ç¿ë °¡´É" },
-		{ "´ëÀüºØÃß" },
-		{ "±â±¸Ã¼ ¼Ò¸ð ¾øÀ½" }
+		{ "ì œ2ê²© : ì‹ ë…" },
+		{ "ì œ3ê²© : ë‹¨ì£„" },
+		{ "ì‚¬ìš© ê°€ëŠ¥" },
+		{ "ëŒ€ì „ë¶•ì¶”" },
+		{ "ê¸°êµ¬ì²´ ì†Œëª¨ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MASSIVE_F_BLASTER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æø±âÇ÷ È°¼ºÈ­", COLOR_TITLE_BUFF },
+		{ "í­ê¸°í˜ˆ í™œì„±í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "³ú±¤Åº ¹× Æø±â»êÅº" },
-		{ "±â±¸Ã¼ ¼Ò¸ð ¾øÀ½" }
+		{ "ë‡Œê´‘íƒ„ ë° í­ê¸°ì‚°íƒ„" },
+		{ "ê¸°êµ¬ì²´ ì†Œëª¨ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOW_EXCEED] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½¦µµ¿ì ÀÍ½Ãµå", COLOR_TITLE_BUFF },
+		{ "ì‰ë„ìš° ìµì‹œë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌÅÍ³Î ½½·¡½¬, ¼¼ºñÁö ÀÓÆÑÆ®" },
-		{ "µ¥¹ÌÁö Áõ°¡" }
+		{ "ì´í„°ë„ ìŠ¬ëž˜ì‰¬, ì„¸ë¹„ì§€ ìž„íŒ©íŠ¸" },
+		{ "ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DANCING_KNIFE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´í½Ì ³ªÀÌÇÁ", COLOR_TITLE_BUFF },
+		{ "ëŒ„ì‹± ë‚˜ì´í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ °£°ÝÀ¸·Î ÁÖº¯ ´ë»ó¿¡°Ô" },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö" }
+		{ "ì¼ì • ê°„ê²©ìœ¼ë¡œ ì£¼ë³€ ëŒ€ìƒì—ê²Œ" },
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_POTENT_VENOM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ÷ÅÙÆ® º£³Ñ", COLOR_TITLE_BUFF },
+		{ "í¬í…íŠ¸ ë² ë„˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ÀúÇ×·Â ¹«½Ã" }
+		{ "ë¬¼ë¦¬ ì €í•­ë ¥ ë¬´ì‹œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOW_SCAR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎÃ¦ÆÃ ½¦µµ¿ì", COLOR_TITLE_BUFF },
+		{ "ì¸ì±ˆíŒ… ì‰ë„ìš°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹Þ´Â ±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ë°›ëŠ” ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOW_WEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎÃ¦ÆÃ ½¦µµ¿ì", COLOR_TITLE_BUFF },
+		{ "ì¸ì±ˆíŒ… ì‰ë„ìš°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ È®·ü·Î ´ë»ó¿¡°Ô" },
-		{ "¹Þ´Â ±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡ È¿°ú ºÎ¿©" }
+		{ "ì¼ì • í™•ë¥ ë¡œ ëŒ€ìƒì—ê²Œ" },
+		{ "ë°›ëŠ” ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€ íš¨ê³¼ ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MEDIALE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸Þµð¾Ë·¹", COLOR_TITLE_BUFF },
+		{ "ë©”ë””ì•Œë ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÁÖ±âÀûÀ¸·Î ÁÖº¯ ÆÄÆ¼¿øµéÀÇ" },
-		{ "HP°¡ È¸º¹µÇ´Â »óÅÂ" }
+		{ "ì£¼ê¸°ì ìœ¼ë¡œ ì£¼ë³€ íŒŒí‹°ì›ë“¤ì˜" },
+		{ "HPê°€ íšŒë³µë˜ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_A_VITA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ¸£±¸Åõ½º ºñÅ¸", COLOR_TITLE_BUFF },
+		{ "ì•„ë¥´êµ¬íˆ¬ìŠ¤ ë¹„íƒ€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý ÀúÇ×·Â ÀÏºÎ ¹«½Ã" }
+		{ "ë§ˆë²• ì €í•­ë ¥ ì¼ë¶€ ë¬´ì‹œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_A_TELUM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Æ¸£±¸Åõ½º ÅÚ·ë", COLOR_TITLE_BUFF },
+		{ "ì•„ë¥´êµ¬íˆ¬ìŠ¤ í…”ë£¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ÀúÇ×·Â ÀÏºÎ ¹«½Ã" }
+		{ "ë¬¼ë¦¬ ì €í•­ë ¥ ì¼ë¶€ ë¬´ì‹œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PRE_ACIES] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ·¹¼¾½º ¾ÆÄ¡¿¡½º", COLOR_TITLE_BUFF },
+		{ "í”„ë ˆì„¼ìŠ¤ ì•„ì¹˜ì—ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Å©¸®Æ¼ÄÃ µ¥¹ÌÁö ºñÀ² Áõ°¡" }
+		{ "í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ë¹„ìœ¨ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COMPETENTIA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÞÆäÅÙÆ¼¾Æ", COLOR_TITLE_BUFF },
+		{ "ì½¤íŽ˜í…í‹°ì•„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK, S.MATK Áõ°¡" }
+		{ "P.ATK, S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RELIGIO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·¼¸®Áö¿À", COLOR_TITLE_BUFF },
+		{ "ë ë¦¬ì§€ì˜¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "SPL, WIS, STA Áõ°¡" }
+		{ "SPL, WIS, STA ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BENEDICTUM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º£³×µñÅù", COLOR_TITLE_BUFF },
+		{ "ë² ë„¤ë”•íˆ¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "POW, CRT, CON Áõ°¡" }
+		{ "POW, CRT, CON ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WINDSIGN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "À©µå »çÀÎ", COLOR_TITLE_BUFF },
+		{ "ìœˆë“œ ì‚¬ì¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "À©µå È£Å©ÀÇ ³«ÀÎÀÌ ºÎ¿©µÈ »óÅÂ" }
+		{ "ìœˆë“œ í˜¸í¬ì˜ ë‚™ì¸ì´ ë¶€ì—¬ëœ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CALAMITYGALE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¶·¯¹ÌÆ¼ °¡ÀÏ", COLOR_TITLE_BUFF },
+		{ "ìº˜ëŸ¬ë¯¸í‹° ê°€ì¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Å©·¹½Ãºê º¼Æ® µ¥¹ÌÁö Áõ°¡" },
-		{ "°¡ÀÏ ½ºÅè Å©¸®Æ¼ÄÃ µ¥¹ÌÁö Àû¿ë" },
-		{ "Å©·¹½Ãºê º¼Æ®, °¡ÀÏ ½ºÅèÀ¸·Î" },
-		{ "µ¿¹°, ¾îÆÐÇü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "í¬ë ˆì‹œë¸Œ ë³¼íŠ¸ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ê°€ì¼ ìŠ¤í†° í¬ë¦¬í‹°ì»¬ ë°ë¯¸ì§€ ì ìš©" },
+		{ "í¬ë ˆì‹œë¸Œ ë³¼íŠ¸, ê°€ì¼ ìŠ¤í†°ìœ¼ë¡œ" },
+		{ "ë™ë¬¼, ì–´íŒ¨í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MYSTIC_SYMPHONY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹Ì½ºÆ½ ½ÉÆ÷´Ï", COLOR_TITLE_BUFF },
+		{ "ë¯¸ìŠ¤í‹± ì‹¬í¬ë‹ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏºÎ ½ºÅ³ µ¥¹ÌÁö Áõ°¡" },
-		{ "¾îÆÐÇü, ÀÎ°£Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â µ¥¹ÌÁö Áõ°¡" }
+		{ "ì¼ë¶€ ìŠ¤í‚¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì–´íŒ¨í˜•, ì¸ê°„í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KVASIR_SONATA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼Ò³ªÅ¸ ¿Àºê Å©¹Ù½Ã¸£", COLOR_TITLE_BUFF },
+		{ "ì†Œë‚˜íƒ€ ì˜¤ë¸Œ í¬ë°”ì‹œë¥´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¥ÀÚ¼­ ÇÕÁÖ¸¦ ÇÒ ¼ö ÀÖ°Ô µÈ »óÅÂ" }
+		{ "í˜¼ìžì„œ í•©ì£¼ë¥¼ í•  ìˆ˜ ìžˆê²Œ ëœ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOUNDBLEND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç¿îµå ºí·»µå", COLOR_TITLE_BUFF },
+		{ "ì‚¬ìš´ë“œ ë¸”ë Œë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "À½ÆÄ ³«ÀÎÀÌ ÂïÈù »óÅÂ" }
+		{ "ìŒíŒŒ ë‚™ì¸ì´ ì°ížŒ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GEF_NOCTURN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ÔÆä´Ï¾Æ ³ìÅÏ", COLOR_TITLE_BUFF },
+		{ "ê²ŒíŽ˜ë‹ˆì•„ ë…¹í„´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý ÀúÇ×·Â °¨¼Ò" }
+		{ "ë§ˆë²• ì €í•­ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AIN_RHAPSODY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶ÀÎ¿öÄ¿ ·¦¼Òµð", COLOR_TITLE_BUFF },
+		{ "ë§ˆì¸ì›Œì»¤ ëž©ì†Œë””", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "RES °¨¼Ò" }
+		{ "RES ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MUSICAL_INTERLUDE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÂÁöÄÃ ÀÎÅÍ·çµå", COLOR_TITLE_BUFF },
+		{ "ë®¤ì§€ì»¬ ì¸í„°ë£¨ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ÀúÇ×·Â Áõ°¡" }
+		{ "ë¬¼ë¦¬ ì €í•­ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_JAWAII_SERENADE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Àú³á ³ëÀ»ÀÇ ¼¼·¹³ªµ¥", COLOR_TITLE_BUFF },
+		{ "ì €ë… ë…¸ì„ì˜ ì„¸ë ˆë‚˜ë°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "S.MATK Áõ°¡" },
-		{ "ÀÌµ¿ ¼Óµµ Áõ°¡" }
+		{ "S.MATK ì¦ê°€" },
+		{ "ì´ë™ ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PRON_MARCH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ·ÐÅ×¶ó ÇàÁø°î", COLOR_TITLE_BUFF },
+		{ "í”„ë¡ í…Œë¼ í–‰ì§„ê³¡", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK Áõ°¡" },
-		{ "ÀÌµ¿ ¼Óµµ Áõ°¡" }
+		{ "P.ATK ì¦ê°€" },
+		{ "ì´ë™ ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOW_STRIP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_BUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ABYSS_DAGGER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾îºñ½º ´ë°Å", COLOR_TITLE_BUFF },
+		{ "ì–´ë¹„ìŠ¤ ëŒ€ê±°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆäÀÌÅ» ¸Þ³ª½º µ¥¹ÌÁö Áõ°¡" }
+		{ "íŽ˜ì´íƒˆ ë©”ë‚˜ìŠ¤ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ABYSSFORCEWEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÁ·Ò µð ¾îºñ½º", COLOR_TITLE_BUFF },
+		{ "í”„ë¡¬ ë”” ì–´ë¹„ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Áö¼Ó½Ã°£ µ¿¾È ¾îºñ½º ±¸Ã¼ ¼ÒÈ¯" },
-		{ "ÀÏ¹Ý ¹°¸® °ø°Ý ½Ã, ±¸Ã¼ °ø°Ý" }
+		{ "ì§€ì†ì‹œê°„ ë™ì•ˆ ì–´ë¹„ìŠ¤ êµ¬ì²´ ì†Œí™˜" },
+		{ "ì¼ë°˜ ë¬¼ë¦¬ ê³µê²© ì‹œ, êµ¬ì²´ ê³µê²©" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ABYSS_SLAYER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾îºñ½º ½½·¹ÀÌ¾î", COLOR_TITLE_BUFF },
+		{ "ì–´ë¹„ìŠ¤ ìŠ¬ë ˆì´ì–´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK Áõ°¡" },
-		{ "S.MATK Áõ°¡" }
+		{ "P.ATK ì¦ê°€" },
+		{ "S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AXE_STOMP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾×½º ½ºÅèÇÁ", COLOR_TITLE_BUFF },
+		{ "ì•¡ìŠ¤ ìŠ¤í†°í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾×½º Åä³×ÀÌµµ µ¥¹ÌÁö Áõ°¡" }
+		{ "ì•¡ìŠ¤ í† ë„¤ì´ë„ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_A_MACHINE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ø°Ý ÀåÄ¡ È°¼ºÈ­", COLOR_TITLE_BUFF },
+		{ "ê³µê²© ìž¥ì¹˜ í™œì„±í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤ °£°ÝÀ¸·Î ÁÖº¯ ´ë»ó¿¡°Ô" },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö" }
+		{ "ì¼ì • ê°„ê²©ìœ¼ë¡œ ì£¼ë³€ ëŒ€ìƒì—ê²Œ" },
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_D_MACHINE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹æ¾î ÀåÄ¡ È°¼ºÈ­", COLOR_TITLE_BUFF },
+		{ "ë°©ì–´ ìž¥ì¹˜ í™œì„±í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "DEF Áõ°¡" },
-		{ "RES Áõ°¡" }
+		{ "DEF ì¦ê°€" },
+		{ "RES ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPELL_ENCHANTING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆç ÀÎÃ¦ÆÃ", COLOR_TITLE_BUFF },
+		{ "ìŠ¤íŽ  ì¸ì±ˆíŒ…", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "S.MATK Áõ°¡" }
+		{ "S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_CONFLAGRATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È­Àç", COLOR_TITLE_BUFF },
+		{ "í™”ìž¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È­¼Ó¼º »óÅÂ" },
-		{ "ÁÖ±âÀûÀ¸·Î HP °¨¼Ò" }
+		{ "í™”ì†ì„± ìƒíƒœ" },
+		{ "ì£¼ê¸°ì ìœ¼ë¡œ HP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEEPBLIND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¥Èæ", COLOR_TITLE_DEBUFF },
+		{ "ì¹ í‘", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "½Ã¾ß °¨¼Ò" },
-		{ "È¸ÇÇ, ¿ÏÀüÈ¸ÇÇ °¨¼Ò" }
+		{ "ì‹œì•¼ ê°ì†Œ" },
+		{ "íšŒí”¼, ì™„ì „íšŒí”¼ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEEPSILENCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°í¿ä", COLOR_TITLE_DEBUFF },
+		{ "ê³ ìš”", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "½ºÅ³ »ç¿ë ºÒ°¡" },
-		{ "°ø°Ý ¼Óµµ °¨¼Ò" }
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" },
+		{ "ê³µê²© ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_LASSITUDE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«±â·Â", COLOR_TITLE_DEBUFF },
+		{ "ë¬´ê¸°ë ¥", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "CRI °¨¼Ò" },
-		{ "ÀÌµ¿ ¼Óµµ °¨¼Ò" }
+		{ "CRI ê°ì†Œ" },
+		{ "ì´ë™ ì†ë„ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_FROSTBITE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Þ³Ã", COLOR_TITLE_DEBUFF },
+		{ "ê¸‰ëƒ‰", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö¼Ó¼º »óÅÂ" },
-		{ "ÀÌµ¿, ¾ÆÀÌÅÛ, ½ºÅ³ »ç¿ë ºÒ°¡" },
-		{ "DEF, MDEF °¨¼Ò" },
-		{ "µ¥¹ÌÁö ÀÔÀ» °æ¿ì ÇØÁ¦" }
+		{ "ìˆ˜ì†ì„± ìƒíƒœ" },
+		{ "ì´ë™, ì•„ì´í…œ, ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" },
+		{ "DEF, MDEF ê°ì†Œ" },
+		{ "ë°ë¯¸ì§€ ìž…ì„ ê²½ìš° í•´ì œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_SWOONING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¹µµ", COLOR_TITLE_DEBUFF },
+		{ "ì¡¸ë„", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿, ¾ÆÀÌÅÛ, ½ºÅ³ »ç¿ë ºÒ°¡" },
-		{ "¹Þ´Â µ¥¹ÌÁö Áõ°¡" },
-		{ "µ¥¹ÌÁö ÀÔÀ» °æ¿ì ÇØÁ¦" }
+		{ "ì´ë™, ì•„ì´í…œ, ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" },
+		{ "ë°›ëŠ” ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë°ë¯¸ì§€ ìž…ì„ ê²½ìš° í•´ì œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_LIGHTNINGSTRIKE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°Ý·ù", COLOR_TITLE_DEBUFF },
+		{ "ê²©ë¥˜", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ç³¼Ó¼º »óÅÂ" },
-		{ "ÀÌµ¿, ¾ÆÀÌÅÛ, ½ºÅ³ »ç¿ë ºÒ°¡" },
-		{ "Áö¼Ó¼º ³»¼º °¨¼Ò" },
-		{ "µ¥¹ÌÁö ÀÔÀ» °æ¿ì ÇØÁ¦" }
+		{ "í’ì†ì„± ìƒíƒœ" },
+		{ "ì´ë™, ì•„ì´í…œ, ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" },
+		{ "ì§€ì†ì„± ë‚´ì„± ê°ì†Œ" },
+		{ "ë°ë¯¸ì§€ ìž…ì„ ê²½ìš° í•´ì œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_CRYSTALLIZATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°áÁ¤È­", COLOR_TITLE_DEBUFF },
+		{ "ê²°ì •í™”", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Áö¼Ó¼º »óÅÂ" },
-		{ "ÀÌµ¿, ¾ÆÀÌÅÛ, ½ºÅ³ »ç¿ë ºÒ°¡" },
-		{ "MDEF °¨¼Ò" },
-		{ "µ¥¹ÌÁö ÀÔÀ» °æ¿ì ÇØÁ¦" }
+		{ "ì§€ì†ì„± ìƒíƒœ" },
+		{ "ì´ë™, ì•„ì´í…œ, ìŠ¤í‚¬ ì‚¬ìš© ë¶ˆê°€" },
+		{ "MDEF ê°ì†Œ" },
+		{ "ë°ë¯¸ì§€ ìž…ì„ ê²½ìš° í•´ì œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_MISFORTUNE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÒÇà", COLOR_TITLE_DEBUFF },
+		{ "ë¶ˆí–‰", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "HIT °¨¼Ò" },
-		{ "½ºÅ³ »ç¿ë ½Ã, ÀÏÁ¤ È®·ü·Î ½ÇÆÐ" }
+		{ "HIT ê°ì†Œ" },
+		{ "ìŠ¤í‚¬ ì‚¬ìš© ì‹œ, ì¼ì • í™•ë¥ ë¡œ ì‹¤íŒ¨" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEADLYPOISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°­µ¶", COLOR_TITLE_DEBUFF },
+		{ "ê°•ë…", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¶¼Ó¼º ³»¼º °¨¼Ò" },
-		{ "DEF °¨¼Ò, ÁÖ±âÀûÀ¸·Î HP °¨¼Ò" }
+		{ "ë…ì†ì„± ë‚´ì„± ê°ì†Œ" },
+		{ "DEF ê°ì†Œ, ì£¼ê¸°ì ìœ¼ë¡œ HP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_DEPRESSION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ì¿ï", COLOR_TITLE_DEBUFF },
+		{ "ìš°ìš¸", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "SP ¼Ò¸ð·® Ãß°¡ Áõ°¡" },
-		{ "ÁÖ±âÀûÀ¸·Î SP °¨¼Ò" }
+		{ "SP ì†Œëª¨ëŸ‰ ì¶”ê°€ ì¦ê°€" },
+		{ "ì£¼ê¸°ì ìœ¼ë¡œ SP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_HOLYFLAME] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼ºÈ­", COLOR_TITLE_DEBUFF },
+		{ "ì„±í™”", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý µ¥¹ÌÁö¸¦ ¹ÞÀ» ½Ã, HP È¸º¹" },
-		{ "¹Þ´Â ¹°¸® µ¥¹ÌÁö Ãß°¡ Áõ°¡" }
+		{ "ë§ˆë²• ë°ë¯¸ì§€ë¥¼ ë°›ì„ ì‹œ, HP íšŒë³µ" },
+		{ "ë°›ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¶”ê°€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTSHADOWEQUIP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½¦µµ¿ì ÇÁ·ÎÅØ¼Ç", COLOR_TITLE_BUFF },
+		{ "ì‰ë„ìš° í”„ë¡œí…ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "½¦µµ¿ì Àåºñ°¡ Àý´ë·Î ¼Õ»óµÇÁö ¾Ê´Â »óÅÂ" }
+		{ "ì‰ë„ìš° ìž¥ë¹„ê°€ ì ˆëŒ€ë¡œ ì†ìƒë˜ì§€ ì•ŠëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RESEARCHREPORT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸®¼­Ä¡ ¸®Æ÷Æ®", COLOR_TITLE_BUFF },
+		{ "ë¦¬ì„œì¹˜ ë¦¬í¬íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ö½Ãµå °è¿­ ½ºÅ³ µ¥¹ÌÁö Áõ°¡" },
-		{ "¹«Çü, ½Ä¹°Çü¿¡°Ô ÁÖ´Â µ¥¹ÌÁö Áõ°¡" }
+		{ "ì• ì‹œë“œ ê³„ì—´ ìŠ¤í‚¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë¬´í˜•, ì‹ë¬¼í˜•ì—ê²Œ ì£¼ëŠ” ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Àá·æ½ÂÃµ(íÖ×£ã°ô¸)", COLOR_TITLE_BUFF },
+		{ "ìž ë£¡ìŠ¹ì²œ(æ½›é¾æ˜‡å¤©)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÃÖ´ë ±â ±¸Ã¼ ¼ö Áõ°¡" },
-		{ "ÃÖ´ë HP¿Í SP Áõ°¡" },
-		{ "°ø°Ý¼Óµµ Áõ°¡" },
-		{ "Æø±â »óÅÂ À¯Áö" }
+		{ "ìµœëŒ€ ê¸° êµ¬ì²´ ìˆ˜ ì¦ê°€" },
+		{ "ìµœëŒ€ HPì™€ SP ì¦ê°€" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€" },
+		{ "í­ê¸° ìƒíƒœ ìœ ì§€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ANCILLA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾È½Ç¶ó (ANCILLA / º¸Á¶ÇÏ´Â ÀÚ)", COLOR_TITLE_BUFF },
+		{ "ì•ˆì‹¤ë¼ (ANCILLA / ë³´ì¡°í•˜ëŠ” ìž)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Èú·® 15% Áõ°¡." },
-		{ "SP È¸º¹·Â 30% »ó½Â." },
-		{ "¾Æµµ¶ó¹«½º ¹«¼Ó¼º ºÎ¿©" }
+		{ "ížëŸ‰ 15% ì¦ê°€." },
+		{ "SP íšŒë³µë ¥ 30% ìƒìŠ¹." },
+		{ "ì•„ë„ë¼ë¬´ìŠ¤ ë¬´ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸®ÇÃ·ºÆ® µ¥¹ÌÁö ¸®´ö¼Ç", COLOR_TITLE_TOGGLE },
+		{ "ë¦¬í”Œë ‰íŠ¸ ë°ë¯¸ì§€ ë¦¬ë•ì…˜", COLOR_TITLE_TOGGLE },
 		{ "%s", COLOR_TIME },
-		{ "ÀÚ½ÅÀÌ ¹Þ´Â ¹Ý»ç µ¥¹ÌÁö °¨¼Ò" }
+		{ "ìžì‹ ì´ ë°›ëŠ” ë°˜ì‚¬ ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BANDING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹êµù", COLOR_TITLE_BUFF },
+		{ "ë°´ë”©", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ¹æ¾î·Â Áõ°¡" }
+		{ "ë¬¼ë¦¬ ë°©ì–´ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INSPIRATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÎ½ºÇÇ·¹ÀÌ¼Ç", COLOR_TITLE_BUFF },
+		{ "ì¸ìŠ¤í”¼ë ˆì´ì…˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸íÁß·ü, ±âº» ½ºÅ×ÀÌÅÍ½º »ó½Â" },
-		{ "°ø°Ý·Â, ¸¶¹ý°ø°Ý·Â, MHP Áõ°¡" },
-		{ "Æ¯Á¤ ¹öÇÁ, »óÅÂÀÌ»ó ¹«È¿È­" },
-		{ "Áö¼ÓÀûÀ¸·Î HP, SP °¨¼Ò" }
+		{ "ëª…ì¤‘ë¥ , ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ ìƒìŠ¹" },
+		{ "ê³µê²©ë ¥, ë§ˆë²•ê³µê²©ë ¥, MHP ì¦ê°€" },
+		{ "íŠ¹ì • ë²„í”„, ìƒíƒœì´ìƒ ë¬´íš¨í™”" },
+		{ "ì§€ì†ì ìœ¼ë¡œ HP, SP ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀÅä ¼¨µµ¿ì ½ºÆç", COLOR_TITLE_BUFF },
+		{ "ì˜¤í†  ì„€ë„ìš° ìŠ¤íŽ ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MATK Áõ°¡" },
-		{ "µµÀÛ, ¸®ÇÁ·Îµà½º·Î ¹è¿î" },
-		{ "¸¶¹ý ½ºÅ³ »ç¿ë °¡´É" }
+		{ "MATK ì¦ê°€" },
+		{ "ë„ìž‘, ë¦¬í”„ë¡œë“€ìŠ¤ë¡œ ë°°ìš´" },
+		{ "ë§ˆë²• ìŠ¤í‚¬ ì‚¬ìš© ê°€ëŠ¥" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGICPOWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶¹ý·Â ÁõÆø", COLOR_TITLE_BUFF },
+		{ "ë§ˆë²•ë ¥ ì¦í­", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý °ø°Ý·Â ÁõÆø »óÅÂ" }
+		{ "ë§ˆë²• ê³µê²©ë ¥ ì¦í­ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿À¹ö ºê·£µå ·¹µð", COLOR_TITLE_BUFF },
+		{ "ì˜¤ë²„ ë¸Œëžœë“œ ë ˆë””", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿À¹ö ºê·£µå À§·Â Áõ°¡" }
+		{ "ì˜¤ë²„ ë¸Œëžœë“œ ìœ„ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHIELDSPELL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½¯µå ½ºÆç", COLOR_TITLE_BUFF },
+		{ "ì‰´ë“œ ìŠ¤íŽ ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹æÆÐ ¸¶¹ý È¿°ú" }
+		{ "ë°©íŒ¨ ë§ˆë²• íš¨ê³¼" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CLOUD_POISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±¸¸§ µ¶", COLOR_TITLE_DEBUFF },
+		{ "êµ¬ë¦„ ë…", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¶¼Ó¼º °ø°Ý¿¡ ´ëÇÑ ³»¼º °¨¼Ò" }
+		{ "ë…ì†ì„± ê³µê²©ì— ëŒ€í•œ ë‚´ì„± ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SPORE_EXPLOSION_DEBUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ÷¾î ÀÍ½ºÇÃ·ÎÁ¯", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤í¬ì–´ ìµìŠ¤í”Œë¡œì ¼", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹Þ´Â ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ë°›ëŠ” ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºí·¯µå ¼­Ä¿", COLOR_TITLE_BUFF },
+		{ "ë¸”ëŸ¬ë“œ ì„œì»¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® °ø°Ý ½Ã ÀÏÁ¤ È®·ü·Î" },
-		{ "HP Èí¼ö" }
+		{ "ë¬¼ë¦¬ ê³µê²© ì‹œ ì¼ì • í™•ë¥ ë¡œ" },
+		{ "HP í¡ìˆ˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_UNLIMIT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾ð¸®¹Ô", COLOR_TITLE_BUFF },
+		{ "ì–¸ë¦¬ë°‹", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö »ó½Â" }
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STRIKING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¶óÀÌÅ·", COLOR_TITLE_BUFF },
+		{ "ìŠ¤íŠ¸ë¼ì´í‚¹", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý·Â Áõ°¡" },
-		{ "À¯µµ °ø°Ý ¹ßµ¿ È®·ü Áõ°¡" }
+		{ "ê³µê²©ë ¥ ì¦ê°€" },
+		{ "ìœ ë„ ê³µê²© ë°œë™ í™•ë¥  ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_POISON_MIST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾È°³ µ¶", COLOR_TITLE_DEBUFF },
+		{ "ì•ˆê°œ ë…", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇÀ² °¨¼Ò" }
+		{ "íšŒí”¼ìœ¨ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STONE_WALL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ÙÀ§ º®", COLOR_TITLE_BUFF },
+		{ "ë°”ìœ„ ë²½", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ¹æ¾î·Â Áõ°¡" },
-		{ "¸¶¹ý ¹æ¾î·Â Áõ°¡" }
+		{ "ë¬¼ë¦¬ ë°©ì–´ë ¥ ì¦ê°€" },
+		{ "ë§ˆë²• ë°©ì–´ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HOMUN_TIME] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄÝ È£¹®Å¬·ç½º", COLOR_TITLE_BUFF },
+		{ "ì½œ í˜¸ë¬¸í´ë£¨ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È£¹®Å¬·ç½º È°¼ºÈ­ »óÅÂ" }
+		{ "í˜¸ë¬¸í´ë£¨ìŠ¤ í™œì„±í™” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PAIN_KILLER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÆäÀÎ Å³·¯", COLOR_TITLE_BUFF },
+		{ "íŽ˜ì¸ í‚¬ëŸ¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¥¹ÌÁö ¹ÞÀ» ½Ã ¸ð¼Ç µô·¹ÀÌ ¾øÀ½" },
-		{ "¹Þ´Â µ¥¹ÌÁö °¨¼Ò" }
+		{ "ë°ë¯¸ì§€ ë°›ì„ ì‹œ ëª¨ì…˜ ë”œë ˆì´ ì—†ìŒ" },
+		{ "ë°›ëŠ” ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NEEDLE_OF_PARALYZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¶ºñ", COLOR_TITLE_DEBUFF },
+		{ "ë§ˆë¹„", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ºÒ°¡" },
-		{ "¹°¸® ¹× ¸¶¹ý ¹æ¾î·Â °¨¼Ò" }
+		{ "ì´ë™ ë¶ˆê°€" },
+		{ "ë¬¼ë¦¬ ë° ë§ˆë²• ë°©ì–´ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÆÄÀÌ·ÎÅ¬·¡½ºÆ½", COLOR_TITLE_BUFF },
+		{ "íŒŒì´ë¡œí´ëž˜ìŠ¤í‹±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«±â °ø°Ý·Â »ó½Â" }
+		{ "ë¬´ê¸° ê³µê²©ë ¥ ìƒìŠ¹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿þÆù ½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ì›¨í° ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPARMOR2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ¸Ó ½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ì•„ë¨¸ ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "½¯µå ¿þÆù ½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ì‰´ë“œ ì›¨í° ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPSHOES2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "½Å¹ß ½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ì‹ ë°œ ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPPENDANT2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ç¼¼¼­¸® ½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ì•…ì„¸ì„œë¦¬ ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPEARING2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ç¼¼¼­¸® ½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ì•…ì„¸ì„œë¦¬ ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPFULL2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½ºÆ®¸³ ½¦µµ¿ì", COLOR_TITLE_DEBUFF },
+		{ "ìŠ¤íŠ¸ë¦½ ì‰ë„ìš°", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ½¦µµ¿ì Àåºñ¸¦ Âø¿ëÇÒ ¼ö ¾ø´Â »óÅÂ" }
+		{ "ëª¨ë“  ì‰ë„ìš° ìž¥ë¹„ë¥¼ ì°©ìš©í•  ìˆ˜ ì—†ëŠ” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CURSE_R_CUBE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¿½º ¿Àºê ·¹µå Å¥ºê", COLOR_TITLE_BUFF },
+		{ "ì»¤ìŠ¤ ì˜¤ë¸Œ ë ˆë“œ íë¸Œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -6194,7 +6194,7 @@ StateIconList[EFST_IDs.EFST_CURSE_B_CUBE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ä¿½º ¿Àºê ºí·ç Å¥ºê", COLOR_TITLE_BUFF },
+		{ "ì»¤ìŠ¤ ì˜¤ë¸Œ ë¸”ë£¨ íë¸Œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -6202,695 +6202,695 @@ StateIconList[EFST_IDs.EFST_TOXIN_OF_MANDARA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸¸´Ù¶ó", COLOR_TITLE_DEBUFF },
+		{ "ë§Œë‹¤ë¼", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ÀúÇ×·Â °¨¼Ò" }
+		{ "ë¬¼ë¦¬ ì €í•­ë ¥ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GOLDENE_TONE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ñµç¿¡ Æ©´À", COLOR_TITLE_BUFF },
+		{ "ê³¨ë“ ì— íŠœëŠ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹°¸® ¹× ¸¶¹ý ÀúÇ×·Â Áõ°¡" }
+		{ "ë¬¼ë¦¬ ë° ë§ˆë²• ì €í•­ë ¥ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TEMPERING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÅÛÆÛ¸µ", COLOR_TITLE_BUFF },
+		{ "í…œí¼ë§", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK Áõ°¡" }
+		{ "P.ATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOODLE_FES_1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±¹¼ö ÃàÁ¦ - ÆÄ¸£ÆÈ·¹", COLOR_TITLE_BUFF },
+		{ "êµ­ìˆ˜ ì¶•ì œ - íŒŒë¥´íŒ”ë ˆ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹× ¿ø°Å¸®" },
-		{ "¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ê·¼ì ‘ ë° ì›ê±°ë¦¬" },
+		{ "ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOODLE_FES_2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±¹¼ö ÃàÁ¦ - Å©¸² »õ¿ì ÆÄ½ºÅ¸", COLOR_TITLE_BUFF },
+		{ "êµ­ìˆ˜ ì¶•ì œ - í¬ë¦¼ ìƒˆìš° íŒŒìŠ¤íƒ€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ¼Ó¼º" },
-		{ "¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ëª¨ë“  ì†ì„±" },
+		{ "ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOODLE_FES_3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±¹¼ö ÃàÁ¦ - Åä¸¶Åä ±¹¼ö", COLOR_TITLE_BUFF },
+		{ "êµ­ìˆ˜ ì¶•ì œ - í† ë§ˆí†  êµ­ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¯µ¿ Ä³½ºÆÃ, ±Û·Î¹ú ÄðÅ¸ÀÓ °¨¼Ò" },
-		{ "°ø°Ý¼Óµµ Áõ°¡(°ø°Ý ÈÄ µô·¹ÀÌ °¨¼Ò)" }
+		{ "ë³€ë™ ìºìŠ¤íŒ…, ê¸€ë¡œë²Œ ì¿¨íƒ€ìž„ ê°ì†Œ" },
+		{ "ê³µê²©ì†ë„ ì¦ê°€(ê³µê²© í›„ ë”œë ˆì´ ê°ì†Œ)" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOODLE_FES_4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±¹¼ö ÃàÁ¦ - ÀÜÄ¡ ±¹¼ö", COLOR_TITLE_BUFF },
+		{ "êµ­ìˆ˜ ì¶•ì œ - ìž”ì¹˜ êµ­ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK ¹× MATK % Áõ°¡" }
+		{ "ATK ë° MATK % ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOODLE_FES_5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±¹¼ö ÃàÁ¦ - °£Àå ºñºö ±¹¼ö", COLOR_TITLE_BUFF },
+		{ "êµ­ìˆ˜ ì¶•ì œ - ê°„ìž¥ ë¹„ë¹” êµ­ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK Áõ°¡" },
-		{ "S.MATK Áõ°¡" }
+		{ "P.ATK ì¦ê°€" },
+		{ "S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BO_HELL_DUSTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Áö¿Á ³ª¹«ÀÇ °¡·ç", COLOR_TITLE_BUFF },
+		{ "ì§€ì˜¥ ë‚˜ë¬´ì˜ ê°€ë£¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«Çü, ½Ä¹°Çü¿¡°Ô ÁÖ´Â µ¥¹ÌÁö Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ë¬´í˜•, ì‹ë¬¼í˜•ì—ê²Œ ì£¼ëŠ” ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RUSH_QUAKE1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÄùÀÌÅ©", COLOR_TITLE_DEBUFF },
+		{ "í€˜ì´í¬", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹Þ´Â ±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¹Þ´Â ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ë°›ëŠ” ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë°›ëŠ” ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RUSH_QUAKE2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·¯½¬", COLOR_TITLE_BUFF },
+		{ "ëŸ¬ì‰¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RISING_SUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÏÃâ", COLOR_TITLE_BUFF },
+		{ "ì¼ì¶œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÃâ »óÅÂ" }
+		{ "ì¼ì¶œ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOON_SUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Á¤¿À", COLOR_TITLE_BUFF },
+		{ "ì •ì˜¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á¤¿À »óÅÂ" }
+		{ "ì •ì˜¤ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SUNSET_SUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÏ¸ô", COLOR_TITLE_BUFF },
+		{ "ì¼ëª°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏ¸ô »óÅÂ" }
+		{ "ì¼ëª° ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RISING_MOON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ùÃâ", COLOR_TITLE_BUFF },
+		{ "ì›”ì¶œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ùÃâ »óÅÂ" }
+		{ "ì›”ì¶œ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MIDNIGHT_MOON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÚÁ¤", COLOR_TITLE_BUFF },
+		{ "ìžì •", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÚÁ¤ »óÅÂ" }
+		{ "ìžì • ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DAWN_MOON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ù¸ô", COLOR_TITLE_BUFF },
+		{ "ì›”ëª°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ù¸ô »óÅÂ" }
+		{ "ì›”ëª° ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_STAR_BURST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ãµ¸í³«¼º", COLOR_TITLE_DEBUFF },
+		{ "ì²œëª…ë‚™ì„±", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ãµ¸í³«¼º »óÅÂ" }
+		{ "ì²œëª…ë‚™ì„± ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SKY_ENCHANT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ãµ±âÇÕÀÏ", COLOR_TITLE_BUFF },
+		{ "ì²œê¸°í•©ì¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ãµ±â¿îÇà ±Ø´ëÈ­ »óÅÂ" }
+		{ "ì²œê¸°ìš´í–‰ ê·¹ëŒ€í™” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TALISMAN_OF_PROTECTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼öÈ£ºÎ", COLOR_TITLE_BUFF },
+		{ "ìˆ˜í˜¸ë¶€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HP Áö¼Ó È¸º¹" }
+		{ "HP ì§€ì† íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TALISMAN_OF_WARRIOR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹«»çºÎ", COLOR_TITLE_BUFF },
+		{ "ë¬´ì‚¬ë¶€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK Áõ°¡" }
+		{ "P.ATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TALISMAN_OF_MAGICIAN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹ý»çºÎ", COLOR_TITLE_BUFF },
+		{ "ë²•ì‚¬ë¶€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "S.MATK Áõ°¡" }
+		{ "S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TALISMAN_OF_FIVE_ELEMENTS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀÇàºÎ", COLOR_TITLE_BUFF },
+		{ "ì˜¤í–‰ë¶€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö/Ç³/Áö/È­/¹«¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¼ö/Ç³/Áö/È­/¹«¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ìˆ˜/í’/ì§€/í™”/ë¬´ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ìˆ˜/í’/ì§€/í™”/ë¬´ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_T_FIRST_GOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µ¿ÂÊÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ë™ìª½ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¿ÂÊÀÇ °¡È£ »óÅÂ" }
+		{ "ë™ìª½ì˜ ê°€í˜¸ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_T_SECOND_GOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼­ÂÊÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ì„œìª½ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼­ÂÊÀÇ °¡È£ »óÅÂ" }
+		{ "ì„œìª½ì˜ ê°€í˜¸ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_T_THIRD_GOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "³²ÂÊÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ë‚¨ìª½ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "³²ÂÊÀÇ °¡È£ »óÅÂ" }
+		{ "ë‚¨ìª½ì˜ ê°€í˜¸ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_T_FOURTH_GOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÏÂÊÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ë¶ìª½ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ºÏÂÊÀÇ °¡È£ »óÅÂ" }
+		{ "ë¶ìª½ì˜ ê°€í˜¸ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_T_FIVETH_GOD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç¹æ¿ÀÇàÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "ì‚¬ë°©ì˜¤í–‰ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "»ç¹æ¿ÀÇàÀÇ °¡È£ »óÅÂ" }
+		{ "ì‚¬ë°©ì˜¤í–‰ì˜ ê°€í˜¸ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEAVEN_AND_EARTH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÃµÁö½Å·É", COLOR_TITLE_BUFF },
+		{ "ì²œì§€ì‹ ë ¹", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HOGOGONG] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È£°í°ø", COLOR_TITLE_BUFF },
+		{ "í˜¸ê³ ê³µ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È£°í°ø »óÅÂ" }
+		{ "í˜¸ê³ ê³µ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MARINE_FESTIVAL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Í¼³ ¹Ù´ÙÃàÁ¦", COLOR_TITLE_BUFF },
+		{ "ê·€ì„¤ ë°”ë‹¤ì¶•ì œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "POW, CRT, CON Áõ°¡" }
+		{ "POW, CRT, CON ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SANDY_FESTIVAL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Í¼³ ¸ð·¡ÃàÁ¦", COLOR_TITLE_BUFF },
+		{ "ê·€ì„¤ ëª¨ëž˜ì¶•ì œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "SPL, WIS, STA Áõ°¡" }
+		{ "SPL, WIS, STA ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_KI_SUL_RAMPAGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Í¼³ °ÅÄ¥°Ô ¿äµ¿Ä¡±â", COLOR_TITLE_BUFF },
+		{ "ê·€ì„¤ ê±°ì¹ ê²Œ ìš”ë™ì¹˜ê¸°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "AP È¸º¹" }
+		{ "AP íšŒë³µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çö·ÏÀÇ ¿À»ö»Ô", COLOR_TITLE_BUFF },
+		{ "í˜„ë¡ì˜ ì˜¤ìƒ‰ë¿”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ½ºÅ³¿¡ ¼ö¼Ó¼º ºÎ¿©" },
-		{ "°³¹ÚÇÏ ¸ÞÅ×¿À" },
-		{ "Çö·ÏÀÇ ÀÙ»õ¹Ù¶÷" },
-		{ "Çö·ÏÆ÷" },
-		{ "Çö·ÏÀÇ ¿µ·Â ¹ßÈÖ" }
+		{ "ì•„ëž˜ ìŠ¤í‚¬ì— ìˆ˜ì†ì„± ë¶€ì—¬" },
+		{ "ê°œë°•í•˜ ë©”í…Œì˜¤" },
+		{ "í˜„ë¡ì˜ ìžŽìƒˆë°”ëžŒ" },
+		{ "í˜„ë¡í¬" },
+		{ "í˜„ë¡ì˜ ì˜ë ¥ ë°œíœ˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çö·ÏÀÇ ¿À»ö»Ô", COLOR_TITLE_BUFF },
+		{ "í˜„ë¡ì˜ ì˜¤ìƒ‰ë¿”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ½ºÅ³¿¡ Ç³¼Ó¼º ºÎ¿©" },
-		{ "°³¹ÚÇÏ ¸ÞÅ×¿À" },
-		{ "Çö·ÏÀÇ ÀÙ»õ¹Ù¶÷" },
-		{ "Çö·ÏÆ÷" },
-		{ "Çö·ÏÀÇ ¿µ·Â ¹ßÈÖ" }
+		{ "ì•„ëž˜ ìŠ¤í‚¬ì— í’ì†ì„± ë¶€ì—¬" },
+		{ "ê°œë°•í•˜ ë©”í…Œì˜¤" },
+		{ "í˜„ë¡ì˜ ìžŽìƒˆë°”ëžŒ" },
+		{ "í˜„ë¡í¬" },
+		{ "í˜„ë¡ì˜ ì˜ë ¥ ë°œíœ˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çö·ÏÀÇ ¿À»ö»Ô", COLOR_TITLE_BUFF },
+		{ "í˜„ë¡ì˜ ì˜¤ìƒ‰ë¿”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ½ºÅ³¿¡ Áö¼Ó¼º ºÎ¿©" },
-		{ "°³¹ÚÇÏ ¸ÞÅ×¿À" },
-		{ "Çö·ÏÀÇ ÀÙ»õ¹Ù¶÷" },
-		{ "Çö·ÏÆ÷" },
-		{ "Çö·ÏÀÇ ¿µ·Â ¹ßÈÖ" }
+		{ "ì•„ëž˜ ìŠ¤í‚¬ì— ì§€ì†ì„± ë¶€ì—¬" },
+		{ "ê°œë°•í•˜ ë©”í…Œì˜¤" },
+		{ "í˜„ë¡ì˜ ìžŽìƒˆë°”ëžŒ" },
+		{ "í˜„ë¡í¬" },
+		{ "í˜„ë¡ì˜ ì˜ë ¥ ë°œíœ˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çö·ÏÀÇ ¿À»ö»Ô", COLOR_TITLE_BUFF },
+		{ "í˜„ë¡ì˜ ì˜¤ìƒ‰ë¿”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ½ºÅ³¿¡ È­¼Ó¼º ºÎ¿©" },
-		{ "°³¹ÚÇÏ ¸ÞÅ×¿À" },
-		{ "Çö·ÏÀÇ ÀÙ»õ¹Ù¶÷" },
-		{ "Çö·ÏÆ÷" },
-		{ "Çö·ÏÀÇ ¿µ·Â ¹ßÈÖ" }
+		{ "ì•„ëž˜ ìŠ¤í‚¬ì— í™”ì†ì„± ë¶€ì—¬" },
+		{ "ê°œë°•í•˜ ë©”í…Œì˜¤" },
+		{ "í˜„ë¡ì˜ ìžŽìƒˆë°”ëžŒ" },
+		{ "í˜„ë¡í¬" },
+		{ "í˜„ë¡ì˜ ì˜ë ¥ ë°œíœ˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çö·ÏÀÇ ¿À»ö»Ô", COLOR_TITLE_BUFF },
+		{ "í˜„ë¡ì˜ ì˜¤ìƒ‰ë¿”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ½ºÅ³¿¡ ¾Ï¼Ó¼º ºÎ¿©" },
-		{ "°³¹ÚÇÏ ¸ÞÅ×¿À" },
-		{ "Çö·ÏÀÇ ÀÙ»õ¹Ù¶÷" },
-		{ "Çö·ÏÆ÷" },
-		{ "Çö·ÏÀÇ ¿µ·Â ¹ßÈÖ" }
+		{ "ì•„ëž˜ ìŠ¤í‚¬ì— ì•”ì†ì„± ë¶€ì—¬" },
+		{ "ê°œë°•í•˜ ë©”í…Œì˜¤" },
+		{ "í˜„ë¡ì˜ ìžŽìƒˆë°”ëžŒ" },
+		{ "í˜„ë¡í¬" },
+		{ "í˜„ë¡ì˜ ì˜ë ¥ ë°œíœ˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_6] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çö·ÏÀÇ ¿À»ö»Ô", COLOR_TITLE_BUFF },
+		{ "í˜„ë¡ì˜ ì˜¤ìƒ‰ë¿”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ½ºÅ³¿¡ ¼º¼Ó¼º ºÎ¿©" },
-		{ "°³¹ÚÇÏ ¸ÞÅ×¿À" },
-		{ "Çö·ÏÀÇ ÀÙ»õ¹Ù¶÷" },
-		{ "Çö·ÏÆ÷" },
-		{ "Çö·ÏÀÇ ¿µ·Â ¹ßÈÖ" }
+		{ "ì•„ëž˜ ìŠ¤í‚¬ì— ì„±ì†ì„± ë¶€ì—¬" },
+		{ "ê°œë°•í•˜ ë©”í…Œì˜¤" },
+		{ "í˜„ë¡ì˜ ìžŽìƒˆë°”ëžŒ" },
+		{ "í˜„ë¡í¬" },
+		{ "í˜„ë¡ì˜ ì˜ë ¥ ë°œíœ˜" }
 	}
 }
 StateIconList[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_BUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çö·ÏÀÇ ¿À»ö»Ô", COLOR_TITLE_BUFF },
+		{ "í˜„ë¡ì˜ ì˜¤ìƒ‰ë¿”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°³¹ÚÇÏ ¸ÞÅ×¿À µ¥¹ÌÁö Áõ°¡" }
+		{ "ê°œë°•í•˜ ë©”í…Œì˜¤ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TEMPORARY_COMMUNION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±Þ¼Ó ±³°¨", COLOR_TITLE_BUFF },
+		{ "ê¸‰ì† êµê°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK, S.MATK, HEAL PLUS Áõ°¡" }
+		{ "P.ATK, S.MATK, HEAL PLUS ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BLESSING_OF_M_CREATURES] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿µ¹°ÀÇ Ãàº¹", COLOR_TITLE_BUFF },
+		{ "ì˜ë¬¼ì˜ ì¶•ë³µ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK, S.MATK Áõ°¡" }
+		{ "P.ATK, S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BLESSING_OF_M_C_DEBUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿µ¹°ÀÇ Ãàº¹ ºÎÀÛ¿ë", COLOR_TITLE_DEBUFF },
+		{ "ì˜ë¬¼ì˜ ì¶•ë³µ ë¶€ìž‘ìš©", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÏÁ¤½Ã°£µ¿¾È ¿µ¹°ÀÇ Ãàº¹ ºÎ¿© ºÒ°¡" }
+		{ "ì¼ì •ì‹œê°„ë™ì•ˆ ì˜ë¬¼ì˜ ì¶•ë³µ ë¶€ì—¬ ë¶ˆê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INTENSIVE_AIM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁýÁß Á¶ÁØ È°¼ºÈ­", COLOR_TITLE_BUFF },
-		{ "ATK Áõ°¡" },
-		{ "HIT Áõ°¡" },
-		{ "CRI Áõ°¡" }
+		{ "ì§‘ì¤‘ ì¡°ì¤€ í™œì„±í™”", COLOR_TITLE_BUFF },
+		{ "ATK ì¦ê°€" },
+		{ "HIT ì¦ê°€" },
+		{ "CRI ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRENADE_FRAGMENT_1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¹³×ÀÌµå ÇÁ·¡±×¸ÕÆ®", COLOR_TITLE_BUFF },
+		{ "ê·¸ë ˆë„¤ì´ë“œ í”„ëž˜ê·¸ë¨¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö·ùÅº °ø°Ý ½Ã ¼ö¼Ó¼º ºÎ¿©" }
+		{ "ìˆ˜ë¥˜íƒ„ ê³µê²© ì‹œ ìˆ˜ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRENADE_FRAGMENT_2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¹³×ÀÌµå ÇÁ·¡±×¸ÕÆ®", COLOR_TITLE_BUFF },
+		{ "ê·¸ë ˆë„¤ì´ë“œ í”„ëž˜ê·¸ë¨¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö·ùÅº °ø°Ý ½Ã Ç³¼Ó¼º ºÎ¿©" }
+		{ "ìˆ˜ë¥˜íƒ„ ê³µê²© ì‹œ í’ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRENADE_FRAGMENT_3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¹³×ÀÌµå ÇÁ·¡±×¸ÕÆ®", COLOR_TITLE_BUFF },
+		{ "ê·¸ë ˆë„¤ì´ë“œ í”„ëž˜ê·¸ë¨¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö·ùÅº °ø°Ý ½Ã Áö¼Ó¼º ºÎ¿©" }
+		{ "ìˆ˜ë¥˜íƒ„ ê³µê²© ì‹œ ì§€ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRENADE_FRAGMENT_4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¹³×ÀÌµå ÇÁ·¡±×¸ÕÆ®", COLOR_TITLE_BUFF },
+		{ "ê·¸ë ˆë„¤ì´ë“œ í”„ëž˜ê·¸ë¨¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö·ùÅº °ø°Ý ½Ã È­¼Ó¼º ºÎ¿©" }
+		{ "ìˆ˜ë¥˜íƒ„ ê³µê²© ì‹œ í™”ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRENADE_FRAGMENT_5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¹³×ÀÌµå ÇÁ·¡±×¸ÕÆ®", COLOR_TITLE_BUFF },
+		{ "ê·¸ë ˆë„¤ì´ë“œ í”„ëž˜ê·¸ë¨¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö·ùÅº °ø°Ý ½Ã ¾Ï¼Ó¼º ºÎ¿©" }
+		{ "ìˆ˜ë¥˜íƒ„ ê³µê²© ì‹œ ì•”ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GRENADE_FRAGMENT_6] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¹³×ÀÌµå ÇÁ·¡±×¸ÕÆ®", COLOR_TITLE_BUFF },
+		{ "ê·¸ë ˆë„¤ì´ë“œ í”„ëž˜ê·¸ë¨¼íŠ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö·ùÅº °ø°Ý ½Ã ¼º¼Ó¼º ºÎ¿©" }
+		{ "ìˆ˜ë¥˜íƒ„ ê³µê²© ì‹œ ì„±ì†ì„± ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTO_FIRING_LAUNCHEREFST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÀÅä ÆÄÀÌ¾î¸µ ·±Ã³", COLOR_TITLE_BUFF },
+		{ "ì˜¤í†  íŒŒì´ì–´ë§ ëŸ°ì²˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÚµ¿ ¼ö·ùÅº ¹ß»ç ·±Ã³ È°¼ºÈ­ »óÅÂ" }
+		{ "ìžë™ ìˆ˜ë¥˜íƒ„ ë°œì‚¬ ëŸ°ì²˜ í™œì„±í™” ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HIDDEN_CARD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È÷µç Ä«µå", COLOR_TITLE_BUFF },
+		{ "ížˆë“  ì¹´ë“œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "P.ATK Áõ°¡" }
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "P.ATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NW_GRENADE_MASTERY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×·¹³×ÀÌµå ¸¶½ºÅÍ¸®", COLOR_TITLE_BUFF },
+		{ "ê·¸ë ˆë„¤ì´ë“œ ë§ˆìŠ¤í„°ë¦¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "CON Áõ°¡" },
-		{ "½´·ùÅº °è¿­ ½ºÅ³ µ¥¹ÌÁö Áõ°¡" }
+		{ "CON ì¦ê°€" },
+		{ "ìŠˆë¥˜íƒ„ ê³„ì—´ ìŠ¤í‚¬ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHIELDCHAINRUSH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½¯µå Ã¼ÀÎ ·¯½¬", COLOR_TITLE_DEBUFF },
+		{ "ì‰´ë“œ ì²´ì¸ ëŸ¬ì‰¬", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "¹Þ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¹Þ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "ë°›ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë°›ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MISTYFROST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "È¤ÇÑ", COLOR_TITLE_DEBUFF },
+		{ "í˜¹í•œ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¼ö¼Ó¼º ³»¼º 15% °¨¼Ò" }
+		{ "ìˆ˜ì†ì„± ë‚´ì„± 15% ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GROUNDGRAVITY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×¶ó¿îµå ±×¶óºñÅ×ÀÌ¼Ç", COLOR_TITLE_DEBUFF },
+		{ "ê·¸ë¼ìš´ë“œ ê·¸ë¼ë¹„í…Œì´ì…˜", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ °¨¼Ò" },
-		{ "¹Þ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¹Þ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ì´ë™ì†ë„ ê°ì†Œ" },
+		{ "ë°›ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë°›ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BREAKINGLIMIT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÑ°èµ¹ÆÄ", COLOR_TITLE_BUFF },
+		{ "í•œê³„ëŒíŒŒ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀüÅõ °è¿­ ½ºÅ³ µ¥¹ÌÁö ÁõÆø" }
+		{ "ì „íˆ¬ ê³„ì—´ ìŠ¤í‚¬ ë°ë¯¸ì§€ ì¦í­" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RULEBREAK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ê ºê·¹ÀÌÅ·", COLOR_TITLE_BUFF },
+		{ "ë£° ë¸Œë ˆì´í‚¹", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸¶¹ý °è¿­ ½ºÅ³ µ¥¹ÌÁö ÁõÆø" }
+		{ "ë§ˆë²• ê³„ì—´ ìŠ¤í‚¬ ë°ë¯¸ì§€ ì¦í­" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOW_CLOCK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±×¸²ÀÚ Àº½Å", COLOR_TITLE_BUFF },
+		{ "ê·¸ë¦¼ìž ì€ì‹ ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" },
-		{ "¹Þ´Â ¹°¸® µ¥¹ÌÁö °¨¼Ò" },
-		{ "¹Þ´Â ¸¶¹ý µ¥¹ÌÁö °¨¼Ò" }
+		{ "ì´ë™ì†ë„ ì¦ê°€" },
+		{ "ë°›ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ê°ì†Œ" },
+		{ "ë°›ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_NIGHTMARE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¾Ç¸ù", COLOR_TITLE_DEBUFF },
+		{ "ì•…ëª½", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ç¸ù Ç¥½Ä" }
+		{ "ì•…ëª½ í‘œì‹" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_SPEED] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÀÌµ¿¼Óµµ Áõ°¡", COLOR_TITLE_BUFF },
+		{ "ì´ë™ì†ë„ ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡" }
+		{ "ì´ë™ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_ASPD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°ø°Ý¼Óµµ Áõ°¡", COLOR_TITLE_BUFF },
+		{ "ê³µê²©ì†ë„ ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý¼Óµµ Áõ°¡" }
+		{ "ê³µê²©ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_MHP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "MHP Áõ°¡", COLOR_TITLE_BUFF },
+		{ "MHP ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Áõ°¡" }
+		{ "MHP ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_MSP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "MSP Áõ°¡", COLOR_TITLE_BUFF },
+		{ "MSP ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MSP Áõ°¡" }
+		{ "MSP ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_HIT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "HIT Áõ°¡", COLOR_TITLE_BUFF },
+		{ "HIT ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HIT Áõ°¡" }
+		{ "HIT ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "DEF Áõ°¡", COLOR_TITLE_BUFF },
+		{ "DEF ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "DEF Áõ°¡" }
+		{ "DEF ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_MDEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "MDEF Áõ°¡", COLOR_TITLE_BUFF },
+		{ "MDEF ì¦ê°€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MDEF Áõ°¡" }
+		{ "MDEF ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK001] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "INT + 5" },
 		{ "FLEE + 30" },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡ ¹öÇÁ ºÎ¿©" }
+		{ "ì´ë™ì†ë„ ì¦ê°€ ë²„í”„ ë¶€ì—¬" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK002] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "MHP + 10%" },
 		{ "MSP + 5%" },
-		{ "³ë¶õÇãºêÀÇ È¸º¹·Â 500% Áõ°¡" }
+		{ "ë…¸ëž€í—ˆë¸Œì˜ íšŒë³µë ¥ 500% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK003] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö 10% Áõ°¡." }
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ 10% ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK004] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ä³½ºÆÃÀÌ ²÷±âÁö ¾Ê´Â´Ù." }
+		{ "ìºìŠ¤íŒ…ì´ ëŠê¸°ì§€ ì•ŠëŠ”ë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK006] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º + 5" },
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ + 5" },
 		{ "ATK + 2%" },
 		{ "MATK + 2%" }
 	}
@@ -6899,40 +6899,40 @@ StateIconList[EFST_IDs.EFST_VR_BOOK007] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ï¼Ó¼º ¸¶¹ý µ¥¹ÌÁö 10% Áõ°¡" },
-		{ "¼º¼Ó¼º ¸¶¹ý µ¥¹ÌÁö 10% Áõ°¡" },
-		{ "¼ö¼Ó¼º ¸¶¹ý µ¥¹ÌÁö 10% Áõ°¡" },
-		{ "Áö¼Ó¼º ¸¶¹ý µ¥¹ÌÁö 10% Áõ°¡" },
-		{ "È­¼Ó¼º ¸¶¹ý µ¥¹ÌÁö 10% Áõ°¡" }
+		{ "ì•”ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ 10% ì¦ê°€" },
+		{ "ì„±ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ 10% ì¦ê°€" },
+		{ "ìˆ˜ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ 10% ì¦ê°€" },
+		{ "ì§€ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ 10% ì¦ê°€" },
+		{ "í™”ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ 10% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK005] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "ASPD+ 3" },
-		{ "À¯µµ°ø°Ý È®·ü 10% Áõ°¡" }
+		{ "ìœ ë„ê³µê²© í™•ë¥  10% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK008] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÎ°£Çü Àû¿¡°Ô ÁÖ´Â ¹°¸®, ¸¶¹ý µ¥¹ÌÁö 7% Áõ°¡" },
-		{ "ÀÎ°£Çü Àû¿¡°Ô ¹Þ´Â µ¥¹ÌÁö 7% °¨¼Ò" }
+		{ "ì¸ê°„í˜• ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬, ë§ˆë²• ë°ë¯¸ì§€ 7% ì¦ê°€" },
+		{ "ì¸ê°„í˜• ì ì—ê²Œ ë°›ëŠ” ë°ë¯¸ì§€ 7% ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_VR_BOOK009] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÁÖÀÎ°ø ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ì£¼ì¸ê³µ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "DEF +400, MDEF +100" }
 	}
@@ -6941,108 +6941,108 @@ StateIconList[EFST_IDs.EFST_ALL_T_STAT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çì·Î½º¸®¾Æ ÆÛÇÃ ÇãºêÀë", COLOR_TITLE_BUFF },
+		{ "í—¤ë¡œìŠ¤ë¦¬ì•„ í¼í”Œ í—ˆë¸Œìž¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç Æ¯¼º ½ºÅ×ÀÌÅÍ½º Áõ°¡" }
+		{ "ëª¨ë“  íŠ¹ì„± ìŠ¤í…Œì´í„°ìŠ¤ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_P_ATK_PLUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çì·Î½º¸®¾Æ ·¹µå ÇãºêÀë", COLOR_TITLE_BUFF },
+		{ "í—¤ë¡œìŠ¤ë¦¬ì•„ ë ˆë“œ í—ˆë¸Œìž¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK Áõ°¡" }
+		{ "P.ATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_S_MATK_PLUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çì·Î½º¸®¾Æ ºí·ç ÇãºêÀë", COLOR_TITLE_BUFF },
+		{ "í—¤ë¡œìŠ¤ë¦¬ì•„ ë¸”ë£¨ í—ˆë¸Œìž¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "S.MATK Áõ°¡" }
+		{ "S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_C_RATE_PLUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çì·Î½º¸®¾Æ ¿»·Î¿ì ÇãºêÀë", COLOR_TITLE_BUFF },
+		{ "í—¤ë¡œìŠ¤ë¦¬ì•„ ì˜ë¡œìš° í—ˆë¸Œìž¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "C.Rate Áõ°¡" }
+		{ "C.Rate ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RESIST_PLUS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çì·Î½º¸®¾Æ È­ÀÌÆ® ÇãºêÀë", COLOR_TITLE_BUFF },
+		{ "í—¤ë¡œìŠ¤ë¦¬ì•„ í™”ì´íŠ¸ í—ˆë¸Œìž¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "RES ¹× MRES Áõ°¡" }
+		{ "RES ë° MRES ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PVP_DUN_BUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çì·Î½º¸®¾Æ ¼ºÁÖÀÇ °¡È£", COLOR_TITLE_BUFF },
+		{ "í—¤ë¡œìŠ¤ë¦¬ì•„ ì„±ì£¼ì˜ ê°€í˜¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Çì·Î½º¸®¾Æ ´øÀü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸® ¹× ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "í—¤ë¡œìŠ¤ë¦¬ì•„ ë˜ì „ ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬ ë° ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TARGET_MARKER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Å¸°Ù ¸¶Ä¿ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "íƒ€ê²Ÿ ë§ˆì»¤ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "´ç½ÅÀ» ÁÖ½ÃÇÏ°í ÀÖ½À´Ï´Ù" }
+		{ "ë‹¹ì‹ ì„ ì£¼ì‹œí•˜ê³  ìžˆìŠµë‹ˆë‹¤" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BLOCK_SEAL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÀÀÎ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ë´‰ì¸ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÌµ¿ ¹× °ø°Ý Çàµ¿ÀÌ ºÀÀÎ µÇ¾ú½À´Ï´Ù." }
+		{ "ì´ë™ ë° ê³µê²© í–‰ë™ì´ ë´‰ì¸ ë˜ì—ˆìŠµë‹ˆë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FROST_STORM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¼­¸® ÆøÇ³ »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ì„œë¦¬ í­í’ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¶óÀÌÆ®´× ÀúÁö¸ÕÆ®¿¡ ´õ Å« ÇÇÇØ¸¦ ÀÔ°Ô µË´Ï´Ù." }
+		{ "ë¼ì´íŠ¸ë‹ ì €ì§€ë¨¼íŠ¸ì— ë” í° í”¼í•´ë¥¼ ìž…ê²Œ ë©ë‹ˆë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GROGGY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±âÀý »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ê¸°ì ˆ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Çàµ¿ ºÒ°¡." }
+		{ "í–‰ë™ ë¶ˆê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_WARM_SHIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µû½ºÇÑ ¹æÆÐ", COLOR_TITLE_BUFF },
+		{ "ë”°ìŠ¤í•œ ë°©íŒ¨", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÇÁ·Î½ºÆ® ÇÊµå¸¦ ¹æ¾îÇØÁØ´Ù." }
+		{ "í”„ë¡œìŠ¤íŠ¸ í•„ë“œë¥¼ ë°©ì–´í•´ì¤€ë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_C_BUFF_1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "Æ÷½º ºÎ½ºÅÍ", COLOR_TITLE_BUFF },
-		{ "¸ðµç Æ¯¼º ½ºÅ×ÀÌÅÍ½º + 5" },
+		{ "í¬ìŠ¤ ë¶€ìŠ¤í„°", COLOR_TITLE_BUFF },
+		{ "ëª¨ë“  íŠ¹ì„± ìŠ¤í…Œì´í„°ìŠ¤ + 5" },
 		{ "P.ATK + 10, S.MATK + 10" },
 		{ "%s", COLOR_TIME }
 	}
@@ -7051,9 +7051,9 @@ StateIconList[EFST_IDs.EFST_C_BUFF_2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "½ºÇÇµå ºÎ½ºÅÍ", COLOR_TITLE_BUFF },
+		{ "ìŠ¤í”¼ë“œ ë¶€ìŠ¤í„°", COLOR_TITLE_BUFF },
 		{ "FLEE + 50, ASPD + 1" },
-		{ "ÀÌµ¿¼Óµµ Áõ°¡ ¹öÇÁ ºÎ¿©" },
+		{ "ì´ë™ì†ë„ ì¦ê°€ ë²„í”„ ë¶€ì—¬" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -7061,79 +7061,79 @@ StateIconList[EFST_IDs.EFST_CONTENTS_1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ª¸°Âý½Ò¶±", COLOR_TITLE_BUFF },
+		{ "ì—­ë¦°ì°¹ìŒ€ë–¡", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "ëª¨ë“  ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»õÇØ °¥ºñÂò", COLOR_TITLE_BUFF },
+		{ "ìƒˆí•´ ê°ˆë¹„ì°œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡." },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€." },
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»õÇØ ¶±±¹", COLOR_TITLE_BUFF },
+		{ "ìƒˆí•´ ë–¡êµ­", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK % Áõ°¡." },
-		{ "MATK % Áõ°¡." }
+		{ "ATK % ì¦ê°€." },
+		{ "MATK % ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_11] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¸ùºí¶û ÄÉÀÌÅ©", COLOR_TITLE_BUFF },
+		{ "ëª½ë¸”ëž‘ ì¼€ì´í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç Å©±âÀÇ Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç Å©±âÀÇ Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ëª¨ë“  í¬ê¸°ì˜ ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  í¬ê¸°ì˜ ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_12] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "º¢²É Âû¶±", COLOR_TITLE_BUFF },
+		{ "ë²šê½ƒ ì°°ë–¡", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ¼Ó¼ºÀÇ Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼ºÀÇ Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ëª¨ë“  ì†ì„±ì˜ ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„±ì˜ ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_13] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ÞÄÞÇÑ Å©·¹ÀÌÇÁ", COLOR_TITLE_BUFF },
+		{ "ë‹¬ì½¤í•œ í¬ë ˆì´í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Áõ°¡" },
-		{ "MSP Áõ°¡" }
+		{ "MHP ì¦ê°€" },
+		{ "MSP ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_14] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ç³¼ºÇÑ ²É°¡Áö", COLOR_TITLE_BUFF },
+		{ "í’ì„±í•œ ê½ƒê°€ì§€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç³ªÆ÷¸¶ÀÇ Ãàº¹(°ø°Ý·Â)", COLOR_TITLE_BUFF },
+		{ "ë£¨ë‚˜í¬ë§ˆì˜ ì¶•ë³µ(ê³µê²©ë ¥)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "ATK + 10%" },
 		{ "MATK + 10%" }
@@ -7143,386 +7143,386 @@ StateIconList[EFST_IDs.EFST_CONTENTS_5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç³ªÆ÷¸¶ÀÇ Ãàº¹(¼Óµµ)", COLOR_TITLE_BUFF },
+		{ "ë£¨ë‚˜í¬ë§ˆì˜ ì¶•ë³µ(ì†ë„)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¯µ¿ Ä³½ºÆÃ 10% °¨¼Ò" },
-		{ "°ø°Ý ¼Óµµ Áõ°¡" },
-		{ "(°ø°Ý ÈÄ µô·¹ÀÌ 10% °¨¼Ò)" }
+		{ "ë³€ë™ ìºìŠ¤íŒ… 10% ê°ì†Œ" },
+		{ "ê³µê²© ì†ë„ ì¦ê°€" },
+		{ "(ê³µê²© í›„ ë”œë ˆì´ 10% ê°ì†Œ)" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_6] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç³ªÆ÷¸¶ÀÇ Ãàº¹(¿ë/½Ä¹°)", COLOR_TITLE_BUFF },
+		{ "ë£¨ë‚˜í¬ë§ˆì˜ ì¶•ë³µ(ìš©/ì‹ë¬¼)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¿ëÁ· ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" },
-		{ "½Ä¹°Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ìš©ì¡± ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" },
+		{ "ì‹ë¬¼í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_7] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç³ªÆ÷¸¶ÀÇ Ãàº¹(¾Ç¸¶/ºÒ»ç)", COLOR_TITLE_BUFF },
+		{ "ë£¨ë‚˜í¬ë§ˆì˜ ì¶•ë³µ(ì•…ë§ˆ/ë¶ˆì‚¬)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Ç¸¶Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" },
-		{ "ºÒ»çÇü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ì•…ë§ˆí˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" },
+		{ "ë¶ˆì‚¬í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_8] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç³ªÆ÷¸¶ÀÇ Ãàº¹(¹«/¾îÆÐ)", COLOR_TITLE_BUFF },
+		{ "ë£¨ë‚˜í¬ë§ˆì˜ ì¶•ë³µ(ë¬´/ì–´íŒ¨)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¹«Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" },
-		{ "¾îÆÐÇü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ë¬´í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" },
+		{ "ì–´íŒ¨í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_9] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç³ªÆ÷¸¶ÀÇ Ãàº¹(µ¿¹°/Ãµ»ç)", COLOR_TITLE_BUFF },
+		{ "ë£¨ë‚˜í¬ë§ˆì˜ ì¶•ë³µ(ë™ë¬¼/ì²œì‚¬)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "µ¿¹°Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" },
-		{ "Ãµ»çÇü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ë™ë¬¼í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" },
+		{ "ì²œì‚¬í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_10] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "·ç³ªÆ÷¸¶ÀÇ Ãàº¹(ÀÎ°£/°ïÃæ)", COLOR_TITLE_BUFF },
+		{ "ë£¨ë‚˜í¬ë§ˆì˜ ì¶•ë³µ(ì¸ê°„/ê³¤ì¶©)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÀÎ°£Çü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" },
-		{ "°ïÃæÇü ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö 15% Áõ°¡" }
+		{ "ì¸ê°„í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" },
+		{ "ê³¤ì¶©í˜• ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 15% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_21] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç¶ûÀÇ ÄÉÀÌÅ©", COLOR_TITLE_BUFF },
+		{ "ì‚¬ëž‘ì˜ ì¼€ì´í¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ÀÏ¹Ý ½ºÅ×ÀÌÅÍ½º + 15" },
-		{ "¸ðµç Æ¯¼º ½ºÅ×ÀÌÅÍ½º + 10" }
+		{ "ëª¨ë“  ì¼ë°˜ ìŠ¤í…Œì´í„°ìŠ¤ + 15" },
+		{ "ëª¨ë“  íŠ¹ì„± ìŠ¤í…Œì´í„°ìŠ¤ + 10" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_15] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿©¸§ ÀÜÄ¡ ±¹¼ö", COLOR_TITLE_BUFF },
+		{ "ì—¬ë¦„ ìž”ì¹˜ êµ­ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ëª¨ë“  ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_16] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Çãºê ¿ÀÂ¡¾î Åë±¸ÀÌ", COLOR_TITLE_BUFF },
+		{ "í—ˆë¸Œ ì˜¤ì§•ì–´ í†µêµ¬ì´", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç Å©±âÀÇ Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç Å©±âÀÇ Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ëª¨ë“  í¬ê¸°ì˜ ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  í¬ê¸°ì˜ ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_17] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´ÞÄÞÇÑ ¼ö¹Ú Çªµù", COLOR_TITLE_BUFF },
+		{ "ë‹¬ì½¤í•œ ìˆ˜ë°• í‘¸ë”©", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±ÙÁ¢ ¹× ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡" }
+		{ "ê·¼ì ‘ ë° ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_18] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Ã¿øÇÑ ¼ö¹ÚÁê½º", COLOR_TITLE_BUFF },
+		{ "ì‹œì›í•œ ìˆ˜ë°•ì¥¬ìŠ¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK % Áõ°¡" },
-		{ "MATK % Áõ°¡" }
+		{ "ATK % ì¦ê°€" },
+		{ "MATK % ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_19] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½Ã¿øÇÑ ÆÏºù¼ö", COLOR_TITLE_BUFF },
+		{ "ì‹œì›í•œ íŒ¥ë¹™ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP % Áõ°¡" },
-		{ "MSP % Áõ°¡" }
+		{ "MHP % ì¦ê°€" },
+		{ "MSP % ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_20] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "°í¸Þ ¹öÅÍ ÆËÄÜ", COLOR_TITLE_BUFF },
+		{ "ê³ ë©” ë²„í„° íŒì½˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" },
-		{ "ASPD Áõ°¡" }
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" },
+		{ "ASPD ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MYSTERY_POWDER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¹Ì½ºÅÍ¸® ÆÄ¿ì´õ", COLOR_TITLE_BUFF },
+		{ "ë¯¸ìŠ¤í„°ë¦¬ íŒŒìš°ë”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "´õ½ºÆ® ÀÍ½ºÇÃ·ÎÀü »ç¿ë °¡´É »óÅÂ" }
+		{ "ë”ìŠ¤íŠ¸ ìµìŠ¤í”Œë¡œì „ ì‚¬ìš© ê°€ëŠ¥ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHASING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ã¼ÀÌ½Ì", COLOR_TITLE_BUFF },
+		{ "ì²´ì´ì‹±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ã¼ÀÌ½Ì ½ºÅ³ µ¥¹ÌÁö Áõ°¡" },
-		{ "¾ð·°Å° ·¯½¬ µ¥¹ÌÁö Áõ°¡" },
-		{ "Ã¼ÀÎ ¸®¾×¼Ç ¼¦ 2Â÷ µ¥¹ÌÁö Áõ°¡" }
+		{ "ì²´ì´ì‹± ìŠ¤í‚¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì–¸ëŸ­í‚¤ ëŸ¬ì‰¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì²´ì¸ ë¦¬ì•¡ì…˜ ìƒ· 2ì°¨ ë°ë¯¸ì§€ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FIRE_CHARM_POWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç»öºÎ : È­", COLOR_TITLE_BUFF },
+		{ "ì‚¬ìƒ‰ë¶€ : í™”", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àû¿°Æ÷ µ¥¹ÌÁö Áõ°¡ »óÅÂ" }
+		{ "ì ì—¼í¬ ë°ë¯¸ì§€ ì¦ê°€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WATER_CHARM_POWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç»öºÎ : ¼ö", COLOR_TITLE_BUFF },
+		{ "ì‚¬ìƒ‰ë¶€ : ìˆ˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "³ÃÇ÷Æ÷ µ¥¹ÌÁö Áõ°¡ »óÅÂ" }
+		{ "ëƒ‰í˜ˆí¬ ë°ë¯¸ì§€ ì¦ê°€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WIND_CHARM_POWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç»öºÎ : Ç³", COLOR_TITLE_BUFF },
+		{ "ì‚¬ìƒ‰ë¶€ : í’", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "³úÀüÆ÷ µ¥¹ÌÁö Áõ°¡ »óÅÂ" }
+		{ "ë‡Œì „í¬ ë°ë¯¸ì§€ ì¦ê°€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GROUND_CHARM_POWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "»ç»öºÎ : Áö", COLOR_TITLE_BUFF },
+		{ "ì‚¬ìƒ‰ë¶€ : ì§€", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "±Ý·æÆ÷ µ¥¹ÌÁö Áõ°¡ »óÅÂ" }
+		{ "ê¸ˆë£¡í¬ ë°ë¯¸ì§€ ì¦ê°€ ìƒíƒœ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_22] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "±â³ä ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ê¸°ë… ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç ÀÏ¹Ý ½ºÅ×ÀÌÅÍ½º + 15" },
-		{ "¸ðµç Æ¯¼º ½ºÅ×ÀÌÅÍ½º + 15" },
-		{ "¸ðµç ¼Ó¼ºÀÇ Àû¿¡°Ô ÁÖ´Â" },
-		{ "¹°¸®/¸¶¹ý µ¥¹ÌÁö 12% Áõ°¡" }
+		{ "ëª¨ë“  ì¼ë°˜ ìŠ¤í…Œì´í„°ìŠ¤ + 15" },
+		{ "ëª¨ë“  íŠ¹ì„± ìŠ¤í…Œì´í„°ìŠ¤ + 15" },
+		{ "ëª¨ë“  ì†ì„±ì˜ ì ì—ê²Œ ì£¼ëŠ”" },
+		{ "ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ 12% ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_23] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´øÀü ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ë˜ì „ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ´øÀü¿¡ µîÀåÇÏ´Â ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö Áõ°¡" },
-		{ "¹Ù¸£¹®Æ®ÀÇ ¹ÙÀÌ¿À½ºÇÇ¾î : ½ÉÃþ 1Ãþ" }
+		{ "ì•„ëž˜ ë˜ì „ì— ë“±ìž¥í•˜ëŠ” ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ë°”ë¥´ë¬¸íŠ¸ì˜ ë°”ì´ì˜¤ìŠ¤í”¼ì–´ : ì‹¬ì¸µ 1ì¸µ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_24] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´øÀü ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ë˜ì „ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ´øÀü¿¡ µîÀåÇÏ´Â ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö Áõ°¡" },
-		{ "½Ã°£ÀÇ Á¤¿ø : ÀØÇôÁø ½Ã°£ 1±¸¿ª" },
-		{ "½Ã°£ÀÇ Á¤¿ø : ÀØÇôÁø ½Ã°£ 2±¸¿ª" }
+		{ "ì•„ëž˜ ë˜ì „ì— ë“±ìž¥í•˜ëŠ” ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì‹œê°„ì˜ ì •ì› : ìžŠí˜€ì§„ ì‹œê°„ 1êµ¬ì—­" },
+		{ "ì‹œê°„ì˜ ì •ì› : ìžŠí˜€ì§„ ì‹œê°„ 2êµ¬ì—­" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_25] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "´øÀü ¹öÇÁ", COLOR_TITLE_BUFF },
+		{ "ë˜ì „ ë²„í”„", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¾Æ·¡ ´øÀü¿¡ µîÀåÇÏ´Â ¸ó½ºÅÍ¿¡°Ô ÁÖ´Â ¹°¸®/¸¶¹ý µ¥¹ÌÁö Áõ°¡" },
-		{ "(MVP º¸½º ¸ó½ºÅÍ Á¦¿Ü)" },
-		{ "´ÏÇÃÇìÀÓ È£¹Ú ³óÀå" },
-		{ "°í´ë ½ÅÀü ¾ÆÅ©ÇìÆ®" },
-		{ "¹ÌÁöÀÇ ºí·çÈ¦" }
+		{ "ì•„ëž˜ ë˜ì „ì— ë“±ìž¥í•˜ëŠ” ëª¬ìŠ¤í„°ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬/ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "(MVP ë³´ìŠ¤ ëª¬ìŠ¤í„° ì œì™¸)" },
+		{ "ë‹ˆí”Œí—¤ìž„ í˜¸ë°• ë†ìž¥" },
+		{ "ê³ ëŒ€ ì‹ ì „ ì•„í¬í—¤íŠ¸" },
+		{ "ë¯¸ì§€ì˜ ë¸”ë£¨í™€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_26] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÐ¼úÁ¦ ºñ¹Ð ¹®¼­", COLOR_TITLE_BUFF },
+		{ "í•™ìˆ ì œ ë¹„ë°€ ë¬¸ì„œ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "HIT Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "HIT ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_27] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÐ¼úÁ¦ ½Ò°úÀÚ", COLOR_TITLE_BUFF },
+		{ "í•™ìˆ ì œ ìŒ€ê³¼ìž", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "CRI Áõ°¡" },
-		{ "¸ðµç Å©±âÀÇ Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç Å©±âÀÇ Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "CRI ì¦ê°€" },
+		{ "ëª¨ë“  í¬ê¸°ì˜ ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  í¬ê¸°ì˜ ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_28] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÐ¼úÁ¦ ¹öÅÍ°úÀÚ", COLOR_TITLE_BUFF },
+		{ "í•™ìˆ ì œ ë²„í„°ê³¼ìž", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "FLEE Áõ°¡" },
-		{ "±ÙÁ¢ ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡." },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "FLEE ì¦ê°€" },
+		{ "ê·¼ì ‘ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€." },
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_29] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÐ¼úÁ¦ Ä¿ÇÇ½ºÆ½", COLOR_TITLE_BUFF },
+		{ "í•™ìˆ ì œ ì»¤í”¼ìŠ¤í‹±", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK % Áõ°¡." },
-		{ "MATK % Áõ°¡." },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" }
+		{ "ATK % ì¦ê°€." },
+		{ "MATK % ì¦ê°€." },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_30] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ãß¼® ¼ÛÆí", COLOR_TITLE_BUFF },
+		{ "ì¶”ì„ ì†¡íŽ¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "3ÃÊ´ç ÀÏÁ¤·®ÀÇ SP È¸º¹" },
-		{ "¹ö¼­Å© »óÅÂ Áß È¿°ú ¾øÀ½" }
+		{ "3ì´ˆë‹¹ ì¼ì •ëŸ‰ì˜ SP íšŒë³µ" },
+		{ "ë²„ì„œí¬ ìƒíƒœ ì¤‘ íš¨ê³¼ ì—†ìŒ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_WILD_WALK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "¿ÍÀÏµå ¿öÅ©", COLOR_TITLE_BUFF },
+		{ "ì™€ì¼ë“œ ì›Œí¬", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "È¸ÇÇÀ² Áõ°¡" },
-		{ "ÀÌµ¿ ¼Óµµ Áõ°¡" }
+		{ "íšŒí”¼ìœ¨ ì¦ê°€" },
+		{ "ì´ë™ ì†ë„ ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERCOMING_CRISIS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "À§±â±Øº¹", COLOR_TITLE_BUFF },
+		{ "ìœ„ê¸°ê·¹ë³µ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Áõ°¡" },
-		{ "P.ATK / S.MATK Áõ°¡" }
+		{ "MHP ì¦ê°€" },
+		{ "P.ATK / S.MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_31] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µÎÅùÇÑ °í±â »÷µåÀ§Ä¡", COLOR_TITLE_BUFF },
+		{ "ë‘íˆ¼í•œ ê³ ê¸° ìƒŒë“œìœ„ì¹˜", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ðµç Å©±â ¹× ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç Å©±â ¹× ¼Ó¼º Àû¿¡°Ô ÁÖ´Â ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "ëª¨ë“  í¬ê¸° ë° ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  í¬ê¸° ë° ì†ì„± ì ì—ê²Œ ì£¼ëŠ” ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_32] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "µû²öÇÑ ¹ð¼î", COLOR_TITLE_BUFF },
+		{ "ë”°ëˆí•œ ë±…ì‡¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK ¹× MATK % Áõ°¡" },
-		{ "±ÙÁ¢ ¹× ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö Áõ°¡." }
+		{ "ATK ë° MATK % ì¦ê°€" },
+		{ "ê·¼ì ‘ ë° ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ ì¦ê°€." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_33] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºÎµå·¯¿î ¿¡±×³ë±×", COLOR_TITLE_BUFF },
+		{ "ë¶€ë“œëŸ¬ìš´ ì—ê·¸ë…¸ê·¸", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP ¹× MSP % Áõ°¡" },
-		{ "º¯µ¿ Ä³½ºÆÃ °¨¼Ò" }
+		{ "MHP ë° MSP % ì¦ê°€" },
+		{ "ë³€ë™ ìºìŠ¤íŒ… ê°ì†Œ" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_34] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æä½ºÆ¼ ÄíÅ°", COLOR_TITLE_BUFF },
+		{ "íŽ˜ìŠ¤í‹° ì¿ í‚¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "°ø°Ý ¼Óµµ Áõ°¡(°ø°Ý ÈÄ µô·¹ÀÌ °¨¼Ò)" },
-		{ "Å©¸®Æ¼ÄÃ È®·ü Áõ°¡" }
+		{ "ê³µê²© ì†ë„ ì¦ê°€(ê³µê²© í›„ ë”œë ˆì´ ê°ì†Œ)" },
+		{ "í¬ë¦¬í‹°ì»¬ í™•ë¥  ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_35] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "½º³ë¿ì ÄíÅ°", COLOR_TITLE_BUFF },
+		{ "ìŠ¤ë…¸ìš° ì¿ í‚¤", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK Áõ°¡" },
-		{ "MATK Áõ°¡" }
+		{ "ATK ì¦ê°€" },
+		{ "MATK ì¦ê°€" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_37] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Â÷¿ø ¸¶·Â ÀúÇ×¼º ºÎ¿©(1´Ü°è)", COLOR_TITLE_BUFF },
+		{ "ì°¨ì› ë§ˆë ¥ ì €í•­ì„± ë¶€ì—¬(1ë‹¨ê³„)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ÆÄ±«µÈ ¹ßÅ°¸®·¼¸§ Áö¿ª Â÷¿ø ¸¶·Â¿¡ ´ëÇÑ" },
-		{ "ÀúÇ×¼ºÀÌ ºÎ¿©µÇ¾ú½À´Ï´Ù." }
+		{ "íŒŒê´´ëœ ë°œí‚¤ë¦¬ë ë¦„ ì§€ì—­ ì°¨ì› ë§ˆë ¥ì— ëŒ€í•œ" },
+		{ "ì €í•­ì„±ì´ ë¶€ì—¬ë˜ì—ˆìŠµë‹ˆë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_38] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Â÷¿ø ¸¶·Â ÀúÇ×¼º ºÎ¿©(2´Ü°è)", COLOR_TITLE_BUFF },
+		{ "ì°¨ì› ë§ˆë ¥ ì €í•­ì„± ë¶€ì—¬(2ë‹¨ê³„)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Àá½ÄµÈ °ÔÆä´Ï¾Æ Áö¿ª Â÷¿ø ¸¶·Â¿¡ ´ëÇÑ" },
-		{ "ÀúÇ×¼ºÀÌ ºÎ¿©µÇ¾ú½À´Ï´Ù." }
+		{ "ìž ì‹ëœ ê²ŒíŽ˜ë‹ˆì•„ ì§€ì—­ ì°¨ì› ë§ˆë ¥ì— ëŒ€í•œ" },
+		{ "ì €í•­ì„±ì´ ë¶€ì—¬ë˜ì—ˆìŠµë‹ˆë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_C_BUFF_3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "¾Æ¹«Æ° Çà¿î Ä«µå", COLOR_TITLE_BUFF },
+		{ "ì•„ë¬´íŠ¼ í–‰ìš´ ì¹´ë“œ", COLOR_TITLE_BUFF },
 		{ "MHP + 5%" },
 		{ "MSP + 5%" },
 		{ "%s", COLOR_TIME }
@@ -7532,7 +7532,7 @@ StateIconList[EFST_IDs.EFST_C_BUFF_4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "ÃÊ·Ïºû Çà¿î Ä«µå", COLOR_TITLE_BUFF },
+		{ "ì´ˆë¡ë¹› í–‰ìš´ ì¹´ë“œ", COLOR_TITLE_BUFF },
 		{ "FLEE + 25" },
 		{ "HIT + 25" },
 		{ "%s", COLOR_TIME }
@@ -7542,7 +7542,7 @@ StateIconList[EFST_IDs.EFST_C_BUFF_5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "ÇÎÅ©ºû Çà¿î Ä«µå", COLOR_TITLE_BUFF },
+		{ "í•‘í¬ë¹› í–‰ìš´ ì¹´ë“œ", COLOR_TITLE_BUFF },
 		{ "CRI + 10" },
 		{ "ASPD + 1" },
 		{ "%s", COLOR_TIME }
@@ -7552,7 +7552,7 @@ StateIconList[EFST_IDs.EFST_C_BUFF_6] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "º¸¶ùºû Çà¿î Ä«µå", COLOR_TITLE_BUFF },
+		{ "ë³´ëžë¹› í–‰ìš´ ì¹´ë“œ", COLOR_TITLE_BUFF },
 		{ "ATK + 7%" },
 		{ "MATK + 7%" },
 		{ "%s", COLOR_TIME }
@@ -7562,27 +7562,27 @@ StateIconList[EFST_IDs.EFST_C_BUFF_7] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ÇÑ¸Æ ¸¶½Ãµû ¹ö°Å", COLOR_TITLE_BUFF },
+		{ "í•œë§¥ ë§ˆì‹œë”° ë²„ê±°", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "30ºÐ°£ 4ÃÊ¸¶´Ù MHPÀÇ 5%¸¦ È¸º¹ÇÑ´Ù." }
+		{ "30ë¶„ê°„ 4ì´ˆë§ˆë‹¤ MHPì˜ 5%ë¥¼ íšŒë³µí•œë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_C_BUFF_8] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Æ÷ÄÏÄ¡Å² ¾î´Ï¾ðÅ©¸²", COLOR_TITLE_BUFF },
+		{ "í¬ì¼“ì¹˜í‚¨ ì–´ë‹ˆì–¸í¬ë¦¼", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "30ºÐ°£ 4ÃÊ¸¶´Ù MSPÀÇ 3%¸¦ È¸º¹ÇÑ´Ù." }
+		{ "30ë¶„ê°„ 4ì´ˆë§ˆë‹¤ MSPì˜ 3%ë¥¼ íšŒë³µí•œë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_C_BUFF_9] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
 	descript = {
-		{ "ÇÑ¸Æ ´õºí¹÷", COLOR_TITLE_BUFF },
-		{ "¸ðµç ±âº» ½ºÅ×ÀÌÅÍ½º + 15" },
-		{ "¸ðµç Æ¯¼º ½ºÅ×ÀÌÅÍ½º + 10" },
+		{ "í•œë§¥ ë”ë¸”ë²…", COLOR_TITLE_BUFF },
+		{ "ëª¨ë“  ê¸°ë³¸ ìŠ¤í…Œì´í„°ìŠ¤ + 15" },
+		{ "ëª¨ë“  íŠ¹ì„± ìŠ¤í…Œì´í„°ìŠ¤ + 10" },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -7590,41 +7590,41 @@ StateIconList[EFST_IDs.EFST_BLOCK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ºí·° »óÅÂ", COLOR_TITLE_DEBUFF },
+		{ "ë¸”ëŸ­ ìƒíƒœ", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ·ÎºÎÅÍ È¹µæÇÏ´Â °æÇèÄ¡ 0" },
-		{ "¸ó½ºÅÍ·ÎºÎÅÍ È¹µæÇÏ´Â ¾ÆÀÌÅÛ µå¶ø·ü 0" }
+		{ "ëª¬ìŠ¤í„°ë¡œë¶€í„° íšë“í•˜ëŠ” ê²½í—˜ì¹˜ 0" },
+		{ "ëª¬ìŠ¤í„°ë¡œë¶€í„° íšë“í•˜ëŠ” ì•„ì´í…œ ë“œëžë¥  0" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_42] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Â÷¿ø ¸¶·Â ÀúÇ×¼º ºÎ¿©(3´Ü°è)", COLOR_TITLE_BUFF },
+		{ "ì°¨ì› ë§ˆë ¥ ì €í•­ì„± ë¶€ì—¬(3ë‹¨ê³„)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á¦·Î¼¿ ±¸¿ªÀÇ Â÷¿ø ¸¶·Â¿¡ ´ëÇÑ" },
-		{ "ÀúÇ×¼ºÀÌ ºÎ¿©µÇ¾ú½À´Ï´Ù." }
+		{ "ì œë¡œì…€ êµ¬ì—­ì˜ ì°¨ì› ë§ˆë ¥ì— ëŒ€í•œ" },
+		{ "ì €í•­ì„±ì´ ë¶€ì—¬ë˜ì—ˆìŠµë‹ˆë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_44] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Â÷¿ø ¸¶·Â ÀúÇ×¼º ºÎ¿©(4´Ü°è)", COLOR_TITLE_BUFF },
+		{ "ì°¨ì› ë§ˆë ¥ ì €í•­ì„± ë¶€ì—¬(4ë‹¨ê³„)", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Á¦·Î¼¿ ±¸¿ªÀÇ °­·ÂÇÑ Â÷¿ø ¸¶·Â¿¡ ´ëÇÑ" },
-		{ "ÀúÇ×¼ºÀÌ ºÎ¿©µÇ¾ú½À´Ï´Ù." }
+		{ "ì œë¡œì…€ êµ¬ì—­ì˜ ê°•ë ¥í•œ ì°¨ì› ë§ˆë ¥ì— ëŒ€í•œ" },
+		{ "ì €í•­ì„±ì´ ë¶€ì—¬ë˜ì—ˆìŠµë‹ˆë‹¤." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONTENTS_40] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "ROS ¿µ±¤ÀÇ ºû", COLOR_TITLE_DEBUFF },
+		{ "ROS ì˜ê´‘ì˜ ë¹›", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "¸ó½ºÅÍ·ÎºÎÅÍ È¹µæÇÏ´Â °æÇèÄ¡ +10%" },
-		{ "¾ÆÀÌÅÛ µå·ÓÀ² + 5%" },
-		{ "±ÙÁ¢ ¹× ¿ø°Å¸® ¹°¸® µ¥¹ÌÁö 10% Áõ°¡" },
-		{ "¸ðµç ¼Ó¼º ¸¶¹ý µ¥¹ÌÁö 10% Áõ°¡" }
+		{ "ëª¬ìŠ¤í„°ë¡œë¶€í„° íšë“í•˜ëŠ” ê²½í—˜ì¹˜ +10%" },
+		{ "ì•„ì´í…œ ë“œë¡­ìœ¨ + 5%" },
+		{ "ê·¼ì ‘ ë° ì›ê±°ë¦¬ ë¬¼ë¦¬ ë°ë¯¸ì§€ 10% ì¦ê°€" },
+		{ "ëª¨ë“  ì†ì„± ë§ˆë²• ë°ë¯¸ì§€ 10% ì¦ê°€" }
 	}
 }
