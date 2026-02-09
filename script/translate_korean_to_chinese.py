@@ -160,6 +160,7 @@ def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(description='逐行将文件中的韩语翻译为简体中文（带进度条，可从行号恢复）')
     p.add_argument('file', help='输入文件路径（直接路径）')
     p.add_argument('--start', type=int, default=1, help='起始行号（从1开始），默认1')
+    p.add_argument('--out', '-o', help='输出文件路径（默认为 <input>_translate<suffix>）')
     return p
 
 
@@ -170,7 +171,12 @@ def main(argv=None) -> int:
         print(f"Error: input file not found: {input_path}", file=sys.stderr)
         return 2
 
-    out_path = make_output_path(input_path)
+    out_path = Path(args.out) if getattr(args, 'out', None) else make_output_path(input_path)
+    # ensure parent dir exists
+    try:
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+    except Exception:
+        pass
 
     text = input_path.read_text(encoding='utf-8', errors='replace')
     lines = text.splitlines(keepends=True)
