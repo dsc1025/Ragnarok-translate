@@ -2221,7 +2221,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_HOLYWATER] = {
 		"AL_HOLYWATER",
-		SkillName = "??? ????",
+		SkillName = "ÃÏ π÷Æ¿·",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
