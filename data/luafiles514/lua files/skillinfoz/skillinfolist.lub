@@ -4633,7 +4633,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_READING_SB] = {
 		"WL_READING_SB",
-		SkillName = "ÔÄ\¶ÁÄ§·¨Êé",
+		SkillName = "ÔÄ¶ÁÄ§·¨Êé",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -4642,7 +4642,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_READING_SB_READING] = {
 		"WL_READING_SB_READING",
-		SkillName = "ÔÄ\¶ÁÄ§·¨Êé",
+		SkillName = "ÔÄ¶ÁÄ§·¨Êé",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -8646,7 +8646,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WA_SWING_DANCE] = {
 		"WA_SWING_DANCE",
-		SkillName = "Ò¡°Ú\Îè",
+		SkillName = "Ò¡°ÚÎè",
 		MaxLv = 5,
 		SpAmount = { 96, 112, 128, 144, 160 },
 		bSeperateLv = true,
@@ -12505,7 +12505,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_D_TAIL] = {
 		"RL_D_TAIL",
-		SkillName = "Ä§ÊÞ°Ú\Î²",
+		SkillName = "Ä§ÊÞ°ÚÎ²",
 		MaxLv = 10,
 		SpAmount = { 55, 60, 65, 70, 75, 80, 85, 90, 95, 100 },
 		bSeperateLv = true,
